@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 4285,
-    "name": "Stephanie Jacobs Counselor",
+    "name": "Stephanie Jacobs Conselor",
     "first_name": "Stephanie",
     "middle_name": "Jacobs",
     "maiden_name": "",
-    "married_last_name": "Counselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "Counceller-Grayreunion2003%20copy.htm",
     "birth_info": "3 Sep 1917",
@@ -24,7 +24,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Stephanie Jacobs Counselor",
+      "value_string": "Stephanie Jacobs Conselor",
       "citations": [
         {
           "citation_id": 3636,
@@ -146,7 +146,7 @@
       "fact_type": "Social Security Application",
       "date_string": "1917",
       "place_string": "United States",
-      "value_string": "Social Security Account Application (Form SS-5) on file for Stephanie Jacobs Counselor",
+      "value_string": "Social Security Account Application (Form SS-5) on file for Stephanie Jacobs Conselor",
       "citations": [
         {
           "citation_id": 23348,
@@ -165,7 +165,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Stephanie Jacobs Counselor",
+      "value_string": "Marriage record documented for Stephanie Jacobs Conselor",
       "citations": [
         {
           "citation_id": 23349,

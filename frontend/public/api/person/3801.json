@@ -232,6 +232,12 @@
       "description": "[XPAGE:durhm-m1.htm] Death: date='6 June, 1933'",
       "evidence": "verbatim: died on 6 June, 1933",
       "created_at": "2026-09-03T12:55:05.909855"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (2015) is recorded after death year (1933) in historical records: birth='2015', death='6 June, 1933'."
     }
   ],
   "ancestry": {

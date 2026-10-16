@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 4253,
-    "name": "Trevor Counselor",
+    "name": "Trevor Conselor",
     "first_name": "Trevor",
     "middle_name": "",
     "maiden_name": "",
-    "married_last_name": "Counselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "Counceller-Grayreunion2003%20copy.htm",
     "birth_info": "7 Oct 1923",
@@ -24,7 +24,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Trevor Counselor",
+      "value_string": "Trevor Conselor",
       "citations": [
         {
           "citation_id": 3575,
@@ -146,7 +146,7 @@
       "fact_type": "Social Security Application",
       "date_string": "1923",
       "place_string": "United States",
-      "value_string": "Social Security Account Application (Form SS-5) on file for Trevor Counselor",
+      "value_string": "Social Security Account Application (Form SS-5) on file for Trevor Conselor",
       "citations": [
         {
           "citation_id": 23181,
@@ -165,7 +165,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Trevor Counselor",
+      "value_string": "Marriage record documented for Trevor Conselor",
       "citations": [
         {
           "citation_id": 23182,

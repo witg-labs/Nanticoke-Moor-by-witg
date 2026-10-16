@@ -249,6 +249,12 @@
       "description": "[XPAGE:wrightw.htm] Birth: date='30 October, 1872'",
       "evidence": "verbatim: was born on 30 October, 1872 and died",
       "created_at": "2026-09-03T12:55:21.647725"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (124 years) exceeds 110-year threshold: birth='30 October, 1872' (1872), death='4 Mar 1996' (1996)."
     }
   ],
   "ancestry": {

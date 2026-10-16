@@ -1,0 +1,42 @@
+{
+  "repository": "jayrocktodef-bot/Nanticoke-Moor-by-witg",
+  "branch": "fix/archive-data-hygiene",
+  "fix1_name_parser": {
+    "suffix_realigned_count": 149,
+    "child_mangling_cleaned_count": 12,
+    "conselor_standardized_count": 24
+  },
+  "fix2_evidence_recalibration": {
+    "before": {
+      "Level 3": 3789
+    },
+    "after": {
+      "Level 3": 3751,
+      "Level 0": 38
+    },
+    "level_0_unsourced_profiles_count": 38
+  },
+  "fix3_filename_collisions": {
+    "deduped_morganl2_file": "frontend/public/api/transcriptions/morganL2.htm.json & records/morganL2.htm.json removed; references updated to morganl2.htm",
+    "renamed_probate_file": "Probate.htm -> probate_sussex.htm (transcriptions, records, db pages, persons, sources updated)",
+    "same_folder_near_identical_dupes_standardized": 68
+  },
+  "fix4_mini_trees": {
+    "reclassified_photo_ids": [
+      3051,
+      3052,
+      912
+    ],
+    "new_classification": {
+      "category": "documents",
+      "asset_type": "document",
+      "document_type": "family_tree",
+      "routing_target": "documents"
+    },
+    "person_photo_links_created": 9
+  },
+  "fix5_date_flagging": {
+    "birth_after_death_count": 33,
+    "lifespan_over_110_count": 12
+  }
+}

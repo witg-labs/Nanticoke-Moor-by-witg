@@ -357,6 +357,12 @@
       "description": "[XPAGE:jacksnr2.htm] Birth: date='15 February, 1842'",
       "evidence": "verbatim: was born on 15 February, 1842 in Northwest Fork Hundred, Sussex Co.",
       "created_at": "2026-09-03T12:54:59.105760"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1842) is recorded after death year (1685) in historical records: birth='15 February, 1842', death='1685'."
     }
   ],
   "ancestry": {

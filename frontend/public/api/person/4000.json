@@ -201,6 +201,12 @@
       "description": "[XPAGE:coker-l1.htm] Birth: date='22 August 1912'",
       "evidence": "verbatim: was born on 22 August 1912 in Dover, Kent Co.",
       "created_at": "2026-09-03T12:55:06.991917"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1912) is recorded after death year (1903) in historical records: birth='22 August 1912', death='28 Jul 1903'."
     }
   ],
   "ancestry": {

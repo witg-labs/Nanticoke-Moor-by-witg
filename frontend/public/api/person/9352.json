@@ -286,6 +286,12 @@
       "description": "[XML] Added Birth: date='30 Nov 1855', place='None'",
       "evidence": "source: preservation_output/profiles/person_9352.xml",
       "created_at": "2026-09-03T12:55:36.435565"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1855) is recorded after death year (1837) in historical records: birth='30 Nov 1855', death='1837 Knox Co IN'."
     }
   ],
   "ancestry": {

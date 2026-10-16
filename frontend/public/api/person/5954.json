@@ -229,6 +229,12 @@
       "description": "[XPAGE:george.htm] Birth: date='Sept. 3, 1777'",
       "evidence": "verbatim: Born Sept. 3, 1777",
       "created_at": "2026-09-03T12:55:15.971023"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (173 years) exceeds 110-year threshold: birth='Sept. 3, 1777' (1777), death='30 Aug 1950' (1950)."
     }
   ],
   "ancestry": {

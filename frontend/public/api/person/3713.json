@@ -548,6 +548,12 @@
       "description": "[XPAGE:carty-e.htm] Birth: date='28 \tJanuary, 1857'",
       "evidence": "verbatim: was born in the Cheswold DE community on 28 \tJanuary, 1857 .",
       "created_at": "2026-09-03T12:55:05.637492"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (153 years) exceeds 110-year threshold: birth='28 \tJanuary, 1857' (1857), death='2010' (2010)."
     }
   ],
   "ancestry": {

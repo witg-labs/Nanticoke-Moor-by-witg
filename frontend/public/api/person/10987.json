@@ -186,7 +186,14 @@
       "source_url": ""
     }
   ],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1944) is recorded after death year (1934) in historical records: birth='1944', death='21 Mar 1934'."
+    }
+  ],
   "ancestry": {
     "id": 10987,
     "name": "Betty Jane Holman Pierce",

@@ -214,6 +214,12 @@
       "description": "Multiple disjoint occurrences of 'Edith Wright' \u2014 requires human review",
       "evidence": "source: wright-d.htm, matches: 5",
       "created_at": "2026-09-03T12:54:31.064967"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (2015) is recorded after death year (1947) in historical records: birth='2015', death='1947'."
     }
   ],
   "ancestry": {

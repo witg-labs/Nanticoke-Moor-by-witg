@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 2255,
-    "name": "Elizabeth Counselor",
+    "name": "Elizabeth Conselor",
     "first_name": "Elizabeth",
     "middle_name": "",
     "maiden_name": "",
-    "married_last_name": "Counselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "Probate.htm",
     "birth_info": "1860",
@@ -24,7 +24,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Elizabeth Counselor",
+      "value_string": "Elizabeth Conselor",
       "citations": [
         {
           "citation_id": 1680,
@@ -156,7 +156,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Elizabeth Counselor",
+      "value_string": "Marriage record documented for Elizabeth Conselor",
       "citations": [
         {
           "citation_id": 19546,

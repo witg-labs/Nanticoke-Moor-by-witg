@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 2132,
-    "name": "Jeremiah Counselor",
+    "name": "Jeremiah Conselor",
     "first_name": "Jeremiah",
     "middle_name": "",
     "maiden_name": "",
-    "married_last_name": "Counselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "Probate.htm",
     "birth_info": null,
@@ -24,7 +24,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Jeremiah Counselor",
+      "value_string": "Jeremiah Conselor",
       "citations": [
         {
           "citation_id": 1515,
@@ -118,7 +118,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Jeremiah Counselor",
+      "value_string": "Marriage record documented for Jeremiah Conselor",
       "citations": [
         {
           "citation_id": 19057,

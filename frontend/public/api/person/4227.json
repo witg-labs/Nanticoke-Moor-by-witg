@@ -239,6 +239,12 @@
       "description": "[XPAGE:carty-h.htm] Death: date='13 February, 1933'",
       "evidence": "verbatim: died on 13 February, 1933",
       "created_at": "2026-09-03T12:55:08.610433"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (2009) is recorded after death year (1933) in historical records: birth='2009', death='13 February, 1933'."
     }
   ],
   "ancestry": {

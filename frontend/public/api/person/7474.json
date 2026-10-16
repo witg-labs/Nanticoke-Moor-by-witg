@@ -363,6 +363,12 @@
       "description": "[XPAGE:bible-r.htm] Birth: date='March 28th 1843'",
       "evidence": "verbatim: borned March 28th 1843",
       "created_at": "2026-09-03T12:55:25.801079"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1843) is recorded after death year (1814) in historical records: birth='March 28th 1843', death='1814'."
     }
   ],
   "ancestry": {
