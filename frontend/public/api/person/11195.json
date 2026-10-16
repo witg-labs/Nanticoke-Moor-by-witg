@@ -182,6 +182,12 @@
       "description": "[XPAGE:dean-w2.htm] Birth: date='14 May, 1854'",
       "evidence": "verbatim: was born in Gloucester City on 14 May, 1854 and died on 6 Sept.",
       "created_at": "2026-09-03T12:56:02.644008"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (114 years) exceeds 110-year threshold: birth='14 May, 1854' (1854), death='d. 1968' (1968)."
     }
   ],
   "ancestry": {

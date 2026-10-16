@@ -175,7 +175,14 @@
       "source_url": ""
     }
   ],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (2015) is recorded after death year (1889) in historical records: birth='2015', death='21 Nov 1889'."
+    }
+  ],
   "ancestry": {
     "id": 10866,
     "name": "John Romaine",

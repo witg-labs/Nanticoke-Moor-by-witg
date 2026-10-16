@@ -211,6 +211,12 @@
       "description": "[XPAGE:morgan-m.htm] Birth: date='May 04, 1927'",
       "evidence": "verbatim: was born in Fairton, NJ on May 04, 1927 .",
       "created_at": "2026-09-03T12:54:32.372005"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1927) is recorded after death year (1894) in historical records: birth='May 04, 1927', death='26 Jul 1894'."
     }
   ],
   "ancestry": {

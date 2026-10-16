@@ -477,6 +477,12 @@
       "description": "[XPAGE:coker-j2.htm] Birth: date='14 December, 1889'",
       "evidence": "verbatim: was born 14 December, 1889 .",
       "created_at": "2026-09-03T12:54:17.409546"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1889) is recorded after death year (1882) in historical records: birth='14 December, 1889', death='1882'."
     }
   ],
   "ancestry": {

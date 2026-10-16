@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 2131,
-    "name": "Elijah Counselor",
+    "name": "Elijah Conselor",
     "first_name": "Elijah",
     "middle_name": "",
     "maiden_name": "",
-    "married_last_name": "Counselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "Probate.htm",
     "birth_info": "15 Feb 1835",
@@ -24,7 +24,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Elijah Counselor",
+      "value_string": "Elijah Conselor",
       "citations": [
         {
           "citation_id": 1512,
@@ -165,7 +165,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Elijah Counselor",
+      "value_string": "Marriage record documented for Elijah Conselor",
       "citations": [
         {
           "citation_id": 19052,

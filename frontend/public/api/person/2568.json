@@ -259,6 +259,12 @@
       "description": "[XPAGE:morgan-e.htm] Birth: date='6 September, 1894'",
       "evidence": "verbatim: was born in Cheswold DE \ton 6 September, 1894 .",
       "created_at": "2026-09-03T12:55:00.337025"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1894) is recorded after death year (1840) in historical records: birth='6 September, 1894', death='29 Apr 1840'."
     }
   ],
   "ancestry": {

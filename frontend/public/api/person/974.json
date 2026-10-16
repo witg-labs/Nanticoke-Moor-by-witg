@@ -364,6 +364,12 @@
       "description": "[XPAGE:jacksnw1.htm] Birth: date='8 January, 1859'",
       "evidence": "verbatim: was born 8 January, 1859 in Northwest Fork Hundred, Sussex Co.",
       "created_at": "2026-09-03T12:54:33.362698"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (149 years) exceeds 110-year threshold: birth='8 January, 1859' (1859), death='2008' (2008)."
     }
   ],
   "ancestry": {

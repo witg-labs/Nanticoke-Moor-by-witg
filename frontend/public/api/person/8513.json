@@ -216,6 +216,12 @@
       "description": "[XPAGE:morgan-n.htm] Death: date='1978'",
       "evidence": "verbatim: d. 1978",
       "created_at": "2026-09-03T12:55:29.789835"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (215 years) exceeds 110-year threshold: birth='1763' (1763), death='1978' (1978)."
     }
   ],
   "ancestry": {

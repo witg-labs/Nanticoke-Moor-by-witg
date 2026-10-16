@@ -696,6 +696,24 @@
       "contains_face": 1,
       "face_context": "primary_subject",
       "routing_target": "photos"
+    },
+    {
+      "person_id": 2372,
+      "photo_id": 912,
+      "category": "documents",
+      "title_or_caption": "Durham_Sarah_Vancestry_2.jpg",
+      "subject_names": "Sarah Vancestry 2 Durham",
+      "married_surname": "",
+      "approximate_year": "1885",
+      "local_image_path": "assets/archive_media/documents/Durham_Sarah_Vancestry_2.jpg",
+      "source_url": "",
+      "dataset_source": "mitsawokett",
+      "document_type": "family_tree",
+      "asset_type": "document",
+      "subtype": "historical_portrait",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "documents"
     }
   ],
   "obituaries": [],

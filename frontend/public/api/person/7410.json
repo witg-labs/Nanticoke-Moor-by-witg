@@ -230,6 +230,12 @@
       "description": "[XPAGE:bible-r.htm] Birth: date='March 28th 1843'",
       "evidence": "verbatim: borned March 28th 1843",
       "created_at": "2026-09-03T12:55:25.661033"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (118 years) exceeds 110-year threshold: birth='March 28th 1843' (1843), death='Mar 1961' (1961)."
     }
   ],
   "ancestry": {

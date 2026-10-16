@@ -232,6 +232,12 @@
       "description": "[XPAGE:coker-j2.htm] Birth: date='14 December, 1889'",
       "evidence": "verbatim: was born 14 December, 1889 .",
       "created_at": "2026-09-03T12:56:01.635483"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (126 years) exceeds 110-year threshold: birth='14 December, 1889' (1889), death='2015' (2015)."
     }
   ],
   "ancestry": {

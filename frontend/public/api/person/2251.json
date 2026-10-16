@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 2251,
-    "name": "Benjamin Counselor",
+    "name": "Benjamin Conselor",
     "first_name": "Benjamin",
     "middle_name": "",
     "maiden_name": "",
-    "married_last_name": "Counselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "Probate.htm",
     "birth_info": "8 Jun 1894",
@@ -24,7 +24,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Benjamin Counselor",
+      "value_string": "Benjamin Conselor",
       "citations": [
         {
           "citation_id": 1671,
@@ -146,7 +146,7 @@
       "fact_type": "Social Security Application",
       "date_string": "1894",
       "place_string": "United States",
-      "value_string": "Social Security Account Application (Form SS-5) on file for Benjamin Counselor",
+      "value_string": "Social Security Account Application (Form SS-5) on file for Benjamin Conselor",
       "citations": [
         {
           "citation_id": 19523,
@@ -184,7 +184,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Benjamin Counselor",
+      "value_string": "Marriage record documented for Benjamin Conselor",
       "citations": [
         {
           "citation_id": 19525,

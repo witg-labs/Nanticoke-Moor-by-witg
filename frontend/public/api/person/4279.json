@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 4279,
-    "name": "Gordon Counselor Jr",
+    "name": "Gordon Conselor Jr",
     "first_name": "Gordon",
     "middle_name": "",
-    "maiden_name": "Counselor",
-    "married_last_name": "Counselor",
+    "maiden_name": "Conselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "Counceller-Grayreunion2003%20copy.htm",
     "birth_info": null,
@@ -15,7 +15,8 @@
     "birth_date": null,
     "birth_place": null,
     "death_date": null,
-    "death_place": null
+    "death_place": null,
+    "suffix": "Jr"
   },
   "facts": [
     {
@@ -24,7 +25,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Gordon Counselor Jr.",
+      "value_string": "Gordon Conselor Jr.",
       "citations": [
         {
           "citation_id": 3626,
@@ -90,7 +91,7 @@
       "fact_type": "Social Security Application",
       "date_string": "1880",
       "place_string": "United States",
-      "value_string": "Social Security Account Application (Form SS-5) on file for Gordon Counselor Jr",
+      "value_string": "Social Security Account Application (Form SS-5) on file for Gordon Conselor Jr",
       "citations": [
         {
           "citation_id": 23312,
@@ -109,7 +110,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Gordon Counselor Jr",
+      "value_string": "Marriage record documented for Gordon Conselor Jr",
       "citations": [
         {
           "citation_id": 23313,

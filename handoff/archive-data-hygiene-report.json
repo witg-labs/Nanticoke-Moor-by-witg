@@ -1,0 +1,157 @@
+{
+  "repository": "jayrocktodef-bot/Nanticoke-Moor-by-witg",
+  "branch": "fix/archive-data-hygiene",
+  "fix1_name_parser": {
+    "suffix_realigned_count": 149,
+    "child_mangling_cleaned_count": 12,
+    "conselor_standardized_count": 24
+  },
+  "fix2_evidence_recalibration": {
+    "before": {
+      "Level 3": 3789
+    },
+    "after": {
+      "Level 3": 3751,
+      "Level 0": 38
+    },
+    "level_0_unsourced_profiles_count": 38
+  },
+  "fix3_filename_collisions": {
+    "deduped_morganl2_file": "frontend/public/api/transcriptions/morganL2.htm.json & records/morganL2.htm.json removed; references updated to morganl2.htm",
+    "renamed_probate_file": "Probate.htm -> probate_sussex.htm (transcriptions, records, db pages, persons, sources updated)",
+    "same_folder_near_identical_dupes_standardized": 68
+  },
+  "fix4_mini_trees": {
+    "reclassified_photo_ids": [
+      3051,
+      3052,
+      912
+    ],
+    "new_classification": {
+      "category": "documents",
+      "asset_type": "document",
+      "document_type": "family_tree",
+      "routing_target": "documents"
+    },
+    "person_photo_links_created": 9,
+    "json_verified_linkages": {
+      "person_6812_Agnes_Letitia_Carter": [
+        1876,
+        318,
+        3051,
+        3052
+      ],
+      "person_66_Hopewell_Carter_Jr": [
+        344,
+        346,
+        347,
+        348,
+        349,
+        350,
+        3226,
+        3228,
+        3229,
+        3051,
+        3052
+      ],
+      "person_572_Hopewell_Umphrey_Carter_SR": [
+        344,
+        346,
+        347,
+        348,
+        349,
+        350,
+        3226,
+        3228,
+        3229,
+        3051
+      ],
+      "person_573_Hopewell_Umphrey_Carter_JR": [
+        344,
+        346,
+        347,
+        348,
+        349,
+        350,
+        3226,
+        3228,
+        3229,
+        3051
+      ],
+      "person_75_Sarah_Carter": [
+        376,
+        3051
+      ],
+      "person_574_Sarah_Ridgeway_Carter": [
+        376,
+        3051
+      ],
+      "person_2372_Sarah_V_Durham": [
+        806,
+        1098,
+        1772,
+        1774,
+        1775,
+        2137,
+        2272,
+        912
+      ]
+    },
+    "reclassified_photo_references": {
+      "photo_3051": {
+        "file": "frontend/public/api/photos.json",
+        "lines": "10712-10732",
+        "category": "documents",
+        "document_type": "family_tree",
+        "asset_type": "document"
+      },
+      "photo_3052": {
+        "file": "frontend/public/api/photos.json",
+        "lines": "10691-10711",
+        "category": "documents",
+        "document_type": "family_tree",
+        "asset_type": "document"
+      },
+      "photo_912": {
+        "file": "frontend/public/api/photos.json",
+        "lines": "45677-45697",
+        "category": "documents",
+        "document_type": "family_tree",
+        "asset_type": "document"
+      }
+    }
+  },
+  "fix5_date_flagging": {
+    "birth_after_death_count": 33,
+    "lifespan_over_110_count": 12,
+    "sample_records": [
+      {
+        "id": 10336,
+        "name": "William Vine Clark Jr",
+        "birth": "30 Nov 1855",
+        "death": "1743 Sussex, Delaware, USA",
+        "flag": "birth_after_death",
+        "severity": "critical",
+        "file": "frontend/public/api/person/10336.json"
+      },
+      {
+        "id": 5,
+        "name": "Ann Cott",
+        "birth": "Jan. 16, 1878",
+        "death": "30 Aug 1864",
+        "flag": "birth_after_death",
+        "severity": "critical",
+        "file": "frontend/public/api/person/5.json"
+      },
+      {
+        "id": 8513,
+        "name": "Sarah Morris",
+        "birth": "1763",
+        "death": "1978",
+        "flag": "lifespan_over_110",
+        "severity": "warning",
+        "file": "frontend/public/api/person/8513.json"
+      }
+    ]
+  }
+}

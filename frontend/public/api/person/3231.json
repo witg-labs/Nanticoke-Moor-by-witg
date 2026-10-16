@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 3231,
-    "name": "Karen Counselor",
+    "name": "Karen Conselor",
     "first_name": "Karen",
     "middle_name": "",
     "maiden_name": "",
-    "married_last_name": "Counselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "BloomsburyMeeting9May98.htm",
     "birth_info": null,
@@ -24,7 +24,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Karen Counselor",
+      "value_string": "Karen Conselor",
       "citations": [
         {
           "citation_id": 2609,
@@ -90,7 +90,7 @@
       "fact_type": "Social Security Application",
       "date_string": "1880",
       "place_string": "United States",
-      "value_string": "Social Security Account Application (Form SS-5) on file for Karen Counselor",
+      "value_string": "Social Security Account Application (Form SS-5) on file for Karen Conselor",
       "citations": [
         {
           "citation_id": 21391,
@@ -109,7 +109,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Karen Counselor",
+      "value_string": "Marriage record documented for Karen Conselor",
       "citations": [
         {
           "citation_id": 21392,

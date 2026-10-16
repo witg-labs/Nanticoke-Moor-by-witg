@@ -15,7 +15,8 @@
     "birth_date": "30 Nov 1855",
     "birth_place": null,
     "death_date": "1743 Sussex, Delaware, USA",
-    "death_place": null
+    "death_place": null,
+    "suffix": "Jr"
   },
   "facts": [
     {
@@ -294,6 +295,12 @@
       "description": "[XML] Added Birth: date='30 Nov 1855', place='None'",
       "evidence": "source: preservation_output/profiles/person_10336.xml",
       "created_at": "2026-09-03T12:55:47.623205"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1855) is recorded after death year (1743) in historical records: birth='30 Nov 1855', death='1743 Sussex, Delaware, USA'."
     }
   ],
   "ancestry": {

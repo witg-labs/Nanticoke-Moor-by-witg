@@ -15,7 +15,8 @@
     "birth_date": "28 \tJanuary, 1857",
     "birth_place": "the Cheswold DE community on 28 \tJanuary, 1857",
     "death_date": null,
-    "death_place": null
+    "death_place": null,
+    "suffix": "Jr"
   },
   "facts": [
     {
@@ -276,6 +277,24 @@
       "contains_face": 1,
       "face_context": "primary_subject",
       "routing_target": "photos"
+    },
+    {
+      "person_id": 573,
+      "photo_id": 3051,
+      "category": "documents",
+      "title_or_caption": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "subject_names": "genealogy sheet 01 courtesy kimberly mosley moore Pierce",
+      "married_surname": "",
+      "approximate_year": "2014",
+      "local_image_path": "assets/archive_media/documents/Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "source_url": "",
+      "dataset_source": "mitsawokett",
+      "document_type": "family_tree",
+      "asset_type": "document",
+      "subtype": "historical_portrait",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "documents"
     }
   ],
   "obituaries": [],

@@ -136,6 +136,12 @@
       "description": "[XPAGE:Probate.htm] Death: date='1780'",
       "evidence": "verbatim: died  1780",
       "created_at": "2026-09-03T12:54:35.754038"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "birth_after_death",
+      "severity": "critical",
+      "description": "Birth year (1811) is recorded after death year (1780) in historical records: birth='c. 1811', death='1780'."
     }
   ],
   "ancestry": {

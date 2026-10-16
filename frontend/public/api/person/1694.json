@@ -1,11 +1,11 @@
 {
   "person": {
     "person_id": 1694,
-    "name": "Howard Counselor",
+    "name": "Howard Conselor",
     "first_name": "Howard",
     "middle_name": "",
     "maiden_name": "",
-    "married_last_name": "Counselor",
+    "married_last_name": "Conselor",
     "evidence_level": 3,
     "source_page": "NMAI.AC.001.008",
     "birth_info": "24 Jul 1946",
@@ -24,7 +24,7 @@
       "fact_type": "Name",
       "date_string": null,
       "place_string": null,
-      "value_string": "Howard Counselor",
+      "value_string": "Howard Conselor",
       "citations": [
         {
           "citation_id": 1331,
@@ -174,7 +174,7 @@
       "fact_type": "Social Security Application",
       "date_string": "1946",
       "place_string": "United States",
-      "value_string": "Social Security Account Application (Form SS-5) on file for Howard Counselor",
+      "value_string": "Social Security Account Application (Form SS-5) on file for Howard Conselor",
       "citations": [
         {
           "citation_id": 18678,
@@ -193,7 +193,7 @@
       "fact_type": "Marriage",
       "date_string": null,
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Howard Counselor",
+      "value_string": "Marriage record documented for Howard Conselor",
       "citations": [
         {
           "citation_id": 18679,

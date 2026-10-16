@@ -221,6 +221,12 @@
       "description": "[XPAGE:IdentifiedIndians.htm] Birth: date='1792'",
       "evidence": "verbatim: was born in Maryland, either in Dorchester or Caroline counties, sometime around 1792 .",
       "created_at": "2026-09-03T12:54:16.459198"
+    },
+    {
+      "category": "date_anomaly",
+      "flag_type": "lifespan_over_110",
+      "severity": "warning",
+      "description": "Computed lifespan (126 years) exceeds 110-year threshold: birth='1792' (1792), death='21 Sep 1918' (1918)."
     }
   ],
   "ancestry": {
