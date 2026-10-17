@@ -210,24 +210,6 @@
     },
     {
       "person_id": 6073,
-      "photo_id": 1244,
-      "category": "people",
-      "title_or_caption": "Harmons_And_Streets.jpg",
-      "subject_names": "Harmons & Streets",
-      "married_surname": "Harmons",
-      "approximate_year": "1921",
-      "local_image_path": "assets/archive_media/people/Harmons_And_Streets.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 6073,
       "photo_id": 1172,
       "category": "family_trees",
       "title_or_caption": "Harmon_Fedora_Ancestry.jpg",
@@ -246,7 +228,13 @@
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1244]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 6073,
     "name": "Fedora Harmon",

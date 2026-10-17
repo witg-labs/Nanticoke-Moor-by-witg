@@ -163,42 +163,6 @@
     },
     {
       "person_id": 5683,
-      "photo_id": 1206,
-      "category": "people",
-      "title_or_caption": "Harmon_Neocia_Duker.jpg",
-      "subject_names": "Neocia Duker Harmon",
-      "married_surname": "Harmon",
-      "approximate_year": "1899",
-      "local_image_path": "assets/archive_media/people/Harmon_Neocia_Duker.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 5683,
-      "photo_id": 1213,
-      "category": "people",
-      "title_or_caption": "Harmon_Rosa.jpg",
-      "subject_names": "Rosa Harmon",
-      "married_surname": "Harmon",
-      "approximate_year": "1899",
-      "local_image_path": "assets/archive_media/people/Harmon_Rosa.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 5683,
       "photo_id": 2882,
       "category": "documents",
       "title_or_caption": "Hanzer_James_E_Obituary.jpg",
@@ -217,7 +181,13 @@
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [1206, 1213]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 5683,
     "name": "James E. Hanzer",

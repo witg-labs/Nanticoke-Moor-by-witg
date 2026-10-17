@@ -329,42 +329,6 @@
   "photos": [
     {
       "person_id": 4768,
-      "photo_id": 806,
-      "category": "people",
-      "title_or_caption": "Durham_Fleming_And_Kemp.jpg",
-      "subject_names": "Fleming & Kemp Durham",
-      "married_surname": "Durham",
-      "approximate_year": "1949",
-      "local_image_path": "assets/archive_media/people/Durham_Fleming_And_Kemp.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 4768,
-      "photo_id": 1098,
-      "category": "people",
-      "title_or_caption": "Hall_Family_2.jpg",
-      "subject_names": "Hall Family 2",
-      "married_surname": "Hall",
-      "approximate_year": "1949",
-      "local_image_path": "assets/archive_media/people/Hall_Family_2.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 4768,
       "photo_id": 1665,
       "category": "people",
       "title_or_caption": "Mosley_Annie_And_Lulu_And_Bessie_2.jpg",
@@ -506,24 +470,6 @@
       "contains_face": 1,
       "face_context": "primary_subject",
       "routing_target": "photos"
-    },
-    {
-      "person_id": 4768,
-      "photo_id": 2272,
-      "category": "people",
-      "title_or_caption": "Simmons_Grace.jpg",
-      "subject_names": "Grace Simmons",
-      "married_surname": "Simmons",
-      "approximate_year": "1949",
-      "local_image_path": "assets/archive_media/people/Simmons_Grace.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
     }
   ],
   "obituaries": [],
@@ -537,6 +483,11 @@
       "description": "[XPAGE:dean-ae.htm] Marriage: date='18 December 1920'",
       "evidence": "verbatim: married Howard Clifton Wilson on 18 December 1920",
       "created_at": "2026-09-03T12:55:09.877280"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [806, 1098, 2272]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

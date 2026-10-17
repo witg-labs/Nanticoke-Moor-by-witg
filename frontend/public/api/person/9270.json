@@ -227,42 +227,6 @@
   "photos": [
     {
       "person_id": 9270,
-      "photo_id": 1134,
-      "category": "people",
-      "title_or_caption": "Harman_Elincoln_And_Eliz.jpg",
-      "subject_names": "Harman Elincoln & Eliz",
-      "married_surname": "Harman",
-      "approximate_year": "1962",
-      "local_image_path": "assets/archive_media/people/Harman_Elincoln_And_Eliz.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 9270,
-      "photo_id": 1136,
-      "category": "people",
-      "title_or_caption": "Harman_Elincoln_Tent.jpg",
-      "subject_names": "Elincoln Tent Harman",
-      "married_surname": "Harman",
-      "approximate_year": "1962",
-      "local_image_path": "assets/archive_media/people/Harman_Elincoln_Tent.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 9270,
       "photo_id": 1163,
       "category": "people",
       "title_or_caption": "Harmon_Elincoln.jpg",
@@ -281,7 +245,13 @@
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [1134, 1136]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 9270,
     "name": "Elizabeth Anne Harmon",

@@ -271,24 +271,6 @@
     },
     {
       "person_id": 10795,
-      "photo_id": 1250,
-      "category": "people",
-      "title_or_caption": "Hart_Bill_And_Punch.jpg",
-      "subject_names": "Hart Bill & Punch",
-      "married_surname": "Hart",
-      "approximate_year": "1999",
-      "local_image_path": "assets/archive_media/people/Hart_Bill_And_Punch.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 10795,
       "photo_id": 1651,
       "category": "people",
       "title_or_caption": "Mosley_William_Du_Pont.jpg",
@@ -381,6 +363,11 @@
       "description": "[XPAGE:coker-m2.htm] Marriage: date='23 September, 1900'",
       "evidence": "verbatim: married Cassius MOSLEY on 23 September, 1900",
       "created_at": "2026-09-03T12:56:00.920179"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1250]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

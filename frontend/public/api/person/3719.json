@@ -468,24 +468,6 @@
     },
     {
       "person_id": 3719,
-      "photo_id": 1459,
-      "category": "people",
-      "title_or_caption": "Kalb_Charles_And_Dora_Carter_And_Jimmy_And_Michael_King.jpg",
-      "subject_names": "Kalb Charles & Dora Carter & Jimmy & Michael King",
-      "married_surname": "Kalb",
-      "approximate_year": "1873",
-      "local_image_path": "assets/archive_media/people/Kalb_Charles_And_Dora_Carter_And_Jimmy_And_Michael_King.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 3719,
       "photo_id": 1485,
       "category": "people",
       "title_or_caption": "Loatman_James_Heverin.jpg",
@@ -514,6 +496,11 @@
       "description": "[XPAGE:durhm-d4.htm] Marriage: date='9 January, 1931'",
       "evidence": "verbatim: married James Hughes    Daniel died on 9 January, 1931",
       "created_at": "2026-09-03T12:55:05.733301"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1459]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

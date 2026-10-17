@@ -143,28 +143,15 @@
     }
   ],
   "relationships": [],
-  "photos": [
+  "photos": [],
+  "obituaries": [],
+  "audit_flags": [
     {
-      "person_id": 10944,
-      "photo_id": 2457,
-      "category": "family_trees",
-      "title_or_caption": "Williams_Dorothy_Ancestry.jpg",
-      "subject_names": "Dorothy Williams Lineage Pedigree",
-      "married_surname": "Williams",
-      "approximate_year": "1940",
-      "local_image_path": "assets/archive_media/family_trees/Williams_Dorothy_Ancestry.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "family_tree",
-      "asset_type": "diagram",
-      "subtype": "pedigree_chart",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "family_trees"
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [2457]",
+      "date": "2026-10-17"
     }
   ],
-  "obituaries": [],
-  "audit_flags": [],
   "ancestry": {
     "id": 10944,
     "name": "Albert Gould",

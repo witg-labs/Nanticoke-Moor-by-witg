@@ -237,42 +237,6 @@
     },
     {
       "person_id": 4119,
-      "photo_id": 1150,
-      "category": "people",
-      "title_or_caption": "Harmon_Annie_P_And_Bigkids.jpg",
-      "subject_names": "Annie P & Bigkids Harmon",
-      "married_surname": "Harmon",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/people/Harmon_Annie_P_And_Bigkids.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 4119,
-      "photo_id": 1152,
-      "category": "people",
-      "title_or_caption": "Harmon_Annie_Pjohnson.jpg",
-      "subject_names": "Annie Pjohnson Harmon",
-      "married_surname": "Harmon",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/people/Harmon_Annie_Pjohnson.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 4119,
       "photo_id": 1394,
       "category": "people",
       "title_or_caption": "Johnson_Dorsey_And_Anna_And_Cwright.jpg",
@@ -319,6 +283,11 @@
       "description": "[XPAGE:coker-j2.htm] Birth: date='14 December, 1889'",
       "evidence": "verbatim: was born 14 December, 1889 .",
       "created_at": "2026-09-03T12:55:07.878465"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [1150, 1152]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

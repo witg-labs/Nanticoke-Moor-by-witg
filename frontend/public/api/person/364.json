@@ -603,24 +603,6 @@
       "contains_face": 0,
       "face_context": "none",
       "routing_target": "photos"
-    },
-    {
-      "person_id": 364,
-      "photo_id": 1669,
-      "category": "people",
-      "title_or_caption": "Mosley_Annie_And_Will_Morgan_2.jpg",
-      "subject_names": "Annie & Will Morgan 2 Mosley",
-      "married_surname": "Mosley",
-      "approximate_year": "1861",
-      "local_image_path": "assets/archive_media/people/Mosley_Annie_And_Will_Morgan_2.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "photos"
     }
   ],
   "obituaries": [],
@@ -654,6 +636,11 @@
       "description": "Historical Racial Reclassification: Recorded under multiple distinct racial categories across federal records (1850: Mulatto \u2794 1850: Black \u2794 1860: Mulatto \u2794 1870: Mulatto \u2794 1870: White). Exemplifies the tripartite legal classification pressures and racial boundary fluidity characteristic of Delmarva Afro-Indigenous families.",
       "evidence": "Sources: census18.htm, census19.htm, census20.htm | Chronology: 1850: Mulatto \u2794 1850: Black \u2794 1860: Mulatto \u2794 1870: Mulatto \u2794 1870: White",
       "created_at": "2026-09-06T19:06:30.060366"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1669]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {
