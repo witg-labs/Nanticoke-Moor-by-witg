@@ -1,5 +1,6 @@
 import React, { useState, Suspense } from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import AppLayout from './components/layout/AppLayout';
 import SplashScreen from './components/SplashScreen';
 
@@ -46,33 +47,36 @@ export default function App() {
   }
 
   return (
-    <BrowserRouter>
-      <Suspense fallback={<RouteLoadingFallback />}>
-        <Routes>
-          <Route path="/" element={<AppLayout />}>
-            <Route index element={<LineagesPage />} />
-            <Route path="lineages" element={<LineagesPage />} />
-            <Route path="lineages/:surname" element={<SurnameDetailPage />} />
-            
-            <Route path="ancestors" element={<AncestorsPage />} />
-            <Route path="ancestors/:id" element={<AncestorDetailPage />} />
-            
-            <Route path="network" element={<NetworkPage />} />
-            <Route path="atlas" element={<AtlasPage />} />
-            
-            <Route path="records" element={<RecordsPage />} />
-            <Route path="records/:id" element={<RecordDetailPage />} />
-            
-            <Route path="obituaries" element={<ObituariesPage />} />
-            <Route path="interconnections" element={<InterconnectionsPage />} />
-            <Route path="oral-histories" element={<OralHistoriesPage />} />
-            <Route path="sources" element={<SourcesPage />} />
+    <>
+      <BrowserRouter>
+        <Suspense fallback={<RouteLoadingFallback />}>
+          <Routes>
+            <Route path="/" element={<AppLayout />}>
+              <Route index element={<LineagesPage />} />
+              <Route path="lineages" element={<LineagesPage />} />
+              <Route path="lineages/:surname" element={<SurnameDetailPage />} />
+              
+              <Route path="ancestors" element={<AncestorsPage />} />
+              <Route path="ancestors/:id" element={<AncestorDetailPage />} />
+              
+              <Route path="network" element={<NetworkPage />} />
+              <Route path="atlas" element={<AtlasPage />} />
+              
+              <Route path="records" element={<RecordsPage />} />
+              <Route path="records/:id" element={<RecordDetailPage />} />
+              
+              <Route path="obituaries" element={<ObituariesPage />} />
+              <Route path="interconnections" element={<InterconnectionsPage />} />
+              <Route path="oral-histories" element={<OralHistoriesPage />} />
+              <Route path="sources" element={<SourcesPage />} />
 
-            {/* Catch-all redirect to lineages */}
-            <Route path="*" element={<Navigate to="/" replace />} />
-          </Route>
-        </Routes>
-      </Suspense>
-    </BrowserRouter>
+              {/* Catch-all redirect to lineages */}
+              <Route path="*" element={<Navigate to="/" replace />} />
+            </Route>
+          </Routes>
+        </Suspense>
+      </BrowserRouter>
+      <Analytics />
+    </>
   );
 }
