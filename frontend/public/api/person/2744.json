@@ -219,42 +219,6 @@
   "photos": [
     {
       "person_id": 2744,
-      "photo_id": 528,
-      "category": "people",
-      "title_or_caption": "Coombs_Rachel.jpg",
-      "subject_names": "Rachel Coombs",
-      "married_surname": "Coombs",
-      "approximate_year": "1898",
-      "local_image_path": "assets/archive_media/people/Coombs_Rachel.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 2744,
-      "photo_id": 576,
-      "category": "people",
-      "title_or_caption": "Cuff_Theodore_G_Cuff_1898.jpg",
-      "subject_names": "Theodore G Cuff Cuff (1898)",
-      "married_surname": "Cuff",
-      "approximate_year": "1898",
-      "local_image_path": "assets/archive_media/people/Cuff_Theodore_G_Cuff_1898.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 2744,
       "photo_id": 931,
       "category": "people",
       "title_or_caption": "Durham_Clara_Cuff.jpg",
@@ -327,7 +291,13 @@
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [528, 576]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 2744,
     "name": "Roland Durham",

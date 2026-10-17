@@ -344,42 +344,6 @@
   "photos": [
     {
       "person_id": 248,
-      "photo_id": 521,
-      "category": "people",
-      "title_or_caption": "Coney_Island_Sammons_Reed_Seeney.jpg",
-      "subject_names": "Coney Island Sammons Reed Seeney",
-      "married_surname": "Coney",
-      "approximate_year": "1920",
-      "local_image_path": "assets/archive_media/people/Coney_Island_Sammons_Reed_Seeney.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 248,
-      "photo_id": 1508,
-      "category": "people",
-      "title_or_caption": "Luckett_Sophia_Seeney.jpg",
-      "subject_names": "Sophia Seeney Luckett",
-      "married_surname": "Luckett",
-      "approximate_year": "1920",
-      "local_image_path": "assets/archive_media/people/Luckett_Sophia_Seeney.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 248,
       "photo_id": 2261,
       "category": "people",
       "title_or_caption": "Seeney_Hester_Dean.jpg",
@@ -428,6 +392,11 @@
       "description": "Historical Racial Reclassification: Recorded under multiple distinct racial categories across federal records (1860: Mulatto \u2794 1870: White). Exemplifies the tripartite legal classification pressures and racial boundary fluidity characteristic of Delmarva Afro-Indigenous families.",
       "evidence": "Sources: census19.htm, census20.htm | Chronology: 1860: Mulatto \u2794 1870: White",
       "created_at": "2026-09-06T19:06:30.061151"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [521, 1508]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

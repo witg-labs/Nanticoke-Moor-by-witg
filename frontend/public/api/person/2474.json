@@ -296,42 +296,6 @@
     },
     {
       "person_id": 2474,
-      "photo_id": 1356,
-      "category": "people",
-      "title_or_caption": "Jackson_Lydia_Ann_Wright.jpg",
-      "subject_names": "Lydia Ann Wright Jackson",
-      "married_surname": "Jackson",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/people/Jackson_Lydia_Ann_Wright.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 2474,
-      "photo_id": 1357,
-      "category": "people",
-      "title_or_caption": "Jackson_Lydia_Ann_Wright_2.jpg",
-      "subject_names": "Lydia Ann Wright 2 Jackson",
-      "married_surname": "Jackson",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/people/Jackson_Lydia_Ann_Wright_2.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 2474,
       "photo_id": 2903,
       "category": "people",
       "title_or_caption": "Hughes_Perry_News_Article.jpg",
@@ -365,28 +329,16 @@
       "contains_face": 0,
       "face_context": "none",
       "routing_target": "photos"
-    },
-    {
-      "person_id": 2474,
-      "photo_id": 1359,
-      "category": "family_trees",
-      "title_or_caption": "Jackson_Mary_Eliz_Ancestry.jpg",
-      "subject_names": "Mary Eliz Ancestry Jackson",
-      "married_surname": "Jackson",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/family_trees/Jackson_Mary_Eliz_Ancestry.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "family_tree",
-      "asset_type": "diagram",
-      "subtype": "pedigree_chart",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "family_trees"
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [1356, 1357, 1359]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 2474,
     "name": "Perry Hughes",

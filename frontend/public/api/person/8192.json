@@ -232,24 +232,6 @@
     },
     {
       "person_id": 8192,
-      "photo_id": 617,
-      "category": "people",
-      "title_or_caption": "Davis_Harry_E.jpg",
-      "subject_names": "Harry E Davis",
-      "married_surname": "Davis",
-      "approximate_year": "1916",
-      "local_image_path": "assets/archive_media/people/Davis_Harry_E.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 8192,
       "photo_id": 3560,
       "category": "documents",
       "title_or_caption": "1930 Federal Census - Ethel Clark Household",
@@ -286,7 +268,13 @@
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [617]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 8192,
     "name": "Ethel Gwendolyn Clark",

@@ -246,24 +246,6 @@
     },
     {
       "person_id": 413,
-      "photo_id": 1397,
-      "category": "people",
-      "title_or_caption": "Johnson_Eldridge.jpg",
-      "subject_names": "Eldridge Johnson",
-      "married_surname": "Johnson",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/people/Johnson_Eldridge.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 413,
       "photo_id": 1430,
       "category": "people",
       "title_or_caption": "Johnson_Mattie_Jackson.jpg",
@@ -279,24 +261,6 @@
       "contains_face": 1,
       "face_context": "primary_subject",
       "routing_target": "photos"
-    },
-    {
-      "person_id": 413,
-      "photo_id": 1396,
-      "category": "family_trees",
-      "title_or_caption": "Johnson_Eldrege_Rancestry.jpg",
-      "subject_names": "Eldrege Rancestry Johnson",
-      "married_surname": "Johnson",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/family_trees/Johnson_Eldrege_Rancestry.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "family_tree",
-      "asset_type": "diagram",
-      "subtype": "pedigree_chart",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "family_trees"
     }
   ],
   "obituaries": [],
@@ -320,6 +284,11 @@
       "description": "[XPAGE:jacksonn.htm] Marriage: date='April 5, 1893'",
       "evidence": "verbatim: married Ruth both are buried at the Jackson/Perkins Cemetary   Mattie Jackson   Nora Jackson (April 5, 1893 -Nov",
       "created_at": "2026-09-03T12:54:24.602234"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [1397, 1396]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

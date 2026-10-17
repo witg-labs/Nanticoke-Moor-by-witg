@@ -179,46 +179,16 @@
       "contains_face": 1,
       "face_context": "primary_subject",
       "routing_target": "photos"
-    },
-    {
-      "person_id": 6814,
-      "photo_id": 1876,
-      "category": "people",
-      "title_or_caption": "Newlin_Agnes_Letitia_Carter.jpg",
-      "subject_names": "Agnes Letitia Carter Newlin",
-      "married_surname": "Newlin",
-      "approximate_year": "1901",
-      "local_image_path": "assets/archive_media/people/Newlin_Agnes_Letitia_Carter.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 6814,
-      "photo_id": 1878,
-      "category": "people",
-      "title_or_caption": "Newlin_Aubrey_Rjr.jpg",
-      "subject_names": "Aubrey Rjr Newlin",
-      "married_surname": "Newlin",
-      "approximate_year": "1901",
-      "local_image_path": "assets/archive_media/people/Newlin_Aubrey_Rjr.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [1876, 1878]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 6814,
     "name": "Doris Shirley Newlin Jacobs",

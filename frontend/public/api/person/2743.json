@@ -324,24 +324,6 @@
     },
     {
       "person_id": 2743,
-      "photo_id": 954,
-      "category": "people",
-      "title_or_caption": "Enoch_Mdurham_Family_2.jpg",
-      "subject_names": "Enoch Mdurham Family 2",
-      "married_surname": "Enoch",
-      "approximate_year": "1914",
-      "local_image_path": "assets/archive_media/people/Enoch_Mdurham_Family_2.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 2743,
       "photo_id": 996,
       "category": "people",
       "title_or_caption": "Foster_Authur_And_Ada_Durham.jpg",
@@ -360,7 +342,13 @@
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [954]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 2743,
     "name": "Geneva Mae Cuff Durham",

@@ -243,24 +243,6 @@
       "contains_face": 1,
       "face_context": "primary_subject",
       "routing_target": "photos"
-    },
-    {
-      "person_id": 6156,
-      "photo_id": 1857,
-      "category": "people",
-      "title_or_caption": "Muntz_Lawrence_And_Wythena.jpg",
-      "subject_names": "Lawrence & Wythena Muntz",
-      "married_surname": "Muntz",
-      "approximate_year": "1878",
-      "local_image_path": "assets/archive_media/people/Muntz_Lawrence_And_Wythena.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
     }
   ],
   "obituaries": [],
@@ -274,6 +256,11 @@
       "description": "[XPAGE:HarmonEmmanuelProbate.htm] Burial: date='1 Aug 1931'",
       "evidence": "verbatim: buried 1 Aug 1931 in Bethel Cemetery",
       "created_at": "2026-09-03T12:55:18.094335"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1857]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

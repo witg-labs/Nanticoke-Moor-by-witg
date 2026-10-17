@@ -207,24 +207,6 @@
       "contains_face": 0,
       "face_context": "none",
       "routing_target": "photos"
-    },
-    {
-      "person_id": 423,
-      "photo_id": 2519,
-      "category": "family_trees",
-      "title_or_caption": "Winston_Delores_Ancestry.jpg",
-      "subject_names": "Delores Winston Lineage Pedigree",
-      "married_surname": "Winston",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/family_trees/Winston_Delores_Ancestry.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "family_tree",
-      "asset_type": "diagram",
-      "subtype": "pedigree_chart",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "family_trees"
     }
   ],
   "obituaries": [],
@@ -238,6 +220,11 @@
       "description": "Multiple disjoint occurrences of 'Agnes Hansley' \u2014 requires human review",
       "evidence": "source: jacksnr2.htm, matches: 28",
       "created_at": "2026-09-03T12:54:25.258757"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [2519]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

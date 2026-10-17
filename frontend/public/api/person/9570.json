@@ -453,42 +453,6 @@
   "photos": [
     {
       "person_id": 9570,
-      "photo_id": 1589,
-      "category": "people",
-      "title_or_caption": "Morgan_Mr_Will.jpg",
-      "subject_names": "Mr Will Morgan",
-      "married_surname": "Morgan",
-      "approximate_year": "1882",
-      "local_image_path": "assets/archive_media/people/Morgan_Mr_Will.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 9570,
-      "photo_id": 1603,
-      "category": "people",
-      "title_or_caption": "Morgan_Will_And_Nora.jpg",
-      "subject_names": "Will & Nora Morgan",
-      "married_surname": "Morgan",
-      "approximate_year": "1882",
-      "local_image_path": "assets/archive_media/people/Morgan_Will_And_Nora.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 9570,
       "photo_id": 1865,
       "category": "people",
       "title_or_caption": "Murray_William_And_Sister_Lena_Harmon_Jackson_2.jpg",
@@ -517,6 +481,11 @@
       "description": "[XPAGE:jacksonn.htm] Marriage: date='April 5, 1893'",
       "evidence": "verbatim: married Ruth both are buried at the Jackson/Perkins Cemetary   Mattie Jackson   Nora Jackson (April 5, 1893 -Nov",
       "created_at": "2026-09-03T12:55:39.848801"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [1589, 1603]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {

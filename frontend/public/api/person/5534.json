@@ -281,24 +281,6 @@
     },
     {
       "person_id": 5534,
-      "photo_id": 2266,
-      "category": "people",
-      "title_or_caption": "Seeney_Rhoda_And_Joyce_And_Joan.jpg",
-      "subject_names": "Rhoda & Joyce & Joan Seeney",
-      "married_surname": "Seeney",
-      "approximate_year": "1940",
-      "local_image_path": "assets/archive_media/people/Seeney_Rhoda_And_Joyce_And_Joan.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 5534,
       "photo_id": 867,
       "category": "family_trees",
       "title_or_caption": "Durham_Marvel_Jr_2_Ancestry.jpg",
@@ -317,7 +299,13 @@
     }
   ],
   "obituaries": [],
-  "audit_flags": [],
+  "audit_flags": [
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [2266]",
+      "date": "2026-10-17"
+    }
+  ],
   "ancestry": {
     "id": 5534,
     "name": "Allen Durham",

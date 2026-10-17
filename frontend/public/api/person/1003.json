@@ -182,24 +182,6 @@
   "photos": [
     {
       "person_id": 1003,
-      "photo_id": 1444,
-      "category": "people",
-      "title_or_caption": "Johnson_Willis_And_Henny.jpg",
-      "subject_names": "Willis & Henny Johnson",
-      "married_surname": "Johnson",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/people/Johnson_Willis_And_Henny.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 1003,
       "photo_id": 910,
       "category": "family_trees",
       "title_or_caption": "Durham_Samuel_Hjr_Ancestry.jpg",
@@ -238,6 +220,11 @@
       "description": "[XPAGE:munce-iz.htm] Marriage: date='2 June, 1905'",
       "evidence": "verbatim: married Sarah Durham    Isaiah died on 2 June, 1905",
       "created_at": "2026-09-03T12:54:32.629222"
+    },
+    {
+      "flag": "photo_mismatch_removed",
+      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1444]",
+      "date": "2026-10-17"
     }
   ],
   "ancestry": {
