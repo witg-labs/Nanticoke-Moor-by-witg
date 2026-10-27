@@ -1,6 +1,6 @@
 # Cleaned merge proposal: Lydia Clark, archive id 9334
 
-**Status:** PROPOSAL ONLY, prepared 2026-10-27 at the user's go-ahead to prepare it. No repo change, no PR, no ingestion, no live archive change.
+**Status:** PROPOSAL ONLY for the data change, prepared 2026-10-27. No ingestion and no live archive change has been made. This document itself is submitted for review via a pull request; merging that PR merges the proposal document, not the database change.
 **Canonical profile:** 9334, Lydia E Norwood.
 **Duplicate to retire:** 11251, Lydia Nau-Gwa-Ok-Wa Norwood Clark.
 **Separate, do not touch:** 7577, Lydia Clark (spouse Bowen Harmon).
