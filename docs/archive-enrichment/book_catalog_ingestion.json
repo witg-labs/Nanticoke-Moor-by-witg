@@ -1,0 +1,231 @@
+{
+  "source": "Four verified book fact catalogs, 2026-10-27: Forgotten Folk (503 facts), Speck 1915 (567), Weslager 1948 (1,437), Norwood 2007 (533); screened against persons_summary.json (3,789 entries) and archive person detail files; see BOOK_CATALOG_ALLOCATION_MAP.md",
+  "target_repo": "jayrocktodef-bot/Nanticoke-Moor-by-witg",
+  "status": "PROPOSAL ONLY: not ingested, not exported; submitted for review as a proposal document only. Database ingestion and re-export require a separate go-ahead.",
+  "excluded": [
+    "[OCR uncertain] facts in all four catalogs",
+    "Author interpretations and assessments flagged as the author's (Weslager, Speck, Norwood)",
+    "Unnamed plate subjects: Speck Plates II to XI, XIV, XVI, XVII, XX and the Weslager 1948 community plates name no individuals",
+    "Norwood 2007 bullets tagged booklet-stated with no source given (Tier B hold)",
+    "Norwood 2007 dated records resting only on the booklet citing Macdonald 1992, DGS Journal 6(3):63-64, full text not yet read (claim audit item D4 still open)",
+    "Any fact attached to a later namesake",
+    "Photo facts attached to a photo_id instead of a person_id (photo_ids are recorded as photo evidence only)",
+    "Joan Johnson 1697, Shepherd Harmon 10547, and Keisiah Harmon 10548 person facts, pending conflation review (already flagged in the claim-audit staging)"
+  ],
+  "overlap_summary": [
+    "Lydia E Norwood 9334: the 1855 testimony and 1856 death are already staged in archive_enrichment_ingestion.json; the entries here add only the witness fees and second trial, the 1927 monument, the Norwood maiden name and Noke Norwood kinship, and the Speck mother-of-W. R. Clark fact",
+    "Levin Sockum 1924: defendant status is already staged; the entries here add only the store, the 1856 second trial, and the move to Gloucester, New Jersey",
+    "John Puckham 1696 and Joan Johnson 1697: Forgotten Folk's 1682 marriage mention adds nothing new beyond the staged Heinegg fact; not staged here, and nothing is added to the conflated 1697 profile",
+    "Weslager 1948: zero overlap with the claim-audit staged set (none of its person names occurs in the staged set except the surname Harmon)",
+    "Norwood 2007: its Puckham, Levin Sockum, and Lydia mentions coincide with staged facts but add no independent support; all are held in Tier B"
+  ],
+  "entries": [
+    {
+      "person_id": 9334,
+      "archive_name": "Lydia E Norwood",
+      "source_ref": "Forgotten Folk, trial narrative",
+      "proposed_fact": "Paid witness fees of $1.49 in the first Levin Sockum trial and $2.24 in the second trial (Apr 14, 1856), in which she was again named as a witness",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 36 / PDF p. 52",
+      "certainty": "cited",
+      "notes": "MERGE DEPENDENCY: stage to canonical 9334 only; duplicate 11251 merge is held under ARCHIVE_MERGE_PROPOSAL_9334.md; 7577 (Lydia Clark) is a separate person and gets none of these facts. OVERLAP-adjacent: her 1855 testimony is already staged in archive_enrichment_ingestion.json; the fees and the second-trial appearance are new."
+    },
+    {
+      "person_id": 9334,
+      "archive_name": "Lydia E Norwood",
+      "source_ref": "Forgotten Folk, monument account",
+      "proposed_fact": "A monument erected in 1927 by the Society of Colonial Dames at Oak Orchard names her Nau-gwo-od-wa and honors her as the last Nanticoke speaker in Delaware and Eastern Maryland",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 38-39 / PDF pp. 54-55",
+      "certainty": "cited",
+      "notes": "MERGE DEPENDENCY: stage to canonical 9334 only; duplicate 11251 merge is held under ARCHIVE_MERGE_PROPOSAL_9334.md; 7577 (Lydia Clark) is a separate person and gets none of these facts. The 'last speaker' wording is the monument's own text, recorded as monument wording, not as a settled linguistic fact. The Indian name corroborates that duplicate profile 11251 (Lydia Nau-Gwa-Ok-Wa Norwood Clark) is the same person."
+    },
+    {
+      "person_id": 9334,
+      "archive_name": "Lydia E Norwood",
+      "source_ref": "Forgotten Folk, trial narrative and Clark family chapter",
+      "proposed_fact": "Her maiden name was Norwood and she was a sister to Noke Norwood; on cross-examination she identified herself in relation to Noke Norwood: 'I would a been [his brother] if God almighty hadn't of made a mistake and made me a woman'",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 35 / PDF p. 51 and printed p. 89 / PDF p. 109",
+      "certainty": "cited",
+      "notes": "MERGE DEPENDENCY: stage to canonical 9334 only; duplicate 11251 merge is held under ARCHIVE_MERGE_PROPOSAL_9334.md; 7577 (Lydia Clark) is a separate person and gets none of these facts. Maiden name is consistent with the archive name Lydia E Norwood. The sister statement rests on her own cross-examination plus a Nanticoke informant's statement to Weslager. Noke Norwood's candidate profile 10458 (Noble Norwood) was not independently verified in this staging."
+    },
+    {
+      "person_id": 9334,
+      "archive_name": "Lydia E Norwood",
+      "source_ref": "Speck 1915, community history",
+      "proposed_fact": "Mother of W. R. Clark; when representatives of the Canadian Nanticoke returned, they visited her at Indian River and were entertained by her son",
+      "citation": "Speck, The Nanticoke Community of Delaware (1915), printed pp. 8-9 / PDF pp. 20, 23",
+      "certainty": "cited",
+      "notes": "MERGE DEPENDENCY: stage to canonical 9334 only; duplicate 11251 merge is held under ARCHIVE_MERGE_PROPOSAL_9334.md; 7577 (Lydia Clark) is a separate person and gets none of these facts. New to 9334: no kinship fact is staged for her in the claim-audit set. W. R. Clark's own archive identity is unresolved (allocation map, Tier D), but the relationship fact attaches to Lydia regardless of which Clark profile is his. CONFLICT, not staged here and not resolved: Speck dates a Lydia Clark's death to 'probably between 1840 and 1850' (printed p. 9 / PDF p. 23), against her recorded death on 26 Dec 1856; carried as a conflict note in the allocation map."
+    },
+    {
+      "person_id": 1924,
+      "archive_name": "Levin Eunice Sockum",
+      "source_ref": "Forgotten Folk, trial narrative",
+      "proposed_fact": "Owned and operated a small general store in Indian River Hundred; sold a quarter-pound of powder and shot to Isaiah Harmon",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 31-32 / PDF pp. 47-48",
+      "certainty": "cited",
+      "notes": "OVERLAP: his status as the 1855 trial defendant is already staged in archive_enrichment_ingestion.json; the store operation and this specific sale are new. Profile 11769 (Levin Sockum, undated) is a duplicate-form entry, not a dated rival; the claim-audit staging already chose 1924."
+    },
+    {
+      "person_id": 1924,
+      "archive_name": "Levin Eunice Sockum",
+      "source_ref": "Forgotten Folk, trial narrative",
+      "proposed_fact": "Tried a second time on Apr 14, 1856, for gun possession; convicted and fined $20 plus costs (the first trial also drew a $20 fine plus costs)",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 36 / PDF p. 52",
+      "certainty": "cited",
+      "notes": "New beyond the staged fact, which covers only the 1855 trial."
+    },
+    {
+      "person_id": 1924,
+      "archive_name": "Levin Eunice Sockum",
+      "source_ref": "Forgotten Folk, trial narrative",
+      "proposed_fact": "After the trials he closed his store, moved his family out of Indian River Hundred, and settled in Gloucester, New Jersey",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 36-37 / PDF pp. 52-53",
+      "certainty": "cited",
+      "notes": "Consistent with the profile's birth 1807 and death 25 Dec 1864, and with the Sockum family's later New Jersey presence."
+    },
+    {
+      "person_id": 10651,
+      "archive_name": "Samuel B Norwood",
+      "source_ref": "Forgotten Folk, Indian River schools",
+      "proposed_fact": "Donated the land for the Hollyville School, also called the Norwood School",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 117 / PDF p. 139",
+      "certainty": "cited",
+      "notes": "Uniqueness: the only Samuel Norwood profile in the index (b. 24 Feb 1829 Millsboro, d. 16 Dec 1907 Indian Mission). Detail file checked: it carries no school fact."
+    },
+    {
+      "person_id": 10651,
+      "archive_name": "Samuel B Norwood",
+      "source_ref": "Forgotten Folk, 1881 Incorporated Body list",
+      "proposed_fact": "Named in the 1881 act incorporating the Incorporated Body of the Nanticoke Indians (list entry 'Samuel B. Norwood')",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 115 / PDF p. 137",
+      "certainty": "cited",
+      "notes": "Per-name check done: the name appears in both the Forgotten Folk transcription (printed p. 115 / PDF p. 137) and the Norwood 2007 booklet transcription (printed p. 39) of the 1881 act list, and audit item D12 verified the act itself (16 Del. Laws ch. 359). Middle initial matches the profile exactly; age 52 in 1881. Detail file checked: no 1881 fact present."
+    },
+    {
+      "person_id": 10647,
+      "archive_name": "Stephen M Norwood",
+      "source_ref": "Forgotten Folk, 1881 Incorporated Body list",
+      "proposed_fact": "Named in the 1881 act incorporating the Incorporated Body of the Nanticoke Indians (list entry 'Stephen M. Norwood')",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 115 / PDF p. 137",
+      "certainty": "cited",
+      "notes": "Per-name check done: the name appears in both the Forgotten Folk transcription (printed p. 115 / PDF p. 137) and the Norwood 2007 booklet transcription (printed p. 39) of the 1881 act list, and audit item D12 verified the act itself (16 Del. Laws ch. 359). The only Stephen Norwood profile (b. 1817 Lewes, d. 5 Jun 1887 Long Neck), age 64 in 1881; like Samuel B. Norwood (10651) he is a son of Eli Norwood (10457), a family consistency check. Detail file checked: no 1881 fact present."
+    },
+    {
+      "person_id": 9957,
+      "archive_name": "Elias C Clark",
+      "source_ref": "Forgotten Folk, 1881 Incorporated Body list",
+      "proposed_fact": "Named in the 1881 act incorporating the Incorporated Body of the Nanticoke Indians (list entry 'Elias C. Clark')",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 115 / PDF p. 137",
+      "certainty": "cited",
+      "notes": "Per-name check done: the name appears in both the Forgotten Folk transcription (printed p. 115 / PDF p. 137) and the Norwood 2007 booklet transcription (printed p. 39) of the 1881 act list, and audit item D12 verified the act itself (16 Del. Laws ch. 359). The only Elias Clark profile (b. 22 Feb 1860 Millsboro, d. 18 Dec 1932), age 21 at the March 1881 act; son of fellow signer George W. Clark (9953). Detail file checked: no 1881 fact present."
+    },
+    {
+      "person_id": 9953,
+      "archive_name": "George W. Clark",
+      "source_ref": "Forgotten Folk, 1881 Incorporated Body list",
+      "proposed_fact": "Named in the 1881 act incorporating the Incorporated Body of the Nanticoke Indians (list entry 'George W. Clark')",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 115 / PDF p. 137",
+      "certainty": "cited",
+      "notes": "Per-name check done: the name appears in both the Forgotten Folk transcription (printed p. 115 / PDF p. 137) and the Norwood 2007 booklet transcription (printed p. 39) of the 1881 act list, and audit item D12 verified the act itself (16 Del. Laws ch. 359). Three George Clark profiles exist, but exactly one is George W. Clark (b. abt 1838 Delaware; 1880 census head of household at Dagsboro, age 42), age about 43 in 1881; father of fellow signer Elias C. Clark (9957). Detail file checked: no 1881 fact present."
+    },
+    {
+      "person_id": 7487,
+      "archive_name": "David P. Street",
+      "source_ref": "Forgotten Folk, 1881 Incorporated Body list",
+      "proposed_fact": "Named in the 1881 act incorporating the Incorporated Body of the Nanticoke Indians (list entry 'David P. Street')",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 115 / PDF p. 137",
+      "certainty": "cited",
+      "notes": "Per-name check done: the name appears in both the Forgotten Folk transcription (printed p. 115 / PDF p. 137) and the Norwood 2007 booklet transcription (printed p. 39) of the 1881 act list, and audit item D12 verified the act itself (16 Del. Laws ch. 359). The only David P. Street profile (b. 1856, d. 1 Jan 1917), age 25 in 1881. Distinct from David R. Street (7491), whose recorded death in 1878 precedes the act; that case is Tier D in the allocation map. Detail file checked: no 1881 fact present."
+    },
+    {
+      "person_id": 790,
+      "archive_name": "Ephraim Lincoln Harmon",
+      "source_ref": "Forgotten Folk, Association leaders",
+      "proposed_fact": "Nanticoke councillor; grandson of the Harmon of the 1855 Levin Sockum case and a descendant of Levin Sockum on his grandmother's side",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 108-110 / PDF pp. 130-132",
+      "certainty": "cited",
+      "notes": "Uniqueness: exact full-name profile with a Social Security application and 1900 census on file; the other Lincoln-name profiles are excluded by dates (10254 Ephram Lincoln Harman, b. 1864, d. 1890; 5755 Lincoln Harmon, b. 1907, age 14 in 1921)."
+    },
+    {
+      "person_id": 790,
+      "archive_name": "Ephraim Lincoln Harmon",
+      "source_ref": "Forgotten Folk, Association leaders",
+      "proposed_fact": "Owned more than 100 acres and was in the chicken-raising business; poultry buyers hauled 12,000 to 15,000 chickens per trip, three times a year",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 108-110 / PDF pp. 130-132",
+      "certainty": "cited",
+      "notes": "Uniqueness: exact full-name profile with a Social Security application and 1900 census on file; the other Lincoln-name profiles are excluded by dates (10254 Ephram Lincoln Harman, b. 1864, d. 1890; 5755 Lincoln Harmon, b. 1907, age 14 in 1921)."
+    },
+    {
+      "person_id": 790,
+      "archive_name": "Ephraim Lincoln Harmon",
+      "source_ref": "Forgotten Folk, 1921 organization",
+      "proposed_fact": "Assistant Chief at the Dec 3, 1921 election of the Association's first officers",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 92-93 / PDF pp. 112-113",
+      "certainty": "cited",
+      "notes": "Uniqueness: exact full-name profile with a Social Security application and 1900 census on file; the other Lincoln-name profiles are excluded by dates (10254 Ephram Lincoln Harman, b. 1864, d. 1890; 5755 Lincoln Harmon, b. 1907, age 14 in 1921). Age 30 in 1921 on the profile birth of abt 16 Jan 1891."
+    },
+    {
+      "person_id": 790,
+      "archive_name": "Ephraim Lincoln Harmon",
+      "source_ref": "Forgotten Folk, 1942 revitalization",
+      "proposed_fact": "Hosted the June 17, 1942 revitalization meeting at his home; as tribal leader he consulted attorney D. J. Layton in 1942 over drafted Nanticoke men classified as Negroes",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 103-104 / PDF pp. 125-126 and printed pp. 105-106 / PDF pp. 127-128",
+      "certainty": "cited",
+      "notes": "Uniqueness: exact full-name profile with a Social Security application and 1900 census on file; the other Lincoln-name profiles are excluded by dates (10254 Ephram Lincoln Harman, b. 1864, d. 1890; 5755 Lincoln Harmon, b. 1907, age 14 in 1921)."
+    },
+    {
+      "person_id": 1706,
+      "archive_name": "Oscar W. Wright",
+      "source_ref": "Forgotten Folk, informants and 1881 signers",
+      "proposed_fact": "Nanticoke craftsman and one of Weslager's informants; demonstrated whittling a corn peg and a 'figger four' trap trigger in minutes; source of the recollection of Ann Johnson's household",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 108-110, 115 / PDF pp. 130-132, 137",
+      "certainty": "cited",
+      "notes": "The only Oscar Wright profile (b. 1868, d. 1956). Weslager's character adjectives for him are excluded as author assessment; only the role and activity facts are staged. The plate panel 'Oscar Wright, Nanticoke craftsman' (facing printed p. 94) is recorded as book photo evidence only; no archive photo_id is claimed for it."
+    },
+    {
+      "person_id": 596,
+      "archive_name": "Elwood Wright",
+      "source_ref": "Forgotten Folk, plate caption",
+      "proposed_fact": "Nanticoke chicken raiser (plate caption, Forgotten Folk)",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), PDF p. 95 (plate facing printed p. 76)",
+      "certainty": "cited",
+      "notes": "Uniqueness: the only Elwood Wright profile of the era (detail file: born 1880, Delaware; 1880 census; Social Security application). William Author Elwood Wright III (8896, b. 1928) is a later namesake. Photo evidence is the book plate itself; no archive photo_id is claimed."
+    },
+    {
+      "person_id": 596,
+      "archive_name": "Elwood Wright",
+      "source_ref": "Forgotten Folk, Wright family",
+      "proposed_fact": "Son of David Wright; brother of Oscar, Warren, and Walter Wright; father of Reba Wright",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed p. 116 / PDF p. 138 and printed pp. 108-110 / PDF pp. 130-132",
+      "certainty": "cited",
+      "notes": "Kinship as stated by Weslager. David Wright has no profile (Tier C in the allocation map) and the Warren and Walter identities are Tier D there; the fact is staged on Elwood as the book states it and does not depend on resolving them."
+    },
+    {
+      "person_id": 2474,
+      "archive_name": "Perry Hughes",
+      "source_ref": "Forgotten Folk, Cheswold crafts",
+      "proposed_fact": "Possessor of a roughly 100-year-old log corn mortar, grandson and namesake of its original owner; used it himself until about 15 years before Weslager wrote",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 189-190 / PDF pp. 219-220",
+      "certainty": "cited",
+      "notes": "The only Perry Hughes profile (b. 14 Oct 1865, d. 19 Jan 1941). Detail file checked: no mortar fact present. A date tension affecting a different Perry Hughes mention in the Norwood 2007 booklet's 1943-article chain is recorded in the allocation map and does not touch this Weslager fact."
+    },
+    {
+      "person_id": 10625,
+      "archive_name": "Levi Mosley",
+      "source_ref": "Forgotten Folk, Cheswold crafts",
+      "proposed_fact": "Moor informant who fashioned a gourd funnel, water bottle, corn flour sifter, and salt and pepper shakers as examples of early gourd utensils (Figure IV)",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 192-194 / PDF pp. 222-224",
+      "certainty": "cited",
+      "notes": "The only Levi Mosley profile. The profile's own dates are internally inconsistent (birth Oct 1889 against age 20 in the 1900 census), which does not affect this undated craft fact. Archive portrait photo_id 1742 is a different photograph and is recorded as photo evidence only."
+    },
+    {
+      "person_id": 6077,
+      "archive_name": "Gardiner Street",
+      "source_ref": "Forgotten Folk, 1921 organization",
+      "proposed_fact": "Present at the Nov 24, 1921 organization meeting in Russel Clark's house",
+      "citation": "Weslager, Delaware's Forgotten Folk (1943; 2006 paperback), printed pp. 91-92 / PDF pp. 111-112",
+      "certainty": "cited",
+      "notes": "The only Gardiner Street of the right generation (b. 7 Jan 1877, d. 14 Dec 1955), age 44 in 1921. Gardiner Street Jr. (6075, b. 1914) was 7 and is excluded. Detail file checked: no meeting fact present."
+    }
+  ]
+}
