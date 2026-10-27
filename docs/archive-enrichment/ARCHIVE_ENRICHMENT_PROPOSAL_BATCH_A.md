@@ -1,6 +1,6 @@
 # Enrichment proposal, Batch A: Job Harmon circle and 1855 trial defendants
 
-**Status:** PROPOSAL ONLY, prepared 2026-10-27 after PR #6 (Lydia Clark proposal) was merged. No repo change, no PR, no ingestion, no live archive change.
+**Status:** PROPOSAL ONLY for the data change, prepared 2026-10-27 after PR #6 (Lydia Clark proposal) was merged. No ingestion and no live archive change has been made. This document itself is submitted for review via a pull request; merging that PR merges the proposal document, not the database change.
 **Source:** `CLAIM_AUDIT.md` (2026-10-27 verdicts), `archive_enrichment_ingestion.json` (entries for these ids), `ARCHIVE_ENRICHMENT_MAP.md`.
 **Rule:** Do not hand-edit `frontend/public/api/person/*.json` or `persons_summary.json`. Those are generated exports from `preservation_output/genealogy_preservation.db`. Ingest into the database, then re-export and verify.
 
