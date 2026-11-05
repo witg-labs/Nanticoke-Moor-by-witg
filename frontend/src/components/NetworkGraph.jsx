@@ -241,7 +241,7 @@ export default function NetworkGraph({
   const handleResetZoom = () => networkRef.current?.moveTo({ position: { x: 1200, y: 350 }, scale: 0.65, animation: { duration: 500 } });
 
   return (
-    <div className={`flex flex-col bg-[#0F141A] rounded-2xl border border-[#2A3644] overflow-hidden shadow-2xl transition-all ${isFullscreen ? 'fixed inset-0 z-50 rounded-none' : 'w-full h-[750px]'}`}>
+    <div className={`flex flex-col bg-[#0F141A] rounded-2xl border border-[#2A3644] overflow-hidden shadow-2xl transition-all ${isFullscreen ? 'fixed inset-0 z-50 rounded-none' : 'w-full h-[480px] sm:h-[620px]'}`}>
       
       {/* GRAPH TOOLBAR */}
       <div className="bg-[#171E27] border-b border-[#2A3644] p-3 sm:p-4 flex flex-wrap items-center justify-between gap-3 shrink-0">

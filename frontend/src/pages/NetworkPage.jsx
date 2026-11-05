@@ -79,7 +79,7 @@ export default function NetworkPage() {
       </div>
 
       {/* Main Graph Canvas */}
-      <div className="bg-[#121110] border border-[#26221E] rounded-2xl overflow-hidden shadow-2xl min-h-[650px] relative">
+      <div className="bg-[#121110] border border-[#26221E] rounded-2xl overflow-hidden shadow-2xl relative">
         {loading ? (
           <div className="p-24 text-center text-xs font-mono text-[#8C8275]">
             <div className="inline-block w-8 h-8 border-2 border-cyan-500/30 border-t-cyan-400 rounded-full animate-spin mb-3" />

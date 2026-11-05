@@ -167,14 +167,14 @@ export default function SurnamePortalView({ surname, onClose, onSelectPerson, on
       </div>
 
       {loading ? (
-        <div className="flex-1 flex flex-col items-center justify-center text-[#9EA9B6] min-h-[60vh]">
+        <div className="flex-1 flex flex-col items-center justify-center text-[#9EA9B6] min-h-[40vh]">
           <div className="w-9 h-9 border-2 border-[#C87D53]/30 border-t-[#C87D53] rounded-full animate-spin mb-4" />
           <p className="font-mono text-xs tracking-wider uppercase">Loading {surname} Lineage Portal...</p>
         </div>
       ) : data ? (
         <div className="flex-1 max-w-7xl w-full mx-auto p-4 sm:p-8 space-y-8">
           {/* Hero Banner */}
-          <div className="relative bg-gradient-to-br from-[#151C24] via-[#10151B] to-[#0A0D11] border border-[#24303F] rounded-3xl p-6 sm:p-10 shadow-2xl overflow-hidden">
+          <div className="relative bg-gradient-to-br from-[#151C24] via-[#10151B] to-[#0A0D11] border border-[#24303F] rounded-3xl p-5 sm:p-8 shadow-2xl overflow-hidden">
             <div className="absolute top-0 right-0 w-96 h-96 bg-[#C87D53]/5 rounded-full blur-3xl pointer-events-none" />
             
             <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-6">

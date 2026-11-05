@@ -414,6 +414,8 @@ export default function TranscribedDocumentView({ identifier, initialData, onClo
 
   if (typeof document === 'undefined') return null;
 
+  const isTextTranscriptionMode = !showPdfMode && !showFacsimile;
+
   return createPortal(
     <div 
       className="fixed inset-0 z-[9999] bg-black/85 backdrop-blur-md flex items-center justify-center p-2 sm:p-4 md:p-6"
@@ -422,7 +424,7 @@ export default function TranscribedDocumentView({ identifier, initialData, onClo
       aria-modal="true"
     >
       <div 
-        className="w-full max-w-5xl h-[94vh] bg-[#141210] border border-[#3A322B] rounded-3xl shadow-2xl flex flex-col overflow-hidden text-[#E5E1DB]"
+        className={`w-full max-w-5xl ${isTextTranscriptionMode ? 'h-auto max-h-[94dvh]' : 'h-[94vh]'} bg-[#141210] border border-[#3A322B] rounded-3xl shadow-2xl flex flex-col overflow-hidden text-[#E5E1DB]`}
         onClick={e => e.stopPropagation()}
       >
         {/* Top App Bar */}
@@ -598,7 +600,7 @@ export default function TranscribedDocumentView({ identifier, initialData, onClo
         {/* Reader Canvas (Text Only) */}
         <div className="flex-1 overflow-y-auto p-6 sm:p-10 custom-scrollbar bg-[#0E0C0B]">
           {loading && (
-            <div className="flex flex-col items-center justify-center py-24 text-center">
+            <div className="flex flex-col items-center justify-center py-12 text-center">
               <div className="w-10 h-10 border-2 border-[#C68B59] border-t-transparent rounded-full animate-spin mb-4" />
               <p className="font-serif-header text-lg text-[#F3EBE3]">Loading Transcribed Manuscript...</p>
               <p className="text-xs text-[#8C8275] font-mono mt-1">Retrieving archival record & verified text lines</p>
