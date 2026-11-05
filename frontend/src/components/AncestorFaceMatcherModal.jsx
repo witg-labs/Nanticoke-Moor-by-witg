@@ -94,25 +94,25 @@ export default function AncestorFaceMatcherModal({ isOpen, onClose }) {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in">
       <div 
-        className="bg-[#141210] border border-[#2D2722] rounded-3xl w-full max-w-4xl h-[85vh] max-h-[720px] overflow-hidden shadow-2xl flex flex-col"
+        className="bg-[#141210] border border-[#2D2722] rounded-3xl w-full max-w-4xl max-h-[85dvh] overflow-hidden shadow-2xl flex flex-col"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Modal Header */}
-        <div className="p-6 border-b border-[#26221E] flex items-center justify-between bg-[#1C1A17]">
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-2xl bg-[#C68B59]/15 border border-[#C68B59]/30 flex items-center justify-center text-[#D4A373]">
+        <div className="p-4 sm:p-6 border-b border-[#26221E] flex items-center justify-between bg-[#1C1A17] gap-3">
+          <div className="flex items-center gap-3 min-w-0">
+            <div className="w-10 h-10 rounded-2xl bg-[#C68B59]/15 border border-[#C68B59]/30 flex items-center justify-center text-[#D4A373] shrink-0">
               <ScanFace className="w-5 h-5 text-[#C68B59]" />
             </div>
-            <div>
-              <div className="flex items-center gap-2">
-                <h3 className="font-serif-header text-lg font-bold text-[#F3EBE3]">
+            <div className="min-w-0">
+              <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-2">
+                <h3 className="font-serif-header text-base sm:text-lg font-bold text-[#F3EBE3]">
                   Biometric Facial Matcher
                 </h3>
-                <span className="px-2 py-0.5 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-[10px] font-mono text-cyan-300">
+                <span className="self-start px-2 py-0.5 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-[10px] font-mono text-cyan-300">
                   ONNX MobileFaceNet
                 </span>
               </div>
-              <p className="text-xs text-[#A8A096]">
+              <p className="text-xs text-[#A8A096] mt-0.5">
                 Compare family photographs against 956 enrolled Delmarva historical reference portraits.
               </p>
             </div>
@@ -120,7 +120,7 @@ export default function AncestorFaceMatcherModal({ isOpen, onClose }) {
 
           <button
             onClick={onClose}
-            className="p-2 rounded-xl bg-[#141210] border border-[#2D2722] text-[#A8A096] hover:text-[#F3EBE3] transition-colors"
+            className="p-2 rounded-xl bg-[#141210] border border-[#2D2722] text-[#A8A096] hover:text-[#F3EBE3] transition-colors shrink-0"
             title="Close Face Matcher"
           >
             <X className="w-4 h-4" />
@@ -128,7 +128,7 @@ export default function AncestorFaceMatcherModal({ isOpen, onClose }) {
         </div>
 
         {/* Modal Body */}
-        <div className="p-6 overflow-y-auto space-y-6 flex-1 custom-scrollbar">
+        <div className="p-4 sm:p-6 overflow-y-auto space-y-6 flex-1 custom-scrollbar">
           
           {/* Upload Area & Sample Picker */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -140,7 +140,7 @@ export default function AncestorFaceMatcherModal({ isOpen, onClose }) {
               </label>
 
               <div 
-                className="relative border-2 border-dashed border-[#332D27] hover:border-[#C68B59]/70 rounded-2xl p-6 text-center transition-all bg-[#0F0E0D] flex flex-col items-center justify-center min-h-[220px] group cursor-pointer"
+                className="relative border-2 border-dashed border-[#332D27] hover:border-[#C68B59]/70 rounded-2xl p-6 text-center transition-all bg-[#0F0E0D] flex flex-col items-center justify-center min-h-[160px] sm:min-h-[220px] group cursor-pointer"
                 onDragOver={(e) => e.preventDefault()}
                 onDrop={(e) => {
                   e.preventDefault();

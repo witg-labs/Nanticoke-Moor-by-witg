@@ -226,7 +226,7 @@ export default function ObituaryViewer({ onSelectPerson }) {
           onClick={handleCloseModal}
         >
           <div
-            className="max-w-2xl w-full bg-[#171E27] border border-[#C87D53]/40 rounded-3xl p-8 shadow-2xl relative max-h-[88vh] overflow-y-auto custom-scrollbar"
+            className="max-w-2xl w-full bg-[#171E27] border border-[#C87D53]/40 rounded-3xl p-5 sm:p-8 shadow-2xl relative max-h-[88vh] overflow-y-auto custom-scrollbar"
             onClick={e => e.stopPropagation()}
           >
             <button

@@ -996,7 +996,7 @@ export default function HomeScreen() {
             style={{ contentVisibility: activeTab === 'graph' ? 'visible' : 'hidden' }}
           >
             {visitedTabs.has('graph') && (
-              <div className="h-[620px] flex flex-col">
+              <div className="flex flex-col">
                 <div className="mb-4 flex justify-between items-center">
                   <div>
                     <h2 className="font-serif-header text-xl font-bold text-[#F3EBE3]">
