@@ -797,17 +797,24 @@ export default function TranscribedDocumentView({ identifier, initialData, onClo
                   <p className="text-xs font-mono text-[#A8A096] leading-relaxed bg-[#0E0D0C] p-3 rounded-lg border border-[#221E1A] break-words">
                     {data.citation}
                   </p>
-                  {data.source_url && !data.source_url.includes('lynncjackson') && (
-                    <a
-                      href={data.source_url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-xs text-sky-400 hover:text-sky-300 font-mono mt-1"
-                    >
-                      <ExternalLink className="w-3.5 h-3.5" />
-                      <span>Original Archival Source URL</span>
-                    </a>
-                  )}
+                  {(() => {
+                    const docSourceUrl = data.source_url || data.wayback_url;
+                    const isDocHttpUrl = typeof docSourceUrl === 'string' &&
+                      (docSourceUrl.startsWith('http://') || docSourceUrl.startsWith('https://')) &&
+                      !docSourceUrl.includes('lynncjackson');
+
+                    return isDocHttpUrl ? (
+                      <a
+                        href={docSourceUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1.5 text-xs text-sky-400 hover:text-sky-300 font-mono mt-1"
+                      >
+                        <ExternalLink className="w-3.5 h-3.5" />
+                        <span>Original Archival Source URL</span>
+                      </a>
+                    ) : null;
+                  })()}
                 </div>
               )}
             </div>

@@ -288,21 +288,28 @@ export default function ObituaryViewer({ onSelectPerson }) {
               {selectedObit.full_text}
             </div>
 
-            {selectedObit.source_url && !selectedObit.source_url.includes('lynncjackson') ? (
-              <a
-                href={selectedObit.source_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-6 inline-flex items-center gap-2 text-xs font-mono text-[#D4A373] hover:text-[#F3EBE3] bg-[#0F141A] border border-[#2A3644] px-4 py-2 rounded-xl transition-all"
-              >
-                <ExternalLink className="w-3.5 h-3.5" />
-                View Original Preserved Broadsheet Source URL
-              </a>
-            ) : (
-              <div className="mt-6 inline-flex items-center gap-2 text-xs font-mono text-emerald-400/90 bg-[#0F141A] border border-[#2A3644] px-4 py-2 rounded-xl">
-                <span>Preserved in Digital Archive • Offline Provenance</span>
-              </div>
-            )}
+            {(() => {
+              const obitSourceUrl = selectedObit.source_url;
+              const isObitHttpUrl = typeof obitSourceUrl === 'string' &&
+                (obitSourceUrl.startsWith('http://') || obitSourceUrl.startsWith('https://')) &&
+                !obitSourceUrl.includes('lynncjackson');
+
+              return isObitHttpUrl ? (
+                <a
+                  href={obitSourceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-6 inline-flex items-center gap-2 text-xs font-mono text-[#D4A373] hover:text-[#F3EBE3] bg-[#0F141A] border border-[#2A3644] px-4 py-2 rounded-xl transition-all"
+                >
+                  <ExternalLink className="w-3.5 h-3.5" />
+                  View Original Preserved Broadsheet Source URL
+                </a>
+              ) : (
+                <div className="mt-6 inline-flex items-center gap-2 text-xs font-mono text-emerald-400/90 bg-[#0F141A] border border-[#2A3644] px-4 py-2 rounded-xl">
+                  <span>Preserved in Digital Archive • Offline Provenance</span>
+                </div>
+              );
+            })()}
           </div>
         </div>
       )}
