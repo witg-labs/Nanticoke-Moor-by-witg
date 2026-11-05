@@ -297,25 +297,31 @@ export default function PersonProfileView({ personId, onClose, onSelectPerson })
                           </div>
                           {fact.value_string && <p className="text-sm text-gray-800 mb-2">{fact.value_string}</p>}
                           
-                          {fact.citations && fact.citations.map((cit, cIdx) => (
-                            <div key={cIdx} className="mt-2 pl-3 border-l-2 border-gray-200">
-                              {cit.source_url && cit.source_url !== '#' && !cit.source_url.includes('lynncjackson') ? (
-                                <a 
-                                  href={cit.source_url} 
-                                  target="_blank" 
-                                  rel="noopener noreferrer" 
-                                  className="text-xs font-semibold text-blue-700 hover:text-blue-900 hover:underline inline-flex items-center gap-1"
-                                >
-                                  {cit.source_title || 'Archival Document'} <ExternalLink className="w-3 h-3"/>
-                                </a>
-                              ) : (
-                                <span className="text-xs font-semibold text-gray-700 inline-flex items-center gap-1">
-                                  {cit.source_title || 'Archival Document'}
-                                </span>
-                              )}
-                              {cit.evidence_text && <p className="text-xs text-gray-500 mt-1 italic">"{cit.evidence_text}"</p>}
-                            </div>
-                          ))}
+                          {fact.citations && fact.citations.map((cit, cIdx) => {
+                            const isHttpUrl = typeof cit.source_url === 'string' && 
+                              (cit.source_url.startsWith('http://') || cit.source_url.startsWith('https://')) && 
+                              !cit.source_url.includes('lynncjackson');
+
+                            return (
+                              <div key={cIdx} className="mt-2 pl-3 border-l-2 border-gray-200">
+                                {isHttpUrl ? (
+                                  <a 
+                                    href={cit.source_url} 
+                                    target="_blank" 
+                                    rel="noopener noreferrer" 
+                                    className="text-xs font-semibold text-blue-700 hover:text-blue-900 hover:underline inline-flex items-center gap-1"
+                                  >
+                                    {cit.source_title || 'Archival Document'} <ExternalLink className="w-3 h-3"/>
+                                  </a>
+                                ) : (
+                                  <span className="text-xs font-semibold text-gray-700 inline-flex items-center gap-1">
+                                    {cit.source_title || 'Archival Document'}
+                                  </span>
+                                )}
+                                {cit.evidence_text && <p className="text-xs text-gray-500 mt-1 italic">"{cit.evidence_text}"</p>}
+                              </div>
+                            );
+                          })}
                         </div>
                       ))
                     )}
@@ -523,23 +529,30 @@ export default function PersonProfileView({ personId, onClose, onSelectPerson })
                 {lightboxPhoto.date_text && <div><span className="text-gray-500 uppercase text-[11px] font-bold block mb-0.5">Est. Date</span>{lightboxPhoto.date_text}</div>}
                 {lightboxPhoto.description && <div><span className="text-gray-500 uppercase text-[11px] font-bold block mb-0.5">Description</span>{lightboxPhoto.description}</div>}
                 {lightboxPhoto.source_collection && <div><span className="text-gray-500 uppercase text-[11px] font-bold block mb-0.5">Collection</span>{lightboxPhoto.source_collection}</div>}
-                {lightboxPhoto.original_source_url && !lightboxPhoto.original_source_url.includes('lynncjackson') ? (
-                  <div className="pt-4 sm:pt-6 mt-4 sm:mt-6 border-t border-gray-800">
-                    <a 
-                      href={lightboxPhoto.original_source_url} 
-                      target="_blank" 
-                      rel="noopener noreferrer" 
-                      className="inline-flex items-center gap-2 font-bold text-blue-400 hover:text-blue-300 transition-colors"
-                    >
-                      <ExternalLink className="w-4 h-4"/> View Original Archival Source
-                    </a>
-                  </div>
-                ) : (
-                  <div className="pt-4 sm:pt-6 mt-4 sm:mt-6 border-t border-gray-800">
-                    <span className="text-emerald-400 text-xs font-semibold uppercase tracking-wider block">Preserved in Digital Archive</span>
-                    <span className="text-gray-400 text-xs mt-1 block">Preserved offline in unified photo catalog.</span>
-                  </div>
-                )}
+                {(() => {
+                  const photoSourceUrl = lightboxPhoto.source_url || lightboxPhoto.original_source_url;
+                  const isPhotoHttpUrl = typeof photoSourceUrl === 'string' &&
+                    (photoSourceUrl.startsWith('http://') || photoSourceUrl.startsWith('https://')) &&
+                    !photoSourceUrl.includes('lynncjackson');
+
+                  return isPhotoHttpUrl ? (
+                    <div className="pt-4 sm:pt-6 mt-4 sm:mt-6 border-t border-gray-800">
+                      <a 
+                        href={photoSourceUrl} 
+                        target="_blank" 
+                        rel="noopener noreferrer" 
+                        className="inline-flex items-center gap-2 font-bold text-blue-400 hover:text-blue-300 transition-colors"
+                      >
+                        <ExternalLink className="w-4 h-4"/> View Original Archival Source
+                      </a>
+                    </div>
+                  ) : (
+                    <div className="pt-4 sm:pt-6 mt-4 sm:mt-6 border-t border-gray-800">
+                      <span className="text-emerald-400 text-xs font-semibold uppercase tracking-wider block">Preserved in Digital Archive</span>
+                      <span className="text-gray-400 text-xs mt-1 block">Preserved offline in unified photo catalog.</span>
+                    </div>
+                  );
+                })()}
               </div>
             </div>
           </div>
