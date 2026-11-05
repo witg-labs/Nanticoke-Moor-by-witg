@@ -94,7 +94,7 @@ export default function ObituaryViewer({ onSelectPerson }) {
             Preserved Obituary Vault
           </h2>
           <p className="text-xs text-[#9EA9B6]">
-            {obituaries.length} preserved obituaries, memorials, and broadsheet death notices across Delaware & New Jersey
+            {allObituaries.length} preserved obituaries, memorials, and broadsheet death notices across Delaware & New Jersey
           </p>
         </div>
 
