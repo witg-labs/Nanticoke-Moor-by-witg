@@ -19280,10 +19280,10 @@
   {
     "photo_id": 2581,
     "category": "people",
-    "title_or_caption": "Wrights_Ontario.jpg",
-    "subject_names": "Wrights Ontario",
+    "title_or_caption": "Taken at the February 1914 funeral of their father, Robert Harmon Wright of Seaford, Delaware, whose portrait is superimposed above them. Back row: Edward, Charles, John, Robert Jr. Front row: Nicholas (unconfirmed), Cornelius, Arthur, one brother unidentified, Walter (unconfirmed). Frederick and Ephraim Wright had died before 1914 and are not pictured. Identified in October 2026 by Dorothy Wright Wallace, daughter of Arthur Wright.",
+    "subject_names": "Wright Brothers of Ontario, sons of Robert Harmon Wright",
     "married_surname": "Wrights",
-    "approximate_year": "1910-1919",
+    "approximate_year": "1914",
     "local_image_path": "assets/archive_media/people/Wrights_Ontario.jpg",
     "source_url": "",
     "dataset_source": "mitsawokett",
@@ -19295,7 +19295,7 @@
     "face_context": "primary_subject",
     "routing_target": "photos",
     "transcription": null,
-    "dates_mentioned": "[\"1910-1919\"]",
+    "dates_mentioned": "[\"1914\"]",
     "flag_for_human_review": 0
   },
   {
