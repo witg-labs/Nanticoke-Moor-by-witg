@@ -241,11 +241,11 @@ export default function PersonProfileView({ personId, onClose, onSelectPerson })
               </button>
             ) : <div />}
 
-            {/* Anchor Chips */}
+            {/* Desktop Anchor Chips */}
             {!loading && profile && navChips.length > 0 && (
               <nav
                 aria-label="Profile section navigation"
-                className="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1"
+                className="hidden md:flex items-center gap-1.5 overflow-x-auto no-scrollbar py-1"
               >
                 {navChips.map(chip => (
                   <button
@@ -279,6 +279,25 @@ export default function PersonProfileView({ personId, onClose, onSelectPerson })
               )}
             </div>
           </div>
+
+          {/* Mobile Anchor Chips Row */}
+          {!loading && profile && navChips.length > 0 && (
+            <nav
+              aria-label="Profile section navigation mobile"
+              className="flex md:hidden items-center gap-1.5 overflow-x-auto no-scrollbar pb-2.5 pt-0.5"
+            >
+              {navChips.map(chip => (
+                <button
+                  key={chip.id}
+                  type="button"
+                  onClick={() => scrollToSection(chip.id)}
+                  className="px-3 py-1 rounded-full text-xs font-medium bg-[#171E27] border border-[#2A3644] text-[#9EA9B6] hover:text-[#D4A373] hover:border-[#C87D53] transition-colors whitespace-nowrap cursor-pointer shrink-0"
+                >
+                  {chip.label}
+                </button>
+              ))}
+            </nav>
+          )}
         </div>
       </header>
 
@@ -840,26 +859,28 @@ export default function PersonProfileView({ personId, onClose, onSelectPerson })
                 <div className="w-full h-[480px] sm:h-[620px] rounded-2xl overflow-hidden border border-[#2A3644] bg-[#0F141A]">
                   <GenerationalTreeView
                     graphData={
-                      graphData || {
-                        nodes: [
-                          {
-                            id: person.person_id,
-                            label: person.name,
-                            birth_info: person.birth_info,
-                            source_page: person.source_page
-                          },
-                          ...(profile.relationships || []).map(r => ({
-                            id: r.rel_id,
-                            label: r.rel_name,
-                            birth_info: r.role
-                          }))
-                        ],
-                        edges: (profile.relationships || []).map(r => ({
-                          from: r.role === 'child' ? r.rel_id : person.person_id,
-                          to: r.role === 'child' ? person.person_id : r.rel_id,
-                          type: r.relationship_type
-                        }))
-                      }
+                      graphData && graphData.nodes?.some(n => Number(n.id) === Number(person.person_id))
+                        ? graphData
+                        : {
+                            nodes: [
+                              {
+                                id: person.person_id,
+                                label: person.name,
+                                birth_info: person.birth_info,
+                                source_page: person.source_page
+                              },
+                              ...(profile.relationships || []).map(r => ({
+                                id: r.rel_id,
+                                label: r.rel_name,
+                                birth_info: r.role
+                              }))
+                            ],
+                            edges: (profile.relationships || []).map(r => ({
+                              from: r.role === 'child' ? r.rel_id : person.person_id,
+                              to: r.role === 'child' ? person.person_id : r.rel_id,
+                              type: r.relationship_type
+                            }))
+                          }
                     }
                     onSelectNode={(p) => {
                       if (onSelectPerson && p.id !== person.person_id) {
