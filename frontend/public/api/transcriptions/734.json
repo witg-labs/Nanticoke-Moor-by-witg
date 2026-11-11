@@ -3,7 +3,7 @@
   "person_id": 4108,
   "person_name": "John Daniel Durham",
   "title": "Desc John Durham Muncey",
-  "document_type": "Portrait",
+  "document_type": "Historical Document",
   "approximate_year": "1801",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Desc_John_Durham_Muncey.jpg",
   "line_count": 14,
-  "word_count": 80,
+  "word_count": 81,
   "lines": [
     "DOCUMENT TITLE: Desc John Durham Muncey",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Historical Document",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 1801",
     "PRIMARY SUBJECT / PERSON: John Daniel Durham (Profile #4108)",
@@ -29,6 +29,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #734"
   ],
-  "full_text": "DOCUMENT TITLE: Desc John Durham Muncey\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1801\nPRIMARY SUBJECT / PERSON: John Daniel Durham (Profile #4108)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_Desc-JohnDurham-Muncey.jpg\nLineage / Surnames Documented: Desc\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #734",
+  "full_text": "DOCUMENT TITLE: Desc John Durham Muncey\nRECORD CLASSIFICATION: Historical Document\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1801\nPRIMARY SUBJECT / PERSON: John Daniel Durham (Profile #4108)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_Desc-JohnDurham-Muncey.jpg\nLineage / Surnames Documented: Desc\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #734",
   "clean_html": null
 }

@@ -123,7 +123,7 @@
       "title_or_caption": "Cuff_Elmer_Martha_Ann_Durham_Daughters.png",
       "subject_names": "Elmer Martha Ann Durham Daughters Cuff",
       "approximate_year": "2016",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4352,
       "person_name": "Elmer Cuff"
@@ -162,7 +162,7 @@
       "title_or_caption": "Brandon_Homayouni.jpg",
       "subject_names": "Brandon Homayouni",
       "approximate_year": "2015",
-      "document_type": "portrait",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -175,7 +175,7 @@
       "title_or_caption": "Cuff_Elmer_Martha_Ann_Durham_Daughters.jpg",
       "subject_names": "Elmer Martha Ann Durham Daughters Cuff",
       "approximate_year": "2015",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4352,
       "person_name": "Elmer Cuff"
@@ -188,7 +188,7 @@
       "title_or_caption": "Cuff_Margaret_Aka_Kuff.jpg",
       "subject_names": "Margaret Aka Kuff Cuff",
       "approximate_year": "2015",
-      "document_type": "portrait",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -253,7 +253,7 @@
       "title_or_caption": "Durham_Harry_H_And_Geneva_Cuff_Bride_Book.jpg",
       "subject_names": "Harry H & Geneva Cuff Bride Book Durham",
       "approximate_year": "1914",
-      "document_type": "group_photo",
+      "document_type": "marriage_certificate",
       "transcription": null,
       "person_id": 1066,
       "person_name": "Harry Sherk Durham"
@@ -357,7 +357,7 @@
       "title_or_caption": "Enoch_Mdurham_Family_2.jpg",
       "subject_names": "Enoch Mdurham Family 2",
       "approximate_year": "1914",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 3511,
       "person_name": "Mae Cuff"
@@ -422,7 +422,7 @@
       "title_or_caption": "Cuff_Arterexerses.jpg",
       "subject_names": "Arterexerses Cuff",
       "approximate_year": "1886",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -474,7 +474,7 @@
       "title_or_caption": "Durham_Laura_Gert_Anna_Mary.jpg",
       "subject_names": "Laura Gert Anna Mary Durham",
       "approximate_year": "1867",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4421,
       "person_name": "Mary Murray Cuff"
@@ -487,7 +487,7 @@
       "title_or_caption": "Pierce_Gladys_Eleanor_Mary_Sadie.jpg",
       "subject_names": "Gladys Eleanor Mary Sadie Pierce",
       "approximate_year": "1867",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4421,
       "person_name": "Mary Murray Cuff"
@@ -539,7 +539,7 @@
       "title_or_caption": "Cuff_Theodore_Ship.jpg",
       "subject_names": "Theodore Ship Cuff",
       "approximate_year": "1828",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "transcription": null,
       "person_id": 2737,
       "person_name": "Theodore G. Cuff"
@@ -552,7 +552,7 @@
       "title_or_caption": "Cuff_Theodore_G_And_Wagon_2.jpg",
       "subject_names": "Theodore G & Wagon 2 Cuff",
       "approximate_year": "1828",
-      "document_type": "group_photo",
+      "document_type": "portrait",
       "transcription": null,
       "person_id": 2737,
       "person_name": "Theodore G. Cuff"
@@ -565,7 +565,7 @@
       "title_or_caption": "Cuff_Theodore_G_Sailor_2.jpg",
       "subject_names": "Theodore G Sailor 2 Cuff",
       "approximate_year": "1828",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 2737,
       "person_name": "Theodore G. Cuff"
@@ -604,7 +604,7 @@
       "title_or_caption": "Cuff_Cemetery_Sign.jpg",
       "subject_names": "Cemetery Sign Cuff",
       "approximate_year": "2001",
-      "document_type": "tombstone",
+      "document_type": "photograph_other",
       "transcription": "0\nEst.1688\nEMETER",
       "person_id": null,
       "person_name": null
@@ -617,7 +617,7 @@
       "title_or_caption": "Cuff_Rueben_Grave.jpg",
       "subject_names": "Rueben Grave Cuff",
       "approximate_year": "1886",
-      "document_type": "tombstone",
+      "document_type": "composite",
       "transcription": "TTHEMEMMyO\nREWbEN Cuf\nSACRE\nFSCSAAPIEA\nPRILS\nO ERTE THS\ns84s\nCUFE\nCEMETER\nFsL 188",
       "person_id": null,
       "person_name": null

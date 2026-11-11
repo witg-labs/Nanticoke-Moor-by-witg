@@ -200,7 +200,7 @@
       "title_or_caption": "Hughes_Deborah_Cork_Deathcert.jpg",
       "subject_names": "Deborah Cork Deathcert Hughes",
       "approximate_year": "2001",
-      "document_type": "portrait",
+      "document_type": "death_certificate",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -213,7 +213,7 @@
       "title_or_caption": "Cork_Perry_1866_Tax_Assessment_Death_2.jpg",
       "subject_names": "Perry 1866 Tax Assessment Death Cork",
       "approximate_year": "1866",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 186,
       "person_name": "Perry Cork"
@@ -226,7 +226,7 @@
       "title_or_caption": "Cork_Perry_Family.jpg",
       "subject_names": "Cork Perry Family",
       "approximate_year": "1848",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": null,
       "person_name": null

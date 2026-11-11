@@ -3,13 +3,39 @@
   "individual_count": 190,
   "photo_count": 207,
   "category_counts": {
-    "documents": 5,
+    "documents": 7,
     "family_trees": 36,
-    "people": 166
+    "people": 164
   },
   "obituary_count": 9,
   "variants": "Mosley",
   "photos": [
+    {
+      "photo_id": 3051,
+      "category": "documents",
+      "normalized_filename": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "title_or_caption": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "subject_names": "genealogy sheet 01 courtesy kimberly mosley moore Pierce",
+      "approximate_year": "2014",
+      "document_type": "family_tree",
+      "transcription": null,
+      "person_id": null,
+      "person_name": null
+    },
+    {
+      "photo_id": 3052,
+      "category": "documents",
+      "normalized_filename": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
+      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
+      "title_or_caption": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
+      "subject_names": "genealogy sheet 02 courtesy kimberly mosley moore Pierce",
+      "approximate_year": "2014",
+      "document_type": "family_tree",
+      "transcription": null,
+      "person_id": null,
+      "person_name": null
+    },
     {
       "photo_id": 3164,
       "category": "documents",
@@ -18,7 +44,7 @@
       "title_or_caption": "William_Carlos_Mosley_309_Probate_Will.jpg",
       "subject_names": "Carlos Mosley 309 William (Historical Document)",
       "approximate_year": "1997",
-      "document_type": "last_will_testament",
+      "document_type": "funeral_program",
       "transcription": "Pallbearers\nA Celebration ot the Lif\nRonaldAcree\nTruneaJohnson\not\nMarvin Benson\n3ryan Mosley\nDavidChase\nReqinaldBrown\nMiliam CarlosMosley.I\n-lower Bearers\n_ockerman Hiqh Schoo\nClass of 1946 & Class of 1949\nIinterment\nEasternShoreVeteransCemetery\nHurlock(Beulah),MD\nRepast\nReplanted Zion U. M. Church Fellowship Ha\nFollowing the interment\nAcknowledaement\nSunrise:February22.1929Sunset:November30.2010\nThe family would like to thank eachof you to\nyour love and expressions ot care, concern,ang\noye during the life of our loved one and now his\nGuesday.Lecember7.201C\noassing. We ask that you continue to keep us in\nWake:9:30a.m\nService:11:30a.m\nyourprayers\nRenlanted Lion OnitedMethodist Churcl",
       "person_id": null,
       "person_name": null
@@ -31,7 +57,7 @@
       "title_or_caption": "William_Carlos_Mosley_310_Probate_Will.jpg",
       "subject_names": "Carlos Mosley 310 William (Historical Document)",
       "approximate_year": "1997",
-      "document_type": "last_will_testament",
+      "document_type": "funeral_program",
       "transcription": "The Obituar\nWilliam Carlos Mosley,Jr.madehis transition\nOnJune28.1958Carlosmarriedtheformei\nnto eternal joy on Tuesday, November 30, 2010 ai\nDors V.Smith. They builtahomein 1960 and 5 years\nater they had a lovely daughter, Carla Ann. Carlos\ncaston Memorial Hospitalaftera long and courageous\noattle with failing health. Born February 22, 1929, he\nnobbiesincluded reading,trapshooting,watching\nwas the son of the late William CarlosMosleySr.anc\nwestern movies, and riding his tractor. He was a self\nRoseBeatriceStanfordMosley\ntaught computer wiz, loved to listen to classical music\nand he couldfix almost anything\nHe obtainedhis educationthrough theCaroline\nCounty public school systemand graduated from\nCarlos was a dedicated and devoted member of\nReplanted Zion U.M.Churchwherehe servedas a\nMarylandStateCollegein PrincessAnne,Maryland ir\n951 with a B.S.degree in Agriculture.Aftei\nrustee, Chairperson of Administrative Board, Lay\ngraduationCarlos was hired by theDorchester County\neader and42 years asthe churchtreasurer.Hewas alsc\nBoard of Education to supervise an on-the-job training\na choir memberuntilhishealthbegan tofail.Carlos\norogram for veterans in the field of agriculture. Early ir\nserved asChargetreasurer for 22years.Hesponsorec\nitehe developed a mind to work,tosave and to give\nhe Carlos'Boys & Men Basketball team.He and his\nand he encouragedemployeesunder hissupervisiontc",
       "person_id": null,
       "person_name": null
@@ -276,7 +302,7 @@
       "normalized_filename": "Gould_Sherwood_And_Sophiechildrens_Ancestry.jpg",
       "local_image_path": "assets/archive_media/family_trees/Gould_Sherwood_And_Sophiechildrens_Ancestry.jpg",
       "title_or_caption": "Gould_Sherwood_And_Sophiechildrens_Ancestry.jpg",
-      "subject_names": "Sherwood & Sophiechildrens Gould Lineage Pedigree",
+      "subject_names": "Sherwood & Sophie's children Gould Lineage Pedigree",
       "approximate_year": "",
       "document_type": "family_tree",
       "transcription": null,
@@ -570,32 +596,6 @@
       "person_name": "Angie Mosley"
     },
     {
-      "photo_id": 3051,
-      "category": "people",
-      "normalized_filename": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
-      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
-      "title_or_caption": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
-      "subject_names": "genealogy sheet 01 courtesy kimberly mosley moore Pierce",
-      "approximate_year": "2014",
-      "document_type": "portrait",
-      "transcription": null,
-      "person_id": null,
-      "person_name": null
-    },
-    {
-      "photo_id": 3052,
-      "category": "people",
-      "normalized_filename": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
-      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
-      "title_or_caption": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
-      "subject_names": "genealogy sheet 02 courtesy kimberly mosley moore Pierce",
-      "approximate_year": "2014",
-      "document_type": "portrait",
-      "transcription": null,
-      "person_id": null,
-      "person_name": null
-    },
-    {
       "photo_id": 1756,
       "category": "people",
       "normalized_filename": "Mosley_Mark_1.jpg",
@@ -616,7 +616,7 @@
       "title_or_caption": "Mosley_Mark_2.jpg",
       "subject_names": "Mark 2 Mosley",
       "approximate_year": "2007",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -707,7 +707,7 @@
       "title_or_caption": "Mosley_Garfield.jpg",
       "subject_names": "Garfield Mosley",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 1675,
       "person_name": "Garfield Mosley"
@@ -798,7 +798,7 @@
       "title_or_caption": "Mosley_Sherren_Who_4.jpg",
       "subject_names": "Sherren Who 4 Mosley",
       "approximate_year": "1978",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6648,
       "person_name": "Sterrett Henderson Mosley"
@@ -811,7 +811,7 @@
       "title_or_caption": "Mosley_Sherren_Who_5.jpg",
       "subject_names": "Sherren Who 5 Mosley",
       "approximate_year": "1978",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6648,
       "person_name": "Sterrett Henderson Mosley"
@@ -824,7 +824,7 @@
       "title_or_caption": "Mosley_Sherren_Who_6.jpg",
       "subject_names": "Sherren Who 6 Mosley",
       "approximate_year": "1978",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6648,
       "person_name": "Sterrett Henderson Mosley"
@@ -837,7 +837,7 @@
       "title_or_caption": "Mosley_Sherrenwho_8.jpg",
       "subject_names": "Sherrenwho 8 Mosley",
       "approximate_year": "1978",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1019,7 +1019,7 @@
       "title_or_caption": "Mosley_Paris_Shoeshop.jpg",
       "subject_names": "Paris Shoeshop Mosley",
       "approximate_year": "1949",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "transcription": null,
       "person_id": 5154,
       "person_name": "Sarah Catharine Mosley Durham"
@@ -1058,7 +1058,7 @@
       "title_or_caption": "DSCF_0045.jpg",
       "subject_names": "Dscf",
       "approximate_year": "1940",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1071,7 +1071,7 @@
       "title_or_caption": "DSCF_0046.jpg",
       "subject_names": "Dscf",
       "approximate_year": "1940",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1084,7 +1084,7 @@
       "title_or_caption": "HPIM_0253.jpg",
       "subject_names": "Hpim",
       "approximate_year": "1940",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1110,7 +1110,7 @@
       "title_or_caption": "HPIM_0270_2.jpg",
       "subject_names": "Hpim 0270",
       "approximate_year": "1940",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1123,7 +1123,7 @@
       "title_or_caption": "HPIM_0273_2.jpg",
       "subject_names": "Hpim 0273",
       "approximate_year": "1940",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1149,7 +1149,7 @@
       "title_or_caption": "HPIM_0299_2.jpg",
       "subject_names": "Hpim 0299",
       "approximate_year": "1940",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1162,7 +1162,7 @@
       "title_or_caption": "HPIM_0303_Copy.jpg",
       "subject_names": "Hpim 0303",
       "approximate_year": "1940",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1253,7 +1253,7 @@
       "title_or_caption": "Bessellieu_Constance_Mosley.jpg",
       "subject_names": "Constance Mosley Bessellieu",
       "approximate_year": "1927",
-      "document_type": "portrait",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 3347,
       "person_name": "Constance Mosley Bessellieu"
@@ -1422,7 +1422,7 @@
       "title_or_caption": "Reed_Tommy_90_Th.jpg",
       "subject_names": "Tommy 90 Th Reed",
       "approximate_year": "1921",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1487,7 +1487,7 @@
       "title_or_caption": "Carney_Mosley_Pierce_Dean_2.jpg",
       "subject_names": "Dean 2 Carney Mosley Pierce",
       "approximate_year": "1918",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1669,7 +1669,7 @@
       "title_or_caption": "Mosley_Mabel_And_Horse.jpg",
       "subject_names": "Mabel & Horse Mosley",
       "approximate_year": "1883",
-      "document_type": "group_photo",
+      "document_type": "portrait",
       "transcription": null,
       "person_id": 4768,
       "person_name": "Elizabeth Mosley"
@@ -1760,7 +1760,7 @@
       "title_or_caption": "Mosley_Annie_90_Edit.jpg",
       "subject_names": "Annie 90 Edit Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -1773,7 +1773,7 @@
       "title_or_caption": "Mosley_Annie_90_Th_2.jpg",
       "subject_names": "Annie 90 Th 2 Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -1786,7 +1786,7 @@
       "title_or_caption": "Mosley_Annie_90_Th_4.jpg",
       "subject_names": "Annie 90 Th 4 Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -1799,7 +1799,7 @@
       "title_or_caption": "Mosley_Annie_90_Th_5.jpg",
       "subject_names": "Annie 90 Th 5 Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -1838,7 +1838,7 @@
       "title_or_caption": "Mosley_Annie_Dean_Clan.jpg",
       "subject_names": "Annie Dean Clan Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -1942,7 +1942,7 @@
       "title_or_caption": "Mosley_GA_And_Lulu_Marriage_Lic.jpg",
       "subject_names": "GA & Lulu Marriage Lic Mosley",
       "approximate_year": "1861",
-      "document_type": "group_photo",
+      "document_type": "marriage_license",
       "transcription": null,
       "person_id": 6686,
       "person_name": "Lulu Durham Mosley"
@@ -1981,7 +1981,7 @@
       "title_or_caption": "Mosley_Mabel_Felix_Mary.jpg",
       "subject_names": "Mabel Felix Mary Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6748,
       "person_name": "Mabel Mosley"
@@ -2072,7 +2072,7 @@
       "title_or_caption": "Mosley_Ree_At_Mtg_4.jpg",
       "subject_names": "Ree At Mtg 4 Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6946,
       "person_name": "Ree Mosley"
@@ -2124,7 +2124,7 @@
       "title_or_caption": "Blakey_Thelma_Mosley.jpg",
       "subject_names": "Thelma Mosley Blakey",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -2176,7 +2176,7 @@
       "title_or_caption": "Mosley_William_Du_Pont.jpg",
       "subject_names": "William Du Pont Mosley",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 10391,
       "person_name": "William Dupont Mosley"
@@ -2202,7 +2202,7 @@
       "title_or_caption": "Mosley_Alberta_C.jpg",
       "subject_names": "Alberta C Mosley",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6519,
       "person_name": "Alberta C. Mosley"
@@ -2657,7 +2657,7 @@
       "title_or_caption": "Ridgeway_Teen_Family.jpg",
       "subject_names": "Teen Family Ridgeway",
       "approximate_year": "",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 6621,
       "person_name": "Teen Mosley"
@@ -2696,7 +2696,7 @@
       "title_or_caption": "Mary_Elva_Morgan_Mosley.jpg",
       "subject_names": "Elva Morgan Mosley Mary",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 9497,
       "person_name": "Mary Mosley"

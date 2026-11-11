@@ -3,7 +3,7 @@
   "person_id": 1877,
   "person_name": "John Hughes",
   "title": "john Hughes",
-  "document_type": "Portrait",
+  "document_type": "Tombstone",
   "approximate_year": "2001",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -15,7 +15,7 @@
   "word_count": 78,
   "lines": [
     "DOCUMENT TITLE: john Hughes",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Tombstone",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 2001",
     "PRIMARY SUBJECT / PERSON: John Hughes (Profile #1877)",
@@ -29,6 +29,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #2907"
   ],
-  "full_text": "DOCUMENT TITLE: john Hughes\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 2001\nPRIMARY SUBJECT / PERSON: John Hughes (Profile #1877)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_Hughes,John copy.jpg\nLineage / Surnames Documented: Hughes\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2907",
+  "full_text": "DOCUMENT TITLE: john Hughes\nRECORD CLASSIFICATION: Tombstone\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 2001\nPRIMARY SUBJECT / PERSON: John Hughes (Profile #1877)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_Hughes,John copy.jpg\nLineage / Surnames Documented: Hughes\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2907",
   "clean_html": null
 }

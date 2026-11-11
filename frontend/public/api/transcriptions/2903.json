@@ -3,7 +3,7 @@
   "person_id": 2474,
   "person_name": "Perry Hughes",
   "title": "Perry News Article Hughes",
-  "document_type": "Portrait",
+  "document_type": "Newspaper Item",
   "approximate_year": "1997",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Hughes_Perry_News_Article.jpg",
   "line_count": 14,
-  "word_count": 82,
+  "word_count": 83,
   "lines": [
     "DOCUMENT TITLE: Perry News Article Hughes",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Newspaper Item",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 1997",
     "PRIMARY SUBJECT / PERSON: Perry Hughes (Profile #2474)",
@@ -29,6 +29,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #2903"
   ],
-  "full_text": "DOCUMENT TITLE: Perry News Article Hughes\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1997\nPRIMARY SUBJECT / PERSON: Perry Hughes (Profile #2474)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_Hughes Perry news article.jpg\nLineage / Surnames Documented: Hughes\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2903",
+  "full_text": "DOCUMENT TITLE: Perry News Article Hughes\nRECORD CLASSIFICATION: Newspaper Item\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1997\nPRIMARY SUBJECT / PERSON: Perry Hughes (Profile #2474)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_Hughes Perry news article.jpg\nLineage / Surnames Documented: Hughes\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2903",
   "clean_html": null
 }

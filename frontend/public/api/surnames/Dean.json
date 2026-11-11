@@ -18,7 +18,7 @@
       "title_or_caption": "Miller_Dean_Cott_MC_MarriageCertificate_1873.jpg",
       "subject_names": "Dean Cott MC MarriageCertificate Miller (1873)",
       "approximate_year": "1873",
-      "document_type": "marriage_certificate",
+      "document_type": "military_pension",
       "transcription": "Org.N0970059\n.W.DiV.\nLevinia Millor\nDavid Millar\nCo.K.5U.S.C.Inf\nSTATE of DELAWARE,COUNTYof KENT SS;\nIn relation to the above stated claim of Levinia Miller widon\nof David Miller.\nOn this twenty fourth day of Cctober in the yenr of our Lord\nmoa Notary Public fcr the County and State aforesaidAnr\none thounand nine hundred and eleven,persorally aypeared befgre\nHough,age   yearsof Smyrns,Kent County,and State of Delaware,\nwho being duly / according tc lawdoth depose and eay\nDean married to David Niller,by her father,Rev.John Hough,on\nTrat sho was pnesent and saw Iouisaor better known as Levinia\nthe lsth day of MarchA.D.lA73.and that sheso far ns she knows,\nis the only person now living that waa present and saw them\nmarried,\nThat her Post-office address is Smxrns,Kent County,Dedawaro\nmaeom\nArrirmed and subscribed to before me this Z4th day of October\nfeidavit were fully made known and explained to the affiant\nA.Dl9ll,and I noreby certify that the contents of the above\nbefore affirning,and thet her ago is amitted because she refuse\nto give her ageand that I have no interest,direct or indirect,\nin the prosecution of thin clai\nansrell\nM1\nNotary PublYo\nP",
       "person_id": null,
       "person_name": null
@@ -252,7 +252,7 @@
       "title_or_caption": "Coney_Island_Sammons_Reed_Seeney.jpg",
       "subject_names": "Coney Island Sammons Reed Seeney",
       "approximate_year": "1920",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 7401,
       "person_name": "Hester Dean Seeney"
@@ -291,7 +291,7 @@
       "title_or_caption": "Carney_Mosley_Pierce_Dean_2.jpg",
       "subject_names": "Dean 2 Carney Mosley Pierce",
       "approximate_year": "1918",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -356,7 +356,7 @@
       "title_or_caption": "Dean_Robet_Burton_Post_Card.jpg",
       "subject_names": "Robet Burton Post Card Dean",
       "approximate_year": "1900",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 4680,
       "person_name": "Almira Wilson Dean"
@@ -447,7 +447,7 @@
       "title_or_caption": "Mosley_Annie_90_Edit.jpg",
       "subject_names": "Annie 90 Edit Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -460,7 +460,7 @@
       "title_or_caption": "Mosley_Annie_90_Th_2.jpg",
       "subject_names": "Annie 90 Th 2 Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -473,7 +473,7 @@
       "title_or_caption": "Mosley_Annie_90_Th_4.jpg",
       "subject_names": "Annie 90 Th 4 Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -486,7 +486,7 @@
       "title_or_caption": "Mosley_Annie_90_Th_5.jpg",
       "subject_names": "Annie 90 Th 5 Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -525,7 +525,7 @@
       "title_or_caption": "Mosley_Annie_Dean_Clan.jpg",
       "subject_names": "Annie Dean Clan Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -629,7 +629,7 @@
       "title_or_caption": "Mosley_Mabel_Felix_Mary.jpg",
       "subject_names": "Mabel Felix Mary Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6748,
       "person_name": "Mabel Mosley"
@@ -824,7 +824,7 @@
       "title_or_caption": "Annie_Dean.jpg",
       "subject_names": "Annie Dean",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 2351,
       "person_name": "Annie Dean"
@@ -863,7 +863,7 @@
       "title_or_caption": "Robert_Dean_var1.jpg",
       "subject_names": "Var1 Robert Dean",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4945,
       "person_name": "Robert Bernard Dean"

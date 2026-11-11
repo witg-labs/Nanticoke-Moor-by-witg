@@ -19,7 +19,7 @@
       "title_or_caption": "1_Gould_Bible_Births_BibleRecord.jpg",
       "subject_names": "Bible Births Bible Record Gould (Historical Document)",
       "approximate_year": "2011",
-      "document_type": "vital_certificate",
+      "document_type": "bible_record",
       "transcription": "Phhe\n9B",
       "person_id": null,
       "person_name": null
@@ -32,7 +32,7 @@
       "title_or_caption": "1_Gould_Bible_Deaths_BibleRecord.jpg",
       "subject_names": "Bible Deaths Bible Record Gould (Historical Document)",
       "approximate_year": "2011",
-      "document_type": "vital_certificate",
+      "document_type": "bible_record",
       "transcription": "YoC\nDiot yorloth/fs",
       "person_id": null,
       "person_name": null
@@ -45,7 +45,7 @@
       "title_or_caption": "1_Gould_Bible_Marriages_BibleRecord.jpg",
       "subject_names": "Bible Marriages Bible Record Gould (Historical Document)",
       "approximate_year": "2011",
-      "document_type": "vital_certificate",
+      "document_type": "bible_record",
       "transcription": "aranps",
       "person_id": null,
       "person_name": null
@@ -58,7 +58,7 @@
       "title_or_caption": "Gould_Bible_0_BibleRecord.jpg",
       "subject_names": "Bible 0. Bible Record Gould (Historical Document)",
       "approximate_year": "2011",
-      "document_type": "bible_record",
+      "document_type": "photograph_other",
       "transcription": "ul's father\nrise.g0\nhalisha\nhrough",
       "person_id": null,
       "person_name": null
@@ -71,7 +71,7 @@
       "title_or_caption": "Gould_Bible_1_BibleRecord.jpg",
       "subject_names": "Bible 1. Bible Record Gould (Historical Document)",
       "approximate_year": "2011",
-      "document_type": "bible_record",
+      "document_type": "historical_document",
       "transcription": "TOGO\nINTHE\nHGHES\nTORY\nPRAC\nAND ORGARTT\nLUSIRATE\nN\nEB0\nEARC\nXOOUS\nL\nVI\nATC\n1\nRA\nYBIB\nam the resur\ndead.yet shall\neclion, and the\nhe live: And\nHile he tat be\nwhosoever livelh\nand believethin\nHiev than me,\nme shallnever die\nThough he were",
       "person_id": null,
       "person_name": null
@@ -110,7 +110,7 @@
       "title_or_caption": "Gould_Bible_Births_1_Grey_BibleRecord.jpg",
       "subject_names": "Bible Births 1. Grey Bible Record Gould (Historical Document)",
       "approximate_year": "2011",
-      "document_type": "vital_certificate",
+      "document_type": "bible_record",
       "transcription": "His charge.t\nland, but\nhe net wit\ncome to lan\naid thereon\nm,Bring\nnd drewtl\nSamths\nandfiitya\nD\nwas nott\nRe\nem,Co\ndurst as\nthe Lore\nand tak\nimethat.\nathew.\nh unto\nthird\nhim.\nvest that\nheep\nerily\nrdedst thyse\n8\nbut when\nrth thy\nthee whith\nMMoerel Mol",
       "person_id": null,
       "person_name": null
@@ -123,7 +123,7 @@
       "title_or_caption": "Gould_Bible_Marriages_1_Grey_BibleRecord.jpg",
       "subject_names": "Bible Marriages 1. Grey Bible Record Gould (Historical Document)",
       "approximate_year": "2011",
-      "document_type": "vital_certificate",
+      "document_type": "bible_record",
       "transcription": "and Mana\nbelow and\ntCarraars\nC\nM\nWec.qsi.is\noh\nume\nthe\ncohir\nwest t\nmy sh\nS\nerily,\nirdedstt\nbutw\nOnleellros\north thy\nthee w\nake he,\n.God.\nunto hin\neter, tur\nloved,\nat sup\nveth thee\nseeing hi\nis man d\naith unto\nvhat is th",
       "person_id": null,
       "person_name": null
@@ -201,7 +201,7 @@
       "title_or_caption": "Gould_Prudence_F_Obituary.jpg",
       "subject_names": "Prudence F. Gould (Historical Document)",
       "approximate_year": "1952",
-      "document_type": "obituary_program",
+      "document_type": "funeral_program",
       "transcription": "D-n GouownN.J.Apri\n31911.PruencebGou.d\nReatiyesand frlends are inyiled to\nence on Saturdayalternoonat\nnitend the fnneralrom berate res\nD'cloek.Seryices at the Goudtown\nChurch.nternent in adioinng ceme\ntery",
       "person_id": null,
       "person_name": null
@@ -214,7 +214,7 @@
       "title_or_caption": "Gould_Arabella_G_Obituary.jpg",
       "subject_names": "Arabella G. Gould (Historical Document)",
       "approximate_year": "1952",
-      "document_type": "obituary_program",
+      "document_type": "funeral_program",
       "transcription": "ENTEREDINTO RES\nGOLD-Atrest\nN0Y10.1936\nArabella G.wife of Btepnen Gouid\nged byears\nRelatiyes and frlends are invitec\nto attend the funeral servces Iron\ner\nBuckyhulcn roadBldgeton,Sat\nHusbang8resldenceon\nthe\nuiday\nmorningNoyl4\nB\no'clock. Intermcnt inGouldtown\nCemetery.Kredy may cal Fmda\nvening from 7 untl 9 o'clock",
       "person_id": null,
       "person_name": null
@@ -251,7 +251,7 @@
       "normalized_filename": "Gould_Sherwood_And_Sophiechildrens_Ancestry.jpg",
       "local_image_path": "assets/archive_media/family_trees/Gould_Sherwood_And_Sophiechildrens_Ancestry.jpg",
       "title_or_caption": "Gould_Sherwood_And_Sophiechildrens_Ancestry.jpg",
-      "subject_names": "Sherwood & Sophiechildrens Gould Lineage Pedigree",
+      "subject_names": "Sherwood & Sophie's children Gould Lineage Pedigree",
       "approximate_year": "",
       "document_type": "family_tree",
       "transcription": null,
@@ -266,7 +266,7 @@
       "title_or_caption": "Gould_Harold_Baseball.jpg",
       "subject_names": "Harold Baseball Gould",
       "approximate_year": "2010",
-      "document_type": "portrait",
+      "document_type": "document_page",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -305,7 +305,7 @@
       "title_or_caption": "Pierce_Dorothy_Gould_1926.jpg",
       "subject_names": "Dorothy Gould Pierce (1926)",
       "approximate_year": "1922",
-      "document_type": "portrait",
+      "document_type": "newspaper_item",
       "transcription": null,
       "person_id": 7054,
       "person_name": "Dorothy Beatrice Ridgeway Pierce"
@@ -318,7 +318,7 @@
       "title_or_caption": "Gould_Vets.jpg",
       "subject_names": "Vets Gould",
       "approximate_year": "1880",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 2884,
       "person_name": "Cornelia Williams Read Gould"
@@ -331,7 +331,7 @@
       "title_or_caption": "Gould_WB.jpg",
       "subject_names": "Wb Gould",
       "approximate_year": "1880",
-      "document_type": "portrait",
+      "document_type": "document_page",
       "transcription": null,
       "person_id": 2884,
       "person_name": "Cornelia Williams Read Gould"
@@ -344,7 +344,7 @@
       "title_or_caption": "Cornelia_Williams_Read_Gould_Cynthia_Gould.jpg",
       "subject_names": "Cornelia Williams Read Gould Cynthia Gould",
       "approximate_year": "1880",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 2884,
       "person_name": "Cornelia Williams Read Gould"
@@ -357,7 +357,7 @@
       "title_or_caption": "Gould_lorenzo.jpg",
       "subject_names": "Lorenzo Gould",
       "approximate_year": "1865",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": 1874,
       "person_name": "Lorenzo Gould"
@@ -370,7 +370,7 @@
       "title_or_caption": "Gould_margaret.jpg",
       "subject_names": "margaret Gould",
       "approximate_year": "1865",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -383,7 +383,7 @@
       "title_or_caption": "Gould_Lorenzo_Affiants.jpg",
       "subject_names": "Lorenzo Affiants Gould",
       "approximate_year": "1865",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 1874,
       "person_name": "Lorenzo Gould"
@@ -435,7 +435,7 @@
       "title_or_caption": "Gould_Jesse_And_Mariechildren_An.jpg",
       "subject_names": "Gould Jesse & Mariechildren An",
       "approximate_year": "",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 5560,
       "person_name": "Marie Durham Gould"

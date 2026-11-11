@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "Lydia Gould Sheppard",
-  "document_type": "Portrait",
+  "document_type": "Document Page",
   "approximate_year": "Historical Record",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Sheppard_Lydia_Gould.jpg",
   "line_count": 13,
-  "word_count": 71,
+  "word_count": 72,
   "lines": [
     "DOCUMENT TITLE: Lydia Gould Sheppard",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Document Page",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: Historical Record",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #2271"
   ],
-  "full_text": "DOCUMENT TITLE: Lydia Gould Sheppard\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_SheppardLydiaGould.jpg\nLineage / Surnames Documented: Sheppard\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2271",
+  "full_text": "DOCUMENT TITLE: Lydia Gould Sheppard\nRECORD CLASSIFICATION: Document Page\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_SheppardLydiaGould.jpg\nLineage / Surnames Documented: Sheppard\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2271",
   "clean_html": null
 }

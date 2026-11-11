@@ -278,7 +278,7 @@
       "title_or_caption": "Davis_Wilson_Newspaper.jpg",
       "subject_names": "Wilson Newspaper Davis",
       "approximate_year": "1954",
-      "document_type": "portrait",
+      "document_type": "newspaper_item",
       "transcription": null,
       "person_id": 4975,
       "person_name": "Wilson Seville Davis"
@@ -291,7 +291,7 @@
       "title_or_caption": "Wilson_Anna_Jeanette_Grad.jpg",
       "subject_names": "Anna Jeanette Grad Wilson",
       "approximate_year": "1950",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 7961,
       "person_name": "Jeanette WILSON"
@@ -395,7 +395,7 @@
       "title_or_caption": "Wilson_Howard_Cfamily_1930.jpg",
       "subject_names": "Howard Cfamily Wilson (1930)",
       "approximate_year": "1930",
-      "document_type": "group_photo",
+      "document_type": "census_record",
       "transcription": null,
       "person_id": 4541,
       "person_name": "Howard Clifton Wilson Jr"
@@ -499,7 +499,7 @@
       "title_or_caption": "Dean_Robet_Burton_Post_Card.jpg",
       "subject_names": "Robet Burton Post Card Dean",
       "approximate_year": "1900",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 4680,
       "person_name": "Almira Wilson Dean"

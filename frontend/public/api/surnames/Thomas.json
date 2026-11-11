@@ -109,7 +109,7 @@
       "title_or_caption": "Clark_Thomas_10.jpg",
       "subject_names": "Thomas 10 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -122,7 +122,7 @@
       "title_or_caption": "Clark_Thomas_11.jpg",
       "subject_names": "Thomas 11 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -135,7 +135,7 @@
       "title_or_caption": "Clark_Thomas_12.jpg",
       "subject_names": "Thomas 12 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -148,7 +148,7 @@
       "title_or_caption": "Clark_Thomas_13.jpg",
       "subject_names": "Thomas 13 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -161,7 +161,7 @@
       "title_or_caption": "Clark_Thomas_3.jpg",
       "subject_names": "Thomas 3 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -174,7 +174,7 @@
       "title_or_caption": "Clark_Thomas_4.jpg",
       "subject_names": "Thomas 4 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -187,7 +187,7 @@
       "title_or_caption": "Clark_Thomas_5.jpg",
       "subject_names": "Thomas 5 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -200,7 +200,7 @@
       "title_or_caption": "Clark_Thomas_6.jpg",
       "subject_names": "Thomas 6 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -213,7 +213,7 @@
       "title_or_caption": "Clark_Thomas_7.jpg",
       "subject_names": "Thomas 7 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -226,7 +226,7 @@
       "title_or_caption": "Clark_Thomas_8.jpg",
       "subject_names": "Thomas 8 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -239,7 +239,7 @@
       "title_or_caption": "Clark_Thomas_9.jpg",
       "subject_names": "Thomas 9 Clark",
       "approximate_year": "1819",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -409,11 +409,11 @@
     },
     {
       "person_id": 4286,
-      "name": "Chanceller Thomas Counselor",
+      "name": "Chanceller Thomas Conselor",
       "first_name": "Chanceller",
       "middle_name": "Thomas",
       "maiden_name": "",
-      "married_last_name": "Counselor",
+      "married_last_name": "Conselor",
       "birth_info": "28 Sep 1915",
       "death_info": "6 Mar 2012 (aged 96)",
       "notes": "Ingested from Counceller-Grayreunion2003%20copy.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/86392115/wilma-schmittler",

@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "Sarah Ann Deathcert 2 Miller",
-  "document_type": "Portrait",
+  "document_type": "Death Certificate",
   "approximate_year": "2009",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Miller_Sarah_Ann_Deathcert_2.jpg",
   "line_count": 13,
-  "word_count": 72,
+  "word_count": 73,
   "lines": [
     "DOCUMENT TITLE: Sarah Ann Deathcert 2 Miller",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Death Certificate",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 2009",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #2986"
   ],
-  "full_text": "DOCUMENT TITLE: Sarah Ann Deathcert 2 Miller\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 2009\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_MillerSarahAnn-deathcert2.jpg\nLineage / Surnames Documented: Miller\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2986",
+  "full_text": "DOCUMENT TITLE: Sarah Ann Deathcert 2 Miller\nRECORD CLASSIFICATION: Death Certificate\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 2009\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_MillerSarahAnn-deathcert2.jpg\nLineage / Surnames Documented: Miller\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2986",
   "clean_html": null
 }

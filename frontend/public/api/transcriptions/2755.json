@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "Dsc",
-  "document_type": "Portrait",
+  "document_type": "Tombstone",
   "approximate_year": "1864",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -15,7 +15,7 @@
   "word_count": 70,
   "lines": [
     "DOCUMENT TITLE: Dsc",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Tombstone",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 1864",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #2755"
   ],
-  "full_text": "DOCUMENT TITLE: Dsc\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1864\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_DSC00384.JPG\nLineage / Surnames Documented: Delmarva tribal families\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2755",
+  "full_text": "DOCUMENT TITLE: Dsc\nRECORD CLASSIFICATION: Tombstone\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1864\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_DSC00384.JPG\nLineage / Surnames Documented: Delmarva tribal families\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2755",
   "clean_html": null
 }
