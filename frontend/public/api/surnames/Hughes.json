@@ -121,7 +121,7 @@
       "title_or_caption": "Hughes_john.jpg",
       "subject_names": "john Hughes",
       "approximate_year": "2001",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": 1877,
       "person_name": "John Hughes"
@@ -134,7 +134,7 @@
       "title_or_caption": "Hughes_Deborah_Cork_Deathcert.jpg",
       "subject_names": "Deborah Cork Deathcert Hughes",
       "approximate_year": "2001",
-      "document_type": "portrait",
+      "document_type": "death_certificate",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -147,7 +147,7 @@
       "title_or_caption": "Hughes_John_Orig_Deathcert.jpg",
       "subject_names": "John Orig Deathcert Hughes",
       "approximate_year": "2001",
-      "document_type": "portrait",
+      "document_type": "death_certificate",
       "transcription": null,
       "person_id": 1877,
       "person_name": "John Hughes"
@@ -160,7 +160,7 @@
       "title_or_caption": "Hughes_John_Pension_Deathcert_Pension.jpg",
       "subject_names": "John Pension Deathcert Pension Hughes",
       "approximate_year": "2001",
-      "document_type": "portrait",
+      "document_type": "death_certificate",
       "transcription": null,
       "person_id": 1877,
       "person_name": "John Hughes"
@@ -173,7 +173,7 @@
       "title_or_caption": "Hughes_Perry_News_Article.jpg",
       "subject_names": "Perry News Article Hughes",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "newspaper_item",
       "transcription": null,
       "person_id": 2474,
       "person_name": "Perry Hughes"
@@ -225,7 +225,7 @@
       "title_or_caption": "Hughes_Perry_News_Article_2.jpg",
       "subject_names": "Perry News Article 2 Hughes",
       "approximate_year": "1848",
-      "document_type": "portrait",
+      "document_type": "newspaper_item",
       "transcription": null,
       "person_id": 2474,
       "person_name": "Perry Hughes"
@@ -290,7 +290,7 @@
       "title_or_caption": "Sammons_Charles.jpg",
       "subject_names": "Charles Sammons",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 744,
       "person_name": "Charles Sammons"

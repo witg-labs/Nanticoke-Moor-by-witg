@@ -3,9 +3,9 @@
   "individual_count": 75,
   "photo_count": 104,
   "category_counts": {
-    "documents": 26,
+    "documents": 28,
     "family_trees": 6,
-    "people": 70,
+    "people": 68,
     "tombstones": 2
   },
   "obituary_count": 22,
@@ -19,7 +19,7 @@
       "title_or_caption": "1_Pierce_Births.jpg",
       "subject_names": "Births Pierce",
       "approximate_year": "2014",
-      "document_type": "vital_certificate",
+      "document_type": "bible_record",
       "transcription": "Tr\nBIR\nPES\nM+\nAN\nRA\n=9",
       "person_id": null,
       "person_name": null
@@ -32,8 +32,34 @@
       "title_or_caption": "1_Pierce_Bible_Cover_BibleRecord.jpg",
       "subject_names": "Bible Cover Bible Record Pierce (Historical Document)",
       "approximate_year": "2014",
-      "document_type": "bible_record",
+      "document_type": "photograph_other",
       "transcription": "20\nQC",
+      "person_id": null,
+      "person_name": null
+    },
+    {
+      "photo_id": 3051,
+      "category": "documents",
+      "normalized_filename": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "title_or_caption": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "subject_names": "genealogy sheet 01 courtesy kimberly mosley moore Pierce",
+      "approximate_year": "2014",
+      "document_type": "family_tree",
+      "transcription": null,
+      "person_id": null,
+      "person_name": null
+    },
+    {
+      "photo_id": 3052,
+      "category": "documents",
+      "normalized_filename": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
+      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
+      "title_or_caption": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
+      "subject_names": "genealogy sheet 02 courtesy kimberly mosley moore Pierce",
+      "approximate_year": "2014",
+      "document_type": "family_tree",
+      "transcription": null,
       "person_id": null,
       "person_name": null
     },
@@ -97,7 +123,7 @@
       "title_or_caption": "Pierce_Rev_Earl_Sherman_Funeral_Program_01_2003.jpg",
       "subject_names": "Rev Earl Sherman Funeral Program 01 Pierce (2003)",
       "approximate_year": "2003",
-      "document_type": "obituary_program",
+      "document_type": "funeral_program",
       "transcription": "Haaadaaadadadaadaaa\nn LovingMemor\nof\nBal\nJhoiman\npne\nNovember29.1942-September24,2003\nservices\nSaturday,October4,2003\nEleven O'clock in the Morning\nMountZionBaptistChurch\nsouth New Road and Marple Avenue\nPleasantville,New Jersey\nReverendWinfredSanders,Ph.D\nPastor",
       "person_id": null,
       "person_name": null
@@ -110,7 +136,7 @@
       "title_or_caption": "Pierce_Rev_Earl_Sherman_Funeral_Program_02_2003.jpg",
       "subject_names": "Rev Earl Sherman Funeral Program 02 Pierce (2003)",
       "approximate_year": "2003",
-      "document_type": "obituary_program",
+      "document_type": "funeral_program",
       "transcription": "aN\nSATHER EARLSHERMANPIERCE was born in Bridgeton,New Jersey on\nNovember29,1942,toPauline Boardly andEarlS.Pierce.He was reared\nby his grandmother,Mary E.Morris,who was aCod-tearing woman,who was\nactive inSt.John'sCnited Methodist Church in Fordville,NewJersey\n)eep within him,Earl always knew he was destinedto preach the Cospel.The\nHoly Spirit called tohim at an early age.When he was twelve,he was baptized\nin Laurel Lake and subsequently became a local preacher in the Methodist\nhurch. He went on to receive his B.A. degree from ClassboroState College\nRowanUniversity todayin 1965.During that year, he became the Lay\nReader-in-Charge at the Annunciation EpiscopalChurch in Lawnside,New\nersey.He continuedhis studies at the Philadelphia Divinity School,wherehe\nreceivedthe degree of Master ofDivinity in T9/O.InOctober970,Father\nPierce was ordainedasPriest and became a Vicar of the Annunciation Episcopa\nChurch in Lawnside\nFather Pierce was employedas the Affirmative Action Officer for the South\nJersey Transportation Authority for more than ten years.At his death,he held\nthe position as Manager Political Liaison.\nA strong advocate of civil rights and social change in the African-American\ncommunity,Father Pierce was ledby hisheart to seek political orfice many\nyears ago.In Atlantic City,he served as Fourth WardCouncilman,and for one\nyear asPresident ofCityCouncil\nPrior to arriving in Atlantic City,he led an active and diversitied life.Forever\nhe champion of the underdog,Father Pierce was a Minister tor the Spanish\nMigrant Workers under the auspices of the Diocese of New Jersey from 1963\nuntil 1973.During his residence in Lawnside, he was also a police officer tor\nhe borough;President of the Lawnside Board of Education; a member of Tri\nBorough Ministerium;Camden-Woodbury Clericus;Camden Convocation\nDiocese of New Jersey;Alpha Phi Alpha Fraternity;Black Elected and Appointed\nOfficials:Black Churchmen and Military Chaplains Association of the United",
       "person_id": null,
       "person_name": null
@@ -123,7 +149,7 @@
       "title_or_caption": "Pierce_Rev_Earl_Sherman_Funeral_Program_04_2003.jpg",
       "subject_names": "Rev Earl Sherman Funeral Program 04 Pierce (2003)",
       "approximate_year": "2003",
-      "document_type": "obituary_program",
+      "document_type": "funeral_program",
       "transcription": "e\nPresiding,The Reverend WinfredSanders,Ph.D\nPresiding, The Rt. Reverend Joseph Morris Doss\nOrgan Prelude\nDr.Beverly Vaughn\nHymn of Comfort\nItIs WellWith My Soul\nSelection\nMt.Zion Baptist Choir\nPrayer ofComtort\nBishop Doss\nOidTestamentLesson\nReverendWilliam L.McClurkin\nEcclesiastes 3:1-11\nNewTestamentLesson\nReverendHarold Cobb\nTimothy 4:6-8\nSelection\nMt.Zion Baptist Choir\nWords of Comfort\nThe Obituary\nBeniamin Fitzgerald\nSelection\nPeace Be Still'\nEulogy\nPastor WinfredSanders\nRecessiona\nnterment\n-akeview Memorial Park\n_innaminson,New Jersey",
       "person_id": null,
       "person_name": null
@@ -136,7 +162,7 @@
       "title_or_caption": "Pierce_Rev_Earl_Sherman_Funeral_Program_05_2003.jpg",
       "subject_names": "Rev Earl Sherman Funeral Program 05 Pierce (2003)",
       "approximate_year": "2003",
-      "document_type": "obituary_program",
+      "document_type": "funeral_program",
       "transcription": "SafelyHome\nNhenI am gone,release me,let me go\nYou have so many things to see and do\nou mustn't tie yourself to me with tears\n8e happy that we had these years\ngave you my love.You can only gues.\nHow much you gave me in happiness\nthank you for the love you each haye shown\nBut now it's time [ traveled on alone\no grieve a while tor me,if grieve you must\nIhen letyour griet be comfortedby trust\nt's only tor a while that we must part\nobless the memories within your heart\nwon't be far away for life goes on\no it you need me,call and I will hear\nIhough you can't see or touch me,I'll be near..\nAnd if you listen with your heart, you'll heal\nAll of my love around you soft and clear\nAnd then, when you must come this way alone\nI'll greet you with a smile andWelcome Home\"",
       "person_id": null,
       "person_name": null
@@ -149,7 +175,7 @@
       "title_or_caption": "Pierce_Rev_Earl_Sherman_Funeral_Program_06_2003.jpg",
       "subject_names": "Rev Earl Sherman Funeral Program 06 Pierce (2003)",
       "approximate_year": "2003",
-      "document_type": "obituary_program",
+      "document_type": "funeral_program",
       "transcription": "rayer of St. Francis of Assis\nord,make me an instrument of your peace\nWherethereisnatred,letme sowlove,\nWhere there is injury,pardon;\nWhere there is doubt, faith\nWhere there is despair,hope\nWhere there is darkness,light;\nAndwhere there is sadness,joy\nODivine Master\nGrant that I may not so much seek to be consoled as to console\nTo be understood as to understand\nTo be lovedas to love\nFor it is in giving that we receive\nt is in pardoning that we are pardoned\nAnd it is in dying that we are born to eternal life.\nPallbearers\nAlonzo Bailey,B.T.Brandon\nErnest D.Coursey,Douglas Johnson\nacques Johnson,HaroldPierce\nHonoraryPallbearers\nIheWardens of St.Augustine's Episcopal Church\nThe Vestry ofSt.Augustine's Episcopal Church\nEdward Lax,The ReverendHarry Watkins\nAcknowledgment\nOur family wishes to express sincere appreciation for all acts\nof kindness rendered during our time of bereavement.",
       "person_id": null,
       "person_name": null
@@ -162,7 +188,7 @@
       "title_or_caption": "Pierce_Rev_Earl_Sherman_01_Obituary_2003.jpg",
       "subject_names": "Rev Earl Sherman 01 Obituary Pierce (2003)",
       "approximate_year": "2003",
-      "document_type": "obituary_program",
+      "document_type": "newspaper_item",
       "transcription": "REVEREND EARL\nSHERMAN PIERCE\nThe Reverend Earl Sherman\nPierce-60 died September 24 at\nhome in Petersburg,N.J\nFather Pierce was the retired\nRector of St.AugustineEpisco-\npal Church where he served for\n23 years.He received his Mas-\nter of Divinity M.Div) degree\nfrom the Philadelphia School of\nProtestantEpiscopa.\nChurch.He was also an alumni\nofGlassboro State College\n(Rowan University), where he\nreceived his Bachelor of Arts\ndegree, and was a graduate of\nBridgetonRegionalHigh\nSchool. Father Pierce worked\nas the Affirmative Action Offi\ncer for the South Jersey Trans-\nportation Authority for more\nthan 10 years.At his death,he\nheld the position as Manager\nPolitical Liaison.\nFather Earl Pierce was a\nstrong advocate of Civil Rights\nand social change in the\nAfrican-American community\nMany years ago,he was led by",
       "person_id": null,
       "person_name": null
@@ -175,7 +201,7 @@
       "title_or_caption": "Pierce_Rev_Earl_Sherman_02_Obituary_2003.jpg",
       "subject_names": "Rev Earl Sherman 02 Obituary Pierce (2003)",
       "approximate_year": "2003",
-      "document_type": "obituary_program",
+      "document_type": "newspaper_item",
       "transcription": "PESALAILCHD.GON\nNEWS\nHASSFEIS\nSRERJAINMERT\nSHUREHITE\nSeptember26,2003\n-ornerA.C.counclpresldent.pasto\ndles\n3yBRIDGE7M0RPHYStaifWnter,(609)272-7257,E-Mail\nATLANniCCnTY-TheRev.EarlPierce,a local black leader wnose innuence\nextehdedTromtnepuipittotheCityCouncildais,dledatnishome\nNednesdayatageo0\nHis causeordeatn was hotimmediatelyclear,aitnougnthetormerCity\nsouncllpresidentwas illandsunenng wromback andlegpaln.\nHlsdeatncame a year atter ne retired aspastorofSt.Augustne'sEpiscopa\nChurcn, wnerene led the congregation tor23 years.\nPierce won tne4tn Ward City Councilseat in1988 on tne strengtn of three\nabsentee banots arteryearsorworkingbenindtnescenes insupport ofMayo\nJamesUsry,tnecity'smrst biack mayor.\nPlerce'selection to council reintorced tne power ofUsry's political\norganization, evenagainst astrong cnallenge tromacoalitionof otner biack\nsolitical leaders, markingwnat manysaw astnemrst major rt in tne city's\nSlack poitcal'strdcture\nPlerce's politcal alliances changed trom time to time over the years,notably\nn1992wnencurent iviayorLorenzo Langtorddereatedthe powemu\nncurnibent inaracetortne4tnwardcouncilseatwitnUsry'ssupport\nAtewmonns later,Pierce took a position as affirmative action officer for the\nsoutn JerseyTransportatonAutnonty,witn criticsdubbinghis hining as\nsoltical patronage tor hissupport or then-Miayor Jamesvnelan\nnelan onThursday calledPierce a \"dynamic figure in Atlantic City both as a",
       "person_id": null,
       "person_name": null
@@ -188,7 +214,7 @@
       "title_or_caption": "Pierce_Alvina_Obit_Obituary.jpg",
       "subject_names": "Alvina Obit Obituary Pierce",
       "approximate_year": "1922",
-      "document_type": "historical_document",
+      "document_type": "newspaper_item",
       "transcription": "PiERCE-In Briageton. N. I. Sept\n(. Hol8. Alyina. daughter of Eugene\nInd Bertha Pierce, aged 10 years\nRelatives and Iriends are inyited tc\nttend the nuneral al her parents' resj\nJence onIneBowentornroado.\nI'hursday afternoon. Sept.12. at?\nOciock. Interment at Gonidtown. The\nremains may be Wewed from\nS\n'clock Wedbesday evenins",
       "person_id": null,
       "person_name": null
@@ -201,7 +227,7 @@
       "title_or_caption": "Pierce_Della_B_Obituary.jpg",
       "subject_names": "Della B Obituary Pierce",
       "approximate_year": "1922",
-      "document_type": "obituary_program",
+      "document_type": "newspaper_item",
       "transcription": "DIED\nPE-nBigetonN.C\n1ll7.DelB.wyife oGeoren\nPlerceased 3syears\ntotiytsan lrienosate-resre\nulynyitedto attendthe unera\nyom\nHerhushand's resideneea\nttrnoon al 12. o'clock.Serviceal\nEasl Connerce slreet on Sueaay at\nGonown cnnrch allocockna\nmtntatCoudtown ceme-er",
       "person_id": null,
       "person_name": null
@@ -292,7 +318,7 @@
       "title_or_caption": "Pierce_harold_E_Jr_Obituary.jpg",
       "subject_names": "harold E Jr Obituary Pierce",
       "approximate_year": "",
-      "document_type": "historical_document",
+      "document_type": "newspaper_item",
       "transcription": "B12C\nTHE PHILADELPHIA INQUIRER\nOBITUARIES\nHaroldE.PierceJr.84\niermatologst.surgeon\nBy Gayle Ronan Sims\nINQUIRRR STAFP WRITER\nPierce Cosmetic Surgery Center\nIn the early 1980s,he founded\nmatologist and cosmetic sur-\nHarold E.Pierce Jr.,84,a der-\non City Avenue in Bala Cynwyd\nof the first liposuction proce\nwhere he participated in some\ngeon in Philadelphia for more\ncancer Oct. 25 in Phoenixville\nthan half a century, died of lung\nDr.Pierce eventually moved his\ndures on African Americans\nident of Wynnewood.\nHospital.He was a longtime res\nof Osteopathic Medicine on City\npractice to Philadelphia College\num area, and his mother died\nHe was born in the Art Muse\ntion of Philadelphia.He retired\nAvenue in the River Park sec\ned the best situation for his son\nwhen he was 7.His father decid-\nin 2005",
       "person_id": null,
       "person_name": null
@@ -305,7 +331,7 @@
       "title_or_caption": "Pierce_harold_E_Jr_Obituary_var1.jpg",
       "subject_names": "harold E Jr Obituary var1 Pierce",
       "approximate_year": "",
-      "document_type": "historical_document",
+      "document_type": "newspaper_item",
       "transcription": "Joted ocaLdoctorrememberec\nBy AMANDA HAMM\nStaff Writer\nroots.\"she remarked\nBorn onApril4,1922,in Philadelphia,\nhome.she said\nMcClinton said she and her daughter\nNot matter where you go,remember\nPierce moved to Bridgeton to live with\nhis grandparents, Lilian and Warren\nhelped organize a tour to the city recent\nly for members of the family\nwhere you came from.\nPierce Jr.'s mantra,his daughter,Tama-\nThat seemed to be Dr. Harold Ernest\nPierce,\nWood\nshe said he pointed out specific parts of\nWith Pierce acting as the tour guide\nra Pierce McClinton,said recently\nAn internationally renowned derma-\nwas\nwhen\nhe\n7-\nthe city he most fondly remembered\nHe really had a sense of the history of\ntologist and cosmetic surgeon, Pierce\ngraduated from Bridgeton High School\nyears-old",
       "person_id": null,
       "person_name": null
@@ -448,7 +474,7 @@
       "title_or_caption": "Al_Pierce_Unk_2.jpg",
       "subject_names": "Al Pierce Unknown",
       "approximate_year": "2015",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -552,7 +578,7 @@
       "title_or_caption": "1_Pierce_Franulia_H_And_Preston_Hosea_Pierce_Birth_Dates_Letter_01_1966.jpg",
       "subject_names": "Pierce Franulia H & Preston Hosea Pierce Birth Dates Letter 01 1966",
       "approximate_year": "2014",
-      "document_type": "group_photo",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -565,33 +591,7 @@
       "title_or_caption": "1_Pierce_Births_var1.jpg",
       "subject_names": "Births Var1 Pierce",
       "approximate_year": "2014",
-      "document_type": "portrait",
-      "transcription": null,
-      "person_id": null,
-      "person_name": null
-    },
-    {
-      "photo_id": 3051,
-      "category": "people",
-      "normalized_filename": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
-      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
-      "title_or_caption": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
-      "subject_names": "genealogy sheet 01 courtesy kimberly mosley moore Pierce",
-      "approximate_year": "2014",
-      "document_type": "portrait",
-      "transcription": null,
-      "person_id": null,
-      "person_name": null
-    },
-    {
-      "photo_id": 3052,
-      "category": "people",
-      "normalized_filename": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
-      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
-      "title_or_caption": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
-      "subject_names": "genealogy sheet 02 courtesy kimberly mosley moore Pierce",
-      "approximate_year": "2014",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -604,7 +604,7 @@
       "title_or_caption": "Pierce_Anthony_And_Louie_Family.jpg",
       "subject_names": "Anthony & Louie Family Pierce",
       "approximate_year": "2014",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -617,7 +617,7 @@
       "title_or_caption": "Pierce_Carey_2_MR_1873_Mass.jpg",
       "subject_names": "Carey 2 MR 1873 Mass Pierce",
       "approximate_year": "2013",
-      "document_type": "portrait",
+      "document_type": "marriage_record",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -630,7 +630,7 @@
       "title_or_caption": "Pierce_Phillip_Smiths_Child.jpg",
       "subject_names": "Phillip Smiths Child Pierce",
       "approximate_year": "2013",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -643,7 +643,7 @@
       "title_or_caption": "Pierce_Philip_DR_1902_Mass.jpg",
       "subject_names": "Philip DR 1902 Mass Pierce",
       "approximate_year": "2013",
-      "document_type": "portrait",
+      "document_type": "death_record",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -656,7 +656,7 @@
       "title_or_caption": "Pierce_Phillip_Stub_2.jpg",
       "subject_names": "Phillip Stub 2 Pierce",
       "approximate_year": "2013",
-      "document_type": "portrait",
+      "document_type": "marriage_record",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -669,7 +669,7 @@
       "title_or_caption": "Pierce_Jedediah.jpg",
       "subject_names": "Jedediah Pierce",
       "approximate_year": "2002",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -838,7 +838,7 @@
       "title_or_caption": "Pierce_Dorothy_Gould_1926.jpg",
       "subject_names": "Dorothy Gould Pierce (1926)",
       "approximate_year": "1922",
-      "document_type": "portrait",
+      "document_type": "newspaper_item",
       "transcription": null,
       "person_id": 7054,
       "person_name": "Dorothy Beatrice Ridgeway Pierce"
@@ -851,7 +851,7 @@
       "title_or_caption": "Carney_Mosley_Pierce_Dean_2.jpg",
       "subject_names": "Dean 2 Carney Mosley Pierce",
       "approximate_year": "1918",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -890,7 +890,7 @@
       "title_or_caption": "Pierce_Gladys_Eleanor_Mary_Sadie.jpg",
       "subject_names": "Gladys Eleanor Mary Sadie Pierce",
       "approximate_year": "1867",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4421,
       "person_name": "Mary Murray Cuff"
@@ -994,7 +994,7 @@
       "title_or_caption": "Pierce_William_Sojourner_Article_1.jpg",
       "subject_names": "William Sojourner Article 1 Pierce",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "newspaper_item",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1007,7 +1007,7 @@
       "title_or_caption": "Pierce_William_Sojourner_Article_2.jpg",
       "subject_names": "William Sojourner Article 2 Pierce",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "newspaper_item",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1020,7 +1020,7 @@
       "title_or_caption": "DSCN_9347.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1033,7 +1033,7 @@
       "title_or_caption": "DSCN_9348.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1046,7 +1046,7 @@
       "title_or_caption": "DSCN_9349.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1059,7 +1059,7 @@
       "title_or_caption": "DSCN_9350.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1072,7 +1072,7 @@
       "title_or_caption": "DSCN_9351.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1085,7 +1085,7 @@
       "title_or_caption": "DSCN_9352.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1098,7 +1098,7 @@
       "title_or_caption": "DSCN_9353.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1111,7 +1111,7 @@
       "title_or_caption": "DSCN_9354.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1124,7 +1124,7 @@
       "title_or_caption": "DSCN_9355.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1137,7 +1137,7 @@
       "title_or_caption": "DSCN_9356.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1150,7 +1150,7 @@
       "title_or_caption": "DSCN_9357.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1163,7 +1163,7 @@
       "title_or_caption": "DSCN_9358.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1176,7 +1176,7 @@
       "title_or_caption": "DSCN_9359.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1189,7 +1189,7 @@
       "title_or_caption": "DSCN_9360.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1202,7 +1202,7 @@
       "title_or_caption": "DSCN_9361.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1215,7 +1215,7 @@
       "title_or_caption": "DSCN_9362.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1228,7 +1228,7 @@
       "title_or_caption": "DSCN_9363.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1241,7 +1241,7 @@
       "title_or_caption": "DSCN_9364.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1254,7 +1254,7 @@
       "title_or_caption": "DSCN_9365.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1267,7 +1267,7 @@
       "title_or_caption": "DSCN_9366.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1280,7 +1280,7 @@
       "title_or_caption": "DSCN_9367.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1293,7 +1293,7 @@
       "title_or_caption": "DSCN_9368.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1306,7 +1306,7 @@
       "title_or_caption": "DSCN_9369.jpg",
       "subject_names": "Dscn",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1319,7 +1319,7 @@
       "title_or_caption": "Pierce_Harold_Eminibio.jpg",
       "subject_names": "Harold Eminibio Pierce",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null

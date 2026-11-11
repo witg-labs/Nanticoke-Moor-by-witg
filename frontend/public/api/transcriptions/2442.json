@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "Postpones Title Dreams William Miller",
-  "document_type": "Portrait",
+  "document_type": "Newspaper Item",
   "approximate_year": "1952",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/William_Miller_Postpones_Title_Dreams.jpg",
   "line_count": 13,
-  "word_count": 76,
+  "word_count": 77,
   "lines": [
     "DOCUMENT TITLE: Postpones Title Dreams William Miller",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Newspaper Item",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 1952",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #2442"
   ],
-  "full_text": "DOCUMENT TITLE: Postpones Title Dreams William Miller\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1952\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_William Miller Postpones Title Dreams.jpg\nLineage / Surnames Documented: Miller\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2442",
+  "full_text": "DOCUMENT TITLE: Postpones Title Dreams William Miller\nRECORD CLASSIFICATION: Newspaper Item\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1952\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_William Miller Postpones Title Dreams.jpg\nLineage / Surnames Documented: Miller\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2442",
   "clean_html": null
 }

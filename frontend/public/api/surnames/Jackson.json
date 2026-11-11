@@ -369,7 +369,7 @@
       "title_or_caption": "Jackson_Perkins_30_Jul_022_2005.jpg",
       "subject_names": "30 Jul 022 Jackson (2005) Perkins",
       "approximate_year": "2005",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -382,7 +382,7 @@
       "title_or_caption": "Jackson_Perkins_30_Jul_023_2005.jpg",
       "subject_names": "30 Jul 023 Jackson (2005) Perkins",
       "approximate_year": "2005",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -395,7 +395,7 @@
       "title_or_caption": "Jackson_Perkins_30_Jul_024_2005.jpg",
       "subject_names": "30 Jul 024 Jackson (2005) Perkins",
       "approximate_year": "2005",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -408,7 +408,7 @@
       "title_or_caption": "Jackson_Perkins_30_Jul_067_2005.jpg",
       "subject_names": "30 Jul 067 Jackson (2005) Perkins",
       "approximate_year": "2005",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -421,7 +421,7 @@
       "title_or_caption": "Jackson_Perkins_30_Jul_069_2005.jpg",
       "subject_names": "30 Jul 069 Jackson (2005) Perkins",
       "approximate_year": "2005",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -434,7 +434,7 @@
       "title_or_caption": "Jackson_Perkins_30_Jul_071_2005.jpg",
       "subject_names": "30 Jul 071 Jackson (2005) Perkins",
       "approximate_year": "2005",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -447,7 +447,7 @@
       "title_or_caption": "Jackson_Perkins_30_Jul_072_2005.jpg",
       "subject_names": "30 Jul 072 Jackson (2005) Perkins",
       "approximate_year": "2005",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -460,7 +460,7 @@
       "title_or_caption": "Jackson_Perkins_30_Jul_073_2005.jpg",
       "subject_names": "30 Jul 073 Jackson (2005) Perkins",
       "approximate_year": "2005",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -564,7 +564,7 @@
       "title_or_caption": "Jackson_W.jpg",
       "subject_names": "W Jackson",
       "approximate_year": "1914",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -590,7 +590,7 @@
       "title_or_caption": "Lawrence_Jackson_Death_Announcement.jpg",
       "subject_names": "Death Announcement Lawrence Jackson",
       "approximate_year": "1914",
-      "document_type": "portrait",
+      "document_type": "funeral_program",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -603,7 +603,7 @@
       "title_or_caption": "Lawrence_Jackson_Plaque.jpg",
       "subject_names": "Plaque Lawrence Jackson",
       "approximate_year": "1914",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -668,7 +668,7 @@
       "title_or_caption": "Muntz_Gladys_Jackson.jpg",
       "subject_names": "Gladys Jackson Muntz",
       "approximate_year": "1878",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6130,
       "person_name": "Gladys Harmon Jackson"
@@ -759,7 +759,7 @@
       "title_or_caption": "Jackson_Edmond_And_Mary_Stone.jpg",
       "subject_names": "Edmond & Mary Stone Jackson",
       "approximate_year": "",
-      "document_type": "group_photo",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1019,7 +1019,7 @@
       "title_or_caption": "Jackson_Phillipand_Bertha_Carey.jpg",
       "subject_names": "Phillipand Bertha Carey Jackson",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 3535,
       "person_name": "Bertha Carey Jackson"
@@ -1188,7 +1188,7 @@
       "title_or_caption": "Robert_B_Jackson.jpg",
       "subject_names": "B. Jackson Robert",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 409,
       "person_name": "Robert B. Jackson"
@@ -1201,7 +1201,7 @@
       "title_or_caption": "Caroline_Jackson_var1.jpg",
       "subject_names": "Caroline Jackson Var1",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "composite",
       "transcription": null,
       "person_id": 419,
       "person_name": "Caroline Jackson"
@@ -1214,7 +1214,7 @@
       "title_or_caption": "Francis_Jackson.jpg",
       "subject_names": "Francis Jackson",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 500,
       "person_name": "Francis Jackson"
@@ -1240,7 +1240,7 @@
       "title_or_caption": "Nathaniel_Jackson.jpg",
       "subject_names": "Nathaniel Jackson",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 428,
       "person_name": "Nathaniel Jackson"
@@ -1253,7 +1253,7 @@
       "title_or_caption": "Nathaniel_Jackson_var1.jpg",
       "subject_names": "Var1 Nathaniel Jackson",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 428,
       "person_name": "Nathaniel Jackson"

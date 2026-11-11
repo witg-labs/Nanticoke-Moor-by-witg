@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "Porter",
-  "document_type": "Portrait",
+  "document_type": "Historical Document",
   "approximate_year": "Historical Record",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Porter_4.jpg",
   "line_count": 13,
-  "word_count": 73,
+  "word_count": 74,
   "lines": [
     "DOCUMENT TITLE: Porter",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Historical Document",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: Historical Record",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #3084"
   ],
-  "full_text": "DOCUMENT TITLE: Porter\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_Porter - 4.jpg\nLineage / Surnames Documented: Delmarva tribal families\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #3084",
+  "full_text": "DOCUMENT TITLE: Porter\nRECORD CLASSIFICATION: Historical Document\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_Porter - 4.jpg\nLineage / Surnames Documented: Delmarva tribal families\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #3084",
   "clean_html": null
 }

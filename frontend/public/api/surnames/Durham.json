@@ -3,9 +3,9 @@
   "individual_count": 271,
   "photo_count": 263,
   "category_counts": {
-    "documents": 16,
+    "documents": 17,
     "family_trees": 52,
-    "people": 194,
+    "people": 193,
     "tombstones": 1
   },
   "obituary_count": 18,
@@ -23,6 +23,19 @@
       "transcription": "yues\nEroch in. Lurh\nMeNK\n4\nO\nbat\nH\nState\nn.\nIN HOGYMIARIMON\nAccOrdinq lo Ihe ORDINANCEOF UOD\nAnd the Law\nStale\nAt banlon\non the\n0\nhevear ofbur\nJORD\n5\nVitnesses\nil\nCa0\n3apss misusle",
       "person_id": 4347,
       "person_name": "Cuff Durham"
+    },
+    {
+      "photo_id": 912,
+      "category": "documents",
+      "normalized_filename": "Durham_Sarah_Vancestry_2.jpg",
+      "local_image_path": "assets/archive_media/people/Durham_Sarah_Vancestry_2.jpg",
+      "title_or_caption": "Durham_Sarah_Vancestry_2.jpg",
+      "subject_names": "Sarah Vancestry 2 Durham",
+      "approximate_year": "1885",
+      "document_type": "family_tree",
+      "transcription": null,
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 2810,
@@ -784,7 +797,7 @@
       "normalized_filename": "Durham_Samuel_Hjr_Ancestry.jpg",
       "local_image_path": "assets/archive_media/family_trees/Durham_Samuel_Hjr_Ancestry.jpg",
       "title_or_caption": "Durham_Samuel_Hjr_Ancestry.jpg",
-      "subject_names": "Samuel Hjr Ancestry Durham",
+      "subject_names": "Samuel H. Jr. Ancestry Durham",
       "approximate_year": "",
       "document_type": "family_tree",
       "transcription": null,
@@ -903,7 +916,7 @@
       "title_or_caption": "Cuff_Elmer_Martha_Ann_Durham_Daughters.png",
       "subject_names": "Elmer Martha Ann Durham Daughters Cuff",
       "approximate_year": "2016",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4352,
       "person_name": "Elmer Cuff"
@@ -942,7 +955,7 @@
       "title_or_caption": "Cuff_Elmer_Martha_Ann_Durham_Daughters.jpg",
       "subject_names": "Elmer Martha Ann Durham Daughters Cuff",
       "approximate_year": "2015",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4352,
       "person_name": "Elmer Cuff"
@@ -968,7 +981,7 @@
       "title_or_caption": "Durham_David_Stone_1.jpg",
       "subject_names": "David Stone 1 Durham",
       "approximate_year": "2006",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": 1867,
       "person_name": "David Durham"
@@ -981,7 +994,7 @@
       "title_or_caption": "Durham_David_Stone_2.jpg",
       "subject_names": "David Stone 2 Durham",
       "approximate_year": "2006",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "transcription": null,
       "person_id": 1867,
       "person_name": "David Durham"
@@ -1020,7 +1033,7 @@
       "title_or_caption": "DURHAM_PG_1.jpg",
       "subject_names": "PG 1 DURHAM",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1033,7 +1046,7 @@
       "title_or_caption": "DURHAM_PG_2.jpg",
       "subject_names": "PG 2 DURHAM",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1046,7 +1059,7 @@
       "title_or_caption": "DURHAM_PG_3.jpg",
       "subject_names": "PG 3 DURHAM",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1059,7 +1072,7 @@
       "title_or_caption": "DURHAM_PG_4.jpg",
       "subject_names": "PG 4 DURHAM",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1072,7 +1085,7 @@
       "title_or_caption": "DURHAM_PG_5.jpg",
       "subject_names": "PG 5 DURHAM",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1085,7 +1098,7 @@
       "title_or_caption": "DURHAM_PG_6.jpg",
       "subject_names": "PG 6 DURHAM",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1098,7 +1111,7 @@
       "title_or_caption": "DURHAM_PG_7.jpg",
       "subject_names": "PG 7 DURHAM",
       "approximate_year": "1997",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1176,7 +1189,7 @@
       "title_or_caption": "Durham_Anthony.jpg",
       "subject_names": "Anthony Durham",
       "approximate_year": "1970",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4883,
       "person_name": "Janice Durham"
@@ -1202,7 +1215,7 @@
       "title_or_caption": "Durham_Carlton.jpg",
       "subject_names": "Carlton Durham",
       "approximate_year": "1970",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4921,
       "person_name": "Carlton Hilda Durham"
@@ -1345,7 +1358,7 @@
       "title_or_caption": "Durham_Norris.jpg",
       "subject_names": "Norris Durham",
       "approximate_year": "1970",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 347,
       "person_name": "Norris Edward Durham"
@@ -1384,7 +1397,7 @@
       "title_or_caption": "Durham_William_Hfamily.jpg",
       "subject_names": "William Hfamily Durham",
       "approximate_year": "1970",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 5234,
       "person_name": "Verna Ridgeway Durham"
@@ -1423,7 +1436,7 @@
       "title_or_caption": "Durham_Luther_Family.jpg",
       "subject_names": "Luther Family Durham",
       "approximate_year": "1952",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 2756,
       "person_name": "Bordley Durham"
@@ -1475,7 +1488,7 @@
       "title_or_caption": "Mosley_Paris_Shoeshop.jpg",
       "subject_names": "Paris Shoeshop Mosley",
       "approximate_year": "1949",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "transcription": null,
       "person_id": 5154,
       "person_name": "Sarah Catharine Mosley Durham"
@@ -1748,7 +1761,7 @@
       "title_or_caption": "Durham_Family_Reunion_1934_With_ID.jpg",
       "subject_names": "Family Reunion 1934 With ID Durham",
       "approximate_year": "1934",
-      "document_type": "group_photo",
+      "document_type": "document_page",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -1839,7 +1852,7 @@
       "title_or_caption": "Durham_Harry_H_And_Geneva_Cuff_Bride_Book.jpg",
       "subject_names": "Harry H & Geneva Cuff Bride Book Durham",
       "approximate_year": "1914",
-      "document_type": "group_photo",
+      "document_type": "marriage_certificate",
       "transcription": null,
       "person_id": 1066,
       "person_name": "Harry Sherk Durham"
@@ -1943,7 +1956,7 @@
       "title_or_caption": "Enoch_Mdurham_Family_2.jpg",
       "subject_names": "Enoch Mdurham Family 2",
       "approximate_year": "1914",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 3511,
       "person_name": "Mae Cuff"
@@ -2060,7 +2073,7 @@
       "title_or_caption": "Ellsworth_Lisa_Durham_Heard.jpg",
       "subject_names": "Ellsworth Lisa Durham Heard",
       "approximate_year": "1904",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 5099,
       "person_name": "Lishia Marcella DURHAM"
@@ -2151,7 +2164,7 @@
       "title_or_caption": "Durham_William_Retirement.jpg",
       "subject_names": "William Retirement Durham",
       "approximate_year": "1898",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 5242,
       "person_name": "Emma Snyder Durham"
@@ -2203,7 +2216,7 @@
       "title_or_caption": "Enoch_Durham_Family.jpg",
       "subject_names": "Enoch Durham Family",
       "approximate_year": "1898",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 2742,
       "person_name": "Enoch Miller Durham"
@@ -2307,7 +2320,7 @@
       "title_or_caption": "Durham_Benjamin_R_WWI_Draftreg.jpg",
       "subject_names": "Benjamin R WWI Draftreg Durham",
       "approximate_year": "1892",
-      "document_type": "portrait",
+      "document_type": "draft_registration_card",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -2320,7 +2333,7 @@
       "title_or_caption": "Durham_Benjamin_R_WWII_Draftreg.jpg",
       "subject_names": "Benjamin R WWII Draftreg Durham",
       "approximate_year": "1892",
-      "document_type": "portrait",
+      "document_type": "draft_registration_card",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -2337,19 +2350,6 @@
       "transcription": null,
       "person_id": 5276,
       "person_name": "Carter Durham"
-    },
-    {
-      "photo_id": 912,
-      "category": "people",
-      "normalized_filename": "Durham_Sarah_Vancestry_2.jpg",
-      "local_image_path": "assets/archive_media/people/Durham_Sarah_Vancestry_2.jpg",
-      "title_or_caption": "Durham_Sarah_Vancestry_2.jpg",
-      "subject_names": "Sarah Vancestry 2 Durham",
-      "approximate_year": "1885",
-      "document_type": "portrait",
-      "transcription": null,
-      "person_id": null,
-      "person_name": null
     },
     {
       "photo_id": 914,
@@ -2398,7 +2398,7 @@
       "title_or_caption": "Ridgway_Durham_Greenage.jpg",
       "subject_names": "Ridgway Durham Greenage",
       "approximate_year": "1873",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 7237,
       "person_name": "Mary Elizabeth"
@@ -2450,7 +2450,7 @@
       "title_or_caption": "Durham_Laura_Gert_Anna_Mary.jpg",
       "subject_names": "Laura Gert Anna Mary Durham",
       "approximate_year": "1867",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 4421,
       "person_name": "Mary Murray Cuff"
@@ -2463,7 +2463,7 @@
       "title_or_caption": "Ridgeway_Greensbury_Sarah_Durham.jpg",
       "subject_names": "Greensbury Sarah Durham Ridgeway",
       "approximate_year": "1867",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 5154,
       "person_name": "Sarah Catharine Mosley Durham"
@@ -2476,7 +2476,7 @@
       "title_or_caption": "Durham_Joel_1864_Petition_P_76_New.jpg",
       "subject_names": "Joel 1864 Petition P 76 New Durham",
       "approximate_year": "1864",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 2231,
       "person_name": "Joel Durham"
@@ -2489,7 +2489,7 @@
       "title_or_caption": "Durham_Joel_1864_Petition_P_77_New.jpg",
       "subject_names": "Joel 1864 Petition P 77 New Durham",
       "approximate_year": "1864",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 2231,
       "person_name": "Joel Durham"
@@ -2580,7 +2580,7 @@
       "title_or_caption": "Durham_Lulu_1.jpg",
       "subject_names": "Lulu 1 Durham",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 5040,
       "person_name": "Lulu Durham"
@@ -2593,7 +2593,7 @@
       "title_or_caption": "Mosley_Annie_Dean_Clan.jpg",
       "subject_names": "Annie Dean Clan Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6698,
       "person_name": "Annie Mosley"
@@ -2606,7 +2606,7 @@
       "title_or_caption": "Mosley_GA_And_Lulu_Marriage_Lic.jpg",
       "subject_names": "GA & Lulu Marriage Lic Mosley",
       "approximate_year": "1861",
-      "document_type": "group_photo",
+      "document_type": "marriage_license",
       "transcription": null,
       "person_id": 6686,
       "person_name": "Lulu Durham Mosley"
@@ -2671,7 +2671,7 @@
       "title_or_caption": "Mosley_Ree_At_Mtg_4.jpg",
       "subject_names": "Ree At Mtg 4 Mosley",
       "approximate_year": "1861",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 6946,
       "person_name": "Ree Mosley"
@@ -2788,7 +2788,7 @@
       "title_or_caption": "Muncey_And_Durham_In_Tax_Assessments.jpg",
       "subject_names": "And Durham In Tax Assessments Muncey",
       "approximate_year": "1821",
-      "document_type": "group_photo",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -2827,7 +2827,7 @@
       "title_or_caption": "Desc_John_Durham_Muncey.jpg",
       "subject_names": "Desc John Durham Muncey",
       "approximate_year": "1801",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 4108,
       "person_name": "John Daniel Durham"
@@ -2840,7 +2840,7 @@
       "title_or_caption": "Durham_John_B_1737_Muncey_2.jpg",
       "subject_names": "John B 1737 Muncey 2 Durham",
       "approximate_year": "1801",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "transcription": null,
       "person_id": 702,
       "person_name": "John Durham Sr"
@@ -2983,7 +2983,7 @@
       "title_or_caption": "Whaley_Great_Grands_Surprise.jpg",
       "subject_names": "Whaley Great Grands Surprise",
       "approximate_year": "1800",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": null,
       "person_name": null
@@ -3217,7 +3217,7 @@
       "title_or_caption": "Durham_Maryann_Eliz_4_Generations.jpg",
       "subject_names": "Maryann Eliz 4 Generations Durham",
       "approximate_year": "",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 5017,
       "person_name": "Lenora Alice Gavin Durham"
@@ -3243,7 +3243,7 @@
       "title_or_caption": "Gould_Jesse_And_Mariechildren_An.jpg",
       "subject_names": "Gould Jesse & Mariechildren An",
       "approximate_year": "",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "transcription": null,
       "person_id": 5560,
       "person_name": "Marie Durham Gould"
@@ -3399,7 +3399,7 @@
       "title_or_caption": "Benjamin_Durham.jpg",
       "subject_names": "Benjamin Durham",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "transcription": null,
       "person_id": 4110,
       "person_name": "Benjamin Robert Durham Jr"
@@ -3412,7 +3412,7 @@
       "title_or_caption": "Mamie_Durham.jpg",
       "subject_names": "Mamie Durham",
       "approximate_year": null,
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "transcription": null,
       "person_id": 314,
       "person_name": "Mamie Durham"
@@ -6430,7 +6430,7 @@
       "birth_info": null,
       "death_info": "11 Jan. 1871",
       "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
-      "photo_count": 7
+      "photo_count": 8
     },
     {
       "person_id": 3990,

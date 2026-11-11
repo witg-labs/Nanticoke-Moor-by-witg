@@ -3,7 +3,7 @@
   "person_id": 4997,
   "person_name": "William Henry Davis",
   "title": "William Henry Davis",
-  "document_type": "Portrait",
+  "document_type": "Family Tree",
   "approximate_year": "1927",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Davis_William_Henry.jpg",
   "line_count": 14,
-  "word_count": 80,
+  "word_count": 81,
   "lines": [
     "DOCUMENT TITLE: William Henry Davis",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Family Tree",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 1927",
     "PRIMARY SUBJECT / PERSON: William Henry Davis (Profile #4997)",
@@ -29,6 +29,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #694"
   ],
-  "full_text": "DOCUMENT TITLE: William Henry Davis\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1927\nPRIMARY SUBJECT / PERSON: William Henry Davis (Profile #4997)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_DavisWilliamHenry Ancestry.jpg\nLineage / Surnames Documented: Davis\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #694",
+  "full_text": "DOCUMENT TITLE: William Henry Davis\nRECORD CLASSIFICATION: Family Tree\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1927\nPRIMARY SUBJECT / PERSON: William Henry Davis (Profile #4997)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_DavisWilliamHenry Ancestry.jpg\nLineage / Surnames Documented: Davis\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #694",
   "clean_html": null
 }

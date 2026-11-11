@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "PG 3 DURHAM",
-  "document_type": "Portrait",
+  "document_type": "Historical Document",
   "approximate_year": "1997",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/DURHAM_PG_3.jpg",
   "line_count": 13,
-  "word_count": 70,
+  "word_count": 71,
   "lines": [
     "DOCUMENT TITLE: PG 3 DURHAM",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Historical Document",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 1997",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #590"
   ],
-  "full_text": "DOCUMENT TITLE: PG 3 DURHAM\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1997\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_DURHAM_PG3.JPG\nLineage / Surnames Documented: DURHAM\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #590",
+  "full_text": "DOCUMENT TITLE: PG 3 DURHAM\nRECORD CLASSIFICATION: Historical Document\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1997\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_DURHAM_PG3.JPG\nLineage / Surnames Documented: DURHAM\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #590",
   "clean_html": null
 }

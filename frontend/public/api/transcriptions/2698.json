@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "Christs Church Map",
-  "document_type": "Portrait",
+  "document_type": "Photograph Other",
   "approximate_year": "Historical Record",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Christs_Church_Map.jpg",
   "line_count": 13,
-  "word_count": 73,
+  "word_count": 74,
   "lines": [
     "DOCUMENT TITLE: Christs Church Map",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Photograph Other",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: Historical Record",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #2698"
   ],
-  "full_text": "DOCUMENT TITLE: Christs Church Map\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_ChristsChurchMap.jpg\nLineage / Surnames Documented: Delmarva tribal families\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2698",
+  "full_text": "DOCUMENT TITLE: Christs Church Map\nRECORD CLASSIFICATION: Photograph Other\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_ChristsChurchMap.jpg\nLineage / Surnames Documented: Delmarva tribal families\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2698",
   "clean_html": null
 }

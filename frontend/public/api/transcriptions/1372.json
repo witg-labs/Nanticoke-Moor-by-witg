@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "Woodall James",
-  "document_type": "Portrait",
+  "document_type": "Funeral Program",
   "approximate_year": "Historical Record",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/James_Woodall_2.jpg",
   "line_count": 13,
-  "word_count": 73,
+  "word_count": 74,
   "lines": [
     "DOCUMENT TITLE: Woodall James",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Funeral Program",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: Historical Record",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #1372"
   ],
-  "full_text": "DOCUMENT TITLE: Woodall James\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_James Woodall  - 2.jpg\nLineage / Surnames Documented: James\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #1372",
+  "full_text": "DOCUMENT TITLE: Woodall James\nRECORD CLASSIFICATION: Funeral Program\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_James Woodall  - 2.jpg\nLineage / Surnames Documented: James\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #1372",
   "clean_html": null
 }

@@ -3,7 +3,7 @@
   "person_id": null,
   "person_name": null,
   "title": "William Sojourner Article 1 Pierce",
-  "document_type": "Portrait",
+  "document_type": "Newspaper Item",
   "approximate_year": "Historical Record",
   "repository": "Delaware Native American Archives / Mitsawokett Collection",
   "transcriber": "Archival Transcriber / Written in the Genome",
@@ -12,10 +12,10 @@
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Pierce_William_Sojourner_Article_1.jpg",
   "line_count": 13,
-  "word_count": 73,
+  "word_count": 74,
   "lines": [
     "DOCUMENT TITLE: William Sojourner Article 1 Pierce",
-    "RECORD CLASSIFICATION: Portrait",
+    "RECORD CLASSIFICATION: Newspaper Item",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: Historical Record",
     "--------------------------------------------------------------------------------",
@@ -28,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #2013"
   ],
-  "full_text": "DOCUMENT TITLE: William Sojourner Article 1 Pierce\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_PierceWilliamSojournerArticle1.jpg\nLineage / Surnames Documented: Pierce\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2013",
+  "full_text": "DOCUMENT TITLE: William Sojourner Article 1 Pierce\nRECORD CLASSIFICATION: Newspaper Item\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_PierceWilliamSojournerArticle1.jpg\nLineage / Surnames Documented: Pierce\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #2013",
   "clean_html": null
 }
