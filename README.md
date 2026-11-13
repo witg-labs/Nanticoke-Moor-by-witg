@@ -121,3 +121,13 @@ When citing the archive in research publications or lineage societies:
 
 **Chicago Manual of Style (17th ed.):**
 > Lynn C. Jackson & Mitsawokett Delmarva Afro-Indigenous Archive, s.v. "Augustus Wright," Individual Record #11266, accessed September 6, 2026, https://lynncjackson-genealogy.vercel.app/#person-11266.
+
+---
+
+## License and attribution
+
+This archive was compiled and confirmed by Jequan Davis (Written In The Genome) and is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). You may share and adapt its contents for noncommercial purposes, provided you give attribution and distribute your contributions under the same license. The full license text is in the LICENSE file in this repository.
+
+Attribution: Mitsawokett Delmarva Afro-Indigenous Family Archive, compiled by Jequan Davis, Written In The Genome.
+
+Within the archive, its sources are credited separately, and those credits must be preserved in any reuse: the Mitsawokett research collection, the research of Lynn C. Jackson, and the compiler's own genealogical research in the primary records.
