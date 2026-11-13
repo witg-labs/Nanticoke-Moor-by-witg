@@ -1,6 +1,6 @@
 # Mitsawokett Delmarva Afro-Indigenous Family Archive
 
-An archival digital preservation platform, genealogical proof engine, and cartographic atlas dedicated to the documented lineages, primary records, and oral histories of the **Nanticoke, Lenape (Moor), and Afro-Indigenous remnant communities** of the Delmarva Peninsula (Delaware, Maryland Eastern Shore, and Southern New Jersey). The archive builds on two sources that are distinct and are credited separately throughout: the Mitsawokett research collection, and the research of Lynn C. Jackson.
+An archival digital preservation platform, genealogical proof engine, and cartographic atlas dedicated to the documented lineages, primary records, and oral histories of the **Nanticoke, Lenape (Moor), and Afro-Indigenous remnant communities** of the Delmarva Peninsula (Delaware, Maryland Eastern Shore, and Southern New Jersey). Its contents were compiled and confirmed by Jequan Davis from three distinct sources, credited separately throughout: the Mitsawokett research collection, the research of Lynn C. Jackson, and his own genealogical research in the primary records.
 
 ---
 
