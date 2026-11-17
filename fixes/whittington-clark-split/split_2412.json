@@ -1,0 +1,202 @@
+{
+ "generated": "2026-11-17",
+ "plan": "SPLIT_PLAN_2412_whittington_clark.md, approved by Jequan Davis 2026-11-17",
+ "elder_person_id": 2412,
+ "source": {
+  "title": "Probate file of Whittington Clark, Sussex County, Delaware, 1836-1837",
+  "dataset": "delaware_public_archives",
+  "url": "Delaware Public Archives, RG 4545-000-009 (Clark, Whittington, 1836-1837)"
+ },
+ "facts_to_move_to_younger": [
+  11924,
+  1958,
+  18452
+ ],
+ "parent_links_to_move": [
+  "George W. Clark",
+  "Harriett Hettie Johnson"
+ ],
+ "elder_person_update": {
+  "birth_date": "",
+  "birth_info": "unknown",
+  "death_date": "1836",
+  "death_info": "before 12 Jul 1836",
+  "notes_append": "[Split 2026-11-17: this profile is Whittington Clark of Indian River Hundred, who died before 12 Jul 1836 (Sussex County probate, Delaware Public Archives 4545-000-009). A younger Whittington Clark (1812-1927) was separated into his own profile. The Find A Grave memorial formerly noted here belongs to the younger man's cluster.]"
+ },
+ "elder_new_facts": [
+  {
+   "fact_type": "Death",
+   "date_string": "before 12 Jul 1836",
+   "value_string": "Died before 12 Jul 1836",
+   "place_string": "Sussex County, Delaware"
+  },
+  {
+   "fact_type": "Document Mention",
+   "date_string": "12 Jul 1836",
+   "value_string": "Administration bond on his estate, Georgetown; Miers Burton administrator, Benjamin Burton surety, $500",
+   "place_string": "Georgetown, Sussex County, Delaware"
+  },
+  {
+   "fact_type": "Document Mention",
+   "date_string": "3 Aug 1836",
+   "value_string": "Estate inventory appraised by John Thoroughgood and Robert Waples, $351.09; filed 31 Dec 1836",
+   "place_string": "Indian River Hundred, Sussex County, Delaware"
+  },
+  {
+   "fact_type": "Document Mention",
+   "date_string": "22 Aug 1837",
+   "value_string": "Administration and distribution accounts settled; widow Lydia Clark and heirs Nathaniel Clark, Latin Clark, and daughters married to Eli Mosley, Bowen Harman, and James Palmer",
+   "place_string": "Sussex County, Delaware"
+  }
+ ],
+ "younger": {
+  "name": "Whittington Clark",
+  "first_name": "Whittington",
+  "married_last_name": "Clark",
+  "birth_date": "1812",
+  "birth_info": "1812",
+  "death_date": "29 Jun 1927",
+  "death_info": "29 Jun 1927",
+  "birth_fact_cleanup": {
+   "fact_id": 11924,
+   "new_date_string": "1812",
+   "new_value_string": "born 1812 in Delaware"
+  },
+  "notes": "[Created by split package 2026-11-17 from profile 2412.] Narrative formerly in the birth field, per the Mitsawokett record: grandson of Thomas Clark & Elizabeth Morris (unproven). Find A Grave memorial 221298989 (a 'W. Clark') is attributed to this man, not verified: a partial-name match. Parent links to George W. Clark and Harriett Hettie Johnson are GEDCOM-only and unproven."
+ },
+ "new_persons": [
+  {
+   "key": "widow_lydia",
+   "name": "Lydia Clark",
+   "first_name": "Lydia",
+   "married_last_name": "Clark",
+   "notes": "[Created by split package 2026-11-17.] Widow of Whittington Clark of Indian River Hundred; received the widow's share ($14.50) in the distribution of his estate, 22 Aug 1837 (Delaware Public Archives 4545-000-009). Not the Lydia Clark born 1834 who married Bowen Harmon."
+  },
+  {
+   "key": "nathaniel_heir",
+   "name": "Nathaniel Clark",
+   "first_name": "Nathaniel",
+   "married_last_name": "Clark",
+   "notes": "[Created by split package 2026-11-17.] Son and heir of Whittington Clark of Indian River Hundred; bought at the estate sale 1836 and received an heir's share ($5.80) 22 Aug 1837. Not the Nathaniel Clark born 1880."
+  },
+  {
+   "key": "latin",
+   "name": "Latin Clark",
+   "first_name": "Latin",
+   "married_last_name": "Clark",
+   "notes": "[Created by split package 2026-11-17.] Son and heir of Whittington Clark of Indian River Hundred; his share ($5.80) in the 22 Aug 1837 distribution was receipted by the widow Lydia Clark, consistent with a minor. Name as written in the account."
+  },
+  {
+   "key": "daughter_mosley",
+   "name": "Unknown Clark",
+   "first_name": "Unknown",
+   "married_last_name": "Mosley",
+   "notes": "[Created by split package 2026-11-17.] Daughter of Whittington Clark of Indian River Hundred, proven by her child's share in the 22 Aug 1837 distribution, where she is named only as the wife of Eli Mosley. Her given name is not in the probate file."
+  },
+  {
+   "key": "daughter_harman",
+   "name": "Unknown Clark",
+   "first_name": "Unknown",
+   "married_last_name": "Harman",
+   "notes": "[Created by split package 2026-11-17.] Daughter of Whittington Clark of Indian River Hundred, proven by her child's share in the 22 Aug 1837 distribution, where she is named only as the wife of Bowen Harman. Her given name is not in the probate file."
+  },
+  {
+   "key": "daughter_palmer",
+   "name": "Unknown Clark",
+   "first_name": "Unknown",
+   "married_last_name": "Palmer",
+   "notes": "[Created by split package 2026-11-17.] Daughter of Whittington Clark of Indian River Hundred, proven by her child's share in the 22 Aug 1837 distribution, where she is named only as the wife of James Palmer. Her given name is not in the probate file."
+  },
+  {
+   "key": "eli_mosley",
+   "name": "Eli Mosley",
+   "first_name": "Eli",
+   "married_last_name": "Mosley",
+   "notes": "[Created by split package 2026-11-17.] Husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution."
+  },
+  {
+   "key": "james_palmer",
+   "name": "James Palmer",
+   "first_name": "James",
+   "married_last_name": "Palmer",
+   "notes": "[Created by split package 2026-11-17.] Husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution."
+  },
+  {
+   "key": "bowen_harman_elder",
+   "name": "Bowen Harman",
+   "first_name": "Bowen",
+   "married_last_name": "Harman",
+   "notes": "[Created by split package 2026-11-17.] Husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution. Whether he is the same man as Bowen Harmon (d. 1911) who later married Lydia Clark (b. 1834) is NOT settled by the probate and stays an open question; the profiles are kept separate."
+  }
+ ],
+ "relationships": [
+  {
+   "a": "ELDER",
+   "b": "widow_lydia",
+   "type": "spouse",
+   "evidence": "Distribution account, estate of Whittington Clark, 22 Aug 1837: Lydia Clark received the widow's share"
+  },
+  {
+   "a": "ELDER",
+   "b": "nathaniel_heir",
+   "type": "parent",
+   "evidence": "Distribution account, 22 Aug 1837: Nathaniel Clark received a child's share"
+  },
+  {
+   "a": "ELDER",
+   "b": "latin",
+   "type": "parent",
+   "evidence": "Distribution account, 22 Aug 1837: Latin Clark received a child's share, receipted by the widow"
+  },
+  {
+   "a": "ELDER",
+   "b": "daughter_mosley",
+   "type": "parent",
+   "evidence": "Distribution account, 22 Aug 1837: Eli Mosley & wife received a child's share"
+  },
+  {
+   "a": "ELDER",
+   "b": "daughter_harman",
+   "type": "parent",
+   "evidence": "Distribution account, 22 Aug 1837: Bowen Harman & wife received a child's share"
+  },
+  {
+   "a": "ELDER",
+   "b": "daughter_palmer",
+   "type": "parent",
+   "evidence": "Distribution account, 22 Aug 1837: James Palmer & wife received a child's share"
+  },
+  {
+   "a": "daughter_mosley",
+   "b": "eli_mosley",
+   "type": "spouse",
+   "evidence": "Distribution account, 22 Aug 1837: 'Eli Mosley & Wife'"
+  },
+  {
+   "a": "daughter_harman",
+   "b": "bowen_harman_elder",
+   "type": "spouse",
+   "evidence": "Distribution account, 22 Aug 1837: 'Bowen Harman & Wife'"
+  },
+  {
+   "a": "daughter_palmer",
+   "b": "james_palmer",
+   "type": "spouse",
+   "evidence": "Distribution account, 22 Aug 1837: 'James Palmer & Wife'"
+  }
+ ],
+ "disambiguation_notes": [
+  {
+   "person_id": 7577,
+   "append": "[Note 2026-11-17: not the Lydia Clark who was widow of Whittington Clark of Indian River Hundred (d. 1836); that widow has her own profile. This Lydia was born 1834.]"
+  },
+  {
+   "person_id": 1022,
+   "append": "[Note 2026-11-17: a Bowen Harman received a share in the 1837 distribution of Whittington Clark's estate through his wife, a Clark daughter. Whether that man is this Bowen Harmon is unsettled; he is kept as a separate profile.]"
+  },
+  {
+   "person_id": 2492,
+   "append": "[Note 2026-11-17: not the Nathaniel Clark who was heir of Whittington Clark of Indian River Hundred in 1836-1837; that Nathaniel has his own profile.]"
+  }
+ ]
+}
