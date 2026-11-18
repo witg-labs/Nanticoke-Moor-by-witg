@@ -389,6 +389,19 @@
       "person_name": "Anna Catherine Davis Wright"
     },
     {
+      "photo_id": 2581,
+      "category": "people",
+      "normalized_filename": "Wrights_Ontario.jpg",
+      "local_image_path": "assets/archive_media/people/Wrights_Ontario.jpg",
+      "title_or_caption": "Taken at the February 1914 funeral of their father, Robert Harmon Wright of Seaford, Delaware, whose portrait is superimposed above them. Back row: Edward, Charles, John, Robert Jr. Front row: Nicholas (unconfirmed), Cornelius, Arthur, one brother unidentified, Walter (unconfirmed). Frederick and Ephraim Wright had died before 1914 and are not pictured. Identified in October 2026 by Dorothy Wright Wallace, daughter of Arthur Wright.",
+      "subject_names": "Wright Brothers of Ontario, sons of Robert Harmon Wright",
+      "approximate_year": "1914",
+      "document_type": "group_photo",
+      "transcription": null,
+      "person_id": null,
+      "person_name": null
+    },
+    {
       "photo_id": 106,
       "category": "people",
       "normalized_filename": "Benon_Archie_Jr_And_Betty_Benon_And_Mildred_Benon_And_Ada_Wright_Benon_And_Ron_V.jpg",
@@ -530,19 +543,6 @@
       "transcription": null,
       "person_id": 7979,
       "person_name": "Reba Wright"
-    },
-    {
-      "photo_id": 2581,
-      "category": "people",
-      "normalized_filename": "Wrights_Ontario.jpg",
-      "local_image_path": "assets/archive_media/people/Wrights_Ontario.jpg",
-      "title_or_caption": "Wrights_Ontario.jpg",
-      "subject_names": "Wrights Ontario",
-      "approximate_year": "1860",
-      "document_type": "group_photo",
-      "transcription": null,
-      "person_id": null,
-      "person_name": null
     },
     {
       "photo_id": 2651,
