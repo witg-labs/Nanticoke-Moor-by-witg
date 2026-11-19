@@ -8,7 +8,7 @@
  */
 
 const REPOSITORY_NAME = "Lynn C. Jackson & Mitsawokett Delmarva Afro-Indigenous Archive";
-const REPOSITORY_URL = typeof window !== 'undefined' ? window.location.origin : "https://lynncjackson-genealogy.vercel.app";
+const REPOSITORY_URL = typeof window !== 'undefined' ? window.location.origin : "https://nanticoke-moor-by-witg-y5rj.vercel.app";
 
 function formatDate(date) {
   return date.toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' });
