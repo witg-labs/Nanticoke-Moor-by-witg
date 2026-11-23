@@ -44435,7 +44435,7 @@
     "birth_place": "28 Oct 1925 Virginia, USA",
     "death_place": "24 August 2001 Millsboro, Sussex, Delaware, USA",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
+    "has_photo": true,
     "primary_photo": null,
     "has_obituary": false,
     "has_citations": true,
