@@ -48881,8 +48881,8 @@
     "birth_place": "23 May 1948 Lewes, Sussex County, Delaware, United States of America",
     "death_place": "18 November 2014",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
-    "primary_photo": null,
+    "has_photo": true,
+    "primary_photo": "assets/archive_media/people/Harmon_George_I_funeral_program.jpg",
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 1
