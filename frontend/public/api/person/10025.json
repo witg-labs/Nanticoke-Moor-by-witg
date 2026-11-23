@@ -60,7 +60,7 @@
           "fact_id": 9413,
           "source_id": 1270,
           "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Nelson Freeman Jackson Jr, born 28 Sep 1963 Lewes Sussex, Delaware.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861–1930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
         }
@@ -88,7 +88,7 @@
           "fact_id": 9414,
           "source_id": 1270,
           "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Nelson Freeman Jackson Jr, deceased 3 Oct 2002.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861–1930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
         }
@@ -126,7 +126,7 @@
           "fact_id": 25767,
           "source_id": 1270,
           "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for Nelson Freeman Jackson Jr.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861–1930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
         }
@@ -134,7 +134,44 @@
     }
   ],
   "relationships": [],
-  "photos": [],
+  "photos": [
+    {
+      "photo_id": 3697,
+      "category": "people",
+      "title_or_caption": "Nelson Freeman Jackson funeral program cover, 2002",
+      "subject_names": "Nelson Freeman Jackson",
+      "married_surname": "",
+      "approximate_year": "2002",
+      "local_image_path": "assets/archive_media/people/Jackson_Nelson_program_full.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "confidence_score": 1.0,
+      "contains_face": 1,
+      "face_context": "embedded_photo",
+      "routing_target": "photos"
+    },
+    {
+      "photo_id": 3696,
+      "category": "people",
+      "title_or_caption": "Nelson Freeman Jackson funeral program obituary page, 2002",
+      "subject_names": "Nelson Freeman Jackson",
+      "married_surname": "",
+      "approximate_year": "2002",
+      "local_image_path": "assets/archive_media/people/Jackson_Nelson_program_obituary.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_document",
+      "confidence_score": 1.0,
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {
