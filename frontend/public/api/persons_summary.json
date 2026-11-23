@@ -44075,8 +44075,8 @@
     "birth_place": "24 August 1950",
     "death_place": "20 June 2022 Lewes, Sussex County, Delaware, United States of America",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
-    "primary_photo": null,
+    "has_photo": true,
+    "primary_photo": "assets/archive_media/people/Thompson_George_William_Jr_program.jpg",
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 2
