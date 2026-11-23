@@ -1,5 +1,26 @@
 [
   {
+    "photo_id": 3677,
+    "category": "people",
+    "title_or_caption": "Thompson_Howdy_1994.jpg",
+    "subject_names": "Howdy Thompson",
+    "married_surname": "Thompson",
+    "approximate_year": "1994",
+    "local_image_path": "assets/archive_media/people/Thompson_Howdy_1994.jpg",
+    "source_url": "",
+    "dataset_source": "mitsawokett",
+    "document_type": "portrait",
+    "asset_type": "photograph",
+    "subtype": "historical_portrait",
+    "confidence_score": 1.0,
+    "contains_face": 1,
+    "face_context": "primary_subject",
+    "routing_target": "photos",
+    "transcription": null,
+    "dates_mentioned": "[\"1994\"]",
+    "flag_for_human_review": 0
+  },
+  {
     "photo_id": 3676,
     "category": "documents",
     "title_or_caption": "Sussex County Delaware Federal Census Record (4531895_00968.jpg)",
