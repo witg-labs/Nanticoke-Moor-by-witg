@@ -282,7 +282,62 @@
       "rel_name": "Maryland Phoebe Davis"
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+        "photo_id": 3692,
+        "category": "people",
+        "title_or_caption": "Samuel Thompson Jr. funeral program cover (Sep 27, 1930 - Apr 11, 2006), with his photograph",
+        "subject_names": "Samuel Thompson",
+        "married_surname": "Thompson",
+        "approximate_year": "2006",
+        "local_image_path": "assets/archive_media/people/Thompson_Samuel_Jr_funeral_program.jpg",
+        "source_url": "",
+        "dataset_source": "images",
+        "document_type": "funeral_program",
+        "asset_type": "photograph",
+        "subtype": "historical_portrait",
+        "confidence_score": 1.0,
+        "contains_face": 1,
+        "face_context": "embedded_photo",
+        "routing_target": "photos"
+    },
+    {
+        "photo_id": 3693,
+        "category": "people",
+        "title_or_caption": "Samuel Thompson Jr. funeral program obituary page",
+        "subject_names": "Samuel Thompson",
+        "married_surname": "Thompson",
+        "approximate_year": "2006",
+        "local_image_path": "assets/archive_media/people/Thompson_Samuel_Jr_funeral_program_obituary.jpg",
+        "source_url": "",
+        "dataset_source": "images",
+        "document_type": "funeral_program",
+        "asset_type": "photograph",
+        "subtype": "historical_document",
+        "confidence_score": 1.0,
+        "contains_face": 0,
+        "face_context": "none",
+        "routing_target": "photos"
+    },
+    {
+        "photo_id": 3694,
+        "category": "people",
+        "title_or_caption": "Samuel Thompson Jr. funeral program order of service page",
+        "subject_names": "Samuel Thompson",
+        "married_surname": "Thompson",
+        "approximate_year": "2006",
+        "local_image_path": "assets/archive_media/people/Thompson_Samuel_Jr_funeral_program_service.jpg",
+        "source_url": "",
+        "dataset_source": "images",
+        "document_type": "funeral_program",
+        "asset_type": "photograph",
+        "subtype": "historical_document",
+        "confidence_score": 1.0,
+        "contains_face": 0,
+        "face_context": "none",
+        "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {
