@@ -161,7 +161,26 @@
     }
   ],
   "relationships": [],
-  "photos": [],
+  "photos": [
+    {
+      "photo_id": 3684,
+      "category": "people",
+      "title_or_caption": "Dallas Robert Johnson, Sr. funeral program cover (Dec 14, 1921 - Jan 14, 2016), with his portrait",
+      "subject_names": "Dallas Robert Johnson",
+      "married_surname": "Johnson",
+      "approximate_year": "2016",
+      "local_image_path": "assets/archive_media/people/Johnson_Dallas_funeral_program.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "confidence_score": 1.0,
+      "contains_face": 1,
+      "face_context": "embedded_photo",
+      "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {
