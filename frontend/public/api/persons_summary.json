@@ -54101,7 +54101,7 @@
     "birth_place": "28 Sep 1963 Lewes Sussex, Delaware",
     "death_place": "3 Oct 2002",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
+    "has_photo": true,
     "primary_photo": null,
     "has_obituary": false,
     "has_citations": true,
