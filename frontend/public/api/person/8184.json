@@ -186,7 +186,26 @@
       "rel_name": "Howdie Thompson Jr"
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+        "person_id": 8184,
+        "photo_id": 3677,
+        "category": "people",
+        "title_or_caption": "Thompson_Howdy_1994.jpg",
+        "subject_names": "Howdy Thompson",
+        "married_surname": "Thompson",
+        "approximate_year": "1994",
+        "local_image_path": "assets/archive_media/people/Thompson_Howdy_1994.jpg",
+        "source_url": "",
+        "dataset_source": "images",
+        "document_type": "portrait",
+        "asset_type": "photograph",
+        "subtype": "historical_portrait",
+        "contains_face": 1,
+        "face_context": "primary_subject",
+        "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {

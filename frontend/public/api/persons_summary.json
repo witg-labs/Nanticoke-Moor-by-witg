@@ -44003,8 +44003,8 @@
     "birth_place": "Sep 1938 Delaware",
     "death_place": "19 Sep 2013 Seaford",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
-    "primary_photo": null,
+    "has_photo": true,
+    "primary_photo": "assets/archive_media/people/Thompson_Howdy_1994.jpg",
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 3
