@@ -1,5 +1,26 @@
 [
   {
+    "photo_id": 3683,
+    "category": "people",
+    "title_or_caption": "Phoebe Thompson Davis seated in a red chair",
+    "subject_names": "Phoebe Thompson Davis",
+    "married_surname": "Davis",
+    "approximate_year": null,
+    "local_image_path": "assets/archive_media/people/Davis_Phoebe_Thompson_red_chair.jpg",
+    "source_url": "",
+    "dataset_source": "images",
+    "document_type": "portrait",
+    "asset_type": "photograph",
+    "subtype": "historical_portrait",
+    "confidence_score": 1.0,
+    "contains_face": 1,
+    "face_context": "primary_subject",
+    "routing_target": "photos",
+    "transcription": null,
+    "dates_mentioned": "[]",
+    "flag_for_human_review": 0
+  },
+  {
     "photo_id": 3681,
     "category": "people",
     "title_or_caption": "Maryland Phoebe Davis (unidentified man at right edge)",

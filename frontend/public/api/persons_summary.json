@@ -43661,8 +43661,8 @@
     "birth_place": "27 September 1920 Sussex County, Delaware, United States of America",
     "death_place": "11 January 1981 Sussex County, Delaware, United States of America",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
-    "primary_photo": null,
+    "has_photo": true,
+    "primary_photo": "assets/archive_media/people/Davis_Phoebe_Thompson_red_chair.jpg",
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 7
