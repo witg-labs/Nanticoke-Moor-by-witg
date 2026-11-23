@@ -1,5 +1,26 @@
 [
 {
+  "photo_id": 3695,
+  "category": "people",
+  "title_or_caption": "Funeral program service page of George William Thompson, Jr. (1950-2022)",
+  "subject_names": "George W. Thompson Jr",
+  "married_surname": "Thompson",
+  "approximate_year": "2022",
+  "local_image_path": "assets/archive_media/people/Thompson_George_William_Jr_program.jpg",
+  "source_url": "",
+  "dataset_source": "images",
+  "document_type": "funeral_program",
+  "asset_type": "photograph",
+  "subtype": "historical_document",
+  "confidence_score": 1.0,
+  "contains_face": 0,
+  "face_context": "none",
+  "routing_target": "photos",
+  "transcription": "Funeral program service page for George William Thompson, Jr., age 71: August 24, 1950 - June 20, 2022. Funeral service Monday, June 27, 2022 (the program prints 'Monday, 27, 2022' without the month; June 27, 2022 was a Monday), 10:00 A.M., Watson Funeral Home, Millsboro, Delaware; officiating Rev. Tambara Stewart; interment Old Field Cemetery, Millsboro, Delaware. Program page photographed and supplied by Jequan Davis, 2026-11-23.",
+  "dates_mentioned": "[\"1950\", \"2022\"]",
+  "flag_for_human_review": 0
+},
+{
   "photo_id": 3694,
   "category": "people",
   "title_or_caption": "Samuel Thompson Jr. funeral program order of service page",

@@ -60,7 +60,7 @@
           "fact_id": 7649,
           "source_id": 1270,
           "evidence_text": "Civil & Vital Birth Registration; Official vital return recording George W. Thompson Jr, born 24 August 1950.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861–1930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
         }
@@ -88,7 +88,7 @@
           "fact_id": 7650,
           "source_id": 1270,
           "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording George W. Thompson Jr, deceased 20 June 2022 Lewes, Sussex County, Delaware, United States of America.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861–1930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
         }
@@ -145,7 +145,7 @@
           "fact_id": 24381,
           "source_id": 1270,
           "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for George W. Thompson Jr.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861–1930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
         }
@@ -170,7 +170,26 @@
       "rel_name": "Bertha M Thompson"
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+      "photo_id": 3695,
+      "category": "people",
+      "title_or_caption": "Funeral program service page of George William Thompson, Jr. (1950-2022)",
+      "subject_names": "George W. Thompson Jr",
+      "married_surname": "Thompson",
+      "approximate_year": "2022",
+      "local_image_path": "assets/archive_media/people/Thompson_George_William_Jr_program.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_document",
+      "confidence_score": 1.0,
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {
