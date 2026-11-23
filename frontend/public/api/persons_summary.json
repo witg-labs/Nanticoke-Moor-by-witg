@@ -51797,8 +51797,8 @@
     "birth_place": "December 14, 1921 Ridgely, Caroline, Maryland, USA",
     "death_place": "14 Jan 2016 Seaford, Delaware",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
-    "primary_photo": null,
+    "has_photo": true,
+    "primary_photo": "assets/archive_media/people/Johnson_Dallas_funeral_program.jpg",
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 0
