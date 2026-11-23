@@ -169,7 +169,44 @@
       "rel_name": "Bertha M Thompson"
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+        "photo_id": 3690,
+        "category": "people",
+        "title_or_caption": "Sylvester Elwood Thompson funeral program cover (Jun 13, 1945 - Sep 15, 2006), with his portrait",
+        "subject_names": "Sylvester Thompson",
+        "married_surname": "Thompson",
+        "approximate_year": "2006",
+        "local_image_path": "assets/archive_media/people/Thompson_Sylvester_funeral_program.jpg",
+        "source_url": "",
+        "dataset_source": "images",
+        "document_type": "funeral_program",
+        "asset_type": "photograph",
+        "subtype": "historical_portrait",
+        "confidence_score": 1.0,
+        "contains_face": 1,
+        "face_context": "embedded_photo",
+        "routing_target": "photos"
+    },
+    {
+        "photo_id": 3691,
+        "category": "people",
+        "title_or_caption": "Sylvester Elwood Thompson funeral program obituary page",
+        "subject_names": "Sylvester Thompson",
+        "married_surname": "Thompson",
+        "approximate_year": "2006",
+        "local_image_path": "assets/archive_media/people/Thompson_Sylvester_funeral_program_obituary.jpg",
+        "source_url": "",
+        "dataset_source": "images",
+        "document_type": "funeral_program",
+        "asset_type": "photograph",
+        "subtype": "historical_document",
+        "confidence_score": 1.0,
+        "contains_face": 0,
+        "face_context": "none",
+        "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {

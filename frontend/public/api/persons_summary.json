@@ -43949,8 +43949,8 @@
     "birth_place": "1/13/1945",
     "death_place": "15 September 2006 Seaford, Sussex, Delaware, USA",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
-    "primary_photo": null,
+    "has_photo": true,
+    "primary_photo": "assets/archive_media/people/Thompson_Sylvester_funeral_program.jpg",
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 2
