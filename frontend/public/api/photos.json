@@ -21,6 +21,27 @@
     "flag_for_human_review": 0
   },
   {
+    "photo_id": 3682,
+    "category": "people",
+    "title_or_caption": "Freeman Jackson memorial card cover (Nov 25, 1966 - Jan 16, 2017), with his portrait",
+    "subject_names": "Freeman Nelson Jackson",
+    "married_surname": "Jackson",
+    "approximate_year": "2017",
+    "local_image_path": "assets/archive_media/people/Jackson_Freeman_memorial_card.jpg",
+    "source_url": "",
+    "dataset_source": "images",
+    "document_type": "funeral_program",
+    "asset_type": "photograph",
+    "subtype": "historical_portrait",
+    "confidence_score": 1.0,
+    "contains_face": 1,
+    "face_context": "embedded_photo",
+    "routing_target": "photos",
+    "transcription": "Freeman Jackson, November 25, 1966 - January 16, 2017",
+    "dates_mentioned": "[\"1966\", \"2017\"]",
+    "flag_for_human_review": 0
+  },
+  {
     "photo_id": 3681,
     "category": "people",
     "title_or_caption": "Maryland Phoebe Davis (unidentified man at right edge)",
