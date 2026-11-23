@@ -179,7 +179,26 @@
       "rel_name": "Phoebe Thompson"
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+        "person_id": 8155,
+        "photo_id": 3678,
+        "category": "people",
+        "title_or_caption": "Davis_Stanley_Oliver_Sr.jpg",
+        "subject_names": "Stanley Oliver Davis Sr",
+        "married_surname": "Davis",
+        "approximate_year": null,
+        "local_image_path": "assets/archive_media/people/Davis_Stanley_Oliver_Sr.jpg",
+        "source_url": "",
+        "dataset_source": "images",
+        "document_type": "portrait",
+        "asset_type": "photograph",
+        "subtype": "historical_portrait",
+        "contains_face": 1,
+        "face_context": "primary_subject",
+        "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {

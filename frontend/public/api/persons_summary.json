@@ -43715,8 +43715,8 @@
     "birth_place": "unknown",
     "death_place": "1990",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
-    "primary_photo": null,
+    "has_photo": true,
+    "primary_photo": "assets/archive_media/people/Davis_Stanley_Oliver_Sr.jpg",
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 3

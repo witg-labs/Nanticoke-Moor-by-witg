@@ -1,5 +1,26 @@
 [
   {
+    "photo_id": 3678,
+    "category": "people",
+    "title_or_caption": "Davis_Stanley_Oliver_Sr.jpg",
+    "subject_names": "Stanley Oliver Davis Sr",
+    "married_surname": "Davis",
+    "approximate_year": null,
+    "local_image_path": "assets/archive_media/people/Davis_Stanley_Oliver_Sr.jpg",
+    "source_url": "",
+    "dataset_source": "mitsawokett",
+    "document_type": "portrait",
+    "asset_type": "photograph",
+    "subtype": "historical_portrait",
+    "confidence_score": 1.0,
+    "contains_face": 1,
+    "face_context": "primary_subject",
+    "routing_target": "photos",
+    "transcription": null,
+    "dates_mentioned": null,
+    "flag_for_human_review": 0
+  },
+  {
     "photo_id": 3677,
     "category": "people",
     "title_or_caption": "Thompson_Howdy_1994.jpg",
