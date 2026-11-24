@@ -12,11 +12,11 @@
     "death_info": "28 Mar 1990 (aged 62)",
     "notes": "Ingested from CourseyCharlesM&family.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/48123572/glen-schmidlap [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "28 Sep 1927",
     "birth_place": null,
     "death_date": "28 Mar 1990 (aged 62)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

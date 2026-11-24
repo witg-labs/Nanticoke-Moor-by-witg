@@ -28,7 +28,7 @@
       "photo_id": 912,
       "category": "documents",
       "normalized_filename": "Durham_Sarah_Vancestry_2.jpg",
-      "local_image_path": "assets/archive_media/people/Durham_Sarah_Vancestry_2.jpg",
+      "local_image_path": "assets/archive_media/documents/Durham_Sarah_Vancestry_2.jpg",
       "title_or_caption": "Durham_Sarah_Vancestry_2.jpg",
       "subject_names": "Sarah Vancestry 2 Durham",
       "approximate_year": "1885",
@@ -1412,8 +1412,8 @@
       "approximate_year": "1970",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 340,
-      "person_name": "Helen Carney"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 2000,
@@ -1464,8 +1464,8 @@
       "approximate_year": "1949",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 5542,
-      "person_name": "Sarah Beatrice Morris Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1772,
@@ -1477,8 +1477,8 @@
       "approximate_year": "1949",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 3990,
-      "person_name": "Sarah Virginia Ridgeway Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1774,
@@ -1490,8 +1490,8 @@
       "approximate_year": "1949",
       "document_type": "photograph_other",
       "transcription": null,
-      "person_id": 5154,
-      "person_name": "Sarah Catharine Mosley Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1775,
@@ -1516,8 +1516,8 @@
       "approximate_year": "1949",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 4910,
-      "person_name": "Elizabeth Carter Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1391,
@@ -1750,8 +1750,8 @@
       "approximate_year": "1940",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 5534,
-      "person_name": "Allen Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 939,
@@ -1880,8 +1880,8 @@
       "approximate_year": "1914",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 3511,
-      "person_name": "Mae Cuff"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 891,
@@ -1919,8 +1919,8 @@
       "approximate_year": "1914",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 3511,
-      "person_name": "Mae Cuff"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 937,
@@ -1945,8 +1945,8 @@
       "approximate_year": "1914",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 3511,
-      "person_name": "Mae Cuff"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 954,
@@ -1958,8 +1958,8 @@
       "approximate_year": "1914",
       "document_type": "family_tree",
       "transcription": null,
-      "person_id": 3511,
-      "person_name": "Mae Cuff"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 996,
@@ -1971,8 +1971,8 @@
       "approximate_year": "1914",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 4412,
-      "person_name": "Geneva Cuff"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 2008,
@@ -2114,8 +2114,8 @@
       "approximate_year": "1898",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 2744,
-      "person_name": "Roland Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 576,
@@ -2400,8 +2400,8 @@
       "approximate_year": "1873",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 7237,
-      "person_name": "Mary Elizabeth"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 781,
@@ -3284,8 +3284,8 @@
       "approximate_year": "",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 1003,
-      "person_name": "Samuel Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1490,
@@ -3526,7 +3526,7 @@
       "birth_info": "2 Feb 1942",
       "death_info": "14 Jan 2024 (aged 81)",
       "notes": "Ingested from DurhamMarvel&Rhoda.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/263156330/allen-durham",
-      "photo_count": 7
+      "photo_count": 6
     },
     {
       "person_id": 3685,
@@ -4042,7 +4042,7 @@
       "birth_info": null,
       "death_info": "1930 (1930 ? (possibly 1945 ) in Fairfield Township, Cumberland Co)",
       "notes": "Ingested from Cuff_Elmer_family.htm | FindAGrave: no match",
-      "photo_count": 20
+      "photo_count": 19
     },
     {
       "person_id": 7041,
@@ -4318,7 +4318,7 @@
       "birth_info": null,
       "death_info": "8 Nov. 1924",
       "notes": "Ingested from DurhamAnna&SV.htm | FindAGrave: no match",
-      "photo_count": 10
+      "photo_count": 5
     },
     {
       "person_id": 5251,
@@ -4366,7 +4366,7 @@
       "birth_info": "14 December, 1889",
       "death_info": "18 Jun 1866",
       "notes": "Ingested from DurhamLeshiaKelly.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/226181061/elizabeth-durham",
-      "photo_count": 10
+      "photo_count": 5
     },
     {
       "person_id": 2635,
@@ -4654,7 +4654,7 @@
       "birth_info": null,
       "death_info": null,
       "notes": "Ingested from Durham_EnochD&Martha.htm | FindAGrave: no match",
-      "photo_count": 12
+      "photo_count": 11
     },
     {
       "person_id": 5147,
@@ -5422,7 +5422,7 @@
       "birth_info": null,
       "death_info": null,
       "notes": "Ingested from DurhamLeshiaKelly.htm | FindAGrave: no match",
-      "photo_count": 10
+      "photo_count": 4
     },
     {
       "person_id": 6686,
@@ -5458,7 +5458,7 @@
       "birth_info": null,
       "death_info": "1982",
       "notes": "Ingested from Durham_EnochD&Martha.htm | FindAGrave: no match",
-      "photo_count": 15
+      "photo_count": 14
     },
     {
       "person_id": 5001,
@@ -5470,7 +5470,7 @@
       "birth_info": "9 Aug 1913",
       "death_info": "27 May 1981 (aged 67)",
       "notes": "Ingested from DurhamBenjaminR&AnnaFamily.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/35322251/mae-durham",
-      "photo_count": 15
+      "photo_count": 14
     },
     {
       "person_id": 3342,
@@ -6310,7 +6310,7 @@
       "birth_info": "6 Sep 1875",
       "death_info": "16 Aug 1945 (aged 69)",
       "notes": "Ingested from Durham_EnochD&Martha.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/58790404/roland-durham",
-      "photo_count": 6
+      "photo_count": 4
     },
     {
       "person_id": 3961,
@@ -6394,7 +6394,7 @@
       "birth_info": "1815",
       "death_info": "Oct 1897 (aged 81\u201382)",
       "notes": "Moor/Nanticoke lineage record - Durham cluster | Verified via FindAGrave: https://www.findagrave.com/memorial/47705929/samuel-durham",
-      "photo_count": 2
+      "photo_count": 1
     },
     {
       "person_id": 5542,
@@ -6406,7 +6406,7 @@
       "birth_info": "1872",
       "death_info": "1965 (aged 92\u201393)",
       "notes": "Ingested from DurhamSamuel&Sarah.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/136717812/sarah-durham | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/136717812/sarah-durham",
-      "photo_count": 7
+      "photo_count": 2
     },
     {
       "person_id": 5154,
@@ -6418,7 +6418,7 @@
       "birth_info": "unknown",
       "death_info": "Jan 1909",
       "notes": "Ingested from DurhamNehemiah.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/173720455/sarah-durham | Ingested from MosleyGeoffrey&Lulu.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/173720455/sarah-durham | Linked to hansr-s1.htm | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/173720455/sarah-durham",
-      "photo_count": 7
+      "photo_count": 2
     },
     {
       "person_id": 2372,
@@ -6430,7 +6430,7 @@
       "birth_info": null,
       "death_info": "11 Jan. 1871",
       "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
-      "photo_count": 8
+      "photo_count": 3
     },
     {
       "person_id": 3990,
@@ -6442,7 +6442,7 @@
       "birth_info": null,
       "death_info": "11 Jan. 1871",
       "notes": "Ingested from CheswoldSchool.htm | FindAGrave: no match",
-      "photo_count": 7
+      "photo_count": 2
     },
     {
       "person_id": 5158,

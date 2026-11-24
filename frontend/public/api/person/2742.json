@@ -439,7 +439,7 @@
           "source_id": 658,
           "evidence_text": "...Durham Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch Spruance Sarah Miller Ezekiel Durham Enoch Durham Josiah Miller Elijah Miller Enoch Miller Robert Miller Benjamin Greenage & Rachel John Hughes Rachel (Hughes) Total...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -716,11 +716,11 @@
       "local_image_path": "assets/archive_media/people/Enoch_Mdurham_Family_2.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -734,11 +734,11 @@
       "local_image_path": "assets/archive_media/people/Enoch_Durham_Family.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {

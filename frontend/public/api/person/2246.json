@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Miller",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "1801",
     "death_info": "14 Sep 1854 (aged 52\u201353)",
     "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/135523877/sarah-miller",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Durham Elizabeth Durham David Durham Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch Spruance Sarah Miller Ezekiel Durham Enoch Durham Josiah Miller Elijah Miller Enoch Miller Robert Miller Benjamin Greenage & Rachel John...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...Durham Elizabeth Durham David Durham Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch Spruance Sarah Miller Ezekiel Durham Enoch Durham Josiah Miller Elijah Miller Enoch Miller Robert Miller Benjamin Greenage & Rachel John...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -79,7 +79,7 @@
           "source_id": 658,
           "evidence_text": "...Durham Elizabeth Durham David Durham Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch Spruance Sarah Miller Ezekiel Durham Enoch Durham Josiah Miller Elijah Miller Enoch Miller Robert Miller Benjamin Greenage & Rachel John...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -247,11 +247,11 @@
       "local_image_path": "assets/archive_media/people/Sammons_Ben_And_Sarah_Miller.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     }
   ],

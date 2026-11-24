@@ -12,11 +12,11 @@
     "death_info": "17 May 1989 (aged 21)",
     "notes": "Ingested from CustisCarol&Lorraine&Parker.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/52508885/mary_ann-goff [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "29 Jan 1968",
     "birth_place": null,
     "death_date": "17 May 1989 (aged 21)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -182,7 +182,7 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Winfield_Floyd_Reed_Parker_Custis.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,

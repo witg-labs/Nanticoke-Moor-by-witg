@@ -1,7 +1,7 @@
 {
   "identifier": "1357",
-  "person_id": 2474,
-  "person_name": "Perry Hughes",
+  "person_id": null,
+  "person_name": null,
   "title": "Lydia Ann Wright 2 Jackson",
   "document_type": "Portrait",
   "approximate_year": "Historical Record",
@@ -11,14 +11,13 @@
   "citation": "\"Lydia Ann Wright 2 Jackson.\" Historical Document Record (Historical Record). Preserved in the Nanticoke & Moor Historical Archive (Written in the Genome Collection).",
   "source_url": null,
   "local_image_path": "assets/archive_media/people/Jackson_Lydia_Ann_Wright_2.jpg",
-  "line_count": 14,
-  "word_count": 81,
+  "line_count": 13,
+  "word_count": 73,
   "lines": [
     "DOCUMENT TITLE: Lydia Ann Wright 2 Jackson",
     "RECORD CLASSIFICATION: Portrait",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: Historical Record",
-    "PRIMARY SUBJECT / PERSON: Perry Hughes (Profile #2474)",
     "--------------------------------------------------------------------------------",
     "TRANSCRIPTION RECORD & SUMMARY:",
     "This primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.",
@@ -29,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #1357"
   ],
-  "full_text": "DOCUMENT TITLE: Lydia Ann Wright 2 Jackson\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\nPRIMARY SUBJECT / PERSON: Perry Hughes (Profile #2474)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_JacksonLydiaAnnWright2.jpg\nLineage / Surnames Documented: Jackson\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #1357",
+  "full_text": "DOCUMENT TITLE: Lydia Ann Wright 2 Jackson\nRECORD CLASSIFICATION: Portrait\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: Historical Record\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_JacksonLydiaAnnWright2.jpg\nLineage / Surnames Documented: Jackson\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #1357",
   "clean_html": null
 }

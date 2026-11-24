@@ -164,7 +164,7 @@
           "source_id": 658,
           "evidence_text": "...lands of David Boggs, lands of James W. Emerson and others. 24 Mar 1878 Return by Trustee. Trustee sold land to William Johnson for $357.00, Johnson deposited 20% of the price, $71.40. Johnson failed to comply with the conditions of the sale and...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -361,8 +361,8 @@
       "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -379,8 +379,8 @@
       "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],

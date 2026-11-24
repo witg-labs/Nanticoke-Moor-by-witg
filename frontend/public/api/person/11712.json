@@ -12,11 +12,11 @@
     "death_info": "8 Nov. 1924",
     "notes": "",
     "dataset_source": "lynncjackson",
+    "suffix": "Sr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "8 Nov. 1924",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {
@@ -355,11 +355,11 @@
       "local_image_path": "assets/archive_media/people/Munce_Robert_Tax_1875_Duck_Creek.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     }
   ],

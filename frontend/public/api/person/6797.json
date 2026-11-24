@@ -136,11 +136,11 @@
       "local_image_path": "assets/archive_media/documents/Morris_Leola_Memorial.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "memorial_program",
+      "document_type": "document_page",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 1,
-      "face_context": "primary_subject",
+      "face_context": "embedded_photo",
       "routing_target": "documents"
     }
   ],

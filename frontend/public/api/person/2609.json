@@ -221,10 +221,14 @@
       "created_at": "2026-09-03T12:55:01.699757"
     },
     {
+      "id": 7564,
       "category": "date_anomaly",
-      "flag_type": "birth_after_death",
       "severity": "critical",
-      "description": "Birth year (2016) is recorded after death year (1933) in historical records: birth='2016', death='1933'."
+      "person_id": 2609,
+      "person_id_secondary": null,
+      "description": "Birth year (2016) is recorded after death year (1933) in historical records: birth='2016', death='1933'.",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:40"
     }
   ],
   "ancestry": {

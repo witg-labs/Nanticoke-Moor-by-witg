@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Milboun",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...William Morris seal James Wilson seal Isaac Shorts seal John F. Hendrickson seal William Butler seal Sewell Green seal John Milboun seal KENT COUNTY, SS. An inquisition taken the third day of March AD one thousand eight hundred and forty-two at the...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

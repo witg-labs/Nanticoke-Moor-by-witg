@@ -624,7 +624,7 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Greensbury_Sarah_Durham.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -655,9 +655,14 @@
       "created_at": "2026-09-06T19:06:30.060871"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 5 misassigned photo(s) per 2026-10-17 owner review: [1098, 1772, 1774, 1775, 2272]",
-      "date": "2026-10-17"
+      "id": 7643,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 5542,
+      "person_id_secondary": null,
+      "description": "Removed 5 misassigned photo(s) per 2026-10-17 owner review: [1098, 1772, 1774, 1775, 2272]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

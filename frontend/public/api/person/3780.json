@@ -173,7 +173,7 @@
           "source_id": 658,
           "evidence_text": "...and nine children as heirs at law who an all alive and entitled to the said unappropriated balance as follows viz: Sarah Carney the Widow 1/3 Rebecca now the Widow of Myers Miller 1/9 of 2/3 Levi Carney 1/9 of 2/3 Phoebe the wife of Enoch Miller...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -242,8 +242,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {

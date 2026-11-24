@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Alexander",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...and goods is accurate. 21 May 1875 James S. Moor lists debts and credits due: George T. Carter note doubtful 90.00 George W. Alexander note desperate 36.00 William A. Carney account doubtful 16.00 John Jones account doubtful 10.00 Samuel Smith account...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
