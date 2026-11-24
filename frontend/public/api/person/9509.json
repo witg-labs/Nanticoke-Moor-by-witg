@@ -128,6 +128,15 @@
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 37753,
+          "fact_id": 8835,
+          "source_id": 1270,
+          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Joseph B. S. Thompson, born 1 Sep 1908.",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
         }
       ]
     },
@@ -147,6 +156,15 @@
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 37754,
+          "fact_id": 8836,
+          "source_id": 1270,
+          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Joseph B. S. Thompson, deceased 21 Jun 1978 (aged 69).",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
         }
       ]
     },
