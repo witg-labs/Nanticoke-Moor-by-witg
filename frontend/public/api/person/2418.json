@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Wright",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "15 February, 1842 (Northwest Fork Hundred, Sussex Co)",
     "death_info": "1685",
     "notes": "Ingested from preserved Probate.htm record | WikiTree: https://www.wikitree.com/wiki/Wright-82169 (Wright-82169) | Verified via FindAGrave: https://www.findagrave.com/memorial/288042289/elizabeth-wright",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...deceased leaving to survive him a widow named Matilda now Matilda Waters and two children to wit: Joseph Wright and Elizabeth Wright. That the said Maria Wright widow of the said Warren Wright died on the 18th Oct. 1881 . That of said deceaseds Real...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...deceased leaving to survive him a widow named Matilda now Matilda Waters and two children to wit: Joseph Wright and Elizabeth Wright. That the said Maria Wright widow of the said Warren Wright died on the 18th Oct. 1881 . That of said deceaseds Real...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -79,7 +79,7 @@
           "source_id": 658,
           "evidence_text": "...deceased leaving to survive him a widow named Matilda now Matilda Waters and two children to wit: Joseph Wright and Elizabeth Wright. That the said Maria Wright widow of the said Warren Wright died on the 18th Oct. 1881 . That of said deceaseds Real...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -305,15 +305,24 @@
       "created_at": "2026-09-03T12:54:59.105760"
     },
     {
+      "id": 7562,
       "category": "date_anomaly",
-      "flag_type": "birth_after_death",
       "severity": "critical",
-      "description": "Birth year (1842) is recorded after death year (1685) in historical records: birth='15 February, 1842', death='1685'."
+      "person_id": 2418,
+      "person_id_secondary": null,
+      "description": "Birth year (1842) is recorded after death year (1685) in historical records: birth='15 February, 1842', death='1685'.",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:40"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [1134, 1136, 1163]",
-      "date": "2026-10-17"
+      "id": 7601,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 2418,
+      "person_id_secondary": null,
+      "description": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [1134, 1136, 1163]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

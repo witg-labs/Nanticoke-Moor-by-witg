@@ -12,11 +12,11 @@
     "death_info": null,
     "notes": "Linked to coker-a6.htm | FindAGrave: no match [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "lynncjackson",
+    "suffix": "Sr",
     "birth_date": null,
     "birth_place": null,
     "death_date": null,
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

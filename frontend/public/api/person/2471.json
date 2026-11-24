@@ -107,7 +107,7 @@
           "source_id": 658,
           "evidence_text": null,
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -126,7 +126,7 @@
           "source_id": 658,
           "evidence_text": null,
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -145,7 +145,7 @@
           "source_id": 658,
           "evidence_text": null,
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -286,7 +286,7 @@
       "local_image_path": "assets/archive_media/people/Apprentice_Indentures_Wright_Walter_1843_Page_1_Indenture.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -304,7 +304,7 @@
       "local_image_path": "assets/archive_media/people/Apprentice_Indentures_Wright_Walter_1843_Page_2_Indenture.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -322,7 +322,7 @@
       "local_image_path": "assets/archive_media/people/Walter_Wright.jpg",
       "source_url": null,
       "dataset_source": "images",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,

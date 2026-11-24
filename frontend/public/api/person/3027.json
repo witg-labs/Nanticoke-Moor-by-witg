@@ -12,11 +12,11 @@
     "death_info": "Jun 1855 (aged less than 1 month)",
     "notes": "Ingested from BassKLorraine.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/40519095/j-e-jroan [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "Jun 1855",
     "birth_place": null,
     "death_date": "Jun 1855",
-    "death_place": "aged less than 1 month",
-    "suffix": "Jr"
+    "death_place": "aged less than 1 month"
   },
   "facts": [
     {

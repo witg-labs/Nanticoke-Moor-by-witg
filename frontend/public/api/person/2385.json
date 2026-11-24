@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Sammons",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "19 Apr 1886",
     "death_info": "12 Feb 1938 (aged 51)",
     "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/142648143/benjamin-sammons",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...to have one dollar, my son John Sammons, to have one dollar, my daughter Amila Harmen to have one dollar, my son, Benjamin Sammons to have one dollar, my son Myras Sammons to have twenty five dollars, and the rest & remainder of all my estate is to...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...to have one dollar, my son John Sammons, to have one dollar, my daughter Amila Harmen to have one dollar, my son, Benjamin Sammons to have one dollar, my son Myras Sammons to have twenty five dollars, and the rest & remainder of all my estate is to...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -79,7 +79,7 @@
           "source_id": 658,
           "evidence_text": "...to have one dollar, my son John Sammons, to have one dollar, my daughter Amila Harmen to have one dollar, my son, Benjamin Sammons to have one dollar, my son Myras Sammons to have twenty five dollars, and the rest & remainder of all my estate is to...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -353,11 +353,11 @@
       "local_image_path": "assets/archive_media/people/Sammons_Ben_And_Sarah_Miller.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "family_tree",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     }
   ],

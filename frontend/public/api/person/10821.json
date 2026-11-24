@@ -12,11 +12,11 @@
     "death_info": "2000",
     "notes": "",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "2000",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -281,7 +281,7 @@
       "local_image_path": "assets/archive_media/documents/i2252918-00009.jpg",
       "source_url": "https://www.ancestry.com/discoveryui-content/view/6152660:61252",
       "dataset_source": "Ancestry.com Delaware Census Records",
-      "document_type": "census_record",
+      "document_type": "birth_index",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,
@@ -299,7 +299,7 @@
       "local_image_path": "assets/archive_media/documents/44025_05_00032-03291.jpg",
       "source_url": "https://www.ancestry.com/discoveryui-content/view/301887266:2238",
       "dataset_source": "Ancestry.com Delaware Census Records",
-      "document_type": "census_record",
+      "document_type": "draft_registration_card",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,

@@ -232,10 +232,14 @@
       "created_at": "2026-09-03T12:54:15.690501"
     },
     {
+      "id": 7547,
       "category": "date_anomaly",
-      "flag_type": "birth_after_death",
       "severity": "critical",
-      "description": "Birth year (1878) is recorded after death year (1825) in historical records: birth='Jan. 16, 1878', death='29 Apr 1825'."
+      "person_id": 13,
+      "person_id_secondary": null,
+      "description": "Birth year (1878) is recorded after death year (1825) in historical records: birth='Jan. 16, 1878', death='29 Apr 1825'.",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:39"
     }
   ],
   "ancestry": {

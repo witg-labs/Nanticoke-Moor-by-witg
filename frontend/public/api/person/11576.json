@@ -12,11 +12,11 @@
     "death_info": "Jun 1855 (aged less than 1 month)",
     "notes": "",
     "dataset_source": "lynncjackson",
+    "suffix": "Jr",
     "birth_date": "Jun 1855",
     "birth_place": null,
     "death_date": "Jun 1855",
-    "death_place": "aged less than 1 month",
-    "suffix": "Jr"
+    "death_place": "aged less than 1 month"
   },
   "facts": [
     {
@@ -649,7 +649,7 @@
           "source_id": 658,
           "evidence_text": "...\u00a0 Moors & Nanticokes \u00a0 DEAN James Dean died 1720 DE Moors & Nanticokes James Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1787 DE Mitsawokett Jesse Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1842 DE Mitsawokett Jesse Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1839 DE Mitsawokett Robert Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1874 DE...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

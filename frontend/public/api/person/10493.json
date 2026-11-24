@@ -686,7 +686,7 @@
           "source_id": 658,
           "evidence_text": "...1815 DE Moors & Nanticokes George Durham died 1844 DE Moors & Nanticokes Isaiah Durham died 1800 DE Moors & Nanticokes John Durham Jr. died 1776 DE Moors & Nanticokes John Durham died 1788 DE Moors & Nanticokes John Durham died1847 DE Moors &...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -1235,11 +1235,11 @@
       "local_image_path": "assets/archive_media/people/Desc_John_Durham_Muncey.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -1253,11 +1253,11 @@
       "local_image_path": "assets/archive_media/people/Durham_John_B_1737_Muncey_2.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {

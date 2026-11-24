@@ -338,7 +338,7 @@
       "local_image_path": "assets/archive_media/documents/SSDI_Clarence_Drexel_Davis_32274394.json",
       "source_url": "https://www.ancestry.com/discoveryui-content/view/32274394:60901",
       "dataset_source": "Ancestry.com Delaware Census Records",
-      "document_type": "census_record",
+      "document_type": "historical_document",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,

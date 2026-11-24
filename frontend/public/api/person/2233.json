@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Durham",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": "July 25, 1848",
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Represents--(division of estate assets amongst inheritors) 5940 parts Jeremiah Dean Joel Durham Isaac Durham Elijah Durham John Durham Elizabeth Durham David Durham Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...Joel Durham Isaac Durham Elijah Durham John Durham Elizabeth Durham David Durham M...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {

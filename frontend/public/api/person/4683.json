@@ -164,11 +164,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_1.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -182,11 +182,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_2.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -200,11 +200,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_3.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -218,11 +218,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_4.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "birth_certificate",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -236,11 +236,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_5.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "census_record",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -254,11 +254,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_6.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "funeral_program",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
-      "face_context": "primary_subject",
+      "face_context": "embedded_photo",
       "routing_target": "photos"
     }
   ],
@@ -275,10 +275,14 @@
       "created_at": "2026-09-03T12:55:09.844707"
     },
     {
+      "id": 7571,
       "category": "date_anomaly",
-      "flag_type": "birth_after_death",
       "severity": "critical",
-      "description": "Birth year (1949) is recorded after death year (1826) in historical records: birth='1949', death='1826'."
+      "person_id": 4683,
+      "person_id_secondary": null,
+      "description": "Birth year (1949) is recorded after death year (1826) in historical records: birth='1949', death='1826'.",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:40"
     }
   ],
   "ancestry": {

@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Heverin",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...174.78 3/4 Amt of Sales 234.87 Excess of Sales 60.08 1/4 ---- Greensberry Becketts Disb accounts, Widows shares I James L Heverin Register of Wills in and for Kent County: Isaac Salmons Admr of Greenberry Becketts, decd, represents that on the 5th...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

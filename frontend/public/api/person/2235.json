@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Durham",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": "July 25, 1848",
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Dean Joel Durham Isaac Durham Elijah Durham John Durham Elizabeth Durham David Durham Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch Spruance Sarah Miller Ezekiel Durham Enoch Durham Josiah Miller Elijah Miller Enoch...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch Spruance...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -287,7 +287,7 @@
       "local_image_path": "assets/archive_media/people/Cuff_Elmer_Martha_Ann_Durham_Daughters.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -305,7 +305,7 @@
       "local_image_path": "assets/archive_media/people/Cuff_Elmer_Martha_Ann_Durham_Daughters.png",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,

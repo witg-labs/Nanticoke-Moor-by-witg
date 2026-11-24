@@ -12,11 +12,11 @@
     "death_info": "unknown",
     "notes": "",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": null,
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

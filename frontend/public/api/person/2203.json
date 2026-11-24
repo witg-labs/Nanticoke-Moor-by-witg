@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Goodwin",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Signed by Thomas Carney Witnesses: William H. Carney of Little Creek Hundred and Isaac M. Berry of Dover Hundred. To D.C. Goodwin regr. Of Wills in and for Kent County, Gustavus Carney Executor the Last Will and Testament of Thomas Carney dec'd...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

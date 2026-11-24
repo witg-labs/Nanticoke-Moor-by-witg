@@ -12,11 +12,11 @@
     "death_info": "USA",
     "notes": "[Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "28 August 1924 Ellendale, Delaware, USA",
     "birth_place": null,
     "death_date": "USA",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

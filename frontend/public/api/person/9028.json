@@ -12,11 +12,11 @@
     "death_info": "3 May 1900 (aged 0\u20131)",
     "notes": "| Verified via FindAGrave: https://www.findagrave.com/memorial/77372434/joseph-davis (Buried at Shawnee Cemetery) [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "1899",
     "birth_place": null,
     "death_date": "3 May 1900 (aged 0\u20131)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

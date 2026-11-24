@@ -12,11 +12,11 @@
     "death_info": "19 December, 1940 (Wilmington on 19 December, 1940)",
     "notes": "Ingested from DavisWilliamHenry.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/287947066/robert-davis [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Sr",
     "birth_date": "1874",
     "birth_place": null,
     "death_date": "19 December, 1940",
-    "death_place": "Wilmington on 19 December, 1940",
-    "suffix": "Sr"
+    "death_place": "Wilmington on 19 December, 1940"
   },
   "facts": [
     {

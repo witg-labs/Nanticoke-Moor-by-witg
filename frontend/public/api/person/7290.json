@@ -250,9 +250,14 @@
       "created_at": "2026-09-03T12:55:25.351297"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [2220, 2202]",
-      "date": "2026-10-17"
+      "id": 7652,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 7290,
+      "person_id_secondary": null,
+      "description": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [2220, 2202]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

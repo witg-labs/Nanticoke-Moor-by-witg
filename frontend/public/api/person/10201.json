@@ -12,12 +12,12 @@
     "death_info": "",
     "notes": "",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "abt 1944 Delaware",
     "birth_place": null,
     "death_date": null,
     "death_place": null,
-    "is_living": true,
-    "suffix": "Jr"
+    "is_living": true
   },
   "facts": [],
   "relationships": [

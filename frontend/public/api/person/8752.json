@@ -173,7 +173,7 @@
       "local_image_path": "assets/archive_media/documents/Vital_Hazel_V_Davis_281482684.json",
       "source_url": "https://www.ancestry.com/discoveryui-content/view/281482684:62209",
       "dataset_source": "Ancestry.com Delaware Census Records",
-      "document_type": "census_record",
+      "document_type": "historical_document",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,

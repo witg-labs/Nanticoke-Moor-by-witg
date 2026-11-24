@@ -12,11 +12,11 @@
     "death_info": "16 Mar 2021",
     "notes": "[Suffix 'Sr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "8 Oct 1933 Cheswold",
     "birth_place": null,
     "death_date": "16 Mar 2021",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

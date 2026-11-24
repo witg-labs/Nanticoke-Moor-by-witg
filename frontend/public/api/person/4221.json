@@ -12,11 +12,11 @@
     "death_info": "1978",
     "notes": "Ingested from CokerDonald&HarrietMorgan.htm | FindAGrave: no match [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "1978",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

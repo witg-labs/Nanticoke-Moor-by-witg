@@ -286,7 +286,7 @@
       "local_image_path": "assets/archive_media/people/Mosley_Annie_Dean_Clan.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -304,11 +304,11 @@
       "local_image_path": "assets/archive_media/people/Mosley_GA_And_Lulu_Marriage_Lic.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "marriage_license",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -394,7 +394,7 @@
       "local_image_path": "assets/archive_media/people/Mosley_Ree_At_Mtg_4.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -433,8 +433,8 @@
       "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],

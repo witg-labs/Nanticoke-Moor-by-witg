@@ -12,11 +12,11 @@
     "death_info": "1990",
     "notes": "| Verified via FindAGrave: https://www.findagrave.com/memorial/66421404/stanley-davis (Buried at Alvinston Cemetery) [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "1990",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

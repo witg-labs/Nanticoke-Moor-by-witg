@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Counselar",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...of a sum of two dollars to be paid to her by my executor within one month from the time of my decease, and I give to Elijah Counselar the pieced bed quilt up stairs which was made by his mother my last wife. Eighthly, and as to all the rest residue and...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

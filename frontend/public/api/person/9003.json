@@ -12,11 +12,11 @@
     "death_info": "15 Apr 1957 (aged 61\u201362)",
     "notes": "| Verified via FindAGrave: https://www.findagrave.com/memorial/226129442/george-jranges [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "1895",
     "birth_place": null,
     "death_date": "15 Apr 1957 (aged 61\u201362)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

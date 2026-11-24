@@ -12,11 +12,11 @@
     "death_info": "3 Apr 1955",
     "notes": "Ingested from CokerDonald&HarrietMorgan.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/115005662/harry-srabian [Suffix 'Sr' realigned from surname field] | Merged duplicate #6492: Ingested from MorganWilliam&Nora.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/115005662/harry-srabian [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Sr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "3 Apr 1955",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

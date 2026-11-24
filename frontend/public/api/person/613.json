@@ -12,11 +12,11 @@
     "death_info": "d. 1787",
     "notes": "Linked to probt-d1.htm | FindAGrave: no match [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "lynncjackson",
+    "suffix": "Sr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "d. 1787",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {
@@ -459,7 +459,7 @@
           "source_id": 658,
           "evidence_text": "...1845 DE Mitsawokett Jeremiah Consellor \u00a0\u00a0 1811 DE Mitsawokett William Concilor died 1780 \u00a0 Moors & Nanticokes \u00a0 DEAN James Dean died 1720 DE Moors & Nanticokes James Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1787 DE Mitsawokett Jesse Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1842 DE...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
