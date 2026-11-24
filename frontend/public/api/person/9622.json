@@ -12,11 +12,11 @@
     "death_info": "1963 Milton, Delaware",
     "notes": "[Suffix 'Sr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "Jan 1874 Delaware",
     "birth_place": null,
     "death_date": "1963 Milton, Delaware",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

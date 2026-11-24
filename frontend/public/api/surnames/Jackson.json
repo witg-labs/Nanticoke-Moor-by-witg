@@ -1,11 +1,11 @@
 {
   "surname": "Jackson",
   "individual_count": 117,
-  "photo_count": 98,
+  "photo_count": 101,
   "category_counts": {
     "documents": 5,
     "family_trees": 22,
-    "people": 71
+    "people": 74
   },
   "obituary_count": 7,
   "variants": "Jackson",
@@ -137,8 +137,8 @@
       "approximate_year": "1882",
       "document_type": "family_tree",
       "transcription": null,
-      "person_id": 320,
-      "person_name": "Nora Jackson"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1348,
@@ -280,8 +280,8 @@
       "approximate_year": "",
       "document_type": "family_tree",
       "transcription": null,
-      "person_id": 2474,
-      "person_name": "Perry Hughes"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1361,
@@ -332,8 +332,8 @@
       "approximate_year": "",
       "document_type": "family_tree",
       "transcription": null,
-      "person_id": 413,
-      "person_name": "Mattie Jackson"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1888,
@@ -360,6 +360,45 @@
       "transcription": null,
       "person_id": 419,
       "person_name": "Caroline Jackson"
+    },
+    {
+      "photo_id": 3682,
+      "category": "people",
+      "normalized_filename": "Jackson_Freeman_memorial_card.jpg",
+      "local_image_path": "assets/archive_media/people/Jackson_Freeman_memorial_card.jpg",
+      "title_or_caption": "Freeman Jackson memorial card cover (Nov 25, 1966 - Jan 16, 2017), with his portrait",
+      "subject_names": "Freeman Nelson Jackson",
+      "approximate_year": "2017",
+      "document_type": "funeral_program",
+      "transcription": "Freeman Jackson, November 25, 1966 - January 16, 2017",
+      "person_id": 10024,
+      "person_name": "Freeman Nelson Jackson"
+    },
+    {
+      "photo_id": 3688,
+      "category": "people",
+      "normalized_filename": "Jackson_Freeman_program_full.jpg",
+      "local_image_path": "assets/archive_media/people/Jackson_Freeman_program_full.jpg",
+      "title_or_caption": "Freeman Nelson Jackson funeral program cover (Nov 25, 1966 - Jan 16, 2017), with his portrait",
+      "subject_names": "Freeman Nelson Jackson",
+      "approximate_year": "2017",
+      "document_type": "funeral_program",
+      "transcription": "Funeral program cover: 'A Celebration of Life - Freeman Nelson Jackson - Sunrise: November 25, 1966 - Sunset: January 16, 2017 - Saturday February 4, 2017, One O'clock - New Beginnings Holiness Ministries, 6559 Epworth Church Road, Bridgeville, DE 19933 - Pastor Bishop Harry Turner.' Portrait of Freeman Nelson Jackson on the cover. Program photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 10024,
+      "person_name": "Freeman Nelson Jackson"
+    },
+    {
+      "photo_id": 3689,
+      "category": "people",
+      "normalized_filename": "Jackson_Freeman_program_obituary.jpg",
+      "local_image_path": "assets/archive_media/people/Jackson_Freeman_program_obituary.jpg",
+      "title_or_caption": "Freeman Nelson Jackson funeral program obituary page",
+      "subject_names": "Freeman Nelson Jackson",
+      "approximate_year": "2017",
+      "document_type": "funeral_program",
+      "transcription": "Freeman Nelson Jackson was born November 25, 1966 at Beebe Medical Center in Lewes, Delaware, and grew up in Millsboro, Delaware (the Thompsonville area). He was a lover and advocate of boxing; his all-time favorite was Muhammad Ali, and he attended the Boxing Hall of Fame, where he met Don King, Joe Frazier, Ken Norton, and Muhammad Ali. He was an amputee and a survivor of stage 4 cancer who made routine walks around Coverdale on crutches. He left this world on Monday, January 16, 2017 at Christiana Hospital in Wilmington, Delaware, at age 50. He leaves three children, Freeinna Jackson (23), Freeman Jackson Jr. (17), and Nevada Jackson (16); two stepchildren, Jason Long Jr. (24) and Desiree Thomas (26); one grandchild and one on the way; two sisters, Carla Jackson (54) and Darlene Kendrick (52); and one brother, Keith Jackson (48). He was preceded in death by his mother Mary Lingard, his stepfather George Lingard, his great niece Jade Showell, his brother Nelson Jackson a.k.a. Toe-Joe, his uncle Harry Jackson Jr., his grandfather Harry Jackson Sr., and his father Nelson Thompson.",
+      "person_id": 10024,
+      "person_name": "Freeman Nelson Jackson"
     },
     {
       "photo_id": 1314,
@@ -618,8 +657,8 @@
       "approximate_year": "1882",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 320,
-      "person_name": "Nora Jackson"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1603,
@@ -683,8 +722,8 @@
       "approximate_year": "1878",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 765,
-      "person_name": "Clarence Jackson"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1358,
@@ -956,8 +995,8 @@
       "approximate_year": "",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 2474,
-      "person_name": "Perry Hughes"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1357,
@@ -969,8 +1008,8 @@
       "approximate_year": "",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 2474,
-      "person_name": "Perry Hughes"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1360,
@@ -1512,7 +1551,7 @@
       "birth_info": "1899",
       "death_info": "14 Jul 1950 (aged 50\u201351)",
       "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/229036681/clarence-jackson",
-      "photo_count": 4
+      "photo_count": 3
     },
     {
       "person_id": 6115,
@@ -1620,7 +1659,7 @@
       "birth_info": "1876",
       "death_info": "unknown",
       "notes": "Ingested from DavisMaryElizJackson.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/197579890/elizabeth-davis (Buried at Mount Zion United Methodist Church Cemetery) | Verified via FindAGrave: https://www.findagrave.com/memorial/197579890/elizabeth-davis (Buried at Mount Zion United Methodist Church Cemetery)",
-      "photo_count": 8
+      "photo_count": 7
     },
     {
       "person_id": 6156,
@@ -1632,7 +1671,7 @@
       "birth_info": "1888",
       "death_info": "11 Jan 1971 (aged 82\u201383)",
       "notes": "Ingested from JacksonClarence.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/259449635/ellen-jackson",
-      "photo_count": 4
+      "photo_count": 3
     },
     {
       "person_id": 8162,
@@ -1692,7 +1731,7 @@
       "birth_info": "25 Nov 1966 Delaware, USA",
       "death_info": "16 Jan 2017 Delaware, USA",
       "notes": "",
-      "photo_count": 0
+      "photo_count": 3
     },
     {
       "person_id": 10728,
@@ -2244,7 +2283,7 @@
       "birth_info": "18 May 1884",
       "death_info": "24 Apr 1970 (aged 85)",
       "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/108328432/mattie-jackson",
-      "photo_count": 4
+      "photo_count": 2
     },
     {
       "person_id": 6267,
@@ -2328,7 +2367,7 @@
       "birth_info": "28 Sep 1963 Lewes Sussex, Delaware",
       "death_info": "3 Oct 2002",
       "notes": "[Suffix 'Jr' realigned from surname field]",
-      "photo_count": 0
+      "photo_count": 2
     },
     {
       "person_id": 6497,
@@ -2352,7 +2391,7 @@
       "birth_info": "1867",
       "death_info": "3 Mar 1944 (aged 76\u201377)",
       "notes": "Linked to jacksonn.htm | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/288531962/nora-jackson",
-      "photo_count": 3
+      "photo_count": 1
     },
     {
       "person_id": 6204,
@@ -2676,7 +2715,7 @@
       "birth_info": "1931",
       "death_info": "10 Dec 1971 (aged 39\u201340)",
       "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/20455435/william-jackson",
-      "photo_count": 3
+      "photo_count": 1
     },
     {
       "person_id": 9570,
@@ -2688,7 +2727,7 @@
       "birth_info": "16 Nov 1889 Rehoboth Beach, Sussex County, Delaware, USA",
       "death_info": "14 Feb 1965 Rehoboth Beach, Sussex County, Delaware, USA",
       "notes": "",
-      "photo_count": 3
+      "photo_count": 1
     }
   ],
   "obituaries": [

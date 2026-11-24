@@ -12,11 +12,11 @@
     "death_info": null,
     "notes": "| FindAGrave: no match [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "abt 1891 Delaware",
     "birth_place": null,
     "death_date": null,
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

@@ -126,7 +126,7 @@
           "source_id": 658,
           "evidence_text": "...Miller Ezekiel Durham Enoch Durham Josiah Miller Elijah Miller Enoch Miller Robert Miller Benjamin Greenage & Rachel John Hughes Rachel (Hughes) Total \u00a0\u00a0\u00a0\u00a036 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0\u00a0\u00a040 \u00a0\u00a0396 \u00a0\u00a0396 1188 1188...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -230,7 +230,7 @@
       "local_image_path": "assets/archive_media/people/Hughes_john.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -248,7 +248,7 @@
       "local_image_path": "assets/archive_media/people/Hughes_John_Orig_Deathcert.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "death_certificate",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -266,7 +266,7 @@
       "local_image_path": "assets/archive_media/people/Hughes_John_Pension_Deathcert_Pension.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "death_certificate",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,

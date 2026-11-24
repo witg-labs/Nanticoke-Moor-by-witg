@@ -12,11 +12,11 @@
     "death_info": null,
     "notes": "Ingested from Counceller-Grayreunion2003%20copy.htm | FindAGrave: no match [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": null,
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -130,7 +130,7 @@
   "audit_flags": [],
   "ancestry": {
     "id": 4279,
-    "name": "Gordon Counselor Jr",
+    "name": "Gordon Conselor Jr",
     "children": []
   }
 }

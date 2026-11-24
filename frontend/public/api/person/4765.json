@@ -326,7 +326,7 @@
           "source_id": 658,
           "evidence_text": "...owner of, I hereby dispose of the same in the manner following that is to say: Secondly, I give and devise unto my son William Dean of Duck Creek Hundred in the county aforesaid, and to his heirs and assigns forever, all my land and real estate with...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -526,8 +526,8 @@
       "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -544,8 +544,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],
@@ -572,9 +572,14 @@
       "created_at": "2026-09-06T19:06:30.060401"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1669]",
-      "date": "2026-10-17"
+      "id": 7630,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 4765,
+      "person_id_secondary": null,
+      "description": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1669]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

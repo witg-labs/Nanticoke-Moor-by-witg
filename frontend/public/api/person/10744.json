@@ -208,11 +208,11 @@
       "local_image_path": "assets/archive_media/people/Harmon_Noah.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -226,11 +226,11 @@
       "local_image_path": "assets/archive_media/people/Survey_228.jpg",
       "source_url": "",
       "dataset_source": "Nanticoke Indian River Community Photographic Survey",
-      "document_type": "portrait",
+      "document_type": "document_page",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
-      "face_context": "primary_subject",
+      "face_context": "embedded_photo",
       "routing_target": "photos"
     }
   ],

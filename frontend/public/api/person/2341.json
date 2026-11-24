@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Dean",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...of Catharine. No. 1. 30 acres Kenton Hundred adjoining lands of Eben Cloak and lands of Jacob Bryan, in tenure of Catharine Dean. \u00a0\u00a0\u00a0\u00a0\u00a0\u00a02. 30 acres Kenton Hundred adjoining lands of William Surgen and lands of Dr. William ----- and lands of the...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

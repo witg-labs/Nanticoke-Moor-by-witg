@@ -12,11 +12,11 @@
     "death_info": "1961 (aged 54\u201355)",
     "notes": "Buried at Harmony Cemetery, Millsboro, Sussex County, Delaware. Verified via FindAGrave Memorial 41151224. Son of Morris Davis and Hester A. Morris Davis.",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "1906",
     "birth_place": null,
     "death_date": "1961 (aged 54\u201355)",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {
@@ -237,8 +237,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -252,11 +252,11 @@
       "local_image_path": "assets/archive_media/people/Davis_William_H_And_Horse.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],

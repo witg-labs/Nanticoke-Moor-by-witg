@@ -310,7 +310,7 @@
       "local_image_path": "assets/archive_media/documents/Marriage_Layton_S__Davis_112240.json",
       "source_url": "https://www.ancestry.com/discoveryui-content/view/112240:61368",
       "dataset_source": "Ancestry.com Delaware Census Records",
-      "document_type": "census_record",
+      "document_type": "marriage_certificate",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,

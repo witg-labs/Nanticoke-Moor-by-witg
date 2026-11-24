@@ -12,11 +12,11 @@
     "death_info": "12 May 1934 (aged 38)",
     "notes": "Linked to dean-j2.htm | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/250905376/jesse-belle-srachta [Suffix 'Sr' realigned from surname field] | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/250905376/jesse-belle-srachta [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "lynncjackson",
+    "suffix": "Sr",
     "birth_date": "Aug 1895",
     "birth_place": null,
     "death_date": "12 May 1934 (aged 38)",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {
@@ -687,7 +687,7 @@
           "source_id": 658,
           "evidence_text": "...\u00a0 Moors & Nanticokes \u00a0 DEAN James Dean died 1720 DE Moors & Nanticokes James Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1787 DE Mitsawokett Jesse Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1842 DE Mitsawokett Jesse Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1839 DE Mitsawokett Robert Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1874 DE...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

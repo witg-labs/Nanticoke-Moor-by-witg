@@ -7,16 +7,16 @@
     "maiden_name": "Scotten",
     "married_last_name": "Scotten",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "1883",
     "death_info": "1895 (aged 11\u201312)",
     "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/124828696/william-jreslla [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "1883",
     "birth_place": null,
     "death_date": "1895 (aged 11\u201312)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -33,7 +33,7 @@
           "source_id": 658,
           "evidence_text": "...Wilson Stidham seal John T. Cheaves seal William T. Campbell seal Moses Jones seal Mason Bailey seal Jessey Jones seal William Scotten Jr seal Wm. F. Hawkins seal Silas Jones seal Washington Seney seal Wm. Scotten seal William Morris seal James Wilson seal...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -52,7 +52,7 @@
           "source_id": 658,
           "evidence_text": "...Wilson Stidham seal John T. Cheaves seal William T. Campbell seal Moses Jones seal Mason Bailey seal Jessey Jones seal William Scotten Jr seal Wm. F. Hawkins seal Silas Jones seal Washington Seney seal Wm. Scotten seal William Morris seal James Wilson seal...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -80,7 +80,7 @@
           "source_id": 658,
           "evidence_text": "...Wilson Stidham seal John T. Cheaves seal William T. Campbell seal Moses Jones seal Mason Bailey seal Jessey Jones seal William Scotten Jr seal Wm. F. Hawkins seal Silas Jones seal Washington Seney seal Wm. Scotten seal William Morris seal James Wilson seal...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {

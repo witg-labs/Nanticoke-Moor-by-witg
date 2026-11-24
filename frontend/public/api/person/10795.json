@@ -265,8 +265,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -280,7 +280,7 @@
       "local_image_path": "assets/archive_media/people/Mosley_William_Du_Pont.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "family_tree",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -301,8 +301,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -319,8 +319,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -337,8 +337,8 @@
       "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],
@@ -365,9 +365,14 @@
       "created_at": "2026-09-03T12:56:00.920179"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1250]",
-      "date": "2026-10-17"
+      "id": 7596,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 10795,
+      "person_id_secondary": null,
+      "description": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [1250]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

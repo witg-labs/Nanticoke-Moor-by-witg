@@ -269,7 +269,7 @@
           "source_id": 658,
           "evidence_text": "...of estate assets amongst inheritors) 5940 parts Jeremiah Dean Joel Durham Isaac Durham Elijah Durham John Durham Elizabeth Durham David Durham Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch Spruance Sarah Miller Ezekiel...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -464,7 +464,7 @@
       "local_image_path": "assets/archive_media/people/Ridgway_Durham_Greenage.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -485,9 +485,14 @@
       "created_at": "2026-09-03T12:55:10.527314"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 5 misassigned photo(s) per 2026-10-17 owner review: [1098, 1772, 1774, 1775, 2272]",
-      "date": "2026-10-17"
+      "id": 7634,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 4910,
+      "person_id_secondary": null,
+      "description": "Removed 5 misassigned photo(s) per 2026-10-17 owner review: [1098, 1772, 1774, 1775, 2272]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

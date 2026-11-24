@@ -12,11 +12,11 @@
     "death_info": "Dec 1975 (aged 76\u201377)",
     "notes": "Ingested from WrightAnnaCatherineDavis.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/37447506/carroll-pulk [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "2 Dec 1898",
     "birth_place": null,
     "death_date": "Dec 1975 (aged 76\u201377)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

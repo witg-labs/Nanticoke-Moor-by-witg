@@ -12,11 +12,11 @@
     "death_info": "23 Sep 1941 (aged 68)",
     "notes": "Ingested from SammonsLuther.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/137976324/luther-frank-srack [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Sr",
     "birth_date": "23 Nov 1872",
     "birth_place": null,
     "death_date": "23 Sep 1941 (aged 68)",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

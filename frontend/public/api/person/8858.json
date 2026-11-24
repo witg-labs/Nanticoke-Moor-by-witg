@@ -12,11 +12,11 @@
     "death_info": "08/12/1992 Lewes, Sussex, Delaware, USA",
     "notes": "",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "04/23/1903 Lewes, Sussex, Delaware, USA",
     "birth_place": null,
     "death_date": "08/12/1992 Lewes, Sussex, Delaware, USA",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {
@@ -249,8 +249,8 @@
       "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],

@@ -137,8 +137,8 @@
       "approximate_year": "1841",
       "document_type": "family_tree",
       "transcription": null,
-      "person_id": 7290,
-      "person_name": "Bertha D. Dean"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 712,
@@ -709,8 +709,8 @@
       "approximate_year": "1841",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 7290,
-      "person_name": "Bertha D. Dean"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 720,
@@ -940,7 +940,7 @@
       "birth_info": "9 Feb 1847",
       "death_info": "28 May 1915 (aged 68)",
       "notes": "Ingested from DeanRobert&Family.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/73382252/anna-dean | Linked to dean-ae.htm | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/73382252/anna-dean",
-      "photo_count": 21
+      "photo_count": 4
     },
     {
       "person_id": 4501,
@@ -1012,7 +1012,7 @@
       "birth_info": "1899",
       "death_info": "8 Sep 1967 (aged 67\u201368)",
       "notes": "Ingested from SammonsMaryElizabethMunce.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/258534861/bertha-dean",
-      "photo_count": 3
+      "photo_count": 1
     },
     {
       "person_id": 7270,
@@ -1132,7 +1132,7 @@
       "birth_info": null,
       "death_info": "1811",
       "notes": "Ingested from DeanWilliam&Eliza.htm | FindAGrave: no match",
-      "photo_count": 2
+      "photo_count": 0
     },
     {
       "person_id": 2349,
@@ -1240,7 +1240,7 @@
       "birth_info": "30 Nov 1890",
       "death_info": "May 1975 (aged 84)",
       "notes": " | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/137891380/hester-dean",
-      "photo_count": 3
+      "photo_count": 1
     },
     {
       "person_id": 2350,
@@ -1252,7 +1252,7 @@
       "birth_info": null,
       "death_info": "1811",
       "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
-      "photo_count": 3
+      "photo_count": 1
     },
     {
       "person_id": 7401,
@@ -1768,7 +1768,7 @@
       "birth_info": "1858",
       "death_info": "6 Apr 1940 (aged 81\u201382)",
       "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/259520900/william-dean",
-      "photo_count": 3
+      "photo_count": 2
     },
     {
       "person_id": 4765,
@@ -1780,7 +1780,7 @@
       "birth_info": "August 24, 1843 (Kent County DE on August 24, 1843 , the daughter of  John D)",
       "death_info": null,
       "notes": "Ingested from DeanRobert&Family.htm | FindAGrave: no match",
-      "photo_count": 3
+      "photo_count": 2
     },
     {
       "person_id": 247,
@@ -1792,7 +1792,7 @@
       "birth_info": "3 Mar 1837",
       "death_info": "10 Feb 1877 (aged 39)",
       "notes": "Linked to dean-w.htm | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/44619846/william-dean | Linked to dean-w3.htm | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/44619846/william-dean",
-      "photo_count": 3
+      "photo_count": 2
     }
   ],
   "obituaries": [

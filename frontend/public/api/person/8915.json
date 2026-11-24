@@ -12,11 +12,11 @@
     "death_info": "April 14,1986 Lewes, Delaware",
     "notes": "[Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "abt 1935 Delaware",
     "birth_place": null,
     "death_date": "April 14,1986 Lewes, Delaware",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

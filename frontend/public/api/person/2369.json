@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Durham",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "1857",
     "death_info": "1948 (aged 90\u201391)",
     "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/288626682/annie-durham | Linked to carty-w.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/288626682/annie-durham",
@@ -107,7 +107,7 @@
           "source_id": 658,
           "evidence_text": "...that my Executor, hereinafter named, shall procure and place at my grave and also at the grave of my deceased wife, Annie E. Durham, suitable memorials or tomb-stones. Third\u0097I order and direct that all the rest, residue and remainder of my estate,...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -126,7 +126,7 @@
           "source_id": 658,
           "evidence_text": "...that my Executor, hereinafter named, shall procure and place at my grave and also at the grave of my deceased wife, Annie E. Durham, suitable memorials or tomb-stones. Third\u0097I order and direct that all the rest, residue and remainder of my estate,...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -145,7 +145,7 @@
           "source_id": 658,
           "evidence_text": "...that my Executor, hereinafter named, shall procure and place at my grave and also at the grave of my deceased wife, Annie E. Durham, suitable memorials or tomb-stones. Third\u0097I order and direct that all the rest, residue and remainder of my estate,...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -351,7 +351,7 @@
       "local_image_path": "assets/archive_media/people/Mosley_Annie_Dean_Clan.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,

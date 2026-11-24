@@ -12,11 +12,11 @@
     "death_info": "31 Jan 1957 Rehoboth Beach, Sussex County, Delaware, USA",
     "notes": "[Suffix 'Sr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "4 Jun 1918 Sussex County, Delaware, USA",
     "birth_place": null,
     "death_date": "31 Jan 1957 Rehoboth Beach, Sussex County, Delaware, USA",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

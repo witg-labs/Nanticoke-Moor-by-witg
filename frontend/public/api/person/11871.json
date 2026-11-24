@@ -12,12 +12,12 @@
     "death_info": "",
     "notes": "",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "c. 1975",
     "birth_place": null,
     "death_date": null,
     "death_place": null,
-    "is_living": true,
-    "suffix": "Jr"
+    "is_living": true
   },
   "facts": [],
   "relationships": [],

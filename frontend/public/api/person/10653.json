@@ -12,11 +12,11 @@
     "death_info": "6 Feb 1831 Philadelphia, Philadelphia, Pennsylvania, United States",
     "notes": "[Suffix 'Sr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "1 Jan 1791 Pennsylvania, United States",
     "birth_place": null,
     "death_date": "6 Feb 1831 Philadelphia, Philadelphia, Pennsylvania, United States",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

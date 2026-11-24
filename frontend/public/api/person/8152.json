@@ -12,11 +12,11 @@
     "death_info": "20 Oct 1933",
     "notes": "| Verified via FindAGrave: https://www.findagrave.com/memorial/77472613/william-davis (Buried at Mount Hebron Cemetery) [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "20 Oct 1933",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -231,8 +231,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -246,11 +246,11 @@
       "local_image_path": "assets/archive_media/people/Davis_William_H_And_Horse.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],

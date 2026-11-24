@@ -12,11 +12,11 @@
     "death_info": "5 Mar 2005",
     "notes": "[Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "1 Oct 1918",
     "birth_place": null,
     "death_date": "5 Mar 2005",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

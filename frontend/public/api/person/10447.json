@@ -182,7 +182,7 @@
       "local_image_path": "assets/archive_media/people/Coker_Rev_Roland_ridgeway_Elizabeth_Flossie_ridgeway_Benjamin_F.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -200,11 +200,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_1.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -218,11 +218,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_2.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -236,11 +236,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_3.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -254,11 +254,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_4.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "birth_certificate",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -272,11 +272,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_5.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "census_record",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -290,11 +290,11 @@
       "local_image_path": "assets/archive_media/people/Ridgeway_Anna_Elizabeth_6.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "funeral_program",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
-      "face_context": "primary_subject",
+      "face_context": "embedded_photo",
       "routing_target": "photos"
     }
   ],

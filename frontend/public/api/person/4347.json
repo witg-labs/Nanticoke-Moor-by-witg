@@ -144,7 +144,7 @@
       "local_image_path": "assets/archive_media/people/Cuff_Elmer_Martha_Ann_Durham_Daughters.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -162,7 +162,7 @@
       "local_image_path": "assets/archive_media/people/Cuff_Elmer_Martha_Ann_Durham_Daughters.png",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -216,11 +216,11 @@
       "local_image_path": "assets/archive_media/people/Durham_Harry_H_And_Geneva_Cuff_Bride_Book.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "marriage_certificate",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {
@@ -270,7 +270,7 @@
       "local_image_path": "assets/archive_media/people/Durham_Laura_Gert_Anna_Mary.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -471,9 +471,14 @@
       "created_at": "2026-09-03T12:55:08.891243"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [954]",
-      "date": "2026-10-17"
+      "id": 7626,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 4347,
+      "person_id_secondary": null,
+      "description": "Removed 1 misassigned photo(s) per 2026-10-17 owner review: [954]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

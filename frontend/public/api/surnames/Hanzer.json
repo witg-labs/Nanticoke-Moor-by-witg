@@ -150,8 +150,8 @@
       "approximate_year": "1899",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 9722,
-      "person_name": "James Walter Hanzer"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1213,
@@ -163,8 +163,8 @@
       "approximate_year": "1899",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 10498,
-      "person_name": "James Jas Hanzer"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1122,
@@ -603,7 +603,7 @@
       "birth_info": null,
       "death_info": null,
       "notes": "Ingested from HanzerBishopJamesE.htm | FindAGrave: no match",
-      "photo_count": 5
+      "photo_count": 3
     },
     {
       "person_id": 2496,
@@ -615,7 +615,7 @@
       "birth_info": null,
       "death_info": "d. 1819",
       "notes": "Ingested from preserved IdentifiedIndians.htm record | FindAGrave: no match",
-      "photo_count": 4
+      "photo_count": 2
     },
     {
       "person_id": 10498,
@@ -627,7 +627,7 @@
       "birth_info": "abt 1922 Delaware",
       "death_info": "5 Jan 2001",
       "notes": "",
-      "photo_count": 4
+      "photo_count": 2
     },
     {
       "person_id": 9722,
@@ -639,7 +639,7 @@
       "birth_info": "5 July 1899 Sussex County, Delaware, United States of America",
       "death_info": "26 June 1967 Milton, Sussex County, Delaware, United States of America",
       "notes": "",
-      "photo_count": 4
+      "photo_count": 1
     },
     {
       "person_id": 9096,

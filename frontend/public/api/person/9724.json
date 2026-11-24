@@ -12,11 +12,11 @@
     "death_info": "15 May 2023 Felton, Kent, Delaware, USA",
     "notes": "[Suffix 'Sr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "20 Feb 1948 Accomack County, Virginia, USA",
     "birth_place": null,
     "death_date": "15 May 2023 Felton, Kent, Delaware, USA",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

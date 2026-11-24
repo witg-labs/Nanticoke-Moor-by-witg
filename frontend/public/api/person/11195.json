@@ -184,10 +184,14 @@
       "created_at": "2026-09-03T12:56:02.644008"
     },
     {
+      "id": 7590,
       "category": "date_anomaly",
-      "flag_type": "lifespan_over_110",
       "severity": "warning",
-      "description": "Computed lifespan (114 years) exceeds 110-year threshold: birth='14 May, 1854' (1854), death='d. 1968' (1968)."
+      "person_id": 11195,
+      "person_id_secondary": null,
+      "description": "Computed lifespan (114 years) exceeds 110-year threshold: birth='14 May, 1854' (1854), death='d. 1968' (1968).",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:41"
     }
   ],
   "ancestry": {

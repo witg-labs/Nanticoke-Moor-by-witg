@@ -12,11 +12,11 @@
     "death_info": "Jun 1998 Bridgeton, Cumberland, New Jersey, United States of America",
     "notes": "[Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "May 1914 Delaware",
     "birth_place": null,
     "death_date": "Jun 1998 Bridgeton, Cumberland, New Jersey, United States of America",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

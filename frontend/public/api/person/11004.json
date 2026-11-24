@@ -12,11 +12,11 @@
     "death_info": "unknown",
     "notes": "Mentioned in obituary | Verified via FindAGrave: https://www.findagrave.com/memorial/121640355/s-street",
     "dataset_source": "mitsawokett_obituaries",
+    "suffix": "Sr",
     "birth_date": null,
     "birth_place": null,
     "death_date": null,
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

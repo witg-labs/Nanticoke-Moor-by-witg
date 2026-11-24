@@ -287,7 +287,7 @@
           "source_id": 658,
           "evidence_text": "...inheritors) 5940 parts Jeremiah Dean Joel Durham Isaac Durham Elijah Durham John Durham Elizabeth Durham David Durham Mary Durham Hester Durham Ann Durham Elijah Consellor Perry Cork Enoch Spruance Sarah Miller Ezekiel Durham Enoch Durham Josiah...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -548,7 +548,7 @@
       "local_image_path": "assets/archive_media/people/Durham_Laura_Gert_Anna_Mary.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -602,7 +602,7 @@
       "local_image_path": "assets/archive_media/people/Ridgway_Durham_Greenage.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,

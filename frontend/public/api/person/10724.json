@@ -12,11 +12,11 @@
     "death_info": "25 September 2007 Millville, Cumberland County, New Jersey, United States of America",
     "notes": "[Suffix 'Sr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "5 July 1933 Cedarville, Cumberland County, New Jersey, United States of America",
     "birth_place": null,
     "death_date": "25 September 2007 Millville, Cumberland County, New Jersey, United States of America",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

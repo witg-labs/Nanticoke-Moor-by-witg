@@ -12,11 +12,11 @@
     "death_info": "03 Mar 1717 Middletown, Middlesex, Connecticut, USA",
     "notes": "[Suffix 'Sr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
     "birth_date": "21 Aug 1670 Middletown, Middlesex, Connecticut, USA",
     "birth_place": null,
     "death_date": "03 Mar 1717 Middletown, Middlesex, Connecticut, USA",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {

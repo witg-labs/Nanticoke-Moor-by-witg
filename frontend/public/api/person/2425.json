@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Clark",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": "1918",
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Levin Wright, David Wright, Ann Harman wife of Paynter Harman, Nicey Harman wife of Ephraim Harman, Mary Perkins, Sarah Clark wife of Whittington Clark, Louisa Wright, Hetty Drain, Elizabeth P. wife of William A. Johnson, each to have two...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -60,7 +60,7 @@
           "source_id": 658,
           "evidence_text": "...Paynter Harman, Nicey Harman wife of Ephraim Harman, Mary Perkins, Sarah Clark wife of Whittington Clark, Louisa Wright, Hetty Drain, Elizabeth P. wife of William A. Johnso...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {

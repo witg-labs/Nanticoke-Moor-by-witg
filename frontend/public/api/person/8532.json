@@ -210,7 +210,7 @@
       "local_image_path": "assets/archive_media/documents/Record_David_D_Street_30877.json",
       "source_url": "https://www.ancestry.com/discoveryui-content/view/30877:1674",
       "dataset_source": "Ancestry.com Delaware Census Records",
-      "document_type": "census_record",
+      "document_type": "death_certificate",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,

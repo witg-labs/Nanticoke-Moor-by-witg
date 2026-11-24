@@ -12,11 +12,11 @@
     "death_info": "5 October 1964 Sussex County, Delaware, USA",
     "notes": "[Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "13 May 1894 Milton, Delaware, USA",
     "birth_place": null,
     "death_date": "5 October 1964 Sussex County, Delaware, USA",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

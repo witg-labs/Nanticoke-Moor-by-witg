@@ -182,7 +182,7 @@
       "local_image_path": "assets/archive_media/people/Davis_Harmon_Wright_Ladies.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -211,9 +211,14 @@
   "obituaries": [],
   "audit_flags": [
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [2521, 2565, 2567]",
-      "date": "2026-10-17"
+      "id": 7657,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 8550,
+      "person_id_secondary": null,
+      "description": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [2521, 2565, 2567]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {
