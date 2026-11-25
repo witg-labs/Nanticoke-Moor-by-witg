@@ -31,7 +31,7 @@
           "fact_id": 7971,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         }
@@ -50,7 +50,7 @@
           "fact_id": 7972,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -78,7 +78,7 @@
           "fact_id": 12367,
           "source_id": 622,
           "evidence_text": "Archival assertion: d. 1978 (1978) documented in primary lineage manifest.",
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -182,8 +182,8 @@
       "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -200,8 +200,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],
@@ -218,10 +218,14 @@
       "created_at": "2026-09-03T12:55:29.789835"
     },
     {
+      "id": 7580,
       "category": "date_anomaly",
-      "flag_type": "lifespan_over_110",
       "severity": "warning",
-      "description": "Computed lifespan (215 years) exceeds 110-year threshold: birth='1763' (1763), death='1978' (1978)."
+      "person_id": 8513,
+      "person_id_secondary": null,
+      "description": "Computed lifespan (215 years) exceeds 110-year threshold: birth='1763' (1763), death='1978' (1978).",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:41"
     }
   ],
   "ancestry": {

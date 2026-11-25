@@ -98,7 +98,9 @@ export default function PersonProfileView({ personId, onClose, onSelectPerson })
   );
 
   // Also-known-as calculation
-  const composedDisplayName = `${person.first_name || person.name || ''} ${person.married_last_name || person.last_name || ''}`.trim();
+  const composedDisplayName = person.first_name
+    ? [person.first_name, person.middle_name || '', person.married_last_name || person.last_name || ''].filter(Boolean).join(' ').trim()
+    : (person.name || '').trim();
   const akaParts = [];
   if (person.maiden_name && person.maiden_name.trim()) {
     const mn = person.maiden_name.trim();

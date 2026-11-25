@@ -242,8 +242,8 @@
       "approximate_year": "1940",
       "document_type": "family_tree",
       "transcription": null,
-      "person_id": 10944,
-      "person_name": "Gould Albert"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1025,
@@ -542,7 +542,7 @@
       "birth_info": null,
       "death_info": null,
       "notes": "Mentioned in obituary | FindAGrave: no match",
-      "photo_count": 1
+      "photo_count": 0
     },
     {
       "person_id": 84,

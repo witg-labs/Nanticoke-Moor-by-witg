@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Durham",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": "11 November, 1905",
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Jack James Kenton William Williams John Hardison Benjamine Durham I. Argoe Samuel Emory Thomas Reed John Samons Isaac Durham Mr. Countis J. P. M. Denney Robert Parmes Samuel Emory Widow J. S. Moore Manlove Palmatary C. F. Hankins \u00a0 PEREGRINE...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...Samuel Emory Thomas Reed John Samons Isaac Durham Mr. Countis J. P. M. Denney Robert Parmes Samuel Emory Wido...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {

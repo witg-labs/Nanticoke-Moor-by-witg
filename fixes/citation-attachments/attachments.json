@@ -1,0 +1,696 @@
+{
+ "generated": "2026-11-16",
+ "rule": "Attach to each GEDCOM-only fact the primary-record citation(s) already present on the same profile for the same fact type, per the internal cross-reference verdicts (43 CORROBORATED).",
+ "pairs": [
+  {
+   "fact_id": 9630,
+   "person_id": 10334,
+   "name": "William Russell Wyniaco Clark",
+   "fact_type": "Birth",
+   "citation_id": 1050,
+   "source_id": 112,
+   "source_dataset": "lynncjackson",
+   "from_fact_id": 1050
+  },
+  {
+   "fact_id": 9630,
+   "person_id": 10334,
+   "name": "William Russell Wyniaco Clark",
+   "fact_type": "Birth",
+   "citation_id": 33642,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 1050
+  },
+  {
+   "fact_id": 9858,
+   "person_id": 10503,
+   "name": "William E Hanzer",
+   "fact_type": "Birth",
+   "citation_id": 34002,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 9260
+  },
+  {
+   "fact_id": 9859,
+   "person_id": 10503,
+   "name": "William E Hanzer",
+   "fact_type": "Death",
+   "citation_id": 34003,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 9261
+  },
+  {
+   "fact_id": 8592,
+   "person_id": 10618,
+   "name": "William H Davis",
+   "fact_type": "Birth",
+   "citation_id": 34236,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 8201
+  },
+  {
+   "fact_id": 9985,
+   "person_id": 10618,
+   "name": "William H Davis",
+   "fact_type": "Birth",
+   "citation_id": 34236,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 8201
+  },
+  {
+   "fact_id": 9988,
+   "person_id": 10619,
+   "name": "James Edward Ned Davis",
+   "fact_type": "Birth",
+   "citation_id": 6707,
+   "source_id": 562,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 6713
+  },
+  {
+   "fact_id": 9988,
+   "person_id": 10619,
+   "name": "James Edward Ned Davis",
+   "fact_type": "Birth",
+   "citation_id": 34241,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 6713
+  },
+  {
+   "fact_id": 9989,
+   "person_id": 10619,
+   "name": "James Edward Ned Davis",
+   "fact_type": "Death",
+   "citation_id": 6708,
+   "source_id": 562,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 6714
+  },
+  {
+   "fact_id": 9989,
+   "person_id": 10619,
+   "name": "James Edward Ned Davis",
+   "fact_type": "Death",
+   "citation_id": 34242,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 6714
+  },
+  {
+   "fact_id": 10204,
+   "person_id": 10813,
+   "name": "Clarence Drexel Davis",
+   "fact_type": "Birth",
+   "citation_id": 34648,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 8574
+  },
+  {
+   "fact_id": 10205,
+   "person_id": 10813,
+   "name": "Clarence Drexel Davis",
+   "fact_type": "Death",
+   "citation_id": 34649,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 8575
+  },
+  {
+   "fact_id": 10207,
+   "person_id": 10814,
+   "name": "Layton Sylvester Davis",
+   "fact_type": "Birth",
+   "citation_id": 34655,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 8568
+  },
+  {
+   "fact_id": 10208,
+   "person_id": 10814,
+   "name": "Layton Sylvester Davis",
+   "fact_type": "Death",
+   "citation_id": 34656,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 8569
+  },
+  {
+   "fact_id": 10211,
+   "person_id": 10815,
+   "name": "Charles Morris Charlie Davis",
+   "fact_type": "Death",
+   "citation_id": 5977,
+   "source_id": 479,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 5983
+  },
+  {
+   "fact_id": 10211,
+   "person_id": 10815,
+   "name": "Charles Morris Charlie Davis",
+   "fact_type": "Death",
+   "citation_id": 34663,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 5983
+  },
+  {
+   "fact_id": 8508,
+   "person_id": 1681,
+   "name": "John Asbury Thompson",
+   "fact_type": "Birth",
+   "citation_id": 1302,
+   "source_id": 122,
+   "source_dataset": "mitsawokett_photos",
+   "from_fact_id": 1302
+  },
+  {
+   "fact_id": 8508,
+   "person_id": 1681,
+   "name": "John Asbury Thompson",
+   "fact_type": "Birth",
+   "citation_id": 18612,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 1302
+  },
+  {
+   "fact_id": 8509,
+   "person_id": 1681,
+   "name": "John Asbury Thompson",
+   "fact_type": "Death",
+   "citation_id": 1303,
+   "source_id": 122,
+   "source_dataset": "mitsawokett_photos",
+   "from_fact_id": 1303
+  },
+  {
+   "fact_id": 8509,
+   "person_id": 1681,
+   "name": "John Asbury Thompson",
+   "fact_type": "Death",
+   "citation_id": 18613,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 1303
+  },
+  {
+   "fact_id": 10162,
+   "person_id": 2366,
+   "name": "William H. Johnson",
+   "fact_type": "Birth",
+   "citation_id": 1883,
+   "source_id": 658,
+   "source_dataset": "lynncjackson",
+   "from_fact_id": 1883
+  },
+  {
+   "fact_id": 10162,
+   "person_id": 2366,
+   "name": "William H. Johnson",
+   "fact_type": "Birth",
+   "citation_id": 20102,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 1883
+  },
+  {
+   "fact_id": 10162,
+   "person_id": 2366,
+   "name": "William H. Johnson",
+   "fact_type": "Birth",
+   "citation_id": 1948,
+   "source_id": 658,
+   "source_dataset": "lynncjackson",
+   "from_fact_id": 1948
+  },
+  {
+   "fact_id": 10162,
+   "person_id": 2366,
+   "name": "William H. Johnson",
+   "fact_type": "Birth",
+   "citation_id": 15622,
+   "source_id": 658,
+   "source_dataset": "lynncjackson",
+   "from_fact_id": 11912
+  },
+  {
+   "fact_id": 9447,
+   "person_id": 4056,
+   "name": "William Hansor Handsor",
+   "fact_type": "Birth",
+   "citation_id": 3379,
+   "source_id": 228,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 3385
+  },
+  {
+   "fact_id": 9447,
+   "person_id": 4056,
+   "name": "William Hansor Handsor",
+   "fact_type": "Birth",
+   "citation_id": 22784,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 3385
+  },
+  {
+   "fact_id": 10130,
+   "person_id": 439,
+   "name": "William Jackson",
+   "fact_type": "Birth",
+   "citation_id": 719,
+   "source_id": 71,
+   "source_dataset": "lynncjackson",
+   "from_fact_id": 719
+  },
+  {
+   "fact_id": 10130,
+   "person_id": 439,
+   "name": "William Jackson",
+   "fact_type": "Birth",
+   "citation_id": 17368,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 719
+  },
+  {
+   "fact_id": 8403,
+   "person_id": 4472,
+   "name": "Elizabeth Jackson Davis",
+   "fact_type": "Birth",
+   "citation_id": 3811,
+   "source_id": 260,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 3817
+  },
+  {
+   "fact_id": 8403,
+   "person_id": 4472,
+   "name": "Elizabeth Jackson Davis",
+   "fact_type": "Birth",
+   "citation_id": 23614,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 3817
+  },
+  {
+   "fact_id": 8027,
+   "person_id": 4643,
+   "name": "Henry Lovell Rees Davis",
+   "fact_type": "Birth",
+   "citation_id": 4031,
+   "source_id": 272,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 4037
+  },
+  {
+   "fact_id": 8027,
+   "person_id": 4643,
+   "name": "Henry Lovell Rees Davis",
+   "fact_type": "Birth",
+   "citation_id": 24032,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 4037
+  },
+  {
+   "fact_id": 8027,
+   "person_id": 4643,
+   "name": "Henry Lovell Rees Davis",
+   "fact_type": "Birth",
+   "citation_id": 4528,
+   "source_id": 308,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 4534
+  },
+  {
+   "fact_id": 7789,
+   "person_id": 6377,
+   "name": "Walter Roland Morris",
+   "fact_type": "Birth",
+   "citation_id": 5654,
+   "source_id": 429,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 5660
+  },
+  {
+   "fact_id": 7789,
+   "person_id": 6377,
+   "name": "Walter Roland Morris",
+   "fact_type": "Birth",
+   "citation_id": 26950,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 5660
+  },
+  {
+   "fact_id": 7790,
+   "person_id": 6377,
+   "name": "Walter Roland Morris",
+   "fact_type": "Death",
+   "citation_id": 5655,
+   "source_id": 429,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 5661
+  },
+  {
+   "fact_id": 7790,
+   "person_id": 6377,
+   "name": "Walter Roland Morris",
+   "fact_type": "Death",
+   "citation_id": 26951,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 5661
+  },
+  {
+   "fact_id": 8619,
+   "person_id": 6911,
+   "name": "James Franklin Johnson",
+   "fact_type": "Birth",
+   "citation_id": 6264,
+   "source_id": 508,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 6270
+  },
+  {
+   "fact_id": 8619,
+   "person_id": 6911,
+   "name": "James Franklin Johnson",
+   "fact_type": "Birth",
+   "citation_id": 28129,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 6270
+  },
+  {
+   "fact_id": 8620,
+   "person_id": 6911,
+   "name": "James Franklin Johnson",
+   "fact_type": "Death",
+   "citation_id": 6265,
+   "source_id": 508,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 6271
+  },
+  {
+   "fact_id": 8620,
+   "person_id": 6911,
+   "name": "James Franklin Johnson",
+   "fact_type": "Death",
+   "citation_id": 28130,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 6271
+  },
+  {
+   "fact_id": 7592,
+   "person_id": 8158,
+   "name": "Hersel R. Davis",
+   "fact_type": "Birth",
+   "citation_id": 3791,
+   "source_id": 148,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 3797
+  },
+  {
+   "fact_id": 7592,
+   "person_id": 8158,
+   "name": "Hersel R. Davis",
+   "fact_type": "Birth",
+   "citation_id": 30127,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 3797
+  },
+  {
+   "fact_id": 7593,
+   "person_id": 8158,
+   "name": "Hersel R. Davis",
+   "fact_type": "Death",
+   "citation_id": 3792,
+   "source_id": 148,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 3798
+  },
+  {
+   "fact_id": 7593,
+   "person_id": 8158,
+   "name": "Hersel R. Davis",
+   "fact_type": "Death",
+   "citation_id": 30128,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 3798
+  },
+  {
+   "fact_id": 8328,
+   "person_id": 8847,
+   "name": "James N Thompson",
+   "fact_type": "Birth",
+   "citation_id": 31423,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 7847
+  },
+  {
+   "fact_id": 8329,
+   "person_id": 8847,
+   "name": "James N Thompson",
+   "fact_type": "Death",
+   "citation_id": 31424,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 7848
+  },
+  {
+   "fact_id": 9655,
+   "person_id": 8892,
+   "name": "Sarah J Davis",
+   "fact_type": "Death",
+   "citation_id": 31538,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 8389
+  },
+  {
+   "fact_id": 8391,
+   "person_id": 8893,
+   "name": "Mary Catherine Davis",
+   "fact_type": "Birth",
+   "citation_id": 650,
+   "source_id": 65,
+   "source_dataset": "lynncjackson",
+   "from_fact_id": 650
+  },
+  {
+   "fact_id": 8391,
+   "person_id": 8893,
+   "name": "Mary Catherine Davis",
+   "fact_type": "Birth",
+   "citation_id": 31543,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 650
+  },
+  {
+   "fact_id": 8392,
+   "person_id": 8893,
+   "name": "Mary Catherine Davis",
+   "fact_type": "Death",
+   "citation_id": 651,
+   "source_id": 65,
+   "source_dataset": "lynncjackson",
+   "from_fact_id": 651
+  },
+  {
+   "fact_id": 8392,
+   "person_id": 8893,
+   "name": "Mary Catherine Davis",
+   "fact_type": "Death",
+   "citation_id": 31544,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 651
+  },
+  {
+   "fact_id": 9808,
+   "person_id": 9167,
+   "name": "Addie F. Thompson",
+   "fact_type": "Birth",
+   "citation_id": 31912,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 8607
+  },
+  {
+   "fact_id": 9809,
+   "person_id": 9167,
+   "name": "Addie F. Thompson",
+   "fact_type": "Death",
+   "citation_id": 31913,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 8608
+  },
+  {
+   "fact_id": 8628,
+   "person_id": 9188,
+   "name": "Ebenezer Miller",
+   "fact_type": "Birth",
+   "citation_id": 31948,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 8120
+  },
+  {
+   "fact_id": 8629,
+   "person_id": 9188,
+   "name": "Ebenezer Miller",
+   "fact_type": "Death",
+   "citation_id": 31949,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 8121
+  },
+  {
+   "fact_id": 8835,
+   "person_id": 9509,
+   "name": "Joseph B. S. Thompson",
+   "fact_type": "Birth",
+   "citation_id": 32306,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 7850
+  },
+  {
+   "fact_id": 8836,
+   "person_id": 9509,
+   "name": "Joseph B. S. Thompson",
+   "fact_type": "Death",
+   "citation_id": 32307,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 7851
+  },
+  {
+   "fact_id": 8884,
+   "person_id": 9561,
+   "name": "John S Thompson",
+   "fact_type": "Death",
+   "citation_id": 32396,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 7714
+  },
+  {
+   "fact_id": 10102,
+   "person_id": 9722,
+   "name": "James Walter Hanzer",
+   "fact_type": "Birth",
+   "citation_id": 32644,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 9041
+  },
+  {
+   "fact_id": 10103,
+   "person_id": 9722,
+   "name": "James Walter Hanzer",
+   "fact_type": "Death",
+   "citation_id": 32645,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 9042
+  },
+  {
+   "fact_id": 9171,
+   "person_id": 9880,
+   "name": "Theodore R. Harmon",
+   "fact_type": "Birth",
+   "citation_id": 1173,
+   "source_id": 119,
+   "source_dataset": "moors_delaware",
+   "from_fact_id": 1173
+  },
+  {
+   "fact_id": 9171,
+   "person_id": 9880,
+   "name": "Theodore R. Harmon",
+   "fact_type": "Birth",
+   "citation_id": 32878,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 1173
+  },
+  {
+   "fact_id": 9172,
+   "person_id": 9880,
+   "name": "Theodore R. Harmon",
+   "fact_type": "Death",
+   "citation_id": 1174,
+   "source_id": 119,
+   "source_dataset": "moors_delaware",
+   "from_fact_id": 1174
+  },
+  {
+   "fact_id": 9172,
+   "person_id": 9880,
+   "name": "Theodore R. Harmon",
+   "fact_type": "Death",
+   "citation_id": 32879,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 1174
+  },
+  {
+   "fact_id": 9174,
+   "person_id": 9881,
+   "name": "Eliza Anne Harmon",
+   "fact_type": "Birth",
+   "citation_id": 5209,
+   "source_id": 360,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 5215
+  },
+  {
+   "fact_id": 9174,
+   "person_id": 9881,
+   "name": "Eliza Anne Harmon",
+   "fact_type": "Birth",
+   "citation_id": 32883,
+   "source_id": 1271,
+   "source_dataset": "colonial_vital_records",
+   "from_fact_id": 5215
+  },
+  {
+   "fact_id": 9175,
+   "person_id": 9881,
+   "name": "Eliza Anne Harmon",
+   "fact_type": "Death",
+   "citation_id": 5210,
+   "source_id": 360,
+   "source_dataset": "mitsawokett_delaware",
+   "from_fact_id": 5216
+  },
+  {
+   "fact_id": 9175,
+   "person_id": 9881,
+   "name": "Eliza Anne Harmon",
+   "fact_type": "Death",
+   "citation_id": 32884,
+   "source_id": 1270,
+   "source_dataset": "delaware_vital_records",
+   "from_fact_id": 5216
+  }
+ ]
+}

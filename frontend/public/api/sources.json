@@ -3727,7 +3727,7 @@
   },
   {
     "source_id": 622,
-    "title": "Record: Davis Family Tree.ged",
+    "title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
     "url": "Davis Family Tree.ged",
     "dataset": "davis_family_gedcom"
   },
@@ -3745,7 +3745,7 @@
   },
   {
     "source_id": 625,
-    "title": "Record: GEDCOM Import",
+    "title": "Davis Family Tree (GEDCOM), supplemental import, compiled by Jequan Davis, 2026",
     "url": "GEDCOM Import",
     "dataset": "gedcom"
   },

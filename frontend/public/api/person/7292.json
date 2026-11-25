@@ -12,11 +12,11 @@
     "death_info": "Jan 1949 (aged 66\u201367)",
     "notes": "Ingested from SammonsMaryElizabethMunce.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/169758856/p-j-sreenan [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Sr",
     "birth_date": "1882",
     "birth_place": null,
     "death_date": "Jan 1949 (aged 66\u201367)",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {
@@ -229,7 +229,7 @@
       "local_image_path": "assets/archive_media/documents/Sammons_Perry_W_Jr_Obit_1982_Obituary.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "historical_document",
+      "document_type": "newspaper_item",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,

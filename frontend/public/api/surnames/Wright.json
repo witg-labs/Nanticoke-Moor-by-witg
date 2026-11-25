@@ -346,8 +346,8 @@
       "approximate_year": "1962",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 9270,
-      "person_name": "Elizabeth Anne Harmon"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1136,
@@ -359,8 +359,8 @@
       "approximate_year": "1962",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 9419,
-      "person_name": "Elizabeth Mosley Harmon"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1163,
@@ -372,8 +372,8 @@
       "approximate_year": "1962",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 774,
-      "person_name": "Elizabeth Patience Wright"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 2523,
@@ -387,6 +387,19 @@
       "transcription": null,
       "person_id": 3170,
       "person_name": "Anna Catherine Davis Wright"
+    },
+    {
+      "photo_id": 2581,
+      "category": "people",
+      "normalized_filename": "Wrights_Ontario.jpg",
+      "local_image_path": "assets/archive_media/people/Wrights_Ontario.jpg",
+      "title_or_caption": "Taken at the February 1914 funeral of their father, Robert Harmon Wright of Seaford, Delaware, whose portrait is superimposed above them. Back row: Edward, Charles, John, Robert Jr. Front row: Nicholas (unconfirmed), Cornelius, Arthur, one brother unidentified, Walter (unconfirmed). Frederick and Ephraim Wright had died before 1914 and are not pictured. Identified in October 2026 by Dorothy Wright Wallace, daughter of Arthur Wright.",
+      "subject_names": "Wright Brothers of Ontario, sons of Robert Harmon Wright",
+      "approximate_year": "1914",
+      "document_type": "group_photo",
+      "transcription": null,
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 106,
@@ -532,19 +545,6 @@
       "person_name": "Reba Wright"
     },
     {
-      "photo_id": 2581,
-      "category": "people",
-      "normalized_filename": "Wrights_Ontario.jpg",
-      "local_image_path": "assets/archive_media/people/Wrights_Ontario.jpg",
-      "title_or_caption": "Wrights_Ontario.jpg",
-      "subject_names": "Wrights Ontario",
-      "approximate_year": "1860",
-      "document_type": "group_photo",
-      "transcription": null,
-      "person_id": null,
-      "person_name": null
-    },
-    {
       "photo_id": 2651,
       "category": "people",
       "normalized_filename": "Apprentice_Indentures_Wright_Mary_1843_Page_1_Indenture.jpg",
@@ -684,8 +684,8 @@
       "approximate_year": "",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 2474,
-      "person_name": "Perry Hughes"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1432,
@@ -749,8 +749,8 @@
       "approximate_year": "",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 8550,
-      "person_name": "Catherine Davis"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 2522,
@@ -1264,7 +1264,7 @@
       "birth_info": "Aug 1851",
       "death_info": "7 May 1915 (aged 63)",
       "notes": "Ingested from WrightAnnaCatherineDavis.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/77205793/anna-davis (Buried at Old Church Cemetery)",
-      "photo_count": 16
+      "photo_count": 15
     },
     {
       "person_id": 7880,
@@ -1660,7 +1660,7 @@
       "birth_info": "abt 1847",
       "death_info": "unknown",
       "notes": "Linked to wrightp3.htm | WikiTree: https://www.wikitree.com/wiki/Wright-82169 (Wright-82169) | FindAGrave: no match",
-      "photo_count": 7
+      "photo_count": 4
     },
     {
       "person_id": 2418,
@@ -1672,7 +1672,7 @@
       "birth_info": "15 February, 1842 (Northwest Fork Hundred, Sussex Co)",
       "death_info": "1685",
       "notes": "Ingested from preserved Probate.htm record | WikiTree: https://www.wikitree.com/wiki/Wright-82169 (Wright-82169) | Verified via FindAGrave: https://www.findagrave.com/memorial/288042289/elizabeth-wright",
-      "photo_count": 6
+      "photo_count": 3
     },
     {
       "person_id": 10483,

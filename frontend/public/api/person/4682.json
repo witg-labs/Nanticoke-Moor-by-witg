@@ -591,7 +591,7 @@
           "source_id": 658,
           "evidence_text": "...1787 DE Mitsawokett Jesse Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1842 DE Mitsawokett Jesse Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1839 DE Mitsawokett Robert Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1874 DE Mitsawokett \u00a0 \u00a0 \u00a0 DURHAM Benjamin Durham died 1810 DE Moors & Nanticokes Benjamin Durham died...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -879,7 +879,7 @@
       "local_image_path": "assets/archive_media/people/Robert_Dean_var1.jpg",
       "source_url": null,
       "dataset_source": "images",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,

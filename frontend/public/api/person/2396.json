@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Sammons",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Henry Moore \u00a0\u00a0Isaac (his mark) Sammons First and Final Account of Administration Paid various persons for services To Myers Sammons The ?? Balance is distributable as follows to wit To Prudy Sammons To Elizabeth Sammons To Mary Sammons To Prudy...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

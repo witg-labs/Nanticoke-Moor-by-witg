@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Layton",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Jane her X mark Beckett Sarah J. Carney Mary A. Carney (difficult to read) --- Appraisers appointed 28 April 1837 : John W. Layton and Ebenezer Cloak --- Purchase from the estate by: Edward Duff Robert Denney Samuel Rich John Sanders Benjamin Enos...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

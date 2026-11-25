@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Conselor",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "8 Jun 1894",
     "death_info": "8 Nov 1951 (aged 57)",
     "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/22922426/susan-brown",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...the before named Benjamin Hughes and the sixth child of the said Debrix Miller deceased, assignee as afsd. of the said Benjamin Counselor, are each entitled to ninety nine of those parts subject to the dower therein of the said Sarah Miller widow as afsd....",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...the before named Benjamin Hughes and the sixth child of the said Debrix Miller deceased, assignee as afsd. of the said Benjamin Counselor, are each entitled to ninety nine of those parts subject to the dower therein of the said Sarah Miller widow as afsd....",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -79,7 +79,7 @@
           "source_id": 658,
           "evidence_text": "...the before named Benjamin Hughes and the sixth child of the said Debrix Miller deceased, assignee as afsd. of the said Benjamin Counselor, are each entitled to ninety nine of those parts subject to the dower therein of the said Sarah Miller widow as afsd....",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -215,7 +215,7 @@
   ],
   "ancestry": {
     "id": 2251,
-    "name": "Benjamin Counselor",
+    "name": "Benjamin Conselor",
     "children": []
   }
 }

@@ -401,7 +401,7 @@
           "source_id": 658,
           "evidence_text": "...Mitsawokett Jesse Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1839 DE Mitsawokett Robert Dean \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 1874 DE Mitsawokett \u00a0 \u00a0 \u00a0 DURHAM Benjamin Durham died 1810 DE Moors & Nanticokes Benjamin Durham died 1888 DE Moors & Nanticokes Daniel Durham died 1786 DE Moors &...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -831,11 +831,11 @@
       "local_image_path": "assets/archive_media/people/Benjamin_Durham.jpg",
       "source_url": null,
       "dataset_source": "images",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     }
   ],

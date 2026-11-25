@@ -126,7 +126,7 @@
           "source_id": 658,
           "evidence_text": "...That the said Sarah the aforesaid third child of the intestate aforesaid is living and is the widow of a certain Debrix Miller, and is unmarried. That the said Elizabeth the aforesaid fourth child of the intestate aforesaid intermarried with a...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -296,7 +296,7 @@
       "local_image_path": "assets/archive_media/people/Miller_Debrix_Stone_1.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -314,7 +314,7 @@
       "local_image_path": "assets/archive_media/people/Miller_Debrix_Stone_2.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
