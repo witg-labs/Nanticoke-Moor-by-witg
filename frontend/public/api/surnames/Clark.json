@@ -1,6 +1,6 @@
 {
   "surname": "Clark",
-  "individual_count": 91,
+  "individual_count": 98,
   "photo_count": 68,
   "category_counts": {
     "documents": 7,
@@ -1485,6 +1485,18 @@
       "photo_count": 0
     },
     {
+      "person_id": 12010,
+      "name": "Latin Clark",
+      "first_name": "Latin",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Clark",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Son and heir of Whittington Clark of Indian River Hundred; his share ($5.80) in the 22 Aug 1837 distribution was receipted by the widow Lydia Clark, consistent with a minor. Name as written in the account.",
+      "photo_count": 0
+    },
+    {
       "person_id": 10101,
       "name": "Lavenia Clark",
       "first_name": "Lavenia",
@@ -1601,7 +1613,19 @@
       "married_last_name": "Clark",
       "birth_info": null,
       "death_info": null,
-      "notes": "Ingested from SockumeLevin&Eunice.htm | FindAGrave: no match",
+      "notes": "Ingested from SockumeLevin&Eunice.htm | FindAGrave: no match [Note 2026-11-17: not the Lydia Clark who was widow of Whittington Clark of Indian River Hundred (d. 1836); that widow has her own profile. This Lydia was born 1834.]",
+      "photo_count": 0
+    },
+    {
+      "person_id": 12008,
+      "name": "Lydia Clark (Wife of Whittington)",
+      "first_name": "Lydia",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Clark",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Widow of Whittington Clark of Indian River Hundred; received the widow's share ($14.50) in the distribution of his estate, 22 Aug 1837 (Delaware Public Archives 4545-000-009). Not the Lydia Clark born 1834 who married Bowen Harmon.",
       "photo_count": 0
     },
     {
@@ -1745,7 +1769,19 @@
       "married_last_name": "Clark",
       "birth_info": null,
       "death_info": null,
-      "notes": "Ingested from preserved IdentifiedIndians.htm record | FindAGrave: no match",
+      "notes": "Ingested from preserved IdentifiedIndians.htm record | FindAGrave: no match [Note 2026-11-17: not the Nathaniel Clark who was heir of Whittington Clark of Indian River Hundred in 1836-1837; that Nathaniel has his own profile.]",
+      "photo_count": 0
+    },
+    {
+      "person_id": 12009,
+      "name": "Nathaniel Clark (Son of Whittington)",
+      "first_name": "Nathaniel",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Clark",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Son and heir of Whittington Clark of Indian River Hundred; bought at the estate sale 1836 and received an heir's share ($5.80) 22 Aug 1837. Not the Nathaniel Clark born 1880.",
       "photo_count": 0
     },
     {
@@ -1857,6 +1893,42 @@
       "photo_count": 0
     },
     {
+      "person_id": 12012,
+      "name": "Unknown Clark (Wife of Bowen Harman)",
+      "first_name": "Unknown",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Harman",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Daughter of Whittington Clark of Indian River Hundred, proven by her child's share in the 22 Aug 1837 distribution, where she is named only as the wife of Bowen Harman. Her given name is not in the probate file.",
+      "photo_count": 0
+    },
+    {
+      "person_id": 12011,
+      "name": "Unknown Clark (Wife of Eli Mosley)",
+      "first_name": "Unknown",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Mosley",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Daughter of Whittington Clark of Indian River Hundred, proven by her child's share in the 22 Aug 1837 distribution, where she is named only as the wife of Eli Mosley. Her given name is not in the probate file.",
+      "photo_count": 0
+    },
+    {
+      "person_id": 12013,
+      "name": "Unknown Clark (Wife of James Palmer)",
+      "first_name": "Unknown",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Palmer",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Daughter of Whittington Clark of Indian River Hundred, proven by her child's share in the 22 Aug 1837 distribution, where she is named only as the wife of James Palmer. Her given name is not in the probate file.",
+      "photo_count": 0
+    },
+    {
       "person_id": 10917,
       "name": "Virgil Monroe Clark",
       "first_name": "Virgil",
@@ -1875,9 +1947,21 @@
       "middle_name": "",
       "maiden_name": "",
       "married_last_name": "Clark",
-      "birth_info": "1812 (Delaware grandson of Thomas Clark & Elizabeth Morris See http://nativeamericansofdelawarestate)",
+      "birth_info": "unknown",
+      "death_info": "before 12 Jul 1836",
+      "notes": "Ingested from preserved Probate.htm record [Split 2026-11-17: this profile is Whittington Clark of Indian River Hundred, who died before 12 Jul 1836 (Sussex County probate, Delaware Public Archives 4545-000-009). A younger Whittington Clark (1812-1927) was separated into his own profile. The Find A Grave memorial formerly noted here belongs to the younger man's cluster.]",
+      "photo_count": 0
+    },
+    {
+      "person_id": 12007,
+      "name": "Whittington Clark (1812-1927)",
+      "first_name": "Whittington",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Clark",
+      "birth_info": "1812",
       "death_info": "29 Jun 1927",
-      "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/221298989/w-clark",
+      "notes": "[Created by split package 2026-11-17 from profile 2412.] Narrative formerly in the birth field, per the Mitsawokett record: grandson of Thomas Clark & Elizabeth Morris (unproven). Find A Grave memorial 221298989 (a 'W. Clark') is attributed to this man, not verified: a partial-name match. Parent links to George W. Clark and Harriett Hettie Johnson are GEDCOM-only and unproven.",
       "photo_count": 0
     },
     {

@@ -1,6 +1,6 @@
 {
   "surname": "Mosley",
-  "individual_count": 190,
+  "individual_count": 192,
   "photo_count": 207,
   "category_counts": {
     "documents": 7,
@@ -3376,6 +3376,18 @@
       "photo_count": 0
     },
     {
+      "person_id": 12014,
+      "name": "Eli Mosley",
+      "first_name": "Eli",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Mosley",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Eli Mosley, husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution.",
+      "photo_count": 0
+    },
+    {
       "person_id": 10624,
       "name": "Eliza Mosley",
       "first_name": "Eliza",
@@ -4910,6 +4922,18 @@
       "death_info": null,
       "notes": "Ingested from MosleyTeen.htm | FindAGrave: no match",
       "photo_count": 2
+    },
+    {
+      "person_id": 12011,
+      "name": "Unknown Clark (Wife of Eli Mosley)",
+      "first_name": "Unknown",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Mosley",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Daughter of Whittington Clark of Indian River Hundred, proven by her child's share in the 22 Aug 1837 distribution, where she is named only as the wife of Eli Mosley. Her given name is not in the probate file.",
+      "photo_count": 0
     },
     {
       "person_id": 6431,
