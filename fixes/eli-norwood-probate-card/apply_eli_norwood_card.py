@@ -20,6 +20,27 @@ repo at frontend/public/assets/archive_media/documents/ before re-export.
 Schema is discovered, never assumed. On any surprise the script rolls back
 and prints the schema it found. Idempotent.
 
+Correction 2026-11-26 (Orbit), from a pre-run audit against the live
+exporter source and photos.json (the Package 4 lesson: audit before the
+first run, not after the first stop):
+  1. The photo catalog table is unified_photo_catalog (the exporter's
+     photos.json source); the original candidate list ("photos",
+     "photo", "media") matches no table in this database and would
+     have stopped the run. It is now the first candidate.
+  2. The Death-fact check now also verifies the fact belongs to
+     person 10457 (the original checked only the fact's type).
+  3. The template-row copy for the catalog row's remaining fields is
+     removed: it selected with LIMIT 1 and no ordering, so the values
+     were a lottery. eli_norwood_card.json now carries the full row
+     spec with the archive's document-row conventions.
+  4. A title row is also registered in photo_catalog (the exporter's
+     title_or_caption source), so the card keeps its caption in
+     photos.json instead of falling back to the subject name.
+  5. The person link prefers the person_photos table by exact name
+     and records is_primary/confidence for the link row.
+No change to the package's scope: source, citation, document row,
+person link; no spouse relationship for Elon Norwood.
+
 Usage: python3 apply_eli_norwood_card.py [path-to-genealogy_preservation.db]
 """
 import json, os, shutil, sqlite3, sys, datetime
@@ -66,7 +87,8 @@ def main():
         cites_t = next((t for t in ("citations", "fact_citations")
                         if t in ts), None)
         sources_t = next((t for t in ("sources",) if t in ts), None)
-        photos_t = next((t for t in ("photos", "photo", "media")
+        photos_t = next((t for t in ("unified_photo_catalog", "photos",
+                                     "photo", "media")
                          if t in ts), None)
         if not all([persons_t, facts_t, cites_t, sources_t, photos_t]):
             print("SCHEMA SURPRISE: tables =", ts); con.rollback(); sys.exit(3)
@@ -84,10 +106,11 @@ def main():
         fc = cols(cur, facts_t)
         fid_c = pick_col(fc, "fact_id", "id")
         ftype_c = pick_col(fc, "fact_type", "type")
+        fperson_c = pick_col(fc, "person_id", "person")
         frow = cur.execute(
-            f"SELECT {ftype_c} FROM {facts_t} WHERE {fid_c}=?",
+            f"SELECT {ftype_c}, {fperson_c} FROM {facts_t} WHERE {fid_c}=?",
             (DATA["death_fact_id"],)).fetchone()
-        if not frow or frow[0] != "Death":
+        if not frow or frow[0] != "Death" or frow[1] != DATA["person_id"]:
             print("SCHEMA SURPRISE: death fact check failed:", frow)
             con.rollback(); sys.exit(3)
 
@@ -157,33 +180,20 @@ def main():
         phc = cols(cur, photos_t)
         path_c = pick_col(phc, "local_image_path", "image_path", "file_path",
                           "path")
+        id_c = pick_col(phc, "photo_id", "id")
+        # full row spec: every DATA["photo"] key that names a real column
+        vals = {}
+        for k, v in DATA["photo"].items():
+            col = pick_col(phc, k)
+            if col:
+                vals[col] = v
         prow = cur.execute(
-            f"SELECT 1 FROM {photos_t} WHERE {path_c}=?",
+            f"SELECT {id_c} FROM {photos_t} WHERE {path_c}=?",
             (DATA["photo"]["local_image_path"],)).fetchone()
         if prow:
-            print("Photo row already registered; skipped.")
-            photo_id = cur.execute(
-                f"SELECT {pick_col(phc, 'photo_id', 'id')} FROM {photos_t} "
-                f"WHERE {path_c}=?",
-                (DATA["photo"]["local_image_path"],)).fetchone()[0]
+            photo_id = prow[0]
+            print("Photo row already registered; skipped:", photo_id)
         else:
-            # mirror the free-text conventions of an existing no-face
-            # documents row
-            tmpl = cur.execute(
-                f"SELECT * FROM {photos_t} WHERE "
-                f"{pick_col(phc, 'document_type')}='historical_document' "
-                f"LIMIT 1").fetchone()
-            tmpl_d = dict(zip(phc, tmpl)) if tmpl else {}
-            vals = {}
-            for k, v in DATA["photo"].items():
-                col = pick_col(phc, k)
-                if col:
-                    vals[col] = v
-            for carry in ("face_context", "confidence_score", "subtype",
-                          "routing_target"):
-                col = pick_col(phc, carry)
-                if col and col not in vals and col in tmpl_d:
-                    vals[col] = tmpl_d[col]
             keys = list(vals)
             cur.execute(
                 f"INSERT INTO {photos_t} ({','.join(keys)}) "
@@ -191,10 +201,42 @@ def main():
                 [vals[k] for k in keys])
             photo_id = cur.lastrowid
             print("Photo row created:", photo_id)
-        # link photo -> person
-        link_t = next((t for t in ts if "photo" in t and
-                       ("person" in t or "subject" in t or "link" in t)
-                       and t != photos_t), None)
+        # title row in photo_catalog: the exporter's title_or_caption
+        # source for photos.json. Without it the caption falls back to
+        # the subject name.
+        pc_t = "photo_catalog" if "photo_catalog" in ts else None
+        if pc_t:
+            pcc = cols(cur, pc_t)
+            pc_pid = pick_col(pcc, "photo_id")
+            pc_title = pick_col(pcc, "title_or_caption")
+            if pc_pid and pc_title:
+                if cur.execute(
+                        f"SELECT 1 FROM {pc_t} WHERE {pc_pid}=?",
+                        (photo_id,)).fetchone():
+                    print("Photo title row already in photo_catalog;"
+                          " skipped.")
+                else:
+                    keys = [pc_pid]
+                    pvals = [photo_id]
+                    for col, v in vals.items():
+                        c2 = pick_col(pcc, col)
+                        if c2 and c2 not in keys:
+                            keys.append(c2); pvals.append(v)
+                    if pc_title not in keys:
+                        keys.append(pc_title)
+                        pvals.append(DATA["photo"]["title_or_caption"])
+                    cur.execute(
+                        f"INSERT INTO {pc_t} ({','.join(keys)}) "
+                        f"VALUES ({','.join('?' * len(keys))})", pvals)
+                    print("Photo title row created in photo_catalog:",
+                          photo_id)
+        # link photo -> person (person_photos preferred by exact name)
+        if "person_photos" in ts:
+            link_t = "person_photos"
+        else:
+            link_t = next((t for t in ts if "photo" in t and
+                           ("person" in t or "subject" in t or "link" in t)
+                           and t != photos_t), None)
         direct = pick_col(phc, "person_id")
         if link_t:
             lc = cols(cur, link_t)
@@ -203,9 +245,17 @@ def main():
             if not cur.execute(
                     f"SELECT 1 FROM {link_t} WHERE {lph}=? AND {lpe}=?",
                     (photo_id, DATA["person_id"])).fetchone():
+                keys = [lph, lpe]
+                lvals = [photo_id, DATA["person_id"]]
+                lip = pick_col(lc, "is_primary")
+                if lip:
+                    keys.append(lip); lvals.append(1)
+                lcs = pick_col(lc, "confidence_score")
+                if lcs:
+                    keys.append(lcs); lvals.append(1.0)
                 cur.execute(
-                    f"INSERT INTO {link_t} ({lph},{lpe}) VALUES (?,?)",
-                    (photo_id, DATA["person_id"]))
+                    f"INSERT INTO {link_t} ({','.join(keys)}) "
+                    f"VALUES ({','.join('?' * len(keys))})", lvals)
             print("Photo linked to person via", link_t)
         elif direct:
             cur.execute(
