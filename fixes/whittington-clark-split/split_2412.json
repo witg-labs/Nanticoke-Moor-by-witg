@@ -1,7 +1,7 @@
 {
  "generated": "2026-11-17",
  "plan": "SPLIT_PLAN_2412_whittington_clark.md, approved by Jequan Davis 2026-11-17",
- "correction_2026_11_25": "persons.name is UNIQUE in the database (verified across all 3,789 exported profiles: zero exact duplicates). The younger Whittington, the widow Lydia, the heir Nathaniel, and the three unnamed daughters therefore carry parenthetical qualifiers in their name values, following the archive's own precedent ('Betsy Bookram (Wife of William)'). First names, married names, notes, facts, and relationships are unchanged.",
+ "correction_2026_11_25": "persons.name is UNIQUE in the database (verified across all 3,789 exported profiles: zero exact duplicates). The younger Whittington, the widow Lydia, the heir Nathaniel, and the three unnamed daughters therefore carry parenthetical qualifiers in their name values, following the archive's own precedent ('Betsy Bookram (Wife of William)'). First names, married names, facts, and relationships are unchanged. Second amendment the same day, after re-run 2 committed with a silent conflation that the runner caught and restored from backup: the eli_mosley and james_palmer notes were identical strings, so the created-person lookup resolved James Palmer to Eli Mosley's new profile. Both notes now name their own man, and the script matches created persons on name AND notes and hard-fails if any two new profiles resolve to the same id.",
  "elder_person_id": 2412,
  "source": {
   "title": "Probate file of Whittington Clark, Sussex County, Delaware, 1836-1837",
@@ -113,14 +113,14 @@
    "name": "Eli Mosley",
    "first_name": "Eli",
    "married_last_name": "Mosley",
-   "notes": "[Created by split package 2026-11-17.] Husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution."
+   "notes": "[Created by split package 2026-11-17.] Eli Mosley, husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution."
   },
   {
    "key": "james_palmer",
    "name": "James Palmer",
    "first_name": "James",
    "married_last_name": "Palmer",
-   "notes": "[Created by split package 2026-11-17.] Husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution."
+   "notes": "[Created by split package 2026-11-17.] James Palmer, husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution."
   },
   {
    "key": "bowen_harman_elder",

@@ -34,6 +34,15 @@ table), and new citations carry the fact's value as evidence_text;
 their full notes exactly, because the sibling profiles share a
 60-character notes prefix and a prefix search conflates them;
 (5) parent-link moves print their rowcounts. No data or plan changes.
+Second correction the same day, after re-run 2 committed with a
+silent conflation (caught by the runner, who restored the database
+from the pre-script backup): the eli_mosley and james_palmer notes
+in the plan were identical strings, so even exact notes matching
+resolved James Palmer to Eli Mosley's profile. The plan now gives
+each man a notes string naming himself; the created-person lookup
+below matches on name AND notes; and a hard gate after creation
+fails the run if any two new profiles resolve to the same id or
+the created count differs from the plan count.
 """
 import json, os, shutil, sqlite3, sys, datetime
 
@@ -184,6 +193,16 @@ def main():
                                 (f"%{marker_text}%",)).fetchone()
             return r[0] if r else None
 
+        def find_created_person(spec):
+            # A created profile is identified by its name AND its full
+            # notes together; either alone can collide (names repeat
+            # across the archive's history, and two plan entries once
+            # shipped with identical notes).
+            if not p_notes: return None
+            r = cur.execute(f"SELECT {p_id} FROM {pt} WHERE {p_name}=? AND {p_notes}=?",
+                            (spec["name"], spec["notes"])).fetchone()
+            return r[0] if r else None
+
         # 2. Younger profile
         younger_id = find_created("Created by split package 2026-11-17 from profile 2412")
         if younger_id is None:
@@ -261,8 +280,12 @@ def main():
         # 4. New persons
         ids = {"ELDER": ELDER, "YOUNGER": younger_id}
         for spec in D["new_persons"]:
-            existing = find_created(spec["notes"], exact=True) if p_notes else None
+            existing = find_created_person(spec) if p_notes else None
             ids[spec["key"]] = existing if existing else insert_person(spec)
+        resolved = [ids[s["key"]] for s in D["new_persons"]]
+        if len(resolved) != len(D["new_persons"]) or len(set(resolved)) != len(resolved) \
+           or younger_id in resolved:
+            raise RuntimeError(f"new_persons resolution failed, ids not distinct: {ids}")
         print("New person ids:", {k: v for k, v in ids.items() if k not in ("ELDER", "YOUNGER")})
 
         # 5. Relationships, reciprocal, skip if present
