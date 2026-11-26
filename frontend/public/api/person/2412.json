@@ -8,13 +8,13 @@
     "married_last_name": "Clark",
     "evidence_level": 3,
     "source_page": "probate_sussex.htm",
-    "birth_info": "1812 (Delaware grandson of Thomas Clark & Elizabeth Morris See http://nativeamericansofdelawarestate)",
-    "death_info": "29 Jun 1927",
-    "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/221298989/w-clark",
+    "birth_info": "unknown",
+    "death_info": "before 12 Jul 1836",
+    "notes": "Ingested from preserved Probate.htm record [Split 2026-11-17: this profile is Whittington Clark of Indian River Hundred, who died before 12 Jul 1836 (Sussex County probate, Delaware Public Archives 4545-000-009). A younger Whittington Clark (1812-1927) was separated into his own profile. The Find A Grave memorial formerly noted here belongs to the younger man's cluster.]",
     "dataset_source": "mitsawokett_delaware",
-    "birth_date": "1812",
-    "birth_place": "Delaware grandson of Thomas Clark & Elizabeth Morris See http://nativeamericansofdelawarestate",
-    "death_date": "29 Jun 1927",
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": "before 12 Jul 1836",
     "death_place": null
   },
   "facts": [
@@ -66,53 +66,6 @@
       ]
     },
     {
-      "fact_id": 1958,
-      "person_id": 2412,
-      "fact_type": "Death",
-      "date_string": "29 Jun 1927",
-      "place_string": null,
-      "value_string": null,
-      "citations": [
-        {
-          "citation_id": 1958,
-          "fact_id": 1958,
-          "source_id": 658,
-          "evidence_text": "...(now the wife of Paynter Harman) 7. Nicey (now the wife of Ephraim Harman) 8. Mary Perkins 9. Sarah (now the wife of Whittington Clark) 10. Louisa Wright 11. Hetty Drain 12. Elizabeth (your petitioner now the wife of William A. Johnson) and 13. Walter...",
-          "source_title": "Record: Probate.htm",
-          "source_url": "probate_sussex.htm",
-          "source_dataset": "lynncjackson"
-        },
-        {
-          "citation_id": 20290,
-          "fact_id": 1958,
-          "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Whittington Clark, deceased 29 Jun 1927.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
-          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
-          "source_dataset": "delaware_vital_records"
-        }
-      ]
-    },
-    {
-      "fact_id": 11924,
-      "person_id": 2412,
-      "fact_type": "Birth",
-      "date_string": "1812",
-      "place_string": "Delaware",
-      "value_string": "born 1812 in Delaware grandson of Thomas Clark & Elizabeth Morris See http://nativeamericansofdelawarestate.",
-      "citations": [
-        {
-          "citation_id": 15634,
-          "fact_id": 11924,
-          "source_id": 1055,
-          "evidence_text": "Memorial assertion: Whittington Clark documented in FindAGrave Memorial #221298989.",
-          "source_title": "Record: FindAGrave Memorial 221298989",
-          "source_url": "https://www.findagrave.com/memorial/221298989/w-clark",
-          "source_dataset": "findagrave"
-        }
-      ]
-    },
-    {
       "fact_id": 12725,
       "person_id": 2412,
       "fact_type": "Document Mention",
@@ -156,25 +109,6 @@
           "source_title": "Record: wrightw1.htm",
           "source_url": "wrightw1.htm",
           "source_dataset": "lynncjackson"
-        }
-      ]
-    },
-    {
-      "fact_id": 18452,
-      "person_id": 2412,
-      "fact_type": "Burial",
-      "date_string": "29 Jun 1927",
-      "place_string": "Delmarva",
-      "value_string": "Interred in Delmarva cemetery (Find a Grave #221298989)",
-      "citations": [
-        {
-          "citation_id": 20291,
-          "fact_id": 18452,
-          "source_id": 1055,
-          "evidence_text": "Gravestone photographic survey and memorial record for Whittington Clark (Find a Grave Memorial #221298989).",
-          "source_title": "Record: FindAGrave Memorial 221298989",
-          "source_url": "https://www.findagrave.com/memorial/221298989/w-clark",
-          "source_dataset": "findagrave"
         }
       ]
     },
@@ -224,24 +158,132 @@
           "source_dataset": "delaware_vital_records"
         }
       ]
+    },
+    {
+      "fact_id": 28312,
+      "person_id": 2412,
+      "fact_type": "Death",
+      "date_string": "before 12 Jul 1836",
+      "place_string": "Sussex County, Delaware",
+      "value_string": "Died before 12 Jul 1836",
+      "citations": [
+        {
+          "citation_id": 37766,
+          "fact_id": 28312,
+          "source_id": 2693,
+          "evidence_text": "Died before 12 Jul 1836",
+          "source_title": "Probate file of Whittington Clark, Sussex County, Delaware, 1836-1837",
+          "source_url": "Delaware Public Archives, RG 4545-000-009 (Clark, Whittington, 1836-1837)",
+          "source_dataset": "delaware_public_archives"
+        }
+      ]
+    },
+    {
+      "fact_id": 28313,
+      "person_id": 2412,
+      "fact_type": "Document Mention",
+      "date_string": "12 Jul 1836",
+      "place_string": "Georgetown, Sussex County, Delaware",
+      "value_string": "Administration bond on his estate, Georgetown; Miers Burton administrator, Benjamin Burton surety, $500",
+      "citations": [
+        {
+          "citation_id": 37767,
+          "fact_id": 28313,
+          "source_id": 2693,
+          "evidence_text": "Administration bond on his estate, Georgetown; Miers Burton administrator, Benjamin Burton surety, $500",
+          "source_title": "Probate file of Whittington Clark, Sussex County, Delaware, 1836-1837",
+          "source_url": "Delaware Public Archives, RG 4545-000-009 (Clark, Whittington, 1836-1837)",
+          "source_dataset": "delaware_public_archives"
+        }
+      ]
+    },
+    {
+      "fact_id": 28314,
+      "person_id": 2412,
+      "fact_type": "Document Mention",
+      "date_string": "3 Aug 1836",
+      "place_string": "Indian River Hundred, Sussex County, Delaware",
+      "value_string": "Estate inventory appraised by John Thoroughgood and Robert Waples, $351.09; filed 31 Dec 1836",
+      "citations": [
+        {
+          "citation_id": 37768,
+          "fact_id": 28314,
+          "source_id": 2693,
+          "evidence_text": "Estate inventory appraised by John Thoroughgood and Robert Waples, $351.09; filed 31 Dec 1836",
+          "source_title": "Probate file of Whittington Clark, Sussex County, Delaware, 1836-1837",
+          "source_url": "Delaware Public Archives, RG 4545-000-009 (Clark, Whittington, 1836-1837)",
+          "source_dataset": "delaware_public_archives"
+        }
+      ]
+    },
+    {
+      "fact_id": 28315,
+      "person_id": 2412,
+      "fact_type": "Document Mention",
+      "date_string": "22 Aug 1837",
+      "place_string": "Sussex County, Delaware",
+      "value_string": "Administration and distribution accounts settled; widow Lydia Clark and heirs Nathaniel Clark, Latin Clark, and daughters married to Eli Mosley, Bowen Harman, and James Palmer",
+      "citations": [
+        {
+          "citation_id": 37769,
+          "fact_id": 28315,
+          "source_id": 2693,
+          "evidence_text": "Administration and distribution accounts settled; widow Lydia Clark and heirs Nathaniel Clark, Latin Clark, and daughters married to Eli Mosley, Bowen Harman, and James Palmer",
+          "source_title": "Probate file of Whittington Clark, Sussex County, Delaware, 1836-1837",
+          "source_url": "Delaware Public Archives, RG 4545-000-009 (Clark, Whittington, 1836-1837)",
+          "source_dataset": "delaware_public_archives"
+        }
+      ]
     }
   ],
   "relationships": [
     {
-      "relationship_type": "child_of",
-      "role": "parent",
-      "evidence_text": "GEDCOM Family tree linkage",
+      "relationship_type": "spouse_of",
+      "role": "spouse",
+      "evidence_text": "Distribution account, estate of Whittington Clark, 22 Aug 1837: Lydia Clark received the widow's share",
       "certainty": "confirmed",
-      "rel_id": 9953,
-      "rel_name": "George W. Clark"
+      "rel_id": 12008,
+      "rel_name": "Lydia Clark (Wife of Whittington)"
     },
     {
-      "relationship_type": "child_of",
-      "role": "parent",
-      "evidence_text": "GEDCOM Family tree linkage",
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Distribution account, 22 Aug 1837: Nathaniel Clark received a child's share",
       "certainty": "confirmed",
-      "rel_id": 9954,
-      "rel_name": "Harriett Hettie Johnson"
+      "rel_id": 12009,
+      "rel_name": "Nathaniel Clark (Son of Whittington)"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Distribution account, 22 Aug 1837: Latin Clark received a child's share, receipted by the widow",
+      "certainty": "confirmed",
+      "rel_id": 12010,
+      "rel_name": "Latin Clark"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Distribution account, 22 Aug 1837: Eli Mosley & wife received a child's share",
+      "certainty": "confirmed",
+      "rel_id": 12011,
+      "rel_name": "Unknown Clark (Wife of Eli Mosley)"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Distribution account, 22 Aug 1837: Bowen Harman & wife received a child's share",
+      "certainty": "confirmed",
+      "rel_id": 12012,
+      "rel_name": "Unknown Clark (Wife of Bowen Harman)"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Distribution account, 22 Aug 1837: James Palmer & wife received a child's share",
+      "certainty": "confirmed",
+      "rel_id": 12013,
+      "rel_name": "Unknown Clark (Wife of James Palmer)"
     }
   ],
   "photos": [],
@@ -281,17 +323,6 @@
   "ancestry": {
     "id": 2412,
     "name": "Whittington Clark",
-    "children": [
-      {
-        "id": 9953,
-        "name": "George W. Clark",
-        "children": []
-      },
-      {
-        "id": 9954,
-        "name": "Harriett Hettie Johnson",
-        "children": []
-      }
-    ]
+    "children": []
   }
 }
