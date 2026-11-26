@@ -22,6 +22,18 @@ timestamped backup first; ONE transaction; idempotent (rerunning changes
 nothing twice); every assert failure rolls back and prints what was found.
 
 Usage: python3 apply_split_2412.py [path-to-genealogy_preservation.db]
+
+Correction 2026-11-25 (Orbit), after the first run stopped on schema
+discovery and rolled back clean: (1) the relationships columns are
+person_a_id / person_b_id and are now the first candidates; (2) the
+citation model is detected from the table's columns, not its name
+(this database's citations table is a direct fact/source/evidence
+table), and new citations carry the fact's value as evidence_text;
+(3) table lookup prefers exact names (persons over person_photos);
+(4) the created-person lookup for the nine new profiles matches
+their full notes exactly, because the sibling profiles share a
+60-character notes prefix and a prefix search conflates them;
+(5) parent-link moves print their rowcounts. No data or plan changes.
 """
 import json, os, shutil, sqlite3, sys, datetime
 
@@ -48,7 +60,12 @@ def pick(cs, *subs, required=True):
     return None
 
 def find_table(cur, *name_subs):
-    for t in tables(cur):
+    ts = tables(cur)
+    for s in name_subs:
+        for t in ts:
+            if t.lower() == s or t.lower() == s + "s":
+                return t
+    for t in ts:
         if any(s in t.lower() for s in name_subs):
             return t
     return None
@@ -83,8 +100,8 @@ def main():
         f_date = pick(fc, "date", required=False)
         f_val = pick(fc, "value", required=False)
         f_place = pick(fc, "place", required=False)
-        r_person = pick(rc, "person")
-        r_related = pick(rc, "related", "other", "target")
+        r_person = pick(rc, "person_a", "person")
+        r_related = pick(rc, "person_b", "related", "other", "target")
         r_type = pick(rc, "type", "relation")
         r_ev = pick(rc, "evidence", "note", required=False)
         s_id = sc[0]
@@ -113,14 +130,24 @@ def main():
             source_id = cur.lastrowid
         print(f"Source id: {source_id}")
 
-        # Citation writer for new facts (discovers the link model)
+        # Citation writer for new facts (model detected from the
+        # citations table's columns: a direct table carries fact and
+        # source columns; a link table carries fact and citation
+        # columns and no source column)
         cc = cols(cur, ct) if ct else []
-        link_table = None
-        if ct and any("fact" in c.lower() for c in cc) and any("citation" in c.lower() for c in cc) \
-           and "source" not in ct.lower():
-            link_table = ct
-        def cite(fact_id):
-            if link_table:
+        has_fact = any("fact" in c.lower() for c in cc)
+        has_source = any("source" in c.lower() for c in cc)
+        has_citation = any("citation" in c.lower() for c in cc)
+        link_table = ct if (ct and has_fact and has_citation and not has_source) else None
+        def cite(fact_id, evidence=None):
+            if ct and has_fact and has_source:
+                cfc = pick(cc, "fact"); csc = pick(cc, "source")
+                ins, vals = [cfc, csc], [fact_id, source_id]
+                cev = pick(cc, "evidence", required=False)
+                if cev and evidence:
+                    ins.append(cev); vals.append(evidence)
+                cur.execute(f"INSERT INTO {ct} ({', '.join(ins)}) VALUES ({', '.join('?'*len(ins))})", vals)
+            elif link_table:
                 lc = cols(cur, link_table)
                 lfc = pick(lc, "fact"); lcc = pick(lc, "citation")
                 cit_t = find_table(cur, "citation")
@@ -129,9 +156,6 @@ def main():
                 cur.execute(f"INSERT INTO {cit_t} ({src_c}) VALUES (?)", (source_id,))
                 new_cid = cur.lastrowid
                 cur.execute(f"INSERT INTO {link_table} ({lfc}, {lcc}) VALUES (?, ?)", (fact_id, new_cid))
-            elif ct and any("fact" in c.lower() for c in cc) and any("source" in c.lower() for c in cc):
-                cfc = pick(cc, "fact"); csc = pick(cc, "source")
-                cur.execute(f"INSERT INTO {ct} ({cfc}, {csc}) VALUES (?, ?)", (fact_id, source_id))
             else:
                 raise RuntimeError("no recognizable citation model for new facts")
 
@@ -150,10 +174,14 @@ def main():
             cur.execute(f"INSERT INTO {pt} ({', '.join(ins)}) VALUES ({', '.join('?'*len(ins))})", vals)
             return cur.lastrowid
 
-        def find_created(marker_text):
+        def find_created(marker_text, exact=False):
             if not p_notes: return None
-            r = cur.execute(f"SELECT {p_id} FROM {pt} WHERE {p_notes} LIKE ?",
-                            (f"%{marker_text}%",)).fetchone()
+            if exact:
+                r = cur.execute(f"SELECT {p_id} FROM {pt} WHERE {p_notes}=?",
+                                (marker_text,)).fetchone()
+            else:
+                r = cur.execute(f"SELECT {p_id} FROM {pt} WHERE {p_notes} LIKE ?",
+                                (f"%{marker_text}%",)).fetchone()
             return r[0] if r else None
 
         # 2. Younger profile
@@ -189,8 +217,11 @@ def main():
             pid = prow[0][0]
             cur.execute(f"UPDATE {rt} SET {r_person}=? WHERE {r_person}=? AND {r_related}=? "
                         f"AND {r_type} LIKE 'child%'", (younger_id, ELDER, pid))
+            n1 = cur.rowcount
             cur.execute(f"UPDATE {rt} SET {r_related}=? WHERE {r_person}=? AND {r_related}=? "
                         f"AND {r_type} LIKE 'parent%'", (younger_id, pid, ELDER))
+            n2 = cur.rowcount
+            print(f"Parent link {pname} (id {pid}): child-side rows {n1}, parent-side rows {n2}")
         print("Parent links moved.")
 
         # 3. Elder person fields and notes
@@ -224,13 +255,13 @@ def main():
             if f_val: ins.append(f_val); vals.append(nf["value_string"])
             if f_place: ins.append(f_place); vals.append(nf["place_string"])
             cur.execute(f"INSERT INTO {ft} ({', '.join(ins)}) VALUES ({', '.join('?'*len(ins))})", vals)
-            cite(cur.lastrowid)
+            cite(cur.lastrowid, nf.get("value_string"))
         print("Elder probate facts added and cited.")
 
         # 4. New persons
         ids = {"ELDER": ELDER, "YOUNGER": younger_id}
         for spec in D["new_persons"]:
-            existing = find_created(spec["notes"][:60]) if p_notes else None
+            existing = find_created(spec["notes"], exact=True) if p_notes else None
             ids[spec["key"]] = existing if existing else insert_person(spec)
         print("New person ids:", {k: v for k, v in ids.items() if k not in ("ELDER", "YOUNGER")})
 
