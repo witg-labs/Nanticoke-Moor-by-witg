@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Morris",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...Jessey Jones seal William Scotten Jr seal Wm. F. Hawkins seal Silas Jones seal Washington Seney seal Wm. Scotten seal William Morris seal James Wilson seal Isaac Shorts seal John F. Hendrickson seal William Butler seal Sewell Green seal John Milboun...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...l Washington Seney seal Wm. Scotten seal William Morris seal James Wilson seal Isaac Shorts seal John F. Hendrickson seal W...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -176,8 +176,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -194,8 +194,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],

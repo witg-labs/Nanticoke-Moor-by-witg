@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Conselor",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": "d. 1811",
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": null,
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": null,
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -149,7 +149,7 @@
   ],
   "ancestry": {
     "id": 2132,
-    "name": "Jeremiah Counselor",
+    "name": "Jeremiah Conselor",
     "children": []
   }
 }

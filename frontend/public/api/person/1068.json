@@ -12,11 +12,11 @@
     "death_info": "6 June, 1933",
     "notes": "Moor/Nanticoke lineage record - Durham cluster | FindAGrave: no match [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "moors_delaware",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "6 June, 1933",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

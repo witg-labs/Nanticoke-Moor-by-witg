@@ -12,11 +12,11 @@
     "death_info": "8 May 1950 (aged 53\u201354)",
     "notes": "Ingested from preserved MainMenu.html record | Verified via FindAGrave: https://www.findagrave.com/memorial/304946481/robert-henry-jricks [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "1896",
     "birth_place": null,
     "death_date": "8 May 1950 (aged 53\u201354)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -193,7 +193,7 @@
       "local_image_path": "assets/archive_media/people/Goldsborough_Robert.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "tombstone",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,

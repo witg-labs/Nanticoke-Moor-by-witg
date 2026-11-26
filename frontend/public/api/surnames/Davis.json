@@ -1,11 +1,11 @@
 {
   "surname": "Davis",
   "individual_count": 151,
-  "photo_count": 361,
+  "photo_count": 365,
   "category_counts": {
     "documents": 266,
     "family_trees": 16,
-    "people": 79
+    "people": 83
   },
   "obituary_count": 3,
   "variants": "Davis",
@@ -3686,8 +3686,8 @@
       "approximate_year": "2005",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 3170,
-      "person_name": "Anna Catherine Davis Wright"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 664,
@@ -3712,8 +3712,8 @@
       "approximate_year": "2000",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 5454,
-      "person_name": "Elizabeth Wilson Davis"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 386,
@@ -4661,8 +4661,8 @@
       "approximate_year": "",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 8550,
-      "person_name": "Catherine Davis"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 2522,
@@ -4702,6 +4702,58 @@
       "transcription": null,
       "person_id": 2471,
       "person_name": "Walter B. Wright"
+    },
+    {
+      "photo_id": 3679,
+      "category": "people",
+      "normalized_filename": "Davis_Maryland_Phoebe_red_crab_shirt.jpg",
+      "local_image_path": "assets/archive_media/people/Davis_Maryland_Phoebe_red_crab_shirt.jpg",
+      "title_or_caption": "Davis_Maryland_Phoebe_red_crab_shirt.jpg",
+      "subject_names": "Maryland Phoebe Davis",
+      "approximate_year": null,
+      "document_type": "portrait",
+      "transcription": null,
+      "person_id": 11253,
+      "person_name": "Maryland Phoebe Davis"
+    },
+    {
+      "photo_id": 3680,
+      "category": "people",
+      "normalized_filename": "Davis_Maryland_Phoebe_couch_smiling.jpg",
+      "local_image_path": "assets/archive_media/people/Davis_Maryland_Phoebe_couch_smiling.jpg",
+      "title_or_caption": "Maryland Phoebe Davis with unidentified man",
+      "subject_names": "Maryland Phoebe Davis",
+      "approximate_year": null,
+      "document_type": "portrait",
+      "transcription": null,
+      "person_id": 11253,
+      "person_name": "Maryland Phoebe Davis"
+    },
+    {
+      "photo_id": 3681,
+      "category": "people",
+      "normalized_filename": "Davis_Maryland_Phoebe_Jordache.jpg",
+      "local_image_path": "assets/archive_media/people/Davis_Maryland_Phoebe_Jordache.jpg",
+      "title_or_caption": "Maryland Phoebe Davis (unidentified man at right edge)",
+      "subject_names": "Maryland Phoebe Davis",
+      "approximate_year": null,
+      "document_type": "portrait",
+      "transcription": null,
+      "person_id": 11253,
+      "person_name": "Maryland Phoebe Davis"
+    },
+    {
+      "photo_id": 3683,
+      "category": "people",
+      "normalized_filename": "Davis_Phoebe_Thompson_red_chair.jpg",
+      "local_image_path": "assets/archive_media/people/Davis_Phoebe_Thompson_red_chair.jpg",
+      "title_or_caption": "Phoebe Thompson Davis seated in a red chair",
+      "subject_names": "Phoebe Thompson Davis",
+      "approximate_year": null,
+      "document_type": "portrait",
+      "transcription": null,
+      "person_id": 8146,
+      "person_name": "Phoebe Thompson"
     }
   ],
   "individuals": [
@@ -4799,7 +4851,7 @@
       "birth_info": "Aug 1851",
       "death_info": "7 May 1915 (aged 63)",
       "notes": "Ingested from WrightAnnaCatherineDavis.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/77205793/anna-davis (Buried at Old Church Cemetery)",
-      "photo_count": 16
+      "photo_count": 15
     },
     {
       "person_id": 5436,
@@ -4811,7 +4863,7 @@
       "birth_info": "unknown",
       "death_info": "1906",
       "notes": "Ingested from DavisRobertNehemiahFamily.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/44611688/anna-davis (Buried at Fairview Cemetery)",
-      "photo_count": 6
+      "photo_count": 5
     },
     {
       "person_id": 10620,
@@ -4991,7 +5043,7 @@
       "birth_info": "7 Dec 1832",
       "death_info": "11 May 1897 (aged 64)",
       "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/20704624/catherine-davis (Buried at Macedonia Cemetery)",
-      "photo_count": 5
+      "photo_count": 2
     },
     {
       "person_id": 8575,
@@ -5195,7 +5247,7 @@
       "birth_info": "1876",
       "death_info": "unknown",
       "notes": "Ingested from DavisMaryElizJackson.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/197579890/elizabeth-davis (Buried at Mount Zion United Methodist Church Cemetery) | Verified via FindAGrave: https://www.findagrave.com/memorial/197579890/elizabeth-davis (Buried at Mount Zion United Methodist Church Cemetery)",
-      "photo_count": 8
+      "photo_count": 7
     },
     {
       "person_id": 5454,
@@ -5207,7 +5259,7 @@
       "birth_info": "1884",
       "death_info": "27 Jan 1959 (aged 74\u201375)",
       "notes": "Ingested from DavisRobertNehemiahFamily.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/44650278/elizabeth-davis (Buried at Charles Baber Cemetery)",
-      "photo_count": 8
+      "photo_count": 7
     },
     {
       "person_id": 10922,
@@ -5891,7 +5943,7 @@
       "birth_info": "30 Jun 1939 (Millsboro, DE)",
       "death_info": "26 Jan 2020 (aged 80, Millsboro, DE)",
       "notes": "Interred at Harmony Cemetery, Millsboro, DE. Daughter of William Wesley Davis & Phoebe Thompson Davis. Sister of William Davis Jr., Stanley Davis, Preston Davis, and Joan Davis.",
-      "photo_count": 3
+      "photo_count": 6
     },
     {
       "person_id": 4645,

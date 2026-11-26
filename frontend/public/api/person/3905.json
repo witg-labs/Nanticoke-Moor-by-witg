@@ -12,11 +12,11 @@
     "death_info": null,
     "notes": "Ingested from CarneyRobertJamesSr&Family.htm | FindAGrave: no match [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": null,
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -156,7 +156,7 @@
           "source_id": 658,
           "evidence_text": "...cow 85.00 1 horse 60.00 2 hoggs 35.00 Blade fodder 47.00 ---- Amt due the Estate Tilghman Jack 6.35 James Carney 2.50 Robert Carney 15.00 ---- Amt of Invoy 174.78 3/4 Amt of Sales 234.87 Excess of Sales 60.08 1/4 ---- Greensberry Becketts Disb...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -266,11 +266,11 @@
       "local_image_path": "assets/archive_media/people/Carney_Robert_Jancestery.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "family_tree",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
+      "contains_face": 0,
+      "face_context": "none",
       "routing_target": "photos"
     },
     {

@@ -147,9 +147,14 @@
       "created_at": "2026-09-03T12:55:03.677226"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 5 misassigned photo(s) per 2026-10-17 owner review: [638, 642, 643, 676, 690]",
-      "date": "2026-10-17"
+      "id": 7610,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 2883,
+      "person_id_secondary": null,
+      "description": "Removed 5 misassigned photo(s) per 2026-10-17 owner review: [638, 642, 643, 676, 690]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Dean",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": null,
     "death_info": null,
     "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "....com/JesseDeanEncounterWithTree.htm (Readers using Netscape browser may see a distorted lineage chart.) \u00a0 Last Will and Testament of Jesse Dean, 1839 Copied by Betty D. Terry 15 Aug 1974 at the Delaware Archives, Dover, DE In the name of God, Amen. I, Jesse...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]

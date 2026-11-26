@@ -339,9 +339,14 @@
       "created_at": "2026-09-03T12:55:09.907775"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 17 misassigned photo(s) per 2026-10-17 owner review: [1665, 1669, 1671, 1672, 1673, 1674, 1675, 1686, 1688, 1700, 1713, 1715, 1716, 1734, 1751, 1765, 1792]",
-      "date": "2026-10-17"
+      "id": 7632,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 4780,
+      "person_id_secondary": null,
+      "description": "Removed 17 misassigned photo(s) per 2026-10-17 owner review: [1665, 1669, 1671, 1672, 1673, 1674, 1675, 1686, 1688, 1700, 1713, 1715, 1716, 1734, 1751, 1765, 1792]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

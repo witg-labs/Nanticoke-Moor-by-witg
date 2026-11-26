@@ -31,7 +31,7 @@
           "fact_id": 7576,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         }
@@ -50,7 +50,7 @@
           "fact_id": 7577,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -78,7 +78,7 @@
           "fact_id": 7578,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -210,7 +210,26 @@
       "rel_name": "Maryland Phoebe Davis"
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+      "person_id": 8146,
+      "photo_id": 3683,
+      "category": "people",
+      "title_or_caption": "Phoebe Thompson Davis seated in a red chair",
+      "subject_names": "Phoebe Thompson Davis",
+      "married_surname": "Davis",
+      "approximate_year": null,
+      "local_image_path": "assets/archive_media/people/Davis_Phoebe_Thompson_red_chair.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "portrait",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "contains_face": 1,
+      "face_context": "primary_subject",
+      "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {

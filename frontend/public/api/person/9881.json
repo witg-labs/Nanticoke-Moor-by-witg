@@ -125,7 +125,7 @@
           "fact_id": 9173,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         }
@@ -144,9 +144,27 @@
           "fact_id": 9174,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 37762,
+          "fact_id": 9174,
+          "source_id": 360,
+          "evidence_text": null,
+          "source_title": "Record: HarmonIsaacW&SarahSockum.htm",
+          "source_url": "HarmonIsaacW&SarahSockum.htm",
+          "source_dataset": "mitsawokett_delaware"
+        },
+        {
+          "citation_id": 37763,
+          "fact_id": 9174,
+          "source_id": 1271,
+          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Eliza Anne Harmon, born 1838.",
+          "source_title": "Colonial Delmarva Church and Civil Vital Register (Pre-1860)",
+          "source_url": "https://archives.delaware.gov/historical-records/",
+          "source_dataset": "colonial_vital_records"
         }
       ]
     },
@@ -163,9 +181,27 @@
           "fact_id": 9175,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 37764,
+          "fact_id": 9175,
+          "source_id": 360,
+          "evidence_text": null,
+          "source_title": "Record: HarmonIsaacW&SarahSockum.htm",
+          "source_url": "HarmonIsaacW&SarahSockum.htm",
+          "source_dataset": "mitsawokett_delaware"
+        },
+        {
+          "citation_id": 37765,
+          "fact_id": 9175,
+          "source_id": 1270,
+          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Eliza Anne Harmon, deceased 8 Jun 1906 (aged 67\u201368).",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
         }
       ]
     },
@@ -333,9 +369,14 @@
   "obituaries": [],
   "audit_flags": [
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 5 misassigned photo(s) per 2026-10-17 owner review: [1405, 1427, 1434, 1442, 1443]",
-      "date": "2026-10-17"
+      "id": 7665,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 9881,
+      "person_id_secondary": null,
+      "description": "Removed 5 misassigned photo(s) per 2026-10-17 owner review: [1405, 1427, 1434, 1442, 1443]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

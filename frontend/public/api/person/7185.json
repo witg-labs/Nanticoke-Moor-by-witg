@@ -12,11 +12,11 @@
     "death_info": "15 Jun 1917 (aged 67)",
     "notes": "Ingested from ReedDorcasARidgeway.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/5081086/mary-ludwig [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "27 Aug 1849",
     "birth_place": null,
     "death_date": "15 Jun 1917 (aged 67)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

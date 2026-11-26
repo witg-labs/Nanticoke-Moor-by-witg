@@ -436,7 +436,7 @@
       "local_image_path": "assets/archive_media/people/Mosley_Mabel_And_Horse.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
+      "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "group_portrait",
       "contains_face": 1,
@@ -490,7 +490,7 @@
       "local_image_path": "assets/archive_media/people/Mosley_Paris_Shoeshop.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "photograph_other",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
@@ -547,9 +547,14 @@
       "created_at": "2026-09-03T12:55:19.619735"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [806, 1098, 2272]",
-      "date": "2026-10-17"
+      "id": 7649,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 6433,
+      "person_id_secondary": null,
+      "description": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [806, 1098, 2272]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

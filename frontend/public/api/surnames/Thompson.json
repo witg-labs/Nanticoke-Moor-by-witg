@@ -1,10 +1,10 @@
 {
   "surname": "Thompson",
   "individual_count": 125,
-  "photo_count": 8,
+  "photo_count": 19,
   "category_counts": {
     "family_trees": 2,
-    "people": 6
+    "people": 17
   },
   "obituary_count": 1,
   "variants": "Thompson",
@@ -34,6 +34,149 @@
       "transcription": null,
       "person_id": 7878,
       "person_name": "Bart Thompson"
+    },
+    {
+      "photo_id": 3695,
+      "category": "people",
+      "normalized_filename": "Thompson_George_William_Jr_program.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_George_William_Jr_program.jpg",
+      "title_or_caption": "Funeral program service page of George William Thompson, Jr. (1950-2022)",
+      "subject_names": "George W. Thompson Jr",
+      "approximate_year": "2022",
+      "document_type": "funeral_program",
+      "transcription": "Funeral program service page for George William Thompson, Jr., age 71: August 24, 1950 - June 20, 2022. Funeral service Monday, June 27, 2022 (the program prints 'Monday, 27, 2022' without the month; June 27, 2022 was a Monday), 10:00 A.M., Watson Funeral Home, Millsboro, Delaware; officiating Rev. Tambara Stewart; interment Old Field Cemetery, Millsboro, Delaware. Program page photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 8189,
+      "person_name": "George W. Thompson Jr"
+    },
+    {
+      "photo_id": 3690,
+      "category": "people",
+      "normalized_filename": "Thompson_Sylvester_funeral_program.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Sylvester_funeral_program.jpg",
+      "title_or_caption": "Sylvester Elwood Thompson funeral program cover (Jun 13, 1945 - Sep 15, 2006), with his portrait",
+      "subject_names": "Sylvester Thompson",
+      "approximate_year": "2006",
+      "document_type": "funeral_program",
+      "transcription": "Funeral program cover: 'In Loving Memory Of Sylvester Elwood Thompson - Sunrise June 13, 2006 [sic; the obituary gives his birth as June 13, 1945] - Sunset September 15, 2006 - Friday, September 22, 2006, Viewing 10:00 AM to 11:00 AM, Service 11:00 AM - Dickerson Chapel A.M.E. Church, 165 South DuPont Highway, Millsboro, DE 19966 - Reverend Richard H. Worthy, Officiating.' Portrait of Sylvester Thompson on the cover. Program photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 8181,
+      "person_name": "Sylvester E. Spark Thompson"
+    },
+    {
+      "photo_id": 3691,
+      "category": "people",
+      "normalized_filename": "Thompson_Sylvester_funeral_program_obituary.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Sylvester_funeral_program_obituary.jpg",
+      "title_or_caption": "Sylvester Elwood Thompson funeral program obituary page",
+      "subject_names": "Sylvester Thompson",
+      "approximate_year": "2006",
+      "document_type": "funeral_program",
+      "transcription": "Sylvester Elwood Thompson of Millsboro, Delaware was born on June 13, 1945 to Bertha Thompson and the late George Thompson. He departed this life on September 15, 2006, at Beebe Hospital, Lewes, Delaware, at the age of 61. He worked for Allen Baker prior to becoming ill in 1995. He was educated in the Millsboro school system and also attended the William C. Jason school of Georgetown. He was preceded in death by his father George and a brother, Basil Ronnie Thompson. He leaves his mother Bertha; three daughters, Sylvia, Barbara and Laura Norman, all of Seaford, Delaware; two brothers, George and Bruce Thompson of Millsboro; one sister, Mildred Harman of Lewes; nine grandchildren and two great-grandchildren; and a host of nieces, nephews, family and friends.",
+      "person_id": 8181,
+      "person_name": "Sylvester E. Spark Thompson"
+    },
+    {
+      "photo_id": 3692,
+      "category": "people",
+      "normalized_filename": "Thompson_Samuel_Jr_funeral_program.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Samuel_Jr_funeral_program.jpg",
+      "title_or_caption": "Samuel Thompson Jr. funeral program cover (Sep 27, 1930 - Apr 11, 2006), with his photograph",
+      "subject_names": "Samuel Thompson",
+      "approximate_year": "2006",
+      "document_type": "funeral_program",
+      "transcription": "Funeral program cover: 'Remembering Samuel Thompson - Sunrise September 27, 1930 - Sunset April 11, 2006 - junior.' Photograph of Samuel Thompson leaning on a car. His archive profile records his birth as September 22, 1929 in Newark, Delaware, citing Delaware vital records; the program's birth date and place differ and the conflict is flagged, not resolved. Program photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 8169,
+      "person_name": "Samuel Thompson"
+    },
+    {
+      "photo_id": 3693,
+      "category": "people",
+      "normalized_filename": "Thompson_Samuel_Jr_funeral_program_obituary.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Samuel_Jr_funeral_program_obituary.jpg",
+      "title_or_caption": "Samuel Thompson Jr. funeral program obituary page",
+      "subject_names": "Samuel Thompson",
+      "approximate_year": "2006",
+      "document_type": "funeral_program",
+      "transcription": "Samuel Thompson Jr., father, grandfather, brother, uncle and friend, departed this life on Tuesday, April 11, 2006, at home. He was born in Lewes, Delaware on September 27, 1930, a son of the late Samuel and Martha Thompson. In 1959 he met the late Annabelle Joynes; they married. He is survived by his brother Howdie Thompson of Millsboro; a sister, Pearl Davis of Dover; sons William Harvey (Una), David Thompson (Daisey), Bradley Thompson (Patria), Wydell Thompson, Donnell Thompson and Douglas Thompson (Robbin), all of Millsboro; daughters Mary Cross (Herman) of Salisbury, Maryland and Shirley Thompson (Tracy) of Rehoboth Beach; 25 grandchildren and 27 great-grandchildren. He was preceded in death by his wife Annabelle Thompson and a son, Gerald Lee Thompson. Transcribed from the program's script face; the sons' list as printed also carries the name Deroy Thompson of Bridgeville.",
+      "person_id": 8169,
+      "person_name": "Samuel Thompson"
+    },
+    {
+      "photo_id": 3694,
+      "category": "people",
+      "normalized_filename": "Thompson_Samuel_Jr_funeral_program_service.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Samuel_Jr_funeral_program_service.jpg",
+      "title_or_caption": "Samuel Thompson Jr. funeral program order of service page",
+      "subject_names": "Samuel Thompson",
+      "approximate_year": "2006",
+      "document_type": "funeral_program",
+      "transcription": "Order of service, Samuel Thompson Jr. funeral: Watson Funeral Services. Master of ceremonies and prayer, Evangelist Violet Handy; scripture, Donnell Thompson; solo, Robbin Thompson; cards and obituary, Christine Burton; eulogy, Pastor Sheila Drummond. Program photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 8169,
+      "person_name": "Samuel Thompson"
+    },
+    {
+      "photo_id": 3698,
+      "category": "people",
+      "normalized_filename": "Thompson_Annabelle_funeral_program_back.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Annabelle_funeral_program_back.jpg",
+      "title_or_caption": "Annabelle Thompson funeral program back page, 2001",
+      "subject_names": "Annabelle Joynes Thompson",
+      "approximate_year": "2001",
+      "document_type": "funeral_program",
+      "transcription": "Back page of Annabelle Thompson's funeral program: age 72; funeral Saturday, August 25, 2001, 1:00 P.M., Dickerson Chapel A.M.E. Church, Millsboro, Delaware; interment Old Field Cemetery, Millsboro; Watson Funeral Home. Photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 8212,
+      "person_name": "Annabell Thompson"
+    },
+    {
+      "photo_id": 3699,
+      "category": "people",
+      "normalized_filename": "Thompson_Annabelle_funeral_program_service.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Annabelle_funeral_program_service.jpg",
+      "title_or_caption": "Annabelle Thompson funeral program service page, 2001",
+      "subject_names": "Annabelle Joynes Thompson",
+      "approximate_year": "2001",
+      "document_type": "funeral_program",
+      "transcription": "Order of service page from Annabelle Thompson's funeral program: services by Watson Funeral Services; eulogy by Rev. Charles Briddell; obituary read by Robbin Thompson. Photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 8212,
+      "person_name": "Annabell Thompson"
+    },
+    {
+      "photo_id": 3700,
+      "category": "people",
+      "normalized_filename": "Thompson_Annabelle_funeral_program_obituary.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Annabelle_funeral_program_obituary.jpg",
+      "title_or_caption": "Annabelle Thompson funeral program obituary page, 2001",
+      "subject_names": "Annabelle Joynes Thompson",
+      "approximate_year": "2001",
+      "document_type": "funeral_program",
+      "transcription": "Obituary: Annabelle Thompson departed Tuesday, August 21, 2001 after a short illness. Born in Temperanceville, Virginia on October 28, 1928, the only daughter of the late Chaney and Carrie Joynes. She met and married Samuel Thompson Jr. in 1959. Survived by her husband Samuel Thompson of Millsboro; seven sons (William Harvey, Deroy, Bradley, Wydell, Douglas, Donnell, and David Thompson); two daughters (Mary Cross and Shirley Thompson); brother Dave Joynes of Salisbury, Maryland; 25 grandchildren and 24 great-grandchildren. Predeceased by her son Gerald Lee Thompson and brothers James and Randolph Joynes. Photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 8212,
+      "person_name": "Annabell Thompson"
+    },
+    {
+      "photo_id": 3701,
+      "category": "people",
+      "normalized_filename": "Thompson_Annabelle_funeral_program.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Annabelle_funeral_program.jpg",
+      "title_or_caption": "Annabelle Thompson funeral program cover, 2001",
+      "subject_names": "Annabelle Joynes Thompson",
+      "approximate_year": "2001",
+      "document_type": "funeral_program",
+      "transcription": "Funeral program cover: 'In Loving Memory of ANNABELLE THOMPSON - Sunrise October 28, 1928 - Sunset August 21, 2001.' Portrait of Annabelle Joynes Thompson on the cover. She was the wife of Samuel Thompson Jr. (profile 8169) and is archive profile 8212 ('Annabell Thompson'). The archive profile records her birth year as 1925 and her death as August 24, 2001; the program's dates (October 28, 1928 and August 21, 2001) govern under the archive owner's obituary-override rule and are corrected in her correction package. Photographed and supplied by Jequan Davis, 2026-11-23.",
+      "person_id": 8212,
+      "person_name": "Annabell Thompson"
+    },
+    {
+      "photo_id": 3677,
+      "category": "people",
+      "normalized_filename": "Thompson_Howdy_1994.jpg",
+      "local_image_path": "assets/archive_media/people/Thompson_Howdy_1994.jpg",
+      "title_or_caption": "Thompson_Howdy_1994.jpg",
+      "subject_names": "Howdy Thompson",
+      "approximate_year": "1994",
+      "document_type": "portrait",
+      "transcription": null,
+      "person_id": 8184,
+      "person_name": "Howdy Thompson"
     },
     {
       "photo_id": 2359,
@@ -197,7 +340,7 @@
       "birth_info": "28 Oct 1925 Virginia, USA",
       "death_info": "24 August 2001 Millsboro, Sussex, Delaware, USA",
       "notes": "",
-      "photo_count": 0
+      "photo_count": 4
     },
     {
       "person_id": 8359,
@@ -593,7 +736,7 @@
       "birth_info": "24 August 1950",
       "death_info": "20 June 2022 Lewes, Sussex County, Delaware, United States of America",
       "notes": "[Suffix 'Jr' realigned from surname field]",
-      "photo_count": 0
+      "photo_count": 1
     },
     {
       "person_id": 8264,
@@ -701,7 +844,7 @@
       "birth_info": "Sep 1938 Delaware",
       "death_info": "19 Sep 2013 Seaford",
       "notes": "",
-      "photo_count": 0
+      "photo_count": 1
     },
     {
       "person_id": 9168,
@@ -1277,7 +1420,7 @@
       "birth_info": "27 September 1920 Sussex County, Delaware, United States of America",
       "death_info": "11 January 1981 Sussex County, Delaware, United States of America",
       "notes": "",
-      "photo_count": 0
+      "photo_count": 1
     },
     {
       "person_id": 8168,
@@ -1409,7 +1552,7 @@
       "birth_info": "22 Sep 1929 Newark Del",
       "death_info": "11 Apr 2006 Lewes",
       "notes": "",
-      "photo_count": 0
+      "photo_count": 3
     },
     {
       "person_id": 11248,
@@ -1505,7 +1648,7 @@
       "birth_info": "1/13/1945",
       "death_info": "15 September 2006 Seaford, Sussex, Delaware, USA",
       "notes": "",
-      "photo_count": 0
+      "photo_count": 2
     },
     {
       "person_id": 10097,

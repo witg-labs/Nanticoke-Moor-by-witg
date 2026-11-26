@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Clark",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "1812 (Delaware grandson of Thomas Clark & Elizabeth Morris See http://nativeamericansofdelawarestate)",
     "death_info": "29 Jun 1927",
     "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/221298989/w-clark",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...(now the wife of Paynter Harman) 7. Nicey (now the wife of Ephraim Harman) 8. Mary Perkins 9. Sarah (now the wife of Whittington Clark) 10. Louisa Wright 11. Hetty Drain 12. Elizabeth (your petitioner now the wife of William A. Johnson) and 13. Walter...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...(now the wife of Paynter Harman) 7. Nicey (now the wife of Ephraim Harman) 8. Mary Perkins 9. Sarah (now the wife of Whittington Clark) 10. Louisa Wright 11. Hetty Drain 12. Elizabeth (your petitioner now the wife of William A. Johnson) and 13. Walter...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -79,7 +79,7 @@
           "source_id": 658,
           "evidence_text": "...(now the wife of Paynter Harman) 7. Nicey (now the wife of Ephraim Harman) 8. Mary Perkins 9. Sarah (now the wife of Whittington Clark) 10. Louisa Wright 11. Hetty Drain 12. Elizabeth (your petitioner now the wife of William A. Johnson) and 13. Walter...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -268,10 +268,14 @@
       "created_at": "2026-09-03T12:54:58.439553"
     },
     {
+      "id": 7561,
       "category": "date_anomaly",
-      "flag_type": "lifespan_over_110",
       "severity": "warning",
-      "description": "Computed lifespan (115 years) exceeds 110-year threshold: birth='1812' (1812), death='29 Jun 1927' (1927)."
+      "person_id": 2412,
+      "person_id_secondary": null,
+      "description": "Computed lifespan (115 years) exceeds 110-year threshold: birth='1812' (1812), death='29 Jun 1927' (1927).",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:40"
     }
   ],
   "ancestry": {

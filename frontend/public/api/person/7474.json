@@ -254,7 +254,7 @@
       "local_image_path": "assets/archive_media/people/Seeney_James_W_12.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -272,7 +272,7 @@
       "local_image_path": "assets/archive_media/people/Seeney_James_W_13.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "historical_document",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -290,7 +290,7 @@
       "local_image_path": "assets/archive_media/people/Seeney_James_H_1975.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "portrait",
+      "document_type": "newspaper_item",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 0,
@@ -311,8 +311,8 @@
       "document_type": "portrait",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     },
     {
@@ -365,10 +365,14 @@
       "created_at": "2026-09-03T12:55:25.801079"
     },
     {
+      "id": 7578,
       "category": "date_anomaly",
-      "flag_type": "birth_after_death",
       "severity": "critical",
-      "description": "Birth year (1843) is recorded after death year (1814) in historical records: birth='March 28th 1843', death='1814'."
+      "person_id": 7474,
+      "person_id_secondary": null,
+      "description": "Birth year (1843) is recorded after death year (1814) in historical records: birth='March 28th 1843', death='1814'.",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:40"
     }
   ],
   "ancestry": {

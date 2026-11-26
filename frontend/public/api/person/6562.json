@@ -12,11 +12,11 @@
     "death_info": "14 Nov 1991 (aged 90)",
     "notes": "Ingested from MosleyMark.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/9610906/frieda-mcgale [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "18 Feb 1901",
     "birth_place": null,
     "death_date": "14 Nov 1991 (aged 90)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {

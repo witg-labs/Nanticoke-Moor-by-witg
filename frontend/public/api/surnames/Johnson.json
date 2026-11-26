@@ -1,11 +1,11 @@
 {
   "surname": "Johnson",
   "individual_count": 141,
-  "photo_count": 82,
+  "photo_count": 84,
   "category_counts": {
     "documents": 1,
     "family_trees": 18,
-    "people": 62,
+    "people": 64,
     "tombstones": 1
   },
   "obituary_count": 15,
@@ -177,8 +177,8 @@
       "approximate_year": "",
       "document_type": "family_tree",
       "transcription": null,
-      "person_id": 413,
-      "person_name": "Mattie Jackson"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1411,
@@ -257,6 +257,32 @@
       "transcription": null,
       "person_id": null,
       "person_name": null
+    },
+    {
+      "photo_id": 3684,
+      "category": "people",
+      "normalized_filename": "Johnson_Dallas_funeral_program.jpg",
+      "local_image_path": "assets/archive_media/people/Johnson_Dallas_funeral_program.jpg",
+      "title_or_caption": "Dallas Robert Johnson, Sr. funeral program cover (Dec 14, 1921 - Jan 14, 2016), with his portrait",
+      "subject_names": "Dallas Robert Johnson",
+      "approximate_year": "2016",
+      "document_type": "funeral_program",
+      "transcription": "Dallas Robert Johnson, Sr. Sunrise December 14, 1921, Sunset January 14, 2016. Service Saturday, January 23, 2016, 12:00 noon, Williams Chapel Church, 491 North Cannon Street, Bridgeville, DE 19933.",
+      "person_id": 9696,
+      "person_name": "Dallas Robert Johnson"
+    },
+    {
+      "photo_id": 3685,
+      "category": "people",
+      "normalized_filename": "Johnson_Dallas_funeral_program_obituary.jpg",
+      "local_image_path": "assets/archive_media/people/Johnson_Dallas_funeral_program_obituary.jpg",
+      "title_or_caption": "Dallas Robert Johnson, Sr. funeral program obituary page",
+      "subject_names": "Dallas Robert Johnson",
+      "approximate_year": "2016",
+      "document_type": "funeral_program",
+      "transcription": "Dallas R. Johnson was born to Robert Dallas Johnson and Blanche Holmes Hamilton (John Hamilton) on Wednesday, December 14, 1921 in Ridgely, Maryland. He departed this life at the age of 94, on Thursday, January 14, 2016 at his son, Lamonte's home in Seaford, Delaware. He attended schools in Ridgely and enlisted into the United States Army in 1941. He served in the South Pacific and was honorably discharged in 1945. Dallas was employed for over 60 years as a truck driver in Maryland and Delaware, retiring in 2013 at the ripe age of 92. Dallas married Florence Emma Young in 1942 and to the union were born two sons, Dallas Junior Johnson and Robert Ernest Leroy Johnson. Born to the union of Dallas and Vivian Hammond were Lamonte Terry Hammond and Dorcilla Christine Jean-Francois. Dallas enjoyed fishing and hunting and eating with his special friends at Jimmy's Grille in Bridgeville, Delaware. Dallas was preceded in death by Florence Emma Young and Vivian Hammond; his son, Robert Ernest Leroy Johnson and stepfather, John Hamilton. He is survived by two sons, Dallas J. Johnson of Seaside, California (Barbara) & Lamonte Terry Hammond (Jacqueline) of Seaford, Delaware and one daughter, Dorcilla C. Jean-Francois of Bridgeville, Delaware. He is also survived by 10 grandchildren, 33 great-grandchildren, eight great-great grandchildren; and a host of nieces, nephews and riding partner, Anna Mae Hammond. Dallas was loved and will be missed greatly by his family and friends. Lovingly Submitted, The Family",
+      "person_id": 9696,
+      "person_name": "Dallas Robert Johnson"
     },
     {
       "photo_id": 1438,
@@ -580,8 +606,8 @@
       "approximate_year": "",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 4119,
-      "person_name": "Anna Johnson"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1152,
@@ -710,8 +736,8 @@
       "approximate_year": "",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 10292,
-      "person_name": "Ann Mariah Harmon"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1407,
@@ -892,8 +918,8 @@
       "approximate_year": "",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 755,
-      "person_name": "Eliza Ann Harmon"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1430,
@@ -1009,8 +1035,8 @@
       "approximate_year": "",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 1003,
-      "person_name": "Samuel Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1747,
@@ -1137,7 +1163,7 @@
       "birth_info": "14 December, 1889",
       "death_info": "d. 1961",
       "notes": "Ingested from ClarkLouiseWright&dauAnna.htm | FindAGrave: no match | Merged duplicate #11206: Obituary Record: Delmarva Burial | FindAGrave: no match",
-      "photo_count": 5
+      "photo_count": 3
     },
     {
       "person_id": 4119,
@@ -1149,7 +1175,7 @@
       "birth_info": "14 December, 1889",
       "death_info": "7 Feb 1967",
       "notes": "Ingested from ClarkLouiseWright&dauAnna.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/46785440/anna-johnson",
-      "photo_count": 5
+      "photo_count": 3
     },
     {
       "person_id": 5805,
@@ -1389,7 +1415,7 @@
       "birth_info": "December 14, 1921 Ridgely, Caroline, Maryland, USA",
       "death_info": "14 Jan 2016 Seaford, Delaware",
       "notes": "",
-      "photo_count": 0
+      "photo_count": 2
     },
     {
       "person_id": 9838,
@@ -1533,7 +1559,7 @@
       "birth_info": "5 Mar 1932",
       "death_info": "11 Oct 2009 (aged 77)",
       "notes": "Ingested from MorganKenneth&wife50th.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/66508065/elizabeth-mosley | Ingested from MosleyCharlesHenryFamily.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/66508065/elizabeth-mosley",
-      "photo_count": 11
+      "photo_count": 8
     },
     {
       "person_id": 2406,
@@ -2217,7 +2243,7 @@
       "birth_info": "1841 Sussex, Delaware, USA",
       "death_info": "1870 Sussex, Delaware, USA",
       "notes": "",
-      "photo_count": 1
+      "photo_count": 0
     },
     {
       "person_id": 6522,

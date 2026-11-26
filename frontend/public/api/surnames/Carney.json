@@ -879,8 +879,8 @@
       "approximate_year": "1970",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 340,
-      "person_name": "Helen Carney"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1463,
@@ -2565,7 +2565,7 @@
       "birth_info": "4 Jan 1909",
       "death_info": "3 Feb 1995 (aged 86)",
       "notes": " | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/108050165/helen-carney",
-      "photo_count": 2
+      "photo_count": 1
     },
     {
       "person_id": 242,
@@ -2613,7 +2613,7 @@
       "birth_info": null,
       "death_info": "1871",
       "notes": "Ingested from preserved Probate.htm record | FindAGrave: no match",
-      "photo_count": 9
+      "photo_count": 8
     },
     {
       "person_id": 4082,
@@ -2625,7 +2625,7 @@
       "birth_info": null,
       "death_info": "1871",
       "notes": "Ingested from CokerJohnClayton.htm | FindAGrave: no match",
-      "photo_count": 9
+      "photo_count": 8
     },
     {
       "person_id": 3719,
@@ -2637,7 +2637,7 @@
       "birth_info": "1845",
       "death_info": "22 Jan 1917 (aged 71\u201372)",
       "notes": "Ingested from CarneyJamesR&EffieReed.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/197406196/james-carney",
-      "photo_count": 9
+      "photo_count": 8
     },
     {
       "person_id": 3710,

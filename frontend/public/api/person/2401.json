@@ -7,7 +7,7 @@
     "maiden_name": "",
     "married_last_name": "Morgan",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "1859",
     "death_info": "24 Aug 1934 (aged 74\u201375)",
     "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/74733635/mary-morgan",
@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...--------------------------------------------------------------- ?? all men by these presents that We Elizabeth Sammons, Mary Morgan, Mary Reed, Prudy Copeland and Lydia Bristor Mitchell Sammons and Mills Sammons heirs at law of Isaac Sammons deceased...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -51,7 +51,7 @@
           "source_id": 658,
           "evidence_text": "...--------------------------------------------------------------- ?? all men by these presents that We Elizabeth Sammons, Mary Morgan, Mary Reed, Prudy Copeland and Lydia Bristor Mitchell Sammons and Mills Sammons heirs at law of Isaac Sammons deceased...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -79,7 +79,7 @@
           "source_id": 658,
           "evidence_text": "...--------------------------------------------------------------- ?? all men by these presents that We Elizabeth Sammons, Mary Morgan, Mary Reed, Prudy Copeland and Lydia Bristor Mitchell Sammons and Mills Sammons heirs at law of Isaac Sammons deceased...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -274,7 +274,7 @@
       "local_image_path": "assets/archive_media/people/Mary_Elva_Morgan_Mosley.jpg",
       "source_url": null,
       "dataset_source": "images",
-      "document_type": "portrait",
+      "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
