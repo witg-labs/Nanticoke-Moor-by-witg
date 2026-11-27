@@ -1,0 +1,269 @@
+{
+  "person": {
+    "person_id": 12018,
+    "name": "Joan Ellen Davis",
+    "first_name": "Joan",
+    "middle_name": "Ellen",
+    "maiden_name": "Davis",
+    "married_last_name": null,
+    "evidence_level": 1,
+    "source_page": null,
+    "birth_info": "Private",
+    "death_info": "",
+    "notes": "",
+    "dataset_source": "davis_family_gedcom",
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null,
+    "is_living": true
+  },
+  "facts": [],
+  "relationships": [
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "1950 US Federal Census (source 862): Joan Ellen Davis is enumerated as granddaughter in the household of her grandparents Samuel and Martha Thompson, with her mother Phoebe (Thompson) Davis in the same house. Corroborated by the funeral program of her sister Maryland Phoebe Davis (source 2700), which names Phoebe (Thompson) Davis as Maryland's mother and Joan Davis as Maryland's sister.",
+      "certainty": "confirmed",
+      "rel_id": 8146,
+      "rel_name": "Phoebe Thompson"
+    },
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, 2020; source 2700): Maryland 'was born in Millsboro, Delaware on June 30, 1939 to the late William Wesley Davis and Phoebe (Thompson) Davis,' and her survivors include 'her sister Joan Davis.' Joan Ellen Davis is William Wesley Davis Sr's daughter by the same parentage, confirmed by Jequan Davis's family knowledge (statement source, this package).",
+      "certainty": "confirmed",
+      "rel_id": 8609,
+      "rel_name": "William Wesley Davis Sr"
+    }
+  ],
+  "photos": [],
+  "obituaries": [],
+  "audit_flags": [],
+  "ancestry": {
+    "id": 12018,
+    "name": "Joan Ellen Davis",
+    "children": [
+      {
+        "id": 8146,
+        "name": "Phoebe Thompson",
+        "children": [
+          {
+            "id": 9097,
+            "name": "Samuel L. Thompson",
+            "children": [
+              {
+                "id": 8381,
+                "name": "James W Thompson",
+                "children": [
+                  {
+                    "id": 9109,
+                    "name": "Robert Thompson",
+                    "children": [
+                      {
+                        "id": 8604,
+                        "name": "Wallace B Thompson",
+                        "children": []
+                      },
+                      {
+                        "id": 8640,
+                        "name": "Elizabeth Thompson",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 8382,
+                "name": "Mary C Thompson",
+                "children": [
+                  {
+                    "id": 8606,
+                    "name": "Richard Dickerson",
+                    "children": []
+                  },
+                  {
+                    "id": 9071,
+                    "name": "Minnie Dickerson",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8147,
+            "name": "Martha E Thompson",
+            "children": [
+              {
+                "id": 9519,
+                "name": "Harry Jackson",
+                "children": [
+                  {
+                    "id": 9149,
+                    "name": "Mary A. Jackson",
+                    "children": [
+                      {
+                        "id": 8921,
+                        "name": "Eliza Jane Morris",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 9520,
+                    "name": "Charles Jackson",
+                    "children": [
+                      {
+                        "id": 9564,
+                        "name": "Robert Jackson",
+                        "children": []
+                      },
+                      {
+                        "id": 6480,
+                        "name": "Mary Jackson",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 490,
+                "name": "Elizabeth Jackson",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8609,
+        "name": "William Wesley Davis Sr",
+        "children": [
+          {
+            "id": 11247,
+            "name": "Hester A. Morris Davis",
+            "children": [
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11247,
+            "name": "Hester A. Morris Davis",
+            "children": [
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
