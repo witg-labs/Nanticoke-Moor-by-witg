@@ -12,11 +12,11 @@
     "death_info": "Apr. 27, 1961",
     "notes": "Ingested from ReedWalterAIII&JustineLamont-Hill.htm | FindAGrave: no match [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "Apr. 27, 1961",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -181,7 +181,7 @@
       "local_image_path": "assets/archive_media/documents/Reed_Walter_J_Obit_1994_Obituary.jpg",
       "source_url": "",
       "dataset_source": "mitsawokett",
-      "document_type": "historical_document",
+      "document_type": "newspaper_item",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,

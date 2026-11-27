@@ -117,10 +117,10 @@ npm run build
 When citing the archive in research publications or lineage societies:
 
 **Evidence Explained (GPS Reference Note):**
-> Lynn C. Jackson & Mitsawokett Delmarva Afro-Indigenous Archive, digital evidence database and genealogical proof repository (https://lynncjackson-genealogy.vercel.app : accessed 6 September 2026), individual profile and evidence model for Augustus Wright (b. 1878, d. 1960), ID #11266.
+> Lynn C. Jackson & Mitsawokett Delmarva Afro-Indigenous Archive, digital evidence database and genealogical proof repository (https://nanticoke-moor-by-witg-y5rj.vercel.app : accessed 19 November 2026), individual profile and evidence model for Augustus Wright (b. 1878, d. 1960), ID #11266.
 
 **Chicago Manual of Style (17th ed.):**
-> Lynn C. Jackson & Mitsawokett Delmarva Afro-Indigenous Archive, s.v. "Augustus Wright," Individual Record #11266, accessed September 6, 2026, https://lynncjackson-genealogy.vercel.app/#person-11266.
+> Lynn C. Jackson & Mitsawokett Delmarva Afro-Indigenous Archive, s.v. "Augustus Wright," Individual Record #11266, accessed November 19, 2026, https://nanticoke-moor-by-witg-y5rj.vercel.app/#person-11266.
 
 ---
 

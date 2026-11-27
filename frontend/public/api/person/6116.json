@@ -12,11 +12,11 @@
     "death_info": "1934 (1934 , Napoleon in 1946)",
     "notes": "Ingested from JacksonHarryJr.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/142566946/h-jrent [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "1934",
-    "death_place": "1934 , Napoleon in 1946",
-    "suffix": "Jr"
+    "death_place": "1934 , Napoleon in 1946"
   },
   "facts": [
     {

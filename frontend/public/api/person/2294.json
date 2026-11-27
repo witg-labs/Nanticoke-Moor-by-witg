@@ -7,16 +7,16 @@
     "maiden_name": "Scotten",
     "married_last_name": "Scotten",
     "evidence_level": 3,
-    "source_page": "Probate.htm",
+    "source_page": "probate_sussex.htm",
     "birth_info": "unknown",
     "death_info": "30 Mar 1954",
     "notes": "Ingested from preserved Probate.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/265717224/wm-f-srrobacr [Suffix 'Sr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Sr",
     "birth_date": null,
     "birth_place": null,
     "death_date": "30 Mar 1954",
-    "death_place": null,
-    "suffix": "Sr"
+    "death_place": null
   },
   "facts": [
     {
@@ -33,7 +33,7 @@
           "source_id": 658,
           "evidence_text": "...and affirmations of Wm R Cahoon, Wilson Stidham, William T. Campbell, Mason Bailey, William Scotten Jr, Silas Jones, Wm. Scotten Sr, James Wilson, John F. Hendrickson, Sewell Green, John Milboun, Jno Green, John T. Cheaves, Moses Jones, Jessee Jones,...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -52,7 +52,7 @@
           "source_id": 658,
           "evidence_text": "...and affirmations of Wm R Cahoon, Wilson Stidham, William T. Campbell, Mason Bailey, William Scotten Jr, Silas Jones, Wm. Scotten Sr, James Wilson, John F. Hendrickson, Sewell Green, John Milboun, Jno Green, John T. Cheaves, Moses Jones, Jessee Jones,...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -80,7 +80,7 @@
           "source_id": 658,
           "evidence_text": "...and affirmations of Wm R Cahoon, Wilson Stidham, William T. Campbell, Mason Bailey, William Scotten Jr, Silas Jones, Wm. Scotten Sr, James Wilson, John F. Hendrickson, Sewell Green, John Milboun, Jno Green, John T. Cheaves, Moses Jones, Jessee Jones,...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {

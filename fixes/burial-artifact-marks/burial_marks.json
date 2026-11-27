@@ -1,0 +1,668 @@
+{
+ "generated": "2026-11-16",
+ "ruling": "Jequan Davis, 2026-11-16: class-level import-artifact marking for the 56 provably wrong burial facts. The 9 held and 14 untouched facts are NOT in this file.",
+ "facts": [
+  {
+   "person_id": 10258,
+   "name": "David Harmon",
+   "fact_id": 12442,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 1033,
+   "name": "Ernest Windfield Durham",
+   "fact_id": 17324,
+   "date": "27 Aug 1905",
+   "value": "Interred in Delmarva cemetery (Find a Grave #230906641)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 10533,
+   "name": "Ellen Harmon",
+   "fact_id": 12460,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 10535,
+   "name": "Daniel Harmon",
+   "fact_id": 12461,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 10628,
+   "name": "Emma Mosley",
+   "fact_id": 12465,
+   "date": "1873",
+   "value": "buried behind church            Elmirah Durham   1873 - 1953   wife of John M",
+   "place": "Fork Branch Cemetery, Dover, Kent County, Delaware",
+   "reasons": [
+    "date shared by 11 burial facts",
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 10728,
+   "name": "George Bendell Jackson",
+   "fact_id": 12472,
+   "date": "1 Aug 1931",
+   "value": "buried 1 Aug 1931 in Bethel Cemetery",
+   "place": "Bethel AME Cemetery, Smyrna, Kent County, Delaware",
+   "reasons": [
+    "date shared by 12 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 108,
+   "name": "James B. Coker",
+   "fact_id": 16310,
+   "date": "1882",
+   "value": "Interred in Delmarva cemetery (Find a Grave #290398243)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 10866,
+   "name": "John Romaine",
+   "fact_id": 26517,
+   "date": "21 Nov 1889",
+   "value": "Interred in Delmarva cemetery (Find a Grave #296291969)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 10872,
+   "name": "Alverna Cuff",
+   "fact_id": 26543,
+   "date": "16 Jan 1894",
+   "value": "Interred in Delmarva cemetery (Find a Grave #221407510)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 10987,
+   "name": "Betty Jane Holman Pierce",
+   "fact_id": 26947,
+   "date": "21 Mar 1934",
+   "value": "Interred in Delmarva cemetery (Find a Grave #257994736)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 11015,
+   "name": "Gerald Henry Wright",
+   "fact_id": 11668,
+   "date": "1947",
+   "value": "Interred per Obituary Notice",
+   "place": "Delmarva Peninsula",
+   "reasons": [
+    "date shared by 4 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 11240,
+   "name": "George H. Webb",
+   "fact_id": 12498,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 13,
+   "name": "Sarah Cott",
+   "fact_id": 16176,
+   "date": "29 Apr 1825",
+   "value": "Interred in Delmarva cemetery (Find a Grave #222760354)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 146,
+   "name": "Caroline Coker",
+   "fact_id": 16382,
+   "date": "9 Jul 1872",
+   "value": "Interred in Delmarva cemetery (Find a Grave #297176353)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 154,
+   "name": "Ida May Mosley",
+   "fact_id": 11705,
+   "date": "1851",
+   "value": "buried at John Wesley  Church is a SELLEYSTEAN HANSLEY ( 1851 - 1882 )",
+   "place": "John Wesley United Methodist Cemetery, Milford, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 8 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 1651,
+   "name": "Joseph Perry Carney",
+   "fact_id": 17401,
+   "date": "11 Sep 1914",
+   "value": "Interred in Delmarva cemetery (Find a Grave #167698809)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 1686,
+   "name": "Jane Harmon",
+   "fact_id": 11864,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 17,
+   "name": "Martha A. Harmon",
+   "fact_id": 11674,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 192,
+   "name": "Elisha Durham",
+   "fact_id": 11709,
+   "date": "1873",
+   "value": "buried behind church            Elmirah Durham   1873 - 1953   wife of John M",
+   "place": "Fork Branch Cemetery, Dover, Kent County, Delaware",
+   "reasons": [
+    "date shared by 11 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 2418,
+   "name": "Elizabeth Wright",
+   "fact_id": 18471,
+   "date": "1685",
+   "value": "Interred in Delmarva cemetery (Find a Grave #288042289)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 2568,
+   "name": "Alice Cecelia Durham",
+   "fact_id": 18598,
+   "date": "29 Apr 1840",
+   "value": "Interred in Delmarva cemetery (Find a Grave #197864281)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 2709,
+   "name": "Elaine Goldsboro",
+   "fact_id": 11955,
+   "date": "1873",
+   "value": "buried behind church            Elmirah Durham   1873 - 1953   wife of John M",
+   "place": "Fork Branch Cemetery, Dover, Kent County, Delaware",
+   "reasons": [
+    "date shared by 11 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 3177,
+   "name": "Sylvia Davis Pinkett",
+   "fact_id": 19092,
+   "date": "Aug 1971",
+   "value": "Interred in Delmarva cemetery (Find a Grave #138696783)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 355,
+   "name": "Sarah Coker",
+   "fact_id": 16611,
+   "date": "26 Nov 1850",
+   "value": "Interred in Delmarva cemetery (Find a Grave #288199966)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 3606,
+   "name": "Margaret A. Carney Coker Carney",
+   "fact_id": 19521,
+   "date": "23 Jan 1879",
+   "value": "Interred in Delmarva cemetery (Find a Grave #46744482)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 3921,
+   "name": "Jim Mosley",
+   "fact_id": 12021,
+   "date": "1851",
+   "value": "buried at John Wesley  Church is a SELLEYSTEAN HANSLEY ( 1851 - 1882 )",
+   "place": "John Wesley United Methodist Cemetery, Milford, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 8 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 4000,
+   "name": "Harriett Coker Carter",
+   "fact_id": 19911,
+   "date": "28 Jul 1903",
+   "value": "Interred in Delmarva cemetery (Find a Grave #259981401)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 4683,
+   "name": "Anna Elizabeth",
+   "fact_id": 20786,
+   "date": "1826",
+   "value": "Interred in Delmarva cemetery (Find a Grave #141475449)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 4919,
+   "name": "Emma Eliza Durham",
+   "fact_id": 12115,
+   "date": "1873",
+   "value": "buried behind church            Elmirah Durham   1873 - 1953   wife of John M",
+   "place": "Fork Branch Cemetery, Dover, Kent County, Delaware",
+   "reasons": [
+    "date shared by 11 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 5,
+   "name": "Ann Cott",
+   "fact_id": 16165,
+   "date": "30 Aug 1864",
+   "value": "Interred in Delmarva cemetery (Find a Grave #174839710)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 5051,
+   "name": "Elizabeth Mae Betty Durham",
+   "fact_id": 21106,
+   "date": "18 Jun 1866",
+   "value": "Interred in Delmarva cemetery (Find a Grave #226181061)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 5150,
+   "name": "Emma Durham Mosley",
+   "fact_id": 12128,
+   "date": "1873",
+   "value": "buried behind church            Elmirah Durham   1873 - 1953   wife of John M",
+   "place": "Fork Branch Cemetery, Dover, Kent County, Delaware",
+   "reasons": [
+    "date shared by 11 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 5920,
+   "name": "Sarah Jane Sockum Harmon",
+   "fact_id": 12182,
+   "date": "1 Aug 1931",
+   "value": "buried 1 Aug 1931 in Bethel Cemetery",
+   "place": "Bethel AME Cemetery, Smyrna, Kent County, Delaware",
+   "reasons": [
+    "date shared by 12 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 6156,
+   "name": "Ellen Perkins Jackson",
+   "fact_id": 12207,
+   "date": "1 Aug 1931",
+   "value": "buried 1 Aug 1931 in Bethel Cemetery",
+   "place": "Bethel AME Cemetery, Smyrna, Kent County, Delaware",
+   "reasons": [
+    "date shared by 12 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 6608,
+   "name": "Elva Mosley",
+   "fact_id": 12233,
+   "date": "1851",
+   "value": "buried at John Wesley  Church is a SELLEYSTEAN HANSLEY ( 1851 - 1882 )",
+   "place": "John Wesley United Methodist Cemetery, Milford, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 8 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 6681,
+   "name": "Margaret A. Carney Mosley",
+   "fact_id": 12240,
+   "date": "1851",
+   "value": "buried at John Wesley  Church is a SELLEYSTEAN HANSLEY ( 1851 - 1882 )",
+   "place": "John Wesley United Methodist Cemetery, Milford, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 8 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 6874,
+   "name": "Benjamin Mosley Jr",
+   "fact_id": 12274,
+   "date": "1873",
+   "value": "buried behind church            Elmirah Durham   1873 - 1953   wife of John M",
+   "place": "Fork Branch Cemetery, Dover, Kent County, Delaware",
+   "reasons": [
+    "date shared by 11 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 7346,
+   "name": "Mary E. Reed Thomas",
+   "fact_id": 23639,
+   "date": "1836",
+   "value": "Interred in Delmarva cemetery (Find a Grave #135888074)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 741,
+   "name": "Edith Wright",
+   "fact_id": 11667,
+   "date": "1947",
+   "value": "Interred per Obituary Notice",
+   "place": "Delmarva Peninsula",
+   "reasons": [
+    "date shared by 4 burial facts",
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 7474,
+   "name": "James Seeney",
+   "fact_id": 23791,
+   "date": "1814",
+   "value": "Interred in Delmarva cemetery (Find a Grave #229289611)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 7499,
+   "name": "John Street",
+   "fact_id": 23830,
+   "date": "1719",
+   "value": "Interred in Delmarva cemetery (Find a Grave #259138911)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 7821,
+   "name": "Ellen Gould Harmon",
+   "fact_id": 12332,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 787,
+   "name": "Ann Wright",
+   "fact_id": 17182,
+   "date": "Dec 1807",
+   "value": "Interred in Delmarva cemetery (Find a Grave #288105626)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 81,
+   "name": "Elmira Mosley",
+   "fact_id": 11688,
+   "date": "1873",
+   "value": "buried behind church            Elmirah Durham   1873 - 1953   wife of John M",
+   "place": "Fork Branch Cemetery, Dover, Kent County, Delaware",
+   "reasons": [
+    "date shared by 11 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 8339,
+   "name": "Sarah Jane Morris",
+   "fact_id": 12364,
+   "date": "1 Aug 1931",
+   "value": "buried 1 Aug 1931 in Bethel Cemetery",
+   "place": "Bethel AME Cemetery, Smyrna, Kent County, Delaware",
+   "reasons": [
+    "date shared by 12 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 8895,
+   "name": "SARAH HESTER Morris",
+   "fact_id": 12377,
+   "date": "1 Aug 1931",
+   "value": "buried 1 Aug 1931 in Bethel Cemetery",
+   "place": "Bethel AME Cemetery, Smyrna, Kent County, Delaware",
+   "reasons": [
+    "date shared by 12 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 8929,
+   "name": "George Harrison Harmon Jr",
+   "fact_id": 12383,
+   "date": "1851",
+   "value": "buried at John Wesley  Church is a SELLEYSTEAN HANSLEY ( 1851 - 1882 )",
+   "place": "John Wesley United Methodist Cemetery, Milford, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 8 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 8930,
+   "name": "David W. Harmon",
+   "fact_id": 12384,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 9001,
+   "name": "George Isaac Harmon",
+   "fact_id": 12387,
+   "date": "1851",
+   "value": "buried at John Wesley  Church is a SELLEYSTEAN HANSLEY ( 1851 - 1882 )",
+   "place": "John Wesley United Methodist Cemetery, Milford, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 8 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 9003,
+   "name": "George Harmon Jr",
+   "fact_id": 12388,
+   "date": "1851",
+   "value": "buried at John Wesley  Church is a SELLEYSTEAN HANSLEY ( 1851 - 1882 )",
+   "place": "John Wesley United Methodist Cemetery, Milford, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 8 burial facts",
+    "burial before birth",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 9407,
+   "name": "David Roland Harmon Sr",
+   "fact_id": 12401,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 9408,
+   "name": "George W Harmon",
+   "fact_id": 12402,
+   "date": "1851",
+   "value": "buried at John Wesley  Church is a SELLEYSTEAN HANSLEY ( 1851 - 1882 )",
+   "place": "John Wesley United Methodist Cemetery, Milford, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 8 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 96,
+   "name": "Sally Ann",
+   "fact_id": 11690,
+   "date": "1873",
+   "value": "buried behind church            Elmirah Durham   1873 - 1953   wife of John M",
+   "place": "Fork Branch Cemetery, Dover, Kent County, Delaware",
+   "reasons": [
+    "date shared by 11 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 9608,
+   "name": "Robert Edward Harmon",
+   "fact_id": 12417,
+   "date": "1 Aug 1931",
+   "value": "buried 1 Aug 1931 in Bethel Cemetery",
+   "place": "Bethel AME Cemetery, Smyrna, Kent County, Delaware",
+   "reasons": [
+    "date shared by 12 burial facts",
+    "burial before death"
+   ]
+  },
+  {
+   "person_id": 969,
+   "name": "Ernest Carney",
+   "fact_id": 17228,
+   "date": "26 Jul 1894",
+   "value": "Interred in Delmarva cemetery (Find a Grave #291856071)",
+   "place": "Delmarva",
+   "reasons": [
+    "burial before birth"
+   ]
+  },
+  {
+   "person_id": 980,
+   "name": "Joshua H Harmon",
+   "fact_id": 11830,
+   "date": "28 Aug 1913",
+   "value": "buried 28 Aug 1913 in Harmony cemetery",
+   "place": "Harmony United Methodist Cemetery, Millsboro, Sussex County, Delaware",
+   "reasons": [
+    "date shared by 13 burial facts",
+    "burial before death"
+   ]
+  }
+ ]
+}

@@ -261,10 +261,14 @@
       "created_at": "2026-09-03T12:55:00.337025"
     },
     {
+      "id": 7563,
       "category": "date_anomaly",
-      "flag_type": "birth_after_death",
       "severity": "critical",
-      "description": "Birth year (1894) is recorded after death year (1840) in historical records: birth='6 September, 1894', death='29 Apr 1840'."
+      "person_id": 2568,
+      "person_id_secondary": null,
+      "description": "Birth year (1894) is recorded after death year (1840) in historical records: birth='6 September, 1894', death='29 Apr 1840'.",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:40"
     }
   ],
   "ancestry": {

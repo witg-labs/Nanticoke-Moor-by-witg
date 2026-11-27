@@ -1,0 +1,125 @@
+{
+  "person": {
+    "person_id": 12007,
+    "name": "Whittington Clark (1812-1927)",
+    "first_name": "Whittington",
+    "middle_name": null,
+    "maiden_name": null,
+    "married_last_name": "Clark",
+    "evidence_level": 1,
+    "source_page": null,
+    "birth_info": "1812",
+    "death_info": "29 Jun 1927",
+    "notes": "[Created by split package 2026-11-17 from profile 2412.] Narrative formerly in the birth field, per the Mitsawokett record: grandson of Thomas Clark & Elizabeth Morris (unproven). Find A Grave memorial 221298989 (a 'W. Clark') is attributed to this man, not verified: a partial-name match. Parent links to George W. Clark and Harriett Hettie Johnson are GEDCOM-only and unproven.",
+    "dataset_source": "lynncjackson",
+    "birth_date": "1812",
+    "birth_place": null,
+    "death_date": "29 Jun 1927",
+    "death_place": null
+  },
+  "facts": [
+    {
+      "fact_id": 1958,
+      "person_id": 12007,
+      "fact_type": "Death",
+      "date_string": "29 Jun 1927",
+      "place_string": null,
+      "value_string": null,
+      "citations": [
+        {
+          "citation_id": 1958,
+          "fact_id": 1958,
+          "source_id": 658,
+          "evidence_text": "...(now the wife of Paynter Harman) 7. Nicey (now the wife of Ephraim Harman) 8. Mary Perkins 9. Sarah (now the wife of Whittington Clark) 10. Louisa Wright 11. Hetty Drain 12. Elizabeth (your petitioner now the wife of William A. Johnson) and 13. Walter...",
+          "source_title": "Record: Probate.htm",
+          "source_url": "probate_sussex.htm",
+          "source_dataset": "lynncjackson"
+        },
+        {
+          "citation_id": 20290,
+          "fact_id": 1958,
+          "source_id": 1270,
+          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Whittington Clark, deceased 29 Jun 1927.",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
+        }
+      ]
+    },
+    {
+      "fact_id": 11924,
+      "person_id": 12007,
+      "fact_type": "Birth",
+      "date_string": "1812",
+      "place_string": "Delaware",
+      "value_string": "born 1812 in Delaware",
+      "citations": [
+        {
+          "citation_id": 15634,
+          "fact_id": 11924,
+          "source_id": 1055,
+          "evidence_text": "Memorial assertion: Whittington Clark documented in FindAGrave Memorial #221298989.",
+          "source_title": "Record: FindAGrave Memorial 221298989",
+          "source_url": "https://www.findagrave.com/memorial/221298989/w-clark",
+          "source_dataset": "findagrave"
+        }
+      ]
+    },
+    {
+      "fact_id": 18452,
+      "person_id": 12007,
+      "fact_type": "Burial",
+      "date_string": "29 Jun 1927",
+      "place_string": "Delmarva",
+      "value_string": "Interred in Delmarva cemetery (Find a Grave #221298989)",
+      "citations": [
+        {
+          "citation_id": 20291,
+          "fact_id": 18452,
+          "source_id": 1055,
+          "evidence_text": "Gravestone photographic survey and memorial record for Whittington Clark (Find a Grave Memorial #221298989).",
+          "source_title": "Record: FindAGrave Memorial 221298989",
+          "source_url": "https://www.findagrave.com/memorial/221298989/w-clark",
+          "source_dataset": "findagrave"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "GEDCOM Family tree linkage",
+      "certainty": "confirmed",
+      "rel_id": 9953,
+      "rel_name": "George W. Clark"
+    },
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "GEDCOM Family tree linkage",
+      "certainty": "confirmed",
+      "rel_id": 9954,
+      "rel_name": "Harriett Hettie Johnson"
+    }
+  ],
+  "photos": [],
+  "obituaries": [],
+  "audit_flags": [],
+  "ancestry": {
+    "id": 12007,
+    "name": "Whittington Clark (1812-1927)",
+    "children": [
+      {
+        "id": 9953,
+        "name": "George W. Clark",
+        "children": []
+      },
+      {
+        "id": 9954,
+        "name": "Harriett Hettie Johnson",
+        "children": []
+      }
+    ]
+  }
+}

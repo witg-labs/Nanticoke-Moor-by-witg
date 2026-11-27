@@ -32,7 +32,7 @@
           "source_id": 658,
           "evidence_text": "...-------------------------------------------------- ?? all men by these presents that We Elizabeth Sammons, Mary Morgan, Mary Reed, Prudy Copeland and Lydia Bristor Mitchell Sammons and Mills Sammons heirs at law of Isaac Sammons deceased...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -108,7 +108,7 @@
           "source_id": 658,
           "evidence_text": "...-------------------------------------------------- ?? all men by these presents that We Elizabeth Sammons, Mary Morgan, Mary Reed, Prudy Copeland and Lydia Bristor Mitchell Sammons and Mills Sammons heirs at law of Isaac Sammons deceased...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -163,7 +163,7 @@
           "source_id": 658,
           "evidence_text": "...-------------------------------------------------- ?? all men by these presents that We Elizabeth Sammons, Mary Morgan, Mary Reed, Prudy Copeland and Lydia Bristor Mitchell Sammons and Mills Sammons heirs at law of Isaac Sammons deceased...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         },
         {
@@ -283,7 +283,7 @@
           "source_id": 658,
           "evidence_text": "...-------------------------------------------------- ?? all men by these presents that We Elizabeth Sammons, Mary Morgan, Mary Reed, Prudy Copeland and Lydia Bristor Mitchell Sammons and Mills Sammons heirs at law of Isaac Sammons deceased...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -543,8 +543,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],

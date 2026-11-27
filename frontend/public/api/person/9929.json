@@ -31,7 +31,7 @@
           "fact_id": 9233,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         }
@@ -50,7 +50,7 @@
           "fact_id": 9234,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -78,7 +78,7 @@
           "fact_id": 12425,
           "source_id": 622,
           "evidence_text": "Archival assertion: died on 6 Sept. 1889 (6 Sept. 1889) documented in primary lineage manifest.",
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -164,10 +164,14 @@
       "created_at": "2026-09-03T12:55:43.326981"
     },
     {
+      "id": 7582,
       "category": "date_anomaly",
-      "flag_type": "birth_after_death",
       "severity": "critical",
-      "description": "Birth year (1943) is recorded after death year (1889) in historical records: birth='abt 1943 Delaware', death='6 Sept. 1889'."
+      "person_id": 9929,
+      "person_id_secondary": null,
+      "description": "Birth year (1943) is recorded after death year (1889) in historical records: birth='abt 1943 Delaware', death='6 Sept. 1889'.",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:41"
     }
   ],
   "ancestry": {

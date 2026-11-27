@@ -1,6 +1,6 @@
 {
   "surname": "Mosley",
-  "individual_count": 190,
+  "individual_count": 192,
   "photo_count": 207,
   "category_counts": {
     "documents": 7,
@@ -14,7 +14,7 @@
       "photo_id": 3051,
       "category": "documents",
       "normalized_filename": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
-      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
+      "local_image_path": "assets/archive_media/documents/Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
       "title_or_caption": "Pierce_genealogy_sheet_01_courtesy_kimberly_mosley_moore.jpg",
       "subject_names": "genealogy sheet 01 courtesy kimberly mosley moore Pierce",
       "approximate_year": "2014",
@@ -27,7 +27,7 @@
       "photo_id": 3052,
       "category": "documents",
       "normalized_filename": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
-      "local_image_path": "assets/archive_media/people/Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
+      "local_image_path": "assets/archive_media/documents/Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
       "title_or_caption": "Pierce_genealogy_sheet_02_courtesy_kimberly_mosley_moore.jpg",
       "subject_names": "genealogy sheet 02 courtesy kimberly mosley moore Pierce",
       "approximate_year": "2014",
@@ -644,8 +644,8 @@
       "approximate_year": "1999",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 10391,
-      "person_name": "William Dupont Mosley"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1099,
@@ -995,8 +995,8 @@
       "approximate_year": "1949",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 5542,
-      "person_name": "Sarah Beatrice Morris Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1772,
@@ -1008,8 +1008,8 @@
       "approximate_year": "1949",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 3990,
-      "person_name": "Sarah Virginia Ridgeway Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1774,
@@ -1021,8 +1021,8 @@
       "approximate_year": "1949",
       "document_type": "photograph_other",
       "transcription": null,
-      "person_id": 5154,
-      "person_name": "Sarah Catharine Mosley Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 1775,
@@ -1047,8 +1047,8 @@
       "approximate_year": "1949",
       "document_type": "portrait",
       "transcription": null,
-      "person_id": 4910,
-      "person_name": "Elizabeth Carter Durham"
+      "person_id": null,
+      "person_name": null
     },
     {
       "photo_id": 586,
@@ -3181,7 +3181,7 @@
       "birth_info": "22 Jul 1892",
       "death_info": "11 Sep 1961 (aged 69)",
       "notes": "Linked to jacksnr2.htm | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/269726266/clara-mosley",
-      "photo_count": 5
+      "photo_count": 2
     },
     {
       "person_id": 2705,
@@ -3376,6 +3376,18 @@
       "photo_count": 0
     },
     {
+      "person_id": 12014,
+      "name": "Eli Mosley",
+      "first_name": "Eli",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Mosley",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Eli Mosley, husband of a daughter of Whittington Clark of Indian River Hundred; received her share ($5.80) in the 22 Aug 1837 distribution.",
+      "photo_count": 0
+    },
+    {
       "person_id": 10624,
       "name": "Eliza Mosley",
       "first_name": "Eliza",
@@ -3397,7 +3409,7 @@
       "birth_info": "5 Mar 1932",
       "death_info": "11 Oct 2009 (aged 77)",
       "notes": "Ingested from MorganKenneth&wife50th.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/66508065/elizabeth-mosley | Ingested from MosleyCharlesHenryFamily.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/66508065/elizabeth-mosley",
-      "photo_count": 11
+      "photo_count": 8
     },
     {
       "person_id": 4768,
@@ -3409,7 +3421,7 @@
       "birth_info": null,
       "death_info": null,
       "notes": "Ingested from DeanRobert&Family.htm | FindAGrave: no match",
-      "photo_count": 11
+      "photo_count": 8
     },
     {
       "person_id": 4794,
@@ -3433,7 +3445,7 @@
       "birth_info": "abt 1824 Sussex Co, De, USA",
       "death_info": "7 Nov 1892 Kent Co, De, USA",
       "notes": "",
-      "photo_count": 4
+      "photo_count": 2
     },
     {
       "person_id": 9482,
@@ -4801,7 +4813,7 @@
       "birth_info": "unknown",
       "death_info": "Jan 1909",
       "notes": "Ingested from DurhamNehemiah.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/173720455/sarah-durham | Ingested from MosleyGeoffrey&Lulu.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/173720455/sarah-durham | Linked to hansr-s1.htm | Verified via FindAGrave Memorial: https://www.findagrave.com/memorial/173720455/sarah-durham",
-      "photo_count": 7
+      "photo_count": 2
     },
     {
       "person_id": 6735,
@@ -4912,6 +4924,18 @@
       "photo_count": 2
     },
     {
+      "person_id": 12011,
+      "name": "Unknown Clark (Wife of Eli Mosley)",
+      "first_name": "Unknown",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": "Mosley",
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by split package 2026-11-17.] Daughter of Whittington Clark of Indian River Hundred, proven by her child's share in the 22 Aug 1837 distribution, where she is named only as the wife of Eli Mosley. Her given name is not in the probate file.",
+      "photo_count": 0
+    },
+    {
       "person_id": 6431,
       "name": "Vennie Mosley Morgan",
       "first_name": "Vennie",
@@ -4957,7 +4981,7 @@
       "birth_info": "1911",
       "death_info": "1990 (aged 78\u201379)",
       "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/191208007/william-mosley",
-      "photo_count": 6
+      "photo_count": 5
     },
     {
       "person_id": 10391,
@@ -4969,7 +4993,7 @@
       "birth_info": "11 Oct 1911 Millsboro, Sussex, Delaware, USA",
       "death_info": "10 Jun 1946 Millsboro, Sussex, Delaware, USA",
       "notes": "",
-      "photo_count": 6
+      "photo_count": 5
     },
     {
       "person_id": 1055,

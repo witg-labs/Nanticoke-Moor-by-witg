@@ -161,11 +161,11 @@
       "local_image_path": "assets/archive_media/people/Survey_246.jpg",
       "source_url": "",
       "dataset_source": "Nanticoke Indian River Community Photographic Survey",
-      "document_type": "portrait",
+      "document_type": "document_page",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
-      "face_context": "primary_subject",
+      "face_context": "embedded_photo",
       "routing_target": "photos"
     }
   ],

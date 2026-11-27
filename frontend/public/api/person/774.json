@@ -227,11 +227,11 @@
       "local_image_path": "assets/archive_media/people/Survey_238_A.jpg",
       "source_url": "",
       "dataset_source": "Nanticoke Indian River Community Photographic Survey",
-      "document_type": "portrait",
+      "document_type": "document_page",
       "asset_type": "photograph",
       "subtype": "historical_portrait",
       "contains_face": 1,
-      "face_context": "primary_subject",
+      "face_context": "embedded_photo",
       "routing_target": "photos"
     },
     {
@@ -304,9 +304,14 @@
       "created_at": "2026-09-08 03:58:38"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [1134, 1136, 1163]",
-      "date": "2026-10-17"
+      "id": 7655,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 774,
+      "person_id_secondary": null,
+      "description": "Removed 3 misassigned photo(s) per 2026-10-17 owner review: [1134, 1136, 1163]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

@@ -1,7 +1,7 @@
 {
   "identifier": "1595",
-  "person_id": 320,
-  "person_name": "Nora Jackson",
+  "person_id": null,
+  "person_name": null,
   "title": "Nelson Ancestry Morgan",
   "document_type": "Family Tree",
   "approximate_year": "1882",
@@ -11,14 +11,13 @@
   "citation": "\"Nelson Ancestry Morgan.\" Historical Document Record (1882). Preserved in the Nanticoke & Moor Historical Archive (Written in the Genome Collection).",
   "source_url": null,
   "local_image_path": "assets/archive_media/family_trees/Morgan_Nelson_Ancestry.jpg",
-  "line_count": 14,
-  "word_count": 79,
+  "line_count": 13,
+  "word_count": 71,
   "lines": [
     "DOCUMENT TITLE: Nelson Ancestry Morgan",
     "RECORD CLASSIFICATION: Family Tree",
     "ARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive",
     "ESTIMATED DATE / ERA: 1882",
-    "PRIMARY SUBJECT / PERSON: Nora Jackson (Profile #320)",
     "--------------------------------------------------------------------------------",
     "TRANSCRIPTION RECORD & SUMMARY:",
     "This primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.",
@@ -29,6 +28,6 @@
     "Provenance: Preserved in Mitsawokett Digital Archive",
     "Archive Identifier: Item #1595"
   ],
-  "full_text": "DOCUMENT TITLE: Nelson Ancestry Morgan\nRECORD CLASSIFICATION: Family Tree\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1882\nPRIMARY SUBJECT / PERSON: Nora Jackson (Profile #320)\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_MorganNelsonAncestry.jpg\nLineage / Surnames Documented: Morgan\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #1595",
+  "full_text": "DOCUMENT TITLE: Nelson Ancestry Morgan\nRECORD CLASSIFICATION: Family Tree\nARCHIVAL HOLDING: Native Americans of Delaware State / Mitsawokett Historical Archive\nESTIMATED DATE / ERA: 1882\n--------------------------------------------------------------------------------\nTRANSCRIPTION RECORD & SUMMARY:\nThis primary document was preserved as part of the Delmarva genealogical survey of the Nanticoke, Moor, and Lenape families.\nAssociated File: mitsawokett_MorganNelsonAncestry.jpg\nLineage / Surnames Documented: Morgan\n--------------------------------------------------------------------------------\nVERIFICATION & CITATION:\nProvenance: Preserved in Mitsawokett Digital Archive\nArchive Identifier: Item #1595",
   "clean_html": null
 }

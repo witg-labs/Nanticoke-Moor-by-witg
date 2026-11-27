@@ -7,18 +7,18 @@
     "description": "Documented spouse kinship connection between John Harmon and Lillie White"
   },
   {
-    "family_a": "Clark",
-    "family_b": "Johnson",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 33,
-    "description": "Documented spouse kinship connection between Bowen Clark and Ann W. Johnson"
-  },
-  {
     "family_a": "Clemons",
     "family_b": "Wilson",
     "tie_type": "Marriage & Kinship Link",
     "count": 32,
     "description": "Documented spouse kinship connection between James Wilson and Joel Clemons"
+  },
+  {
+    "family_a": "Clark",
+    "family_b": "Johnson",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 31,
+    "description": "Documented spouse kinship connection between Bowen Clark and Ann W. Johnson"
   },
   {
     "family_a": "Durham",
@@ -63,6 +63,13 @@
     "description": "Documented child_of kinship connection between Luther Mosley Sammons and Rosella Mosley"
   },
   {
+    "family_a": "Clark",
+    "family_b": "Mosley",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 22,
+    "description": "Documented spouse kinship connection between Albeda Clark and Cassius Mosley"
+  },
+  {
     "family_a": "Bookram",
     "family_b": "Scott",
     "tie_type": "Marriage & Kinship Link",
@@ -82,13 +89,6 @@
     "tie_type": "Marriage & Kinship Link",
     "count": 20,
     "description": "Documented spouse kinship connection between James Dean and William Thomas"
-  },
-  {
-    "family_a": "Clark",
-    "family_b": "Mosley",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 20,
-    "description": "Documented spouse kinship connection between Albeda Clark and Cassius Mosley"
   },
   {
     "family_a": "Clark",
@@ -686,6 +686,13 @@
     "description": "Documented spouse kinship connection between Betsy Bookram and Thornton Pettiford"
   },
   {
+    "family_a": "Clark",
+    "family_b": "Whittington",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 4,
+    "description": "Documented spouse_of kinship connection between Whittington Clark and Lydia Clark (Wife of Whittington)"
+  },
+  {
     "family_a": "Harmon",
     "family_b": "Wright",
     "tie_type": "Marriage & Kinship Link",
@@ -882,6 +889,20 @@
     "description": "Documented child_of kinship connection between Martha E Thompson and Harry Jackson"
   },
   {
+    "family_a": "1812-1927",
+    "family_b": "Clark",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 2,
+    "description": "Documented child_of kinship connection between Whittington Clark (1812-1927) and George W. Clark"
+  },
+  {
+    "family_a": "1812-1927",
+    "family_b": "Johnson",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 2,
+    "description": "Documented child_of kinship connection between Whittington Clark (1812-1927) and Harriett Hettie Johnson"
+  },
+  {
     "family_a": "Davis",
     "family_b": "Morris",
     "tie_type": "Marriage & Kinship Link",
@@ -1027,26 +1048,5 @@
     "tie_type": "Marriage & Kinship Link",
     "count": 2,
     "description": "Documented spouse kinship connection between William Ruth and Ruth Both"
-  },
-  {
-    "family_a": "Teel",
-    "family_b": "Thomas",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 2,
-    "description": "Documented spouse kinship connection between Rebecca Durham Thomas and Margaret Teel"
-  },
-  {
-    "family_a": "Elizabeth",
-    "family_b": "Hughes",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 2,
-    "description": "Documented spouse kinship connection between Sarah Elizabeth and James Hughes"
-  },
-  {
-    "family_a": "Mae",
-    "family_b": "Thomas",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 2,
-    "description": "Documented spouse kinship connection between Anna Mae and William Thomas"
   }
 ]

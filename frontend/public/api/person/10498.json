@@ -31,7 +31,7 @@
           "fact_id": 9842,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         }
@@ -50,7 +50,7 @@
           "fact_id": 9843,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -78,7 +78,7 @@
           "fact_id": 9844,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -188,32 +188,19 @@
       "contains_face": 1,
       "face_context": "primary_subject",
       "routing_target": "photos"
-    },
-    {
-      "person_id": 10498,
-      "photo_id": 1130,
-      "category": "people",
-      "title_or_caption": "Hanzer_James_Wborn_1899_Husbof_Laura_Pettyjohn.jpg",
-      "subject_names": "James Wborn 1899 Husbof Laura Pettyjohn Hanzer",
-      "married_surname": "Hanzer",
-      "approximate_year": "1899",
-      "local_image_path": "assets/archive_media/people/Hanzer_James_Wborn_1899_Husbof_Laura_Pettyjohn.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "portrait",
-      "asset_type": "photograph",
-      "subtype": "historical_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
     }
   ],
   "obituaries": [],
   "audit_flags": [
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [1206, 1213]",
-      "date": "2026-10-17"
+      "id": 7594,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 10498,
+      "person_id_secondary": null,
+      "description": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [1206, 1213]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

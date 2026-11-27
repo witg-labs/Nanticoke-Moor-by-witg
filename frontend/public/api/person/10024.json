@@ -31,7 +31,7 @@
           "fact_id": 9409,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         }
@@ -50,7 +50,7 @@
           "fact_id": 9410,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -78,7 +78,7 @@
           "fact_id": 9411,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -133,7 +133,62 @@
     }
   ],
   "relationships": [],
-  "photos": [],
+  "photos": [
+    {
+      "person_id": 10024,
+      "photo_id": 3688,
+      "category": "people",
+      "title_or_caption": "Freeman Nelson Jackson funeral program cover (Nov 25, 1966 - Jan 16, 2017), with his portrait",
+      "subject_names": "Freeman Nelson Jackson",
+      "married_surname": "Jackson",
+      "approximate_year": "2017",
+      "local_image_path": "assets/archive_media/people/Jackson_Freeman_program_full.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "contains_face": 1,
+      "face_context": "embedded_photo",
+      "routing_target": "photos"
+    },
+    {
+      "person_id": 10024,
+      "photo_id": 3682,
+      "category": "people",
+      "title_or_caption": "Freeman Jackson memorial card cover (Nov 25, 1966 - Jan 16, 2017), with his portrait",
+      "subject_names": "Freeman Nelson Jackson",
+      "married_surname": "Jackson",
+      "approximate_year": "2017",
+      "local_image_path": "assets/archive_media/people/Jackson_Freeman_memorial_card.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "contains_face": 1,
+      "face_context": "embedded_photo",
+      "routing_target": "photos"
+    },
+    {
+      "person_id": 10024,
+      "photo_id": 3689,
+      "category": "people",
+      "title_or_caption": "Freeman Nelson Jackson funeral program obituary page",
+      "subject_names": "Freeman Nelson Jackson",
+      "married_surname": "Jackson",
+      "approximate_year": "2017",
+      "local_image_path": "assets/archive_media/people/Jackson_Freeman_program_obituary.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_document",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {

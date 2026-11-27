@@ -213,8 +213,8 @@
       "document_type": "group_photo",
       "asset_type": "photograph",
       "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
+      "contains_face": 1,
+      "face_context": "primary_subject",
       "routing_target": "photos"
     }
   ],
@@ -231,10 +231,14 @@
       "created_at": "2026-09-03T12:55:15.971023"
     },
     {
+      "id": 7573,
       "category": "date_anomaly",
-      "flag_type": "lifespan_over_110",
       "severity": "warning",
-      "description": "Computed lifespan (173 years) exceeds 110-year threshold: birth='Sept. 3, 1777' (1777), death='30 Aug 1950' (1950)."
+      "person_id": 5954,
+      "person_id_secondary": null,
+      "description": "Computed lifespan (173 years) exceeds 110-year threshold: birth='Sept. 3, 1777' (1777), death='30 Aug 1950' (1950).",
+      "evidence": null,
+      "created_at": "2026-10-16 04:23:40"
     }
   ],
   "ancestry": {

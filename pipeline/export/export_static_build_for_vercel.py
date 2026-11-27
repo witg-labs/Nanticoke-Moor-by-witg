@@ -281,7 +281,7 @@ def export_all():
         shutil.rmtree(person_dir)
     os.makedirs(person_dir, exist_ok=True)
 
-    c.execute("SELECT person_id, name, first_name, middle_name, maiden_name, married_last_name, evidence_level, source_page, birth_info, death_info, notes, dataset_source FROM persons")
+    c.execute("SELECT person_id, name, first_name, middle_name, maiden_name, married_last_name, evidence_level, source_page, birth_info, death_info, notes, dataset_source, suffix FROM persons")
     all_persons = [dict(r) for r in c.fetchall()]
     
     # Pre-fetch all relationships
@@ -329,6 +329,7 @@ def export_all():
                 WHEN upc.contains_face = 1 THEN 3
                 ELSE 4 
             END ASC,
+            COALESCE(pp.is_primary, 0) DESC,
             upc.photo_id ASC
     """)
     photos_map = {}
@@ -399,6 +400,8 @@ def export_all():
             f['citations'] = citations_map.get(f['fact_id'], [])
 
         person_record = dict(p)
+        if not person_record.get("suffix"):
+            person_record.pop("suffix", None)
         b_date, b_place = parse_date_and_place(person_record.get("birth_info"))
         d_date, d_place = parse_date_and_place(person_record.get("death_info"))
         person_record["birth_date"] = b_date

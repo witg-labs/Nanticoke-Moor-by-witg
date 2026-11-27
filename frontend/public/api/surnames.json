@@ -70,7 +70,7 @@
   },
   {
     "surname": "Clark",
-    "individual_count": 91,
+    "individual_count": 98,
     "photo_count": 68,
     "category_counts": {
       "documents": 7,
@@ -137,7 +137,7 @@
   },
   {
     "surname": "Counselor",
-    "individual_count": 39,
+    "individual_count": 15,
     "photo_count": 0,
     "category_counts": {},
     "obituary_count": 0,
@@ -173,11 +173,11 @@
   {
     "surname": "Davis",
     "individual_count": 151,
-    "photo_count": 361,
+    "photo_count": 365,
     "category_counts": {
       "documents": 266,
       "family_trees": 16,
-      "people": 79
+      "people": 83
     },
     "obituary_count": 3,
     "associated_pages": 12,
@@ -221,9 +221,9 @@
     "individual_count": 271,
     "photo_count": 263,
     "category_counts": {
-      "documents": 16,
+      "documents": 17,
       "family_trees": 52,
-      "people": 194,
+      "people": 193,
       "tombstones": 1
     },
     "obituary_count": 18,
@@ -331,12 +331,12 @@
   },
   {
     "surname": "Harmon",
-    "individual_count": 274,
-    "photo_count": 142,
+    "individual_count": 276,
+    "photo_count": 144,
     "category_counts": {
       "documents": 17,
       "family_trees": 35,
-      "people": 90
+      "people": 92
     },
     "obituary_count": 13,
     "associated_pages": 12,
@@ -403,11 +403,11 @@
   {
     "surname": "Jackson",
     "individual_count": 117,
-    "photo_count": 98,
+    "photo_count": 101,
     "category_counts": {
       "documents": 5,
       "family_trees": 22,
-      "people": 71
+      "people": 74
     },
     "obituary_count": 7,
     "associated_pages": 12,
@@ -416,11 +416,11 @@
   {
     "surname": "Johnson",
     "individual_count": 141,
-    "photo_count": 82,
+    "photo_count": 84,
     "category_counts": {
       "documents": 1,
       "family_trees": 18,
-      "people": 62,
+      "people": 64,
       "tombstones": 1
     },
     "obituary_count": 15,
@@ -491,12 +491,12 @@
   },
   {
     "surname": "Mosley",
-    "individual_count": 190,
+    "individual_count": 192,
     "photo_count": 207,
     "category_counts": {
-      "documents": 5,
+      "documents": 7,
       "family_trees": 36,
-      "people": 166
+      "people": 164
     },
     "obituary_count": 9,
     "associated_pages": 12,
@@ -541,9 +541,9 @@
     "individual_count": 75,
     "photo_count": 104,
     "category_counts": {
-      "documents": 26,
+      "documents": 28,
       "family_trees": 6,
-      "people": 70,
+      "people": 68,
       "tombstones": 2
     },
     "obituary_count": 22,
@@ -669,10 +669,10 @@
   {
     "surname": "Thompson",
     "individual_count": 125,
-    "photo_count": 8,
+    "photo_count": 19,
     "category_counts": {
       "family_trees": 2,
-      "people": 6
+      "people": 17
     },
     "obituary_count": 1,
     "associated_pages": 12,

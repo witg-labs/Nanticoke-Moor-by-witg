@@ -12,11 +12,11 @@
     "death_info": "3 Oct 2002",
     "notes": "[Suffix 'Jr' realigned from surname field]",
     "dataset_source": "davis_family_gedcom",
+    "suffix": "Jr",
     "birth_date": "28 Sep 1963 Lewes Sussex, Delaware",
     "birth_place": null,
     "death_date": "3 Oct 2002",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
@@ -32,7 +32,7 @@
           "fact_id": 9412,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         }
@@ -51,7 +51,7 @@
           "fact_id": 9413,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -79,7 +79,7 @@
           "fact_id": 9414,
           "source_id": 622,
           "evidence_text": null,
-          "source_title": "Record: Davis Family Tree.ged",
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
         },
@@ -134,7 +134,44 @@
     }
   ],
   "relationships": [],
-  "photos": [],
+  "photos": [
+    {
+      "person_id": 10025,
+      "photo_id": 3697,
+      "category": "people",
+      "title_or_caption": "Nelson Freeman Jackson funeral program cover, 2002",
+      "subject_names": "Nelson Freeman Jackson",
+      "married_surname": "",
+      "approximate_year": "2002",
+      "local_image_path": "assets/archive_media/people/Jackson_Nelson_program_full.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "contains_face": 1,
+      "face_context": "embedded_photo",
+      "routing_target": "photos"
+    },
+    {
+      "person_id": 10025,
+      "photo_id": 3696,
+      "category": "people",
+      "title_or_caption": "Nelson Freeman Jackson funeral program obituary page, 2002",
+      "subject_names": "Nelson Freeman Jackson",
+      "married_surname": "",
+      "approximate_year": "2002",
+      "local_image_path": "assets/archive_media/people/Jackson_Nelson_program_obituary.jpg",
+      "source_url": "",
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_document",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {

@@ -3727,7 +3727,7 @@
   },
   {
     "source_id": 622,
-    "title": "Record: Davis Family Tree.ged",
+    "title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
     "url": "Davis Family Tree.ged",
     "dataset": "davis_family_gedcom"
   },
@@ -3745,7 +3745,7 @@
   },
   {
     "source_id": 625,
-    "title": "Record: GEDCOM Import",
+    "title": "Davis Family Tree (GEDCOM), supplemental import, compiled by Jequan Davis, 2026",
     "url": "GEDCOM Import",
     "dataset": "gedcom"
   },
@@ -16030,5 +16030,11 @@
     "title": "Archival Document Record: elias-bookram-1840-census.png",
     "url": "frontend/public/assets/archive_media/documents/elias-bookram-1840-census.png",
     "dataset": "primary_archive_ingest"
+  },
+  {
+    "source_id": 2693,
+    "title": "Probate file of Whittington Clark, Sussex County, Delaware, 1836-1837",
+    "url": "Delaware Public Archives, RG 4545-000-009 (Clark, Whittington, 1836-1837)",
+    "dataset": "delaware_public_archives"
   }
 ]

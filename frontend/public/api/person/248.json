@@ -211,7 +211,7 @@
           "source_id": 658,
           "evidence_text": "...of James S. Moor that each one of Robert Dean's minor children, Jesse Dean, 18; Robert Dean, 16; William Dean, 13; Hester Dean, 11; Annie Dean, 9; Ulysses Grant Dean, 4; has $83.55 on deposit at the Farmer's Bank, Dover, and is entitled to about...",
           "source_title": "Record: Probate.htm",
-          "source_url": "Probate.htm",
+          "source_url": "probate_sussex.htm",
           "source_dataset": "lynncjackson"
         }
       ]
@@ -394,9 +394,14 @@
       "created_at": "2026-09-06T19:06:30.061151"
     },
     {
-      "flag": "photo_mismatch_removed",
-      "detail": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [521, 1508]",
-      "date": "2026-10-17"
+      "id": 7605,
+      "category": "photo_mismatch_removed",
+      "severity": "info",
+      "person_id": 248,
+      "person_id_secondary": null,
+      "description": "Removed 2 misassigned photo(s) per 2026-10-17 owner review: [521, 1508]",
+      "evidence": null,
+      "created_at": "2026-10-17"
     }
   ],
   "ancestry": {

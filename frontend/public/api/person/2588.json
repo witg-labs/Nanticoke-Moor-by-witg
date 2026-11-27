@@ -12,11 +12,11 @@
     "death_info": "26 Sep 1977 (aged 89)",
     "notes": "Ingested from preserved SocialSecurityApplications.htm record | Verified via FindAGrave: https://www.findagrave.com/memorial/23324846/george-gardner [Suffix 'Jr' realigned from surname field]",
     "dataset_source": "mitsawokett_delaware",
+    "suffix": "Jr",
     "birth_date": "6 Sep 1888",
     "birth_place": null,
     "death_date": "26 Sep 1977 (aged 89)",
-    "death_place": null,
-    "suffix": "Jr"
+    "death_place": null
   },
   "facts": [
     {
