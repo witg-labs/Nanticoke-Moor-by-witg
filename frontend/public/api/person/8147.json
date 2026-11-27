@@ -263,7 +263,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8169,
-      "rel_name": "Samuel Thompson"
+      "rel_name": "Samuel Thompson Jr"
     },
     {
       "relationship_type": "parent_of",
@@ -304,14 +304,6 @@
       "certainty": "confirmed",
       "rel_id": 8183,
       "rel_name": "Jack Frank Thompson"
-    },
-    {
-      "relationship_type": "spouse_of",
-      "role": "spouse",
-      "evidence_text": "Confirmed in 1950 US Federal Census household (Sussex, Delaware, USA)",
-      "certainty": "census_confirmed",
-      "rel_id": 8169,
-      "rel_name": "Samuel Thompson"
     },
     {
       "relationship_type": "parent_of",

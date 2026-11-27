@@ -1,7 +1,7 @@
 {
   "person": {
     "person_id": 8264,
-    "name": "Gerld Lee Thompson",
+    "name": "Gerald Lee Thompson",
     "first_name": "Gerld",
     "middle_name": "Lee",
     "maiden_name": "",
@@ -186,7 +186,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8169,
-      "rel_name": "Samuel Thompson"
+      "rel_name": "Samuel Thompson Jr"
     },
     {
       "relationship_type": "child_of",
@@ -202,11 +202,11 @@
   "audit_flags": [],
   "ancestry": {
     "id": 8264,
-    "name": "Gerld Lee Thompson",
+    "name": "Gerald Lee Thompson",
     "children": [
       {
         "id": 8169,
-        "name": "Samuel Thompson",
+        "name": "Samuel Thompson Jr",
         "children": [
           {
             "id": 9097,

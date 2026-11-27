@@ -1,20 +1,20 @@
 {
   "person": {
     "person_id": 8351,
-    "name": "David Thompson",
+    "name": "David Lee Thompson",
     "first_name": "David",
     "middle_name": "",
     "maiden_name": "",
     "married_last_name": "Thompson",
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
-    "birth_info": "5 May 1946",
-    "death_info": "9 Nov 2014 (aged 68)",
+    "birth_info": "20 May 1955 Lewes Del",
+    "death_info": "19 Sep 2018 Milford Del",
     "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/138577443/david-thompson",
     "dataset_source": "davis_family_gedcom",
-    "birth_date": "5 May 1946",
+    "birth_date": "20 May 1955 Lewes Del",
     "birth_place": null,
-    "death_date": "9 Nov 2014 (aged 68)",
+    "death_date": "19 Sep 2018 Milford Del",
     "death_place": null
   },
   "facts": [
@@ -41,9 +41,9 @@
       "fact_id": 7813,
       "person_id": 8351,
       "fact_type": "Birth",
-      "date_string": "5 May 1946",
+      "date_string": "20 May 1955 Lewes Del",
       "place_string": null,
-      "value_string": null,
+      "value_string": "Corrected 2026-11-27 under Jequan's ruling (Addendum 2) that this profile is David Lee Thompson; the previously recorded values (b. 5 May 1946, d. 9 Nov 2014) are wrong-life values, retained as superseded on this fact and in the unassigned-evidence register.",
       "citations": [
         {
           "citation_id": 7807,
@@ -58,10 +58,19 @@
           "citation_id": 30532,
           "fact_id": 7813,
           "source_id": 1270,
-          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording David Thompson, born 5 May 1946.",
+          "evidence_text": "SUPERSEDED 2026-11-27 under Jequan's ruling that profile 8351 is David Lee Thompson (1955-2018); retained as the superseded wrong-life claim: Civil & Vital Birth Registration; Official vital return recording David Thompson, born 5 May 1946.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37774,
+          "fact_id": 7813,
+          "source_id": 2696,
+          "evidence_text": "Funeral program cover: \"Sunrise May 20, 1955 - Sunset September 19, 2018\"; Life Story: David Lee Thompson was born May 20, 1955 at Beebe Medical Center in Lewes, Delaware, to the late Samuel L. Thompson Jr. and Annabelle Joynes Thompson.",
+          "source_title": "Funeral program of David Lee Thompson, McPherson Funeral Home, Camden DE, 2018; photographed and supplied by Jequan Davis 2026-11-23; transcription ~/workspace/genealogy-records/thompson-david-l/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -69,9 +78,9 @@
       "fact_id": 7814,
       "person_id": 8351,
       "fact_type": "Death",
-      "date_string": "9 Nov 2014 (aged 68)",
+      "date_string": "19 Sep 2018 Milford Del",
       "place_string": null,
-      "value_string": null,
+      "value_string": "Corrected 2026-11-27 under Jequan's ruling (Addendum 2) that this profile is David Lee Thompson; the previously recorded values (b. 5 May 1946, d. 9 Nov 2014) are wrong-life values, retained as superseded on this fact and in the unassigned-evidence register.",
       "citations": [
         {
           "citation_id": 7808,
@@ -86,10 +95,19 @@
           "citation_id": 30533,
           "fact_id": 7814,
           "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording David Thompson, deceased 9 Nov 2014 (aged 68).",
+          "evidence_text": "SUPERSEDED 2026-11-27 under Jequan's ruling that profile 8351 is David Lee Thompson (1955-2018); retained as the superseded wrong-life claim: Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording David Thompson, deceased 9 Nov 2014 (aged 68).",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37775,
+          "fact_id": 7814,
+          "source_id": 2696,
+          "evidence_text": "Funeral program cover: \"Sunrise May 20, 1955 - Sunset September 19, 2018\"; Life Story: he departed this life on September 19, 2018 at Delaware Hospice in Milford, Delaware.",
+          "source_title": "Funeral program of David Lee Thompson, McPherson Funeral Home, Camden DE, 2018; photographed and supplied by Jequan Davis 2026-11-23; transcription ~/workspace/genealogy-records/thompson-david-l/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -177,7 +195,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8169,
-      "rel_name": "Samuel Thompson"
+      "rel_name": "Samuel Thompson Jr"
     },
     {
       "relationship_type": "child_of",
@@ -193,11 +211,11 @@
   "audit_flags": [],
   "ancestry": {
     "id": 8351,
-    "name": "David Thompson",
+    "name": "David Lee Thompson",
     "children": [
       {
         "id": 8169,
-        "name": "Samuel Thompson",
+        "name": "Samuel Thompson Jr",
         "children": [
           {
             "id": 9097,
