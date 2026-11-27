@@ -144,9 +144,9 @@
       "fact_id": 24752,
       "person_id": 8589,
       "fact_type": "Marriage",
-      "date_string": null,
-      "place_string": "Delaware",
-      "value_string": "Marriage record documented for Maurice Allen Mosley",
+      "date_string": "8 Aug 1952",
+      "place_string": "Harrington, Kent County, Delaware",
+      "value_string": "Married Ardith P. Harmon on 8 Aug 1952 in Harrington, Kent County, Delaware (Delaware Certificate of Marriage, File No. 2382).",
       "citations": [
         {
           "citation_id": 31012,
@@ -156,6 +156,15 @@
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37786,
+          "fact_id": 24752,
+          "source_id": 2699,
+          "evidence_text": "Delaware Certificate of Marriage, File No. 2382 (FamilySearch, Delaware, Marriage Records, 1913-1954): groom Maurice Allen Mosley of Millsboro, Delaware, age 18, born August 15, father Hersel Davis, mother Myrtle Davis; bride Ardith P. Harmon of Millsboro, age 18, born July 22, father Oscar P. Harmon, mother Lillian Harmon. Married August 8, 1952, Harrington, Mispillion Hundred, Kent County, by Thaddeus Hackett, Minister; witnesses Maggie Cornish and Esther Hackett; filed August 20, 1952.",
+          "source_title": "Delaware Certificate of Marriage: Maurice Allen Mosley and Ardith P. Harmon, 8 Aug 1952, Harrington, Kent County (File No. 2382)",
+          "source_url": "https://www.familysearch.org/ark:/61903/1:1:F3SN-X21",
+          "source_dataset": "familysearch"
         }
       ]
     }
@@ -180,10 +189,10 @@
     {
       "relationship_type": "child_of",
       "role": "parent",
-      "evidence_text": "GEDCOM Family tree linkage",
+      "evidence_text": "Maurice Allen Mosley's own 1952 Delaware marriage certificate (File No. 2382) names his father as Hersel Davis and his mother as Myrtle Davis.",
       "certainty": "confirmed",
-      "rel_id": 9238,
-      "rel_name": "Frank Lear Wilson"
+      "rel_id": 8158,
+      "rel_name": "Hersel R. Davis"
     }
   ],
   "photos": [
@@ -222,6 +231,24 @@
       "contains_face": 0,
       "face_context": "none",
       "routing_target": "family_trees"
+    },
+    {
+      "person_id": 8589,
+      "photo_id": 3704,
+      "category": "documents",
+      "title_or_caption": "Delaware Marriage Certificate: Maurice Allen Mosley and Ardith P. Harmon, Harrington, 1952",
+      "subject_names": "Maurice Allen Mosley, Ardith P. Harmon",
+      "married_surname": "Mosley",
+      "approximate_year": "1952",
+      "local_image_path": "assets/archive_media/documents/mosley_maurice_allen_marriage_record_1952.jpg",
+      "source_url": null,
+      "dataset_source": "FamilySearch",
+      "document_type": "marriage_certificate",
+      "asset_type": "document",
+      "subtype": "historical_document",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "documents"
     }
   ],
   "obituaries": [],
@@ -249,13 +276,139 @@
                 "children": []
               }
             ]
+          },
+          {
+            "id": 12017,
+            "name": "Maggie Mosley",
+            "children": []
           }
         ]
       },
       {
-        "id": 9238,
-        "name": "Frank Lear Wilson",
-        "children": []
+        "id": 8158,
+        "name": "Hersel R. Davis",
+        "children": [
+          {
+            "id": 11247,
+            "name": "Hester A. Morris Davis",
+            "children": [
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11247,
+            "name": "Hester A. Morris Davis",
+            "children": [
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }

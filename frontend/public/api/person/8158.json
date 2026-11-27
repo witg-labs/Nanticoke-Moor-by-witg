@@ -8,11 +8,11 @@
     "married_last_name": "Davis",
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
-    "birth_info": "3 Jun 1915",
+    "birth_info": "3 Jun 1913",
     "death_info": "2005 (aged 89\u201390)",
-    "notes": "Buried at Harmony Cemetery, Millsboro, Sussex County, Delaware. Inscribed in harmony1.htm: \"son of Hester Davis\". Verified via FindAGrave Memorial 36964560.",
+    "notes": "Buried at Harmony Cemetery, Millsboro, Sussex County, Delaware. Inscribed in harmony1.htm: \"son of Hester Davis\". Verified via FindAGrave Memorial 36964560. [Birth year ruled 2026-11-27 by Jequan Davis: June 3, 1913, per his 1947 Delaware marriage certificate (File No. 4339), which states his birth as June 3, 1913 and his age as 34. The funeral program's June 3, 1915 is superseded and is kept visible here as superseded.]",
     "dataset_source": "davis_family_gedcom",
-    "birth_date": "3 Jun 1915",
+    "birth_date": "3 Jun 1913",
     "birth_place": null,
     "death_date": "2005 (aged 89\u201390)",
     "death_place": null
@@ -275,9 +275,9 @@
       "fact_id": 24331,
       "person_id": 8158,
       "fact_type": "Marriage",
-      "date_string": null,
-      "place_string": "Delaware",
-      "value_string": "Marriage record documented for Hersel R. Davis",
+      "date_string": "16 Sep 1947",
+      "place_string": "Milton, Sussex County, Delaware",
+      "value_string": "Married Myrtle Mosley on 16 Sep 1947 in Milton, Sussex County, Delaware (Delaware Certificate of Marriage, File No. 4339).",
       "citations": [
         {
           "citation_id": 30133,
@@ -287,6 +287,34 @@
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37780,
+          "fact_id": 24331,
+          "source_id": 2698,
+          "evidence_text": "Delaware Certificate of Marriage, File No. 4339 (FamilySearch, Delaware, Marriage Records, 1913-1954): groom Hersel Davis of Milton, Delaware, age 34, born June 3, 1913, Single, first marriage, farmer, father Morris Davis, mother Hester Davis; bride Myrtle Mosley of Milton, age 34, born September 5, 1913, Single, first marriage, father Harry Mosley, mother Maggie Mosley. Married September 16, 1947, Milton, Broadkill Hundred, Sussex County, by Rev. G. S. Sterling; witness Carrie Sterling. The clerk wrote the groom's surname in a hand that FamilySearch indexed as 'Donis'; the parents, residence, and bride identify the man as Hersel Davis.",
+          "source_title": "Delaware Certificate of Marriage: Hersel Davis and Myrtle Mosley, 16 Sep 1947, Milton, Sussex County (File No. 4339)",
+          "source_url": "https://www.familysearch.org/ark:/61903/1:1:F392-M6B",
+          "source_dataset": "familysearch"
+        }
+      ]
+    },
+    {
+      "fact_id": 28322,
+      "person_id": 8158,
+      "fact_type": "Birth",
+      "date_string": "3 Jun 1913",
+      "place_string": "Delaware",
+      "value_string": "Born June 3, 1913 in Delaware. Ruled by Jequan Davis 2026-11-27 from his 1947 Delaware marriage certificate (File No. 4339); the funeral program's June 3, 1915 is superseded and kept visible as superseded.",
+      "citations": [
+        {
+          "citation_id": 37787,
+          "fact_id": 28322,
+          "source_id": 2698,
+          "evidence_text": "Delaware Certificate of Marriage, File No. 4339: the groom's birth date is written June 3, 1913, and his age last birthday is stated as 34; the two agree (married September 16, 1947). Read from the enlarged certificate image by Orbit, 2026-11-26.",
+          "source_title": "Delaware Certificate of Marriage: Hersel Davis and Myrtle Mosley, 16 Sep 1947, Milton, Sussex County (File No. 4339)",
+          "source_url": "https://www.familysearch.org/ark:/61903/1:1:F392-M6B",
+          "source_dataset": "familysearch"
         }
       ]
     }
@@ -323,6 +351,14 @@
       "certainty": "confirmed",
       "rel_id": 12006,
       "rel_name": "Morris Davis"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Maurice Allen Mosley's own 1952 Delaware marriage certificate (File No. 2382) names his father as Hersel Davis and his mother as Myrtle Davis.",
+      "certainty": "confirmed",
+      "rel_id": 8589,
+      "rel_name": "Maurice Allen Mosley"
     }
   ],
   "photos": [
@@ -482,6 +518,24 @@
       "source_url": "https://www.ancestry.com/discoveryui-content/view/75871438:3693",
       "dataset_source": "Ancestry.com Delaware Census Records",
       "document_type": "historical_document",
+      "asset_type": "document",
+      "subtype": "historical_document",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "documents"
+    },
+    {
+      "person_id": 8158,
+      "photo_id": 3703,
+      "category": "documents",
+      "title_or_caption": "Delaware Marriage Certificate: Hersel Davis and Myrtle Mosley, Milton, 1947",
+      "subject_names": "Hersel Davis, Myrtle Mosley",
+      "married_surname": "Davis",
+      "approximate_year": "1947",
+      "local_image_path": "assets/archive_media/documents/davis_hersel_mosley_myrtle_marriage_certificate_1947.jpg",
+      "source_url": null,
+      "dataset_source": "FamilySearch",
+      "document_type": "marriage_certificate",
       "asset_type": "document",
       "subtype": "historical_document",
       "contains_face": 0,

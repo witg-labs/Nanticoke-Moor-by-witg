@@ -43743,19 +43743,19 @@
     "id": 8158,
     "name": "Hersel R. Davis",
     "surname": "Davis",
-    "birth": "3 Jun 1915",
+    "birth": "3 Jun 1913",
     "death": "2005 (aged 89\u201390)",
-    "birth_year": 1915,
+    "birth_year": 1913,
     "death_year": 2005,
     "state": "Delaware",
-    "birth_place": "3 Jun 1915",
+    "birth_place": "3 Jun 1913",
     "death_place": "2005 (aged 89\u201390)",
     "dataset": "davis_family_gedcom",
     "has_photo": true,
     "primary_photo": "assets/archive_media/people/Davis_Hersel.jpg",
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 5
+    "connections_count": 6
   },
   {
     "id": 8159,
@@ -44547,7 +44547,7 @@
     "primary_photo": "assets/archive_media/people/Mosley_Myrtle.jpg",
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 7
+    "connections_count": 8
   },
   {
     "id": 8248,
@@ -49749,7 +49749,7 @@
     "primary_photo": null,
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 2
+    "connections_count": 1
   },
   {
     "id": 9239,
@@ -49767,7 +49767,7 @@
     "primary_photo": "assets/archive_media/people/Reed_Harry_And_Tom.jpg",
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 9
+    "connections_count": 10
   },
   {
     "id": 9243,
@@ -68379,6 +68379,24 @@
     "primary_photo": null,
     "has_obituary": false,
     "has_citations": false,
+    "connections_count": 2
+  },
+  {
+    "id": 12017,
+    "name": "Maggie Mosley",
+    "surname": "Mosley",
+    "birth": "",
+    "death": "",
+    "birth_year": null,
+    "death_year": null,
+    "state": "Delaware",
+    "birth_place": "",
+    "death_place": "",
+    "dataset": "lynncjackson",
+    "has_photo": false,
+    "primary_photo": null,
+    "has_obituary": false,
+    "has_citations": true,
     "connections_count": 2
   }
 ]

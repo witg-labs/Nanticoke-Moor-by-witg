@@ -214,6 +214,25 @@
           "source_dataset": "social_security_administration"
         }
       ]
+    },
+    {
+      "fact_id": 28319,
+      "person_id": 8223,
+      "fact_type": "Marriage",
+      "date_string": "16 Sep 1947",
+      "place_string": "Milton, Sussex County, Delaware",
+      "value_string": "Married Hersel Davis on 16 Sep 1947 in Milton, Sussex County, Delaware (Delaware Certificate of Marriage, File No. 4339).",
+      "citations": [
+        {
+          "citation_id": 37781,
+          "fact_id": 28319,
+          "source_id": 2698,
+          "evidence_text": "Delaware Certificate of Marriage, File No. 4339 (FamilySearch, Delaware, Marriage Records, 1913-1954): bride Myrtle Mosley of Milton, Delaware, age 34, born September 5, 1913, Single, first marriage, father Harry Mosley, mother Maggie Mosley; groom Hersel Davis of Milton, age 34, farmer, father Morris Davis, mother Hester Davis. Married September 16, 1947, Milton, Broadkill Hundred, Sussex County, by Rev. G. S. Sterling; witness Carrie Sterling.",
+          "source_title": "Delaware Certificate of Marriage: Hersel Davis and Myrtle Mosley, 16 Sep 1947, Milton, Sussex County (File No. 4339)",
+          "source_url": "https://www.familysearch.org/ark:/61903/1:1:F392-M6B",
+          "source_dataset": "familysearch"
+        }
+      ]
     }
   ],
   "relationships": [
@@ -264,6 +283,14 @@
       "certainty": "confirmed",
       "rel_id": 542,
       "rel_name": "Ulysses Owens"
+    },
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "Myrtle Mosley's 1947 Delaware marriage certificate (File No. 4339) names her mother as Maggie Mosley.",
+      "certainty": "confirmed",
+      "rel_id": 12017,
+      "rel_name": "Maggie Mosley"
     }
   ],
   "photos": [
@@ -320,6 +347,24 @@
       "contains_face": 0,
       "face_context": "none",
       "routing_target": "documents"
+    },
+    {
+      "person_id": 8223,
+      "photo_id": 3703,
+      "category": "documents",
+      "title_or_caption": "Delaware Marriage Certificate: Hersel Davis and Myrtle Mosley, Milton, 1947",
+      "subject_names": "Hersel Davis, Myrtle Mosley",
+      "married_surname": "Davis",
+      "approximate_year": "1947",
+      "local_image_path": "assets/archive_media/documents/davis_hersel_mosley_myrtle_marriage_certificate_1947.jpg",
+      "source_url": null,
+      "dataset_source": "FamilySearch",
+      "document_type": "marriage_certificate",
+      "asset_type": "document",
+      "subtype": "historical_document",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "documents"
     }
   ],
   "obituaries": [],
@@ -354,6 +399,11 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": 12017,
+        "name": "Maggie Mosley",
+        "children": []
       }
     ]
   }

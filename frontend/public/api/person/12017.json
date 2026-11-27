@@ -1,0 +1,104 @@
+{
+  "person": {
+    "person_id": 12017,
+    "name": "Maggie Mosley",
+    "first_name": null,
+    "middle_name": null,
+    "maiden_name": null,
+    "married_last_name": null,
+    "evidence_level": 1,
+    "source_page": null,
+    "birth_info": null,
+    "death_info": null,
+    "notes": "[Created by mosley-davis-marriage package 2026-11-26.] Wife of Harry Mosley of Representative District 8, Sussex County, Delaware. Named as the mother of Myrtle Mosley on Myrtle's 1947 Delaware marriage certificate (File No. 4339), the first primary record to name her. In Harry's census household she appears as Maggie Mosley, age 36 (1920), as Margaret M. Mosley, age 47 (1930), and as Maggie Mosley, age 56 (1940). No other facts are asserted by this package.",
+    "dataset_source": "lynncjackson",
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null
+  },
+  "facts": [
+    {
+      "fact_id": 28320,
+      "person_id": 12017,
+      "fact_type": "Name",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Maggie Mosley",
+      "citations": [
+        {
+          "citation_id": 37782,
+          "fact_id": 28320,
+          "source_id": 2698,
+          "evidence_text": "Myrtle Mosley's 1947 Delaware marriage certificate (File No. 4339) names the bride's mother as Maggie Mosley, nativity Delaware.",
+          "source_title": "Delaware Certificate of Marriage: Hersel Davis and Myrtle Mosley, 16 Sep 1947, Milton, Sussex County (File No. 4339)",
+          "source_url": "https://www.familysearch.org/ark:/61903/1:1:F392-M6B",
+          "source_dataset": "familysearch"
+        }
+      ]
+    },
+    {
+      "fact_id": 28321,
+      "person_id": 12017,
+      "fact_type": "Birth",
+      "date_string": "abt 1883",
+      "place_string": "Delaware",
+      "value_string": "Born about 1883 in Delaware (wife in Harry Mosley's census household: Maggie, age 36 in 1920; Margaret M., age 47 in 1930; Maggie, age 56 in 1940).",
+      "citations": [
+        {
+          "citation_id": 37783,
+          "fact_id": 28321,
+          "source_id": 859,
+          "evidence_text": "1920 US Federal Census, Harry Mosley household, Representative District 8, Sussex County, Delaware: Maggie Mosley (Wife, age 36).",
+          "source_title": "1920 United States Federal Census",
+          "source_url": "4295769-00352.jpg",
+          "source_dataset": "Delaware Federal Census"
+        },
+        {
+          "citation_id": 37784,
+          "fact_id": 28321,
+          "source_id": 860,
+          "evidence_text": "1930 US Federal Census, Harry Mosley household, Representative District 8, Sussex County, Delaware: Margaret M Mosley (Wife, age 47).",
+          "source_title": "1930 United States Federal Census",
+          "source_url": "4531895_00729.jpg",
+          "source_dataset": "Delaware Federal Census"
+        },
+        {
+          "citation_id": 37785,
+          "fact_id": 28321,
+          "source_id": 861,
+          "evidence_text": "1940 US Federal Census, Harry Mosley household, Sussex County, Delaware: Maggie Mosley (Wife, age 56).",
+          "source_title": "1940 United States Federal Census",
+          "source_url": "m-t0627-00548-00373.jpg",
+          "source_dataset": "Delaware Federal Census"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_type": "spouse_of",
+      "role": "spouse",
+      "evidence_text": "Wife in Harry Mosley's household in the 1920, 1930, and 1940 federal censuses, Representative District 8, Sussex County, Delaware; named as the bride's mother on Myrtle Mosley's 1947 marriage certificate.",
+      "certainty": "confirmed",
+      "rel_id": 9239,
+      "rel_name": "Harry Mosley"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Myrtle Mosley's 1947 Delaware marriage certificate (File No. 4339) names her mother as Maggie Mosley.",
+      "certainty": "confirmed",
+      "rel_id": 8223,
+      "rel_name": "Myrtle Mosley"
+    }
+  ],
+  "photos": [],
+  "obituaries": [],
+  "audit_flags": [],
+  "ancestry": {
+    "id": 12017,
+    "name": "Maggie Mosley",
+    "children": []
+  }
+}

@@ -282,6 +282,14 @@
       "certainty": "census_confirmed",
       "rel_id": 6647,
       "rel_name": "Raymond Mosley"
+    },
+    {
+      "relationship_type": "spouse_of",
+      "role": "spouse",
+      "evidence_text": "Wife in Harry Mosley's household in the 1920, 1930, and 1940 federal censuses, Representative District 8, Sussex County, Delaware; named as the bride's mother on Myrtle Mosley's 1947 marriage certificate.",
+      "certainty": "confirmed",
+      "rel_id": 12017,
+      "rel_name": "Maggie Mosley"
     }
   ],
   "photos": [
