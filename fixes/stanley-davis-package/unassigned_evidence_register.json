@@ -1,0 +1,42 @@
+[
+  {
+    "kind": "citation",
+    "person_id": 8155,
+    "detached_from_fact_id": 24322,
+    "citation": {
+      "citation_id": 30117,
+      "fact_id": 24322,
+      "source_id": 2333,
+      "evidence_text": "Gravestone photographic survey and memorial record for Stanley Oliver Davis Sr (Find a Grave Memorial #66421404)."
+    },
+    "reason": "Find a Grave memorial 66421404 is a different Stanley Davis (Alvinston Cemetery, Ontario, Canada); it is not Stanley Oliver Davis Sr of Millsboro (1941-2021). Detached under the prevention rule by the stanley-davis package, 2026-11-27."
+  },
+  {
+    "kind": "fact",
+    "person_id": 8155,
+    "fact": {
+      "fact_id": 24323,
+      "person_id": 8155,
+      "fact_type": "Census",
+      "date_string": "1920",
+      "place_string": "Delaware / Delmarva Peninsula",
+      "value_string": "Enumerated in 1920 US Federal Census",
+      "place_id": null
+    },
+    "citations": [
+      {
+        "citation_id": 30118,
+        "fact_id": 24323,
+        "source_id": 859,
+        "evidence_text": "1920 United States Federal Census Schedule; Population schedule enumeration record for Stanley Oliver Davis Sr in Delmarva."
+      },
+      {
+        "citation_id": 30119,
+        "fact_id": 24323,
+        "source_id": 862,
+        "evidence_text": "1950 United States Federal Census Schedule; Population schedule enumeration record for Stanley Oliver Davis Sr in Delmarva."
+      }
+    ],
+    "reason": "A man born 5 Feb 1941 cannot appear in the 1920 census; the fact's generic import citations quote no household matching his life. Detached whole under the prevention rule by the stanley-davis package, 2026-11-27."
+  }
+]

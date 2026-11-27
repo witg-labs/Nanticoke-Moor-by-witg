@@ -8,15 +8,15 @@
     "married_last_name": "Davis",
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
-    "birth_info": "unknown",
-    "death_info": "1990",
-    "notes": "| Verified via FindAGrave: https://www.findagrave.com/memorial/66421404/stanley-davis (Buried at Alvinston Cemetery) [Suffix 'Sr' realigned from surname field]",
+    "birth_info": "5 Feb 1941 (Millsboro, DE)",
+    "death_info": "22 Jun 2021 (Millsboro, DE)",
+    "notes": "| Verified via FindAGrave: https://www.findagrave.com/memorial/66421404/stanley-davis (Buried at Alvinston Cemetery) [Suffix 'Sr' realigned from surname field]\n[Correction, stanley-davis package 2026-11-27: the Find a Grave memorial 66421404 referenced above is a different Stanley Davis (Alvinston Cemetery, Ontario, Canada), not this man; the 1990 death year and the Delmarva burial that traveled with that import are superseded. Stanley Oliver Davis Sr: born 5 Feb 1941, Millsboro, Delaware; died 22 Jun 2021, Millsboro, Delaware; buried in Millsboro, cemetery not named in the sources read. Per Jequan Davis's confirmation on 2026-11-23 of his Ancestry tree profile for Stanley (death and burial citing the U.S. Find A Grave Index; birth and death also citing the U.S. Public Records Index). His sister Maryland Phoebe Davis's funeral program (Feb 2020) names him as a surviving brother, Stanley Davis, of Millsboro.]",
     "dataset_source": "davis_family_gedcom",
     "suffix": "Sr",
-    "birth_date": null,
-    "birth_place": null,
-    "death_date": "1990",
-    "death_place": null
+    "birth_date": "5 Feb 1941",
+    "birth_place": "Millsboro, DE",
+    "death_date": "22 Jun 2021",
+    "death_place": "Millsboro, DE"
   },
   "facts": [
     {
@@ -42,8 +42,8 @@
       "fact_id": 7586,
       "person_id": 8155,
       "fact_type": "Birth",
-      "date_string": "unknown",
-      "place_string": null,
+      "date_string": "5 Feb 1941",
+      "place_string": "Millsboro, Sussex County, Delaware",
       "value_string": null,
       "citations": [
         {
@@ -59,10 +59,19 @@
           "citation_id": 30115,
           "fact_id": 7586,
           "source_id": 1270,
-          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Stanley Oliver Davis Sr, born unknown.",
+          "evidence_text": "SUPERSEDED (stanley-davis package, 2026-11-27): this import citation recorded his birth as 'unknown'; the corrected birth (5 Feb 1941, Millsboro) rests on the tree profile's U.S. Public Records Index and Find A Grave Index citations as confirmed by Jequan Davis, 2026-11-23. Original text: Civil & Vital Birth Registration; Official vital return recording Stanley Oliver Davis Sr, born unknown.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37796,
+          "fact_id": 7586,
+          "source_id": 2703,
+          "evidence_text": "Statement of Jequan Davis, 2026-11-23, confirming his Ancestry tree profile for Stanley Oliver Davis Sr as accurate: 'Stanley Oliver Davis Sr, born February 5, 1941, Millsboro, Delaware.' The tree profile's birth carries U.S. Public Records Index and U.S. Find A Grave Index citations (sources screenshot filed 2026-11-23, ~/workspace/genealogy-records/stanley-davis/).",
+          "source_title": "Statement of Jequan Davis, 2026-11-23 (confirmation of Stanley Oliver Davis Sr tree profile, 1941-2021)",
+          "source_url": "",
+          "source_dataset": "family_statement"
         }
       ]
     },
@@ -70,15 +79,15 @@
       "fact_id": 7587,
       "person_id": 8155,
       "fact_type": "Death",
-      "date_string": "1990",
-      "place_string": null,
+      "date_string": "22 Jun 2021",
+      "place_string": "Millsboro, Sussex County, Delaware",
       "value_string": null,
       "citations": [
         {
           "citation_id": 7581,
           "fact_id": 7587,
           "source_id": 622,
-          "evidence_text": null,
+          "evidence_text": "SUPERSEDED (stanley-davis package, 2026-11-27): this GEDCOM citation supported the former death year 1990; the corrected death (22 Jun 2021, Millsboro) rests on the tree profile's U.S. Find A Grave Index citation as confirmed by Jequan Davis, 2026-11-23.",
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
@@ -87,10 +96,19 @@
           "citation_id": 30116,
           "fact_id": 7587,
           "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Stanley Oliver Davis Sr, deceased 1990.",
+          "evidence_text": "SUPERSEDED (stanley-davis package, 2026-11-27): this import citation supported the former death year 1990; the corrected death (22 Jun 2021, Millsboro) rests on the tree profile's U.S. Find A Grave Index citation as confirmed by Jequan Davis, 2026-11-23. Original text: Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Stanley Oliver Davis Sr, deceased 1990.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37797,
+          "fact_id": 7587,
+          "source_id": 2703,
+          "evidence_text": "Statement of Jequan Davis, 2026-11-23, confirming his Ancestry tree profile for Stanley Oliver Davis Sr as accurate: 'Stanley Oliver Davis Sr, died June 22, 2021, Millsboro, Delaware.' The tree profile's death cites the U.S. Find A Grave Index and the U.S. Public Records Index (sources screenshot filed 2026-11-23, ~/workspace/genealogy-records/stanley-davis/). Corroborated by his sister Maryland Phoebe Davis's funeral program (Feb 2020), which names Stanley Davis of Millsboro as a surviving brother, so he was living in 2020 and the archive's former 1990 death year is impossible.",
+          "source_title": "Statement of Jequan Davis, 2026-11-23 (confirmation of Stanley Oliver Davis Sr tree profile, 1941-2021)",
+          "source_url": "",
+          "source_dataset": "family_statement"
         }
       ]
     },
@@ -98,46 +116,18 @@
       "fact_id": 24322,
       "person_id": 8155,
       "fact_type": "Burial",
-      "date_string": "1990",
-      "place_string": "Delmarva",
-      "value_string": "Interred in Delmarva cemetery (Find a Grave #66421404)",
+      "date_string": null,
+      "place_string": "Millsboro, Sussex County, Delaware",
+      "value_string": "Buried in Millsboro, Delaware; the cemetery is not named in the sources read.",
       "citations": [
         {
-          "citation_id": 30117,
+          "citation_id": 37798,
           "fact_id": 24322,
-          "source_id": 2333,
-          "evidence_text": "Gravestone photographic survey and memorial record for Stanley Oliver Davis Sr (Find a Grave Memorial #66421404).",
-          "source_title": "Record: FindAGrave Memorial 66421404",
-          "source_url": "https://www.findagrave.com/memorial/66421404",
-          "source_dataset": "findagrave"
-        }
-      ]
-    },
-    {
-      "fact_id": 24323,
-      "person_id": 8155,
-      "fact_type": "Census",
-      "date_string": "1920",
-      "place_string": "Delaware / Delmarva Peninsula",
-      "value_string": "Enumerated in 1920 US Federal Census",
-      "citations": [
-        {
-          "citation_id": 30118,
-          "fact_id": 24323,
-          "source_id": 859,
-          "evidence_text": "1920 United States Federal Census Schedule; Population schedule enumeration record for Stanley Oliver Davis Sr in Delmarva.",
-          "source_title": "1920 United States Federal Census",
-          "source_url": "4295769-00352.jpg",
-          "source_dataset": "Delaware Federal Census"
-        },
-        {
-          "citation_id": 30119,
-          "fact_id": 24323,
-          "source_id": 862,
-          "evidence_text": "1950 United States Federal Census Schedule; Population schedule enumeration record for Stanley Oliver Davis Sr in Delmarva.",
-          "source_title": "1950 United States Federal Census",
-          "source_url": "43290879-Delaware-072502-0017.jpg",
-          "source_dataset": "Delaware Federal Census"
+          "source_id": 2703,
+          "evidence_text": "Statement of Jequan Davis, 2026-11-23, confirming his Ancestry tree profile for Stanley Oliver Davis Sr as accurate: the profile gives his burial as Millsboro, Delaware (cemetery not named), citing the U.S. Find A Grave Index. The Find a Grave memorial 66421404 formerly cited here is a different Stanley Davis (Alvinston Cemetery, Ontario, Canada, per the import note on this profile) and is detached to the unassigned-evidence register.",
+          "source_title": "Statement of Jequan Davis, 2026-11-23 (confirmation of Stanley Oliver Davis Sr tree profile, 1941-2021)",
+          "source_url": "",
+          "source_dataset": "family_statement"
         }
       ]
     },
@@ -179,7 +169,26 @@
       "rel_name": "Phoebe Thompson"
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+      "person_id": 8155,
+      "photo_id": 3708,
+      "category": "people",
+      "title_or_caption": "Davis_Stanley_Oliver_Sr.jpg",
+      "subject_names": "Stanley Oliver Davis Sr",
+      "married_surname": null,
+      "approximate_year": null,
+      "local_image_path": "assets/archive_media/people/Davis_Stanley_Oliver_Sr.jpg",
+      "source_url": null,
+      "dataset_source": "mitsawokett",
+      "document_type": "portrait",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "contains_face": 1,
+      "face_context": "primary_subject",
+      "routing_target": "photos"
+    }
+  ],
   "obituaries": [],
   "audit_flags": [],
   "ancestry": {
