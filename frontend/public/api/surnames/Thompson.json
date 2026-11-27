@@ -463,18 +463,6 @@
       "photo_count": 0
     },
     {
-      "person_id": 10098,
-      "name": "Biggie Thompson",
-      "first_name": "Biggie",
-      "middle_name": "",
-      "maiden_name": "",
-      "married_last_name": "Thompson",
-      "birth_info": "unknown",
-      "death_info": "24 Jun 1864",
-      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/22932360/b-thompson",
-      "photo_count": 0
-    },
-    {
       "person_id": 8191,
       "name": "Bruce Thompson",
       "first_name": "Bruce",
@@ -548,13 +536,13 @@
     },
     {
       "person_id": 8351,
-      "name": "David Thompson",
+      "name": "David Lee Thompson",
       "first_name": "David",
       "middle_name": "",
       "maiden_name": "",
       "married_last_name": "Thompson",
-      "birth_info": "5 May 1946",
-      "death_info": "9 Nov 2014 (aged 68)",
+      "birth_info": "20 May 1955 Lewes Del",
+      "death_info": "19 Sep 2018 Milford Del",
       "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/138577443/david-thompson",
       "photo_count": 0
     },
@@ -571,6 +559,18 @@
       "photo_count": 0
     },
     {
+      "person_id": 10098,
+      "name": "Donnell Thompson (Biggie)",
+      "first_name": "Biggie",
+      "middle_name": "",
+      "maiden_name": "",
+      "married_last_name": "Thompson",
+      "birth_info": "unknown",
+      "death_info": "unknown",
+      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/22932360/b-thompson",
+      "photo_count": 0
+    },
+    {
       "person_id": 8499,
       "name": "Dorothy Thompson",
       "first_name": "Dorothy",
@@ -580,6 +580,18 @@
       "birth_info": "15 AUG 1907 Montville, OH",
       "death_info": "23 JAN 1984",
       "notes": "",
+      "photo_count": 0
+    },
+    {
+      "person_id": 10097,
+      "name": "Douglas Thompson (Tinnie)",
+      "first_name": "Tinnie",
+      "middle_name": "",
+      "maiden_name": "",
+      "married_last_name": "Thompson",
+      "birth_info": "unknown",
+      "death_info": "unknown",
+      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/31896956/tinnie-thompson",
       "photo_count": 0
     },
     {
@@ -740,7 +752,7 @@
     },
     {
       "person_id": 8264,
-      "name": "Gerld Lee Thompson",
+      "name": "Gerald Lee Thompson",
       "first_name": "Gerld",
       "middle_name": "Lee",
       "maiden_name": "",
@@ -1544,14 +1556,14 @@
     },
     {
       "person_id": 8169,
-      "name": "Samuel Thompson",
+      "name": "Samuel Thompson Jr",
       "first_name": "Samuel",
       "middle_name": "",
       "maiden_name": "",
       "married_last_name": "Thompson",
-      "birth_info": "22 Sep 1929 Newark Del",
+      "birth_info": "27 Sep 1930 Lewes Del",
       "death_info": "11 Apr 2006 Lewes",
-      "notes": "",
+      "notes": " Funeral program (2006): 25 grandchildren, 27 great-grandchildren.",
       "photo_count": 3
     },
     {
@@ -1622,7 +1634,7 @@
       "maiden_name": "",
       "married_last_name": "Thompson",
       "birth_info": "unknown",
-      "death_info": "30 May 1992",
+      "death_info": "unknown",
       "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/103371235/shirley-thompson",
       "photo_count": 0
     },
@@ -1649,18 +1661,6 @@
       "death_info": "15 September 2006 Seaford, Sussex, Delaware, USA",
       "notes": "",
       "photo_count": 2
-    },
-    {
-      "person_id": 10097,
-      "name": "Tinnie Thompson",
-      "first_name": "Tinnie",
-      "middle_name": "",
-      "maiden_name": "",
-      "married_last_name": "Thompson",
-      "birth_info": "10 Dec 1925",
-      "death_info": "5 May 1997 (aged 71)",
-      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/31896956/tinnie-thompson",
-      "photo_count": 0
     },
     {
       "person_id": 9508,

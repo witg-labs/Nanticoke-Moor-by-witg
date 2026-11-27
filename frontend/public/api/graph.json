@@ -4970,7 +4970,7 @@
     },
     {
       "id": 8169,
-      "label": "Samuel Thompson",
+      "label": "Samuel Thompson Jr",
       "group": "Thompson",
       "source_page": "Davis Family Tree.ged"
     },
@@ -5228,7 +5228,7 @@
     },
     {
       "id": 8264,
-      "label": "Gerld Lee Thompson",
+      "label": "Gerald Lee Thompson",
       "group": "Thompson",
       "source_page": "Davis Family Tree.ged"
     },
@@ -5348,7 +5348,7 @@
     },
     {
       "id": 8351,
-      "label": "David Thompson",
+      "label": "David Lee Thompson",
       "group": "Thompson",
       "source_page": "Davis Family Tree.ged"
     },
@@ -13472,22 +13472,6 @@
       "label": "child_of",
       "type": "child_of",
       "evidence": "Confirmed in 1950 US Federal Census as Daughter of household head (Kent, Delaware, USA)",
-      "certainty": "census_confirmed"
-    },
-    {
-      "from": 8169,
-      "to": 8147,
-      "label": "spouse",
-      "type": "spouse",
-      "evidence": "Confirmed in 1950 US Federal Census household (Sussex, Delaware, USA)",
-      "certainty": "census_confirmed"
-    },
-    {
-      "from": 8168,
-      "to": 8169,
-      "label": "child_of",
-      "type": "child_of",
-      "evidence": "Confirmed in 1950 US Federal Census as Daughter of household head (Sussex, Delaware, USA)",
       "certainty": "census_confirmed"
     },
     {

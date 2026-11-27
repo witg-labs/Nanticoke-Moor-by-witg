@@ -16036,5 +16036,29 @@
     "title": "Probate file of Whittington Clark, Sussex County, Delaware, 1836-1837",
     "url": "Delaware Public Archives, RG 4545-000-009 (Clark, Whittington, 1836-1837)",
     "dataset": "delaware_public_archives"
+  },
+  {
+    "source_id": 2694,
+    "title": "Probate Index Card: Estate of Eli Norwood, Sussex County, Delaware (Archives Vol. A91, pp. 113-114)",
+    "url": "Delaware Public Archives, Archives Volume A91, pages 113-114",
+    "dataset": "delaware_public_archives"
+  },
+  {
+    "source_id": 2695,
+    "title": "Funeral program of Samuel Thompson Jr., Watson Funeral Services, Millsboro DE, 2006; photographed and supplied by Jequan Davis 2026-11-23; archive photos 3692-3694; transcription ~/workspace/genealogy-records/thompson-samuel-jr/",
+    "url": "",
+    "dataset": "funeral_program"
+  },
+  {
+    "source_id": 2696,
+    "title": "Funeral program of David Lee Thompson, McPherson Funeral Home, Camden DE, 2018; photographed and supplied by Jequan Davis 2026-11-23; transcription ~/workspace/genealogy-records/thompson-david-l/",
+    "url": "",
+    "dataset": "funeral_program"
+  },
+  {
+    "source_id": 2697,
+    "title": "Statement of Jequan Davis, 2026-11-27 (family knowledge; Samuel Thompson Jr. correction audit)",
+    "url": "",
+    "dataset": "family_statement"
   }
 ]

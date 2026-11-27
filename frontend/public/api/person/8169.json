@@ -1,18 +1,18 @@
 {
   "person": {
     "person_id": 8169,
-    "name": "Samuel Thompson",
+    "name": "Samuel Thompson Jr",
     "first_name": "Samuel",
     "middle_name": "",
     "maiden_name": "",
     "married_last_name": "Thompson",
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
-    "birth_info": "22 Sep 1929 Newark Del",
+    "birth_info": "27 Sep 1930 Lewes Del",
     "death_info": "11 Apr 2006 Lewes",
-    "notes": "",
+    "notes": " Funeral program (2006): 25 grandchildren, 27 great-grandchildren.",
     "dataset_source": "davis_family_gedcom",
-    "birth_date": "22 Sep 1929 Newark Del",
+    "birth_date": "27 Sep 1930 Lewes Del",
     "birth_place": null,
     "death_date": "11 Apr 2006 Lewes",
     "death_place": null
@@ -41,7 +41,7 @@
       "fact_id": 7607,
       "person_id": 8169,
       "fact_type": "Birth",
-      "date_string": "22 Sep 1929 Newark Del",
+      "date_string": "27 Sep 1930 Lewes Del",
       "place_string": null,
       "value_string": null,
       "citations": [
@@ -58,7 +58,7 @@
           "citation_id": 30159,
           "fact_id": 7607,
           "source_id": 1270,
-          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Samuel Thompson, born 22 Sep 1929 Newark Del.",
+          "evidence_text": "SUPERSEDED 2026-11-27 under Jequan's obituary-override rule (funeral program: 27 Sep 1930, Lewes); retained as the superseded claim: Civil & Vital Birth Registration; Official vital return recording Samuel Thompson, born 22 Sep 1929 Newark Del.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
@@ -83,13 +83,13 @@
           "source_dataset": "davis_family_gedcom"
         },
         {
-          "citation_id": 30160,
+          "citation_id": 37772,
           "fact_id": 7608,
-          "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Samuel Thompson, deceased 11 Apr 2006 Lewes.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
-          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
-          "source_dataset": "delaware_vital_records"
+          "source_id": 2695,
+          "evidence_text": "Funeral program cover: \"Sunrise September 27, 1930 - Sunset April 11, 2006\"; obituary: he \"departed this life on Tuesday, April 11, 2006 at home.\"",
+          "source_title": "Funeral program of Samuel Thompson Jr., Watson Funeral Services, Millsboro DE, 2006; photographed and supplied by Jequan Davis 2026-11-23; archive photos 3692-3694; transcription ~/workspace/genealogy-records/thompson-samuel-jr/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -99,7 +99,7 @@
       "fact_type": "Census",
       "date_string": "1950",
       "place_string": "Sussex County, Delaware",
-      "value_string": "1950 US Federal Census: Head, age 54. Household: Samuel Thompson (Head, age 54), Martha Thompson (Wife, age 50), Samuel Thompson Jr (Son, age 18), Primrose Thompson (Daughter, age 15), Howda Thompson (Son, age 11), Nelson Thompson (Son, age 9), Phoebe Davis (Daughter, age 30), Joan Ellen Davis (Granddaughter, age 3), Maryland Davis (Granddaughter, age 9)",
+      "value_string": "1950 US Federal Census: enumerated as Samuel Thompson Jr, son, age 18, in the household of his father Samuel Thompson (Head, age 54) and mother Martha Thompson (Wife, age 50), Sussex County, Delaware. Household also: Primrose Thompson (daughter, 15), Howda Thompson (son, 11), Nelson Thompson (son, 9), Phoebe Davis (daughter, 30), Joan Ellen Davis (granddaughter, 3), Maryland Davis (granddaughter, 9).",
       "citations": [
         {
           "citation_id": 14941,
@@ -109,34 +109,6 @@
           "source_title": "1950 United States Federal Census",
           "source_url": "43290879-Delaware-072502-0017.jpg",
           "source_dataset": "Delaware Federal Census"
-        },
-        {
-          "citation_id": 30161,
-          "fact_id": 16131,
-          "source_id": 860,
-          "evidence_text": "1930 United States Federal Census Schedule; Population schedule enumeration record for Samuel Thompson in Delmarva.",
-          "source_title": "1930 United States Federal Census",
-          "source_url": "4531895_00729.jpg",
-          "source_dataset": "Delaware Federal Census"
-        }
-      ]
-    },
-    {
-      "fact_id": 24344,
-      "person_id": 8169,
-      "fact_type": "Social Security Application",
-      "date_string": "1929",
-      "place_string": "United States",
-      "value_string": "Social Security Account Application (Form SS-5) on file for Samuel Thompson",
-      "citations": [
-        {
-          "citation_id": 30162,
-          "fact_id": 24344,
-          "source_id": 1281,
-          "evidence_text": "Social Security Administration Numerical Identification (NUMIDENT) Files; Form SS-5 Application for Account Number filed for Samuel Thompson.",
-          "source_title": "Social Security Administration: Application for Account Number (Form SS-5) & Numerical Identification Files (NUMIDENT)",
-          "source_url": "https://www.archives.gov/research/genealogy/social-security",
-          "source_dataset": "social_security_administration"
         }
       ]
     },
@@ -144,18 +116,37 @@
       "fact_id": 24345,
       "person_id": 8169,
       "fact_type": "Marriage",
-      "date_string": null,
+      "date_string": "1959",
       "place_string": "Delaware",
-      "value_string": "Marriage record documented for Samuel Thompson",
+      "value_string": "Marriage of Samuel Thompson Jr. and Annabelle Joynes, 1959 (funeral program: in 1959 Samuel met Annabelle Joynes and the two were united in marriage).",
       "citations": [
         {
-          "citation_id": 30163,
+          "citation_id": 37773,
           "fact_id": 24345,
-          "source_id": 1270,
-          "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for Samuel Thompson.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
-          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
-          "source_dataset": "delaware_vital_records"
+          "source_id": 2695,
+          "evidence_text": "Funeral program obituary: \"In 1959 Samuel met the late Annabelle Joynes; the two were united in marriage.\" Annabelle Thompson's own funeral program (2001) corroborates: \"She met and married Samuel Thompson Jr. in 1959.\"",
+          "source_title": "Funeral program of Samuel Thompson Jr., Watson Funeral Services, Millsboro DE, 2006; photographed and supplied by Jequan Davis 2026-11-23; archive photos 3692-3694; transcription ~/workspace/genealogy-records/thompson-samuel-jr/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
+        }
+      ]
+    },
+    {
+      "fact_id": 28316,
+      "person_id": 8169,
+      "fact_type": "Nickname",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Bull",
+      "citations": [
+        {
+          "citation_id": 37771,
+          "fact_id": 28316,
+          "source_id": 2697,
+          "evidence_text": "Nickname 'Bull' per Jequan Davis's statement of 2026-11-27 (family usage; the name he gave for this audit). The nickname does not appear in the funeral program and is not cited to it.",
+          "source_title": "Statement of Jequan Davis, 2026-11-27 (family knowledge; Samuel Thompson Jr. correction audit)",
+          "source_url": "",
+          "source_dataset": "family_statement"
         }
       ]
     }
@@ -191,7 +182,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 10098,
-      "rel_name": "Biggie Thompson"
+      "rel_name": "Donnell Thompson (Biggie)"
     },
     {
       "relationship_type": "parent_of",
@@ -199,7 +190,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 10097,
-      "rel_name": "Tinnie Thompson"
+      "rel_name": "Douglas Thompson (Tinnie)"
     },
     {
       "relationship_type": "parent_of",
@@ -215,7 +206,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8351,
-      "rel_name": "David Thompson"
+      "rel_name": "David Lee Thompson"
     },
     {
       "relationship_type": "parent_of",
@@ -231,7 +222,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8264,
-      "rel_name": "Gerld Lee Thompson"
+      "rel_name": "Gerald Lee Thompson"
     },
     {
       "relationship_type": "parent_of",
@@ -256,30 +247,6 @@
       "certainty": "confirmed",
       "rel_id": 8268,
       "rel_name": "Ruth Ann Thomas"
-    },
-    {
-      "relationship_type": "spouse_of",
-      "role": "spouse",
-      "evidence_text": "Confirmed in 1950 US Federal Census household (Sussex, Delaware, USA)",
-      "certainty": "census_confirmed",
-      "rel_id": 8147,
-      "rel_name": "Martha E Thompson"
-    },
-    {
-      "relationship_type": "parent_of",
-      "role": "child",
-      "evidence_text": "Confirmed in 1950 US Federal Census as Daughter of household head (Sussex, Delaware, USA)",
-      "certainty": "census_confirmed",
-      "rel_id": 8168,
-      "rel_name": "Primrose Elizabeth Thompson"
-    },
-    {
-      "relationship_type": "parent_of",
-      "role": "child",
-      "evidence_text": "Confirmed in 1950 US Federal Census as Granddaughter of household head (Sussex, Delaware, USA)",
-      "certainty": "census_confirmed",
-      "rel_id": 11253,
-      "rel_name": "Maryland Phoebe Davis"
     }
   ],
   "photos": [
@@ -342,7 +309,7 @@
   "audit_flags": [],
   "ancestry": {
     "id": 8169,
-    "name": "Samuel Thompson",
+    "name": "Samuel Thompson Jr",
     "children": [
       {
         "id": 9097,

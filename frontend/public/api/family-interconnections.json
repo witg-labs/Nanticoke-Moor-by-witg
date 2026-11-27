@@ -175,13 +175,6 @@
     "description": "Documented spouse kinship connection between Eloise Harmon and Clarence Jackson"
   },
   {
-    "family_a": "Davis",
-    "family_b": "Thompson",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 12,
-    "description": "Documented spouse kinship connection between George A. Davis and Pearl Mae Thompson"
-  },
-  {
     "family_a": "Morris",
     "family_b": "Wright",
     "tie_type": "Marriage & Kinship Link",
@@ -215,6 +208,13 @@
     "tie_type": "Marriage & Kinship Link",
     "count": 11,
     "description": "Documented cross_dataset_match kinship connection between Nehemiah Hanzer and Nehemiah Harmon"
+  },
+  {
+    "family_a": "Davis",
+    "family_b": "Thompson",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 11,
+    "description": "Documented spouse kinship connection between George A. Davis and Pearl Mae Thompson"
   },
   {
     "family_a": "Johnson",
@@ -917,6 +917,20 @@
     "description": "Documented child_of kinship connection between Lulu Rae Clark and Charles Edward Carey"
   },
   {
+    "family_a": "Biggie",
+    "family_b": "Thompson",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 2,
+    "description": "Documented child_of kinship connection between Donnell Thompson (Biggie) and Samuel Thompson Jr"
+  },
+  {
+    "family_a": "Thompson",
+    "family_b": "Tinnie",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 2,
+    "description": "Documented child_of kinship connection between Douglas Thompson (Tinnie) and Samuel Thompson Jr"
+  },
+  {
     "family_a": "Carney",
     "family_b": "Mosley",
     "tie_type": "Marriage & Kinship Link",
@@ -1034,19 +1048,5 @@
     "tie_type": "Marriage & Kinship Link",
     "count": 2,
     "description": "Documented spouse kinship connection between James Songo and Araminta Sisco"
-  },
-  {
-    "family_a": "Hughes",
-    "family_b": "William",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 2,
-    "description": "Documented spouse kinship connection between Beckett William and James Hughes"
-  },
-  {
-    "family_a": "Both",
-    "family_b": "Ruth",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 2,
-    "description": "Documented spouse kinship connection between William Ruth and Ruth Both"
   }
 ]

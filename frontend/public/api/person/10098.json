@@ -1,7 +1,7 @@
 {
   "person": {
     "person_id": 10098,
-    "name": "Biggie Thompson",
+    "name": "Donnell Thompson (Biggie)",
     "first_name": "Biggie",
     "middle_name": "",
     "maiden_name": "",
@@ -9,12 +9,12 @@
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
     "birth_info": "unknown",
-    "death_info": "24 Jun 1864",
+    "death_info": "unknown",
     "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/22932360/b-thompson",
     "dataset_source": "davis_family_gedcom",
     "birth_date": null,
     "birth_place": null,
-    "death_date": "24 Jun 1864",
+    "death_date": null,
     "death_place": null
   },
   "facts": [
@@ -34,6 +34,15 @@
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 37779,
+          "fact_id": 9485,
+          "source_id": 2695,
+          "evidence_text": "Funeral program of Samuel Thompson Jr. (2006), obituary survivor run: \"seven sons, William Harvey (Una), David Thompson (Daisey), Bradley Thompson (Patria), Wydell Thompson, Donnell Thompson, and Douglas Thompson (Robbin), all of Millsboro\"; Donnell Thompson read the scripture at the service. This profile is that son, Donnell Thompson. Annabelle Thompson's program (2001) names the same sons.",
+          "source_title": "Funeral program of Samuel Thompson Jr., Watson Funeral Services, Millsboro DE, 2006; photographed and supplied by Jequan Davis 2026-11-23; archive photos 3692-3694; transcription ~/workspace/genealogy-records/thompson-samuel-jr/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -59,34 +68,6 @@
           "fact_id": 9486,
           "source_id": 1270,
           "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Biggie Thompson, born unknown.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
-          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
-          "source_dataset": "delaware_vital_records"
-        }
-      ]
-    },
-    {
-      "fact_id": 9487,
-      "person_id": 10098,
-      "fact_type": "Death",
-      "date_string": "24 Jun 1864",
-      "place_string": null,
-      "value_string": null,
-      "citations": [
-        {
-          "citation_id": 9481,
-          "fact_id": 9487,
-          "source_id": 622,
-          "evidence_text": null,
-          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
-          "source_url": "Davis Family Tree.ged",
-          "source_dataset": "davis_family_gedcom"
-        },
-        {
-          "citation_id": 33394,
-          "fact_id": 9487,
-          "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Biggie Thompson, deceased 24 Jun 1864.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
@@ -158,6 +139,25 @@
           "source_dataset": "delaware_vital_records"
         }
       ]
+    },
+    {
+      "fact_id": 28318,
+      "person_id": 10098,
+      "fact_type": "Nickname",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Biggie",
+      "citations": [
+        {
+          "citation_id": 37778,
+          "fact_id": 28318,
+          "source_id": 2697,
+          "evidence_text": "Nickname 'Biggie' per Jequan Davis's statement of 2026-11-27: 'Douglas is Tinnie, Donnell is Biggie.'",
+          "source_title": "Statement of Jequan Davis, 2026-11-27 (family knowledge; Samuel Thompson Jr. correction audit)",
+          "source_url": "",
+          "source_dataset": "family_statement"
+        }
+      ]
     }
   ],
   "relationships": [
@@ -167,7 +167,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8169,
-      "rel_name": "Samuel Thompson"
+      "rel_name": "Samuel Thompson Jr"
     },
     {
       "relationship_type": "child_of",
@@ -183,11 +183,11 @@
   "audit_flags": [],
   "ancestry": {
     "id": 10098,
-    "name": "Biggie Thompson",
+    "name": "Donnell Thompson (Biggie)",
     "children": [
       {
         "id": 8169,
-        "name": "Samuel Thompson",
+        "name": "Samuel Thompson Jr",
         "children": [
           {
             "id": 9097,
