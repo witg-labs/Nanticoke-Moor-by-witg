@@ -1,5 +1,26 @@
 [
   {
+    "photo_id": 3702,
+    "category": "documents",
+    "title_or_caption": "Probate Index Card: Estate of Eli Norwood, Sussex County, 1838",
+    "subject_names": "Eli Norwood",
+    "married_surname": "Norwood",
+    "approximate_year": "1838",
+    "local_image_path": "assets/archive_media/documents/norwood_eli_probate_card_1838.png",
+    "source_url": null,
+    "dataset_source": "Delaware Public Archives",
+    "document_type": "historical_document",
+    "asset_type": "document",
+    "subtype": "historical_document",
+    "confidence_score": 1.0,
+    "contains_face": 0,
+    "face_context": "none",
+    "routing_target": "documents",
+    "transcription": "Sussex County probate index card, Estate of Eli Norwood. Date Jan. 2, 1838; probated May 23, 1838. Archives Volume A91, pages 113-114, Register of Wills. Administratrix: Elon Norwood. Heirs per the card's note (Arch. Vol. A91, p. 114): widow Elon Norwood and 7 children, Eli, Stephen D., William D., Wingate P., Samuel B., Mary Jane Whittington, and Ann Johnson; and issue of son John (Charles and Benjamin Norwood).",
+    "dates_mentioned": "[\"1838\"]",
+    "flag_for_human_review": 0
+  },
+  {
     "photo_id": 3701,
     "category": "people",
     "title_or_caption": "Annabelle Thompson funeral program cover, 2001",

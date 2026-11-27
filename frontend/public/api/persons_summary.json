@@ -56351,8 +56351,8 @@
     "birth_place": "1770 Indian River Hundred, Sussex, Delaware, USA",
     "death_place": "1838 Indian River Hundred, Sussex, Delaware, United States",
     "dataset": "davis_family_gedcom",
-    "has_photo": false,
-    "primary_photo": null,
+    "has_photo": true,
+    "primary_photo": "assets/archive_media/documents/norwood_eli_probate_card_1838.png",
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 12
