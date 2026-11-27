@@ -9,13 +9,13 @@
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
     "birth_info": "3 Jun 1913",
-    "death_info": "2005 (aged 89\u201390)",
-    "notes": "Buried at Harmony Cemetery, Millsboro, Sussex County, Delaware. Inscribed in harmony1.htm: \"son of Hester Davis\". Verified via FindAGrave Memorial 36964560. [Birth year ruled 2026-11-27 by Jequan Davis: June 3, 1913, per his 1947 Delaware marriage certificate (File No. 4339), which states his birth as June 3, 1913 and his age as 34. The funeral program's June 3, 1915 is superseded and is kept visible here as superseded.]",
+    "death_info": "9 Aug 2005 (Millsboro, DE)",
+    "notes": "Buried at Harmony Cemetery, Millsboro, Sussex County, Delaware. Inscribed in harmony1.htm: \"son of Hester Davis\". Verified via FindAGrave Memorial 36964560. [Birth year ruled 2026-11-27 by Jequan Davis: June 3, 1913, per his 1947 Delaware marriage certificate (File No. 4339), which states his birth as June 3, 1913 and his age as 34. The funeral program's June 3, 1915 is superseded and is kept visible here as superseded.]\n[Correction, obituary-dates package 2026-11-27: death set to 9 Aug 2005, Green Valley Terrace, Millsboro, and burial to Harmony Cemetery, per his funeral program, Watson memorial card, and newspaper obituary, supplied by Jequan Davis; the program cover's July 9, 2005 is a misprint (July 9 was a Saturday; he died on a Tuesday). The duplicated infant birth and death facts (14 May 1921 / 12 Mar 1922) still on this profile are a separate conflation item, not settled here.]",
     "dataset_source": "davis_family_gedcom",
     "birth_date": "3 Jun 1913",
     "birth_place": null,
-    "death_date": "2005 (aged 89\u201390)",
-    "death_place": null
+    "death_date": "9 Aug 2005",
+    "death_place": "Millsboro, DE"
   },
   "facts": [
     {
@@ -209,9 +209,9 @@
       "fact_id": 24328,
       "person_id": 8158,
       "fact_type": "Burial",
-      "date_string": "2005 (aged 89\u201390)",
-      "place_string": "Delmarva",
-      "value_string": "Interred in historical Delmarva cemetery",
+      "date_string": null,
+      "place_string": "Harmony Cemetery, Millsboro, Sussex County, Delaware",
+      "value_string": "Interred at Harmony Cemetery, Millsboro.",
       "citations": [
         {
           "citation_id": 30129,
@@ -221,6 +221,15 @@
           "source_title": "Delmarva Afro-Indigenous Cemetery Survey & Gravestone Inscription Archive",
           "source_url": "https://www.findagrave.com/",
           "source_dataset": "cemetery_survey"
+        },
+        {
+          "citation_id": 37803,
+          "fact_id": 24328,
+          "source_id": 2706,
+          "evidence_text": "Funeral program of Hersel Rodney Davis (Watson Funeral Home, Millsboro, 2005), supplied by Jequan Davis 2026-11-23: pallbearers page and obituary give interment at Harmony Cemetery, Millsboro. The former value ('Interred in historical Delmarva cemetery') named no cemetery.",
+          "source_title": "Funeral program of Hersel Rodney Davis (Watson Funeral Home, 2005), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -315,6 +324,25 @@
           "source_title": "Delaware Certificate of Marriage: Hersel Davis and Myrtle Mosley, 16 Sep 1947, Milton, Sussex County (File No. 4339)",
           "source_url": "https://www.familysearch.org/ark:/61903/1:1:F392-M6B",
           "source_dataset": "familysearch"
+        }
+      ]
+    },
+    {
+      "fact_id": 28331,
+      "person_id": 8158,
+      "fact_type": "Death",
+      "date_string": "9 Aug 2005",
+      "place_string": "Millsboro, Sussex County, Delaware",
+      "value_string": "Died Tuesday, 9 Aug 2005, at Green Valley Terrace, Millsboro.",
+      "citations": [
+        {
+          "citation_id": 37804,
+          "fact_id": 28331,
+          "source_id": 2706,
+          "evidence_text": "Funeral program of Hersel Rodney Davis (Watson Funeral Home, Millsboro, 2005), supplied by Jequan Davis 2026-11-23, with his Watson memorial card and newspaper obituary: the obituary text says he died on a Tuesday at Green Valley Terrace, Millsboro; the program cover's 'July 9, 2005' was a Saturday and is a misprint; the memorial card and the newspaper obituary both give Tuesday, August 9, 2005. Under Jequan Davis's obituary-override rule (2026-11-23) the death is recorded as 9 Aug 2005.",
+          "source_title": "Funeral program of Hersel Rodney Davis (Watson Funeral Home, 2005), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     }

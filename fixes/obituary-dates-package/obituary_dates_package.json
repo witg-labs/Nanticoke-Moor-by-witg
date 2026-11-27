@@ -1,0 +1,415 @@
+{
+ "expected_pre_state": {
+  "max_photo_id": 3708,
+  "persons": 3801,
+  "sources": 2683
+ },
+ "lydia": {
+  "census_source": {
+   "dataset": "Delaware Federal Census",
+   "title": "1850 United States Federal Census",
+   "url": ""
+  },
+  "citation_evidence": "1850 United States Federal Census, Indian River Hundred, Sussex County, Delaware, dwelling 32 (Roll 55, Page 178a): Lydia Clark, age 60, with Mary C. Clark, age 20, in her household; Levin Sockum's household is next door at dwelling 33. Age 60 on census day (1 Jun 1850) puts her birth about 1789-1790. Read from the census image pulled by Jequan Davis from his Ancestry tree (2026-11-21) and the Nabb Center transcription; analysis filed 2026-11-23 (Lydia Clark Norwood link, conflation forensics).",
+  "name": "Lydia E Norwood",
+  "new_birth_date": "abt 1790",
+  "new_birth_info": "abt 1790",
+  "new_place_if_date_held_it": "Sussex County, Delaware",
+  "notes_append": "[Correction, obituary-dates package 2026-11-27: birth year corrected to abt 1790 on the 1850 census (Indian River Hundred, dwelling 32), which gives Lydia Clark's age as 60, with Mary C. Clark, 20, in her household. The former abt 1768 (the age-87 account of the 1855 Georgetown trial) and the gravestone's implied abt 1781 ('about 75 years' at her 1856 death) stand as conflicting accounts, recorded here, not as equals: a 22-year gap is beyond ordinary census age error. Analysis filed 2026-11-23.]",
+  "notes_marker": "[Correction, obituary-dates package 2026-11-27:",
+  "old_year_fragment": "1768",
+  "person_id": 9334
+ },
+ "package": "obituary-dates-batch",
+ "persons": [
+  {
+   "corrections": [
+    {
+     "citation_evidence": "Funeral program of Annabelle Thompson (Watson Funeral Home, Millsboro, 2001), supplied by Jequan Davis 2026-11-23: cover and back page give her birth as October 28, 1928, and the obituary page states she was born in Temperanceville, Virginia on October 28, 1928, daughter of Chaney and Carrie Joynes; stated age 72 fits 1928. Under Jequan Davis's obituary-override rule (2026-11-23) the program's dates replace the archive's.",
+     "date_string": "28 Oct 1928",
+     "fact_id": 7710,
+     "fact_type": "Birth",
+     "place_string": "Temperanceville, Accomack County, Virginia",
+     "value_string": null
+    },
+    {
+     "citation_evidence": "Funeral program of Annabelle Thompson (Watson Funeral Home, Millsboro, 2001), supplied by Jequan Davis 2026-11-23: cover ('Sunset August 21, 2001'), obituary page ('departed this life on Tuesday, August 21, 2001'; the Tuesday checks out), and back page (date of death August 21, 2001; funeral Saturday, August 25, 2001) all give August 21, 2001, not the archive's August 24. Under the obituary-override rule the program's date replaces the archive's.",
+     "date_string": "21 Aug 2001",
+     "fact_id": 7711,
+     "fact_type": "Death",
+     "place_string": "Millsboro, Sussex County, Delaware",
+     "value_string": null
+    }
+   ],
+   "detach_citations": [],
+   "detach_facts": [],
+   "expected_birth_info": "28 Oct 1925 Virginia, USA",
+   "expected_death_info": "24 August 2001 Millsboro, Sussex, Delaware, USA",
+   "flags": [
+    {
+     "fact_id": 24422,
+     "flag": "generic_unverified",
+     "note": "Social Security application fact dated 1925; the year is the likely origin of this profile's former 1925 birth year, superseded by her funeral program (b. 28 Oct 1928). Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    },
+    {
+     "fact_id": 24423,
+     "flag": "generic_unverified",
+     "note": "Generic import marriage fact (source 1270 boilerplate); her marriage to Samuel Thompson Jr. (1959) is stated in her funeral program but no marriage record is cited on this profile. Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    }
+   ],
+   "name": "Annabell Thompson",
+   "new_birth_info": "28 Oct 1928 (Temperanceville, VA)",
+   "new_death_info": "21 Aug 2001 (Millsboro, DE)",
+   "new_facts": [],
+   "notes_append": "[Correction, obituary-dates package 2026-11-27: birth corrected to 28 Oct 1928, Temperanceville, Virginia, and death to 21 Aug 2001, Millsboro, per her funeral program (Watson Funeral Home, 2001), supplied by Jequan Davis; the former 1925 birth year and 24 Aug 2001 death date are superseded under his obituary-override rule. The program spells her name Annabelle.]",
+   "notes_marker": "[Correction, obituary-dates package 2026-11-27:",
+   "person_id": 8212,
+   "source": {
+    "dataset": "funeral_program",
+    "title": "Funeral program of Annabelle Thompson (Watson Funeral Home, 2001), supplied by Jequan Davis",
+    "url": ""
+   },
+   "supersede_citations": [
+    {
+     "citation_id": 7704,
+     "note": "this GEDCOM citation supported the former birth (28 Oct 1925, Virginia); her funeral program gives 28 Oct 1928, Temperanceville, Virginia, and controls under Jequan Davis's obituary-override rule (2026-11-23)."
+    },
+    {
+     "citation_id": 30340,
+     "note": "this import citation supported the former birth year 1925; her funeral program gives 28 Oct 1928 and controls under the obituary-override rule."
+    },
+    {
+     "citation_id": 7705,
+     "note": "this GEDCOM citation supported the former death date (24 Aug 2001); her funeral program gives 21 Aug 2001 on three pages and controls under the obituary-override rule."
+    },
+    {
+     "citation_id": 30341,
+     "note": "this import citation supported the former death date (24 Aug 2001); her funeral program gives 21 Aug 2001 and controls under the obituary-override rule."
+    }
+   ]
+  },
+  {
+   "corrections": [
+    {
+     "citation_evidence": "Funeral service card of George A. Davis (Watson Funeral Home, Millsboro, 1986), supplied by Jequan Davis 2026-11-23: funeral services Thursday evening, September 11, 1986 at Harmony United Methodist Church, Millsboro; interment Harmony Cemetery Friday, September 12, 1986. The burial was on 12 Sep 1986.",
+     "date_string": "12 Sep 1986",
+     "fact_id": 24325,
+     "fact_type": "Burial",
+     "place_string": "Harmony Cemetery, Millsboro, Sussex County, Delaware",
+     "value_string": "Interred at Harmony Cemetery, Millsboro, on 12 Sep 1986 (funeral service card)."
+    }
+   ],
+   "detach_citations": [],
+   "detach_facts": [
+    {
+     "citation_ids": [
+      7583,
+      30121
+     ],
+     "fact_id": 7589,
+     "reason": "Birth year 1912 pairs with the December 1923 death fact on this profile: together they describe a child George Davis (b. abt 1912, d. Dec 1923 aged 10-11), not George A. Davis the husband of Pearl Mae Thompson, whose censuses run 1910-1950 and whose funeral was in September 1986. Detached with its pair under the prevention rule by the obituary-dates package, 2026-11-27."
+    },
+    {
+     "citation_ids": [
+      7584,
+      30122
+     ],
+     "fact_id": 7590,
+     "reason": "Death 'Dec 1923 (aged 10-11)' pairs with the 1912 birth fact on this profile: a child George Davis, not George A. Davis (d. Sep 1986, funeral service card, Watson Funeral Home). Detached with its pair under the prevention rule by the obituary-dates package, 2026-11-27."
+    }
+   ],
+   "expected_birth_info": "1909",
+   "expected_death_info": "1986 (aged 76\u201377)",
+   "expected_facts_count": 11,
+   "flags": [
+    {
+     "fact_id": 24327,
+     "flag": "generic_unverified",
+     "note": "Generic import marriage fact (source 1270 boilerplate); no spouse or date is documented on this profile. Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    }
+   ],
+   "name": "George A. Davis",
+   "new_birth_info": null,
+   "new_death_info": "Sep 1986 (Millsboro, DE)",
+   "new_facts": [
+    {
+     "citation_evidence": "Funeral service card of George A. Davis (Watson Funeral Home, Millsboro, 1986), supplied by Jequan Davis 2026-11-23: 'GEORGE A. DAVIS, Age 77, funeral services at Harmony United Methodist Church, Millsboro, Thursday evening, Sept. 11, 1986; interment Harmony Cemetery Friday, September 12, 1986.' He died in September 1986, before the September 11 service; the card gives no exact day.",
+     "date_string": "Sep 1986",
+     "fact_type": "Death",
+     "place_string": "Millsboro, Sussex County, Delaware",
+     "value_string": "Died in September 1986, before his funeral service on 11 Sep 1986."
+    }
+   ],
+   "notes_append": "[Correction, obituary-dates package 2026-11-27: death set to September 1986 and burial to Harmony Cemetery, Millsboro (interment 12 Sep 1986), per his Watson Funeral Home service card, supplied by Jequan Davis. The 1912 birth fact and the December 1923 death fact formerly on this profile describe a child George Davis and were detached to the unassigned-evidence register; his birth year 1909 rests on his Social Security application fact and his census ages.]",
+   "notes_marker": "[Correction, obituary-dates package 2026-11-27:",
+   "person_id": 8157,
+   "source": {
+    "dataset": "funeral_program",
+    "title": "Funeral service card of George A. Davis (Watson Funeral Home, 1986), supplied by Jequan Davis",
+    "url": ""
+   },
+   "supersede_citations": []
+  },
+  {
+   "corrections": [
+    {
+     "citation_evidence": "Funeral program of Hersel Rodney Davis (Watson Funeral Home, Millsboro, 2005), supplied by Jequan Davis 2026-11-23: pallbearers page and obituary give interment at Harmony Cemetery, Millsboro. The former value ('Interred in historical Delmarva cemetery') named no cemetery.",
+     "date_string": null,
+     "fact_id": 24328,
+     "fact_type": "Burial",
+     "place_string": "Harmony Cemetery, Millsboro, Sussex County, Delaware",
+     "value_string": "Interred at Harmony Cemetery, Millsboro."
+    }
+   ],
+   "detach_citations": [],
+   "detach_facts": [],
+   "expected_birth_info": "3 Jun 1913",
+   "expected_death_info": "2005 (aged 89\u201390)",
+   "expected_facts_count": 12,
+   "flags": [],
+   "name": "Hersel R. Davis",
+   "new_birth_info": null,
+   "new_death_info": "9 Aug 2005 (Millsboro, DE)",
+   "new_facts": [
+    {
+     "citation_evidence": "Funeral program of Hersel Rodney Davis (Watson Funeral Home, Millsboro, 2005), supplied by Jequan Davis 2026-11-23, with his Watson memorial card and newspaper obituary: the obituary text says he died on a Tuesday at Green Valley Terrace, Millsboro; the program cover's 'July 9, 2005' was a Saturday and is a misprint; the memorial card and the newspaper obituary both give Tuesday, August 9, 2005. Under Jequan Davis's obituary-override rule (2026-11-23) the death is recorded as 9 Aug 2005.",
+     "date_string": "9 Aug 2005",
+     "fact_type": "Death",
+     "place_string": "Millsboro, Sussex County, Delaware",
+     "value_string": "Died Tuesday, 9 Aug 2005, at Green Valley Terrace, Millsboro."
+    }
+   ],
+   "notes_append": "[Correction, obituary-dates package 2026-11-27: death set to 9 Aug 2005, Green Valley Terrace, Millsboro, and burial to Harmony Cemetery, per his funeral program, Watson memorial card, and newspaper obituary, supplied by Jequan Davis; the program cover's July 9, 2005 is a misprint (July 9 was a Saturday; he died on a Tuesday). The duplicated infant birth and death facts (14 May 1921 / 12 Mar 1922) still on this profile are a separate conflation item, not settled here.]",
+   "notes_marker": "[Correction, obituary-dates package 2026-11-27:",
+   "person_id": 8158,
+   "source": {
+    "dataset": "funeral_program",
+    "title": "Funeral program of Hersel Rodney Davis (Watson Funeral Home, 2005), supplied by Jequan Davis",
+    "url": ""
+   },
+   "supersede_citations": []
+  },
+  {
+   "corrections": [
+    {
+     "citation_evidence": "Memorial card of Pearl Mae Davis (Watson Funeral Home, Millsboro, 2008), supplied by Jequan Davis 2026-11-23: 'Pearl Mae Davis, Age 92, March 16, 1916 ~ April 26, 2008.' Her newspaper obituary agrees: 'born March 16, 1916, in Millsboro to the late Samuel and Martha E. Jackson Thompson.' Under Jequan Davis's obituary-override rule (2026-11-23) the card and obituary replace the archive's 'abt 1917'.",
+     "date_string": "16 Mar 1916",
+     "fact_id": 8367,
+     "fact_type": "Birth",
+     "place_string": "Millsboro, Sussex County, Delaware",
+     "value_string": null
+    }
+   ],
+   "detach_citations": [],
+   "detach_facts": [],
+   "expected_birth_info": "abt 1917 Delaware",
+   "expected_death_info": "26 April 2008 Hartly, Kent, Delaware",
+   "flags": [
+    {
+     "fact_id": 24979,
+     "flag": "generic_unverified",
+     "note": "Social Security application fact dated 1917; the year is superseded by her memorial card and newspaper obituary (b. 16 Mar 1916). Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    },
+    {
+     "fact_id": 24980,
+     "flag": "generic_unverified",
+     "note": "Generic import marriage fact (source 1270 boilerplate); no spouse or date is documented on this profile. Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    }
+   ],
+   "name": "Pearl Mae Thompson",
+   "new_birth_info": "16 Mar 1916 (Millsboro, DE)",
+   "new_death_info": null,
+   "new_facts": [],
+   "notes_append": "[Correction, obituary-dates package 2026-11-27: birth corrected to 16 Mar 1916, Millsboro, per her Watson Funeral Home memorial card and her newspaper obituary, supplied by Jequan Davis; the former 'abt 1917' is superseded under his obituary-override rule. Her death (26 Apr 2008) was already correct and is confirmed by both documents.]",
+   "notes_marker": "[Correction, obituary-dates package 2026-11-27:",
+   "person_id": 8863,
+   "source": {
+    "dataset": "funeral_program",
+    "title": "Memorial card of Pearl Mae Davis (Watson Funeral Home, 2008), supplied by Jequan Davis",
+    "url": ""
+   },
+   "supersede_citations": [
+    {
+     "citation_id": 8361,
+     "note": "this GEDCOM citation supported the former birth ('abt 1917'); her memorial card and newspaper obituary give 16 Mar 1916, Millsboro, and control under Jequan Davis's obituary-override rule (2026-11-23)."
+    },
+    {
+     "citation_id": 31499,
+     "note": "this import citation supported the former birth ('abt 1917'); her memorial card and newspaper obituary give 16 Mar 1916 and control under the obituary-override rule."
+    }
+   ]
+  },
+  {
+   "corrections": [
+    {
+     "citation_evidence": "Funeral program of Delphine Mae Davis (Watson Funeral Home, Millsboro, 2002), supplied by Jequan Davis 2026-11-23: cover 'Sunrise October 06 1939'; obituary: born near Millsboro, daughter of Pearl M. Thompson Davis and the late George A. Davis (this profile's recorded parents). Her memorial card and newspaper obituary agree: October 6, 1939. Under Jequan Davis's obituary-override rule (2026-11-23) the program's dates replace the archive's 1918-1968 dates, which belong to a different woman (see the detached Find a Grave citation in the register).",
+     "date_string": "6 Oct 1939",
+     "fact_id": 7628,
+     "fact_type": "Birth",
+     "place_string": "Millsboro, Sussex County, Delaware",
+     "value_string": null
+    },
+    {
+     "citation_evidence": "Funeral program of Delphine Mae Davis (Watson Funeral Home, Millsboro, 2002), supplied by Jequan Davis 2026-11-23: cover 'Sunset August 20, 2002'; obituary: 'died Tuesday, August 20, 2002, in Beebe Medical Center, Lewes, age 62' (the Tuesday checks out). Her memorial card and newspaper obituary agree. Under the obituary-override rule the program's date replaces the archive's.",
+     "date_string": "20 Aug 2002",
+     "fact_id": 7629,
+     "fact_type": "Death",
+     "place_string": "Lewes, Sussex County, Delaware",
+     "value_string": null
+    },
+    {
+     "citation_evidence": "Funeral program and memorial card of Delphine Mae Davis (Watson Funeral Home, 2002), supplied by Jequan Davis 2026-11-23: services Saturday, August 24, 2002; interment private. No cemetery is named in her program, card, or newspaper obituary. The former burial entry (9 Nov 1968, Find a Grave memorial 131722949, Valhalla Gardens) belongs to a different woman and its citation is detached to the register.",
+     "date_string": null,
+     "fact_id": 24360,
+     "fact_type": "Burial",
+     "place_string": null,
+     "value_string": "Burial private; no cemetery is named in her funeral program, memorial card, or newspaper obituary."
+    }
+   ],
+   "detach_citations": [
+    {
+     "citation_id": 30196,
+     "fact_id": 24360,
+     "reason": "Find a Grave memorial 131722949 (Valhalla Gardens of Memory) is a different Delphine Davis (1918-1968), not Delphine Mae Davis of Millsboro (1939-2002), daughter of George A. Davis and Pearl Mae Thompson. Detached under the prevention rule by the obituary-dates package, 2026-11-27."
+    }
+   ],
+   "detach_facts": [
+    {
+     "citation_ids": [
+      30197,
+      30198
+     ],
+     "fact_id": 24361,
+     "reason": "A woman born 6 Oct 1939 cannot appear in the 1920 census; the fact's generic import citations quote no household matching her life. Detached whole under the prevention rule by the obituary-dates package, 2026-11-27."
+    }
+   ],
+   "expected_birth_info": "25 Oct 1918",
+   "expected_death_info": "9 Nov 1968 (aged 50)",
+   "expected_facts_count": 7,
+   "flags": [
+    {
+     "fact_id": 24362,
+     "flag": "generic_unverified",
+     "note": "Social Security application fact dated 1918, part of the superseded 1918-1968 date set that belongs to a different woman; this profile's dates are 1939-2002 per her funeral program. Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    },
+    {
+     "fact_id": 24363,
+     "flag": "generic_unverified",
+     "note": "Generic import marriage fact (source 1270 boilerplate); her husband Winfred Harmon is named in her funeral program but no marriage record is cited on this profile. Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    }
+   ],
+   "name": "Delphine Mae Davis",
+   "new_birth_info": "6 Oct 1939 (Millsboro, DE)",
+   "new_death_info": "20 Aug 2002 (Lewes, DE)",
+   "new_facts": [],
+   "notes_append": "[Correction, obituary-dates package 2026-11-27: the Find a Grave memorial 131722949 referenced above (Valhalla Gardens) is a different Delphine Davis, not this woman. Delphine Mae Davis, daughter of George A. Davis and Pearl Mae Thompson as this profile records: born 6 Oct 1939 near Millsboro, died 20 Aug 2002 at Beebe Medical Center, Lewes, per her funeral program, memorial card, and newspaper obituary, supplied by Jequan Davis; the 1918-1968 dates formerly here are superseded under his obituary-override rule.]",
+   "notes_marker": "[Correction, obituary-dates package 2026-11-27:",
+   "person_id": 8182,
+   "source": {
+    "dataset": "funeral_program",
+    "title": "Funeral program of Delphine Mae Davis (Watson Funeral Home, 2002), supplied by Jequan Davis",
+    "url": ""
+   },
+   "supersede_citations": [
+    {
+     "citation_id": 7622,
+     "note": "this GEDCOM citation supported the former birth (25 Oct 1918), part of a different woman's date set; her funeral program gives 6 Oct 1939 and controls under Jequan Davis's obituary-override rule (2026-11-23)."
+    },
+    {
+     "citation_id": 30194,
+     "note": "this import citation supported the former birth (25 Oct 1918); her funeral program gives 6 Oct 1939 and controls under the obituary-override rule."
+    },
+    {
+     "citation_id": 7623,
+     "note": "this GEDCOM citation supported the former death (9 Nov 1968), part of a different woman's date set; her funeral program gives 20 Aug 2002 and controls under the obituary-override rule."
+    },
+    {
+     "citation_id": 30195,
+     "note": "this import citation supported the former death (9 Nov 1968); her funeral program gives 20 Aug 2002 and controls under the obituary-override rule."
+    }
+   ]
+  },
+  {
+   "corrections": [
+    {
+     "citation_evidence": "Funeral program of Sheila K. Davis (Watson Funeral Home, Millsboro, 2010), supplied by Jequan Davis 2026-11-23: cover 'February 9, 1939 - August 5, 2010'; obituary: Sheila Kathleen Davis, born in Millsboro on February 9, 1939, daughter of the late Harry and Ethel Davis (this profile's recorded parents, Harry Edward Davis and Ethel Gwendolyn Clark). Under Jequan Davis's obituary-override rule (2026-11-23) the program's dates replace the archive's 1953-2021 dates, which belong to a different woman.",
+     "date_string": "9 Feb 1939",
+     "fact_id": 7732,
+     "fact_type": "Birth",
+     "place_string": "Millsboro, Sussex County, Delaware",
+     "value_string": null
+    },
+    {
+     "citation_evidence": "Funeral program of Sheila K. Davis (Watson Funeral Home, Millsboro, 2010), supplied by Jequan Davis 2026-11-23: obituary: 'passed away peacefully at home on Thursday, August 5, 2010' (the Thursday checks out); funeral services Thursday, August 12, 2010, Harmony United Methodist Church, Millsboro. Under the obituary-override rule the program's date replaces the archive's.",
+     "date_string": "5 Aug 2010",
+     "fact_id": 7733,
+     "fact_type": "Death",
+     "place_string": "Millsboro, Sussex County, Delaware",
+     "value_string": null
+    },
+    {
+     "citation_evidence": "Funeral program of Sheila K. Davis (Watson Funeral Home, 2010), supplied by Jequan Davis 2026-11-23: funeral services at Harmony United Methodist Church, Millsboro; the program states no burial place. The former burial entry (27 Aug 2021, Find a Grave memorial 261625394) belongs to a different woman (Sheila Hill Davis) and its citation is detached to the register.",
+     "date_string": null,
+     "fact_id": 24438,
+     "fact_type": "Burial",
+     "place_string": null,
+     "value_string": "Burial place not stated in her funeral program (services at Harmony United Methodist Church, Millsboro)."
+    }
+   ],
+   "detach_citations": [
+    {
+     "citation_id": 30379,
+     "fact_id": 24438,
+     "reason": "Find a Grave memorial 261625394 is Sheila Hill Davis (1953-2021), a different woman, not Sheila Kathleen Davis of Millsboro (1939-2010), daughter of Harry Edward Davis and Ethel Gwendolyn Clark. Detached under the prevention rule by the obituary-dates package, 2026-11-27."
+    }
+   ],
+   "detach_facts": [],
+   "expected_birth_info": "23 Nov 1953",
+   "expected_death_info": "27 Aug 2021 (aged 67)",
+   "expected_facts_count": 7,
+   "flags": [
+    {
+     "fact_id": 24439,
+     "flag": "generic_unverified",
+     "note": "Social Security application fact dated 1953, part of the superseded 1953-2021 date set that belongs to a different woman; this profile's dates are 1939-2010 per her funeral program. Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    },
+    {
+     "fact_id": 24440,
+     "flag": "generic_unverified",
+     "note": "Generic import marriage fact (source 1270 boilerplate); no marriage is recorded for her in her funeral program. Flagged by the obituary-dates package, 2026-11-27; fact left in place unchanged."
+    }
+   ],
+   "name": "Sheila Kathleen Davis",
+   "new_birth_info": "9 Feb 1939 (Millsboro, DE)",
+   "new_death_info": "5 Aug 2010 (Millsboro, DE)",
+   "new_facts": [],
+   "notes_append": "[Correction, obituary-dates package 2026-11-27: the Find a Grave memorial 261625394 referenced above is Sheila Hill Davis, a different woman. Sheila Kathleen Davis, daughter of Harry Edward Davis and Ethel Gwendolyn Clark as this profile records: born 9 Feb 1939 in Millsboro, died 5 Aug 2010 at home in Millsboro, per her funeral program, supplied by Jequan Davis; the 1953-2021 dates formerly here are superseded under his obituary-override rule.]",
+   "notes_marker": "[Correction, obituary-dates package 2026-11-27:",
+   "person_id": 8248,
+   "source": {
+    "dataset": "funeral_program",
+    "title": "Funeral program of Sheila K. Davis (Watson Funeral Home, 2010), supplied by Jequan Davis",
+    "url": ""
+   },
+   "supersede_citations": [
+    {
+     "citation_id": 7726,
+     "note": "this GEDCOM citation supported the former birth (23 Nov 1953), part of a different woman's date set; her funeral program gives 9 Feb 1939 and controls under Jequan Davis's obituary-override rule (2026-11-23)."
+    },
+    {
+     "citation_id": 30377,
+     "note": "this import citation supported the former birth (23 Nov 1953); her funeral program gives 9 Feb 1939 and controls under the obituary-override rule."
+    },
+    {
+     "citation_id": 7727,
+     "note": "this GEDCOM citation supported the former death (27 Aug 2021), part of a different woman's date set; her funeral program gives 5 Aug 2010 and controls under the obituary-override rule."
+    },
+    {
+     "citation_id": 30378,
+     "note": "this import citation supported the former death (27 Aug 2021); her funeral program gives 5 Aug 2010 and controls under the obituary-override rule."
+    }
+   ]
+  }
+ ],
+ "run_date": "2026-11-27"
+}

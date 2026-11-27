@@ -8,14 +8,14 @@
     "married_last_name": "Davis",
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
-    "birth_info": "23 Nov 1953",
-    "death_info": "27 Aug 2021 (aged 67)",
-    "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/261625394/sheila-davis (Buried at Sheila <I>Hill</I> Davis  <b class=\"icon-vet align-middle m-0 mb-1 lh-1 badge rounded-pill\" data-bs-toggle=\"tooltip\" data-bs-placement=\"bottom\" title=\"Veteran\"><span aria-hidden=\"true\">V)",
+    "birth_info": "9 Feb 1939 (Millsboro, DE)",
+    "death_info": "5 Aug 2010 (Millsboro, DE)",
+    "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/261625394/sheila-davis (Buried at Sheila <I>Hill</I> Davis  <b class=\"icon-vet align-middle m-0 mb-1 lh-1 badge rounded-pill\" data-bs-toggle=\"tooltip\" data-bs-placement=\"bottom\" title=\"Veteran\"><span aria-hidden=\"true\">V)\n[Correction, obituary-dates package 2026-11-27: the Find a Grave memorial 261625394 referenced above is Sheila Hill Davis, a different woman. Sheila Kathleen Davis, daughter of Harry Edward Davis and Ethel Gwendolyn Clark as this profile records: born 9 Feb 1939 in Millsboro, died 5 Aug 2010 at home in Millsboro, per her funeral program, supplied by Jequan Davis; the 1953-2021 dates formerly here are superseded under his obituary-override rule.]",
     "dataset_source": "davis_family_gedcom",
-    "birth_date": "23 Nov 1953",
-    "birth_place": null,
-    "death_date": "27 Aug 2021 (aged 67)",
-    "death_place": null
+    "birth_date": "9 Feb 1939",
+    "birth_place": "Millsboro, DE",
+    "death_date": "5 Aug 2010",
+    "death_place": "Millsboro, DE"
   },
   "facts": [
     {
@@ -41,15 +41,15 @@
       "fact_id": 7732,
       "person_id": 8248,
       "fact_type": "Birth",
-      "date_string": "23 Nov 1953",
-      "place_string": null,
+      "date_string": "9 Feb 1939",
+      "place_string": "Millsboro, Sussex County, Delaware",
       "value_string": null,
       "citations": [
         {
           "citation_id": 7726,
           "fact_id": 7732,
           "source_id": 622,
-          "evidence_text": null,
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this GEDCOM citation supported the former birth (23 Nov 1953), part of a different woman's date set; her funeral program gives 9 Feb 1939 and controls under Jequan Davis's obituary-override rule (2026-11-23).",
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
@@ -58,10 +58,19 @@
           "citation_id": 30377,
           "fact_id": 7732,
           "source_id": 1270,
-          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Sheila Kathleen Davis, born 23 Nov 1953.",
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this import citation supported the former birth (23 Nov 1953); her funeral program gives 9 Feb 1939 and controls under the obituary-override rule. Original text: Civil & Vital Birth Registration; Official vital return recording Sheila Kathleen Davis, born 23 Nov 1953.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37809,
+          "fact_id": 7732,
+          "source_id": 2709,
+          "evidence_text": "Funeral program of Sheila K. Davis (Watson Funeral Home, Millsboro, 2010), supplied by Jequan Davis 2026-11-23: cover 'February 9, 1939 - August 5, 2010'; obituary: Sheila Kathleen Davis, born in Millsboro on February 9, 1939, daughter of the late Harry and Ethel Davis (this profile's recorded parents, Harry Edward Davis and Ethel Gwendolyn Clark). Under Jequan Davis's obituary-override rule (2026-11-23) the program's dates replace the archive's 1953-2021 dates, which belong to a different woman.",
+          "source_title": "Funeral program of Sheila K. Davis (Watson Funeral Home, 2010), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -69,15 +78,15 @@
       "fact_id": 7733,
       "person_id": 8248,
       "fact_type": "Death",
-      "date_string": "27 Aug 2021 (aged 67)",
-      "place_string": null,
+      "date_string": "5 Aug 2010",
+      "place_string": "Millsboro, Sussex County, Delaware",
       "value_string": null,
       "citations": [
         {
           "citation_id": 7727,
           "fact_id": 7733,
           "source_id": 622,
-          "evidence_text": null,
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this GEDCOM citation supported the former death (27 Aug 2021), part of a different woman's date set; her funeral program gives 5 Aug 2010 and controls under the obituary-override rule.",
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
@@ -86,10 +95,19 @@
           "citation_id": 30378,
           "fact_id": 7733,
           "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Sheila Kathleen Davis, deceased 27 Aug 2021 (aged 67).",
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this import citation supported the former death (27 Aug 2021); her funeral program gives 5 Aug 2010 and controls under the obituary-override rule. Original text: Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Sheila Kathleen Davis, deceased 27 Aug 2021 (aged 67).",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37810,
+          "fact_id": 7733,
+          "source_id": 2709,
+          "evidence_text": "Funeral program of Sheila K. Davis (Watson Funeral Home, Millsboro, 2010), supplied by Jequan Davis 2026-11-23: obituary: 'passed away peacefully at home on Thursday, August 5, 2010' (the Thursday checks out); funeral services Thursday, August 12, 2010, Harmony United Methodist Church, Millsboro. Under the obituary-override rule the program's date replaces the archive's.",
+          "source_title": "Funeral program of Sheila K. Davis (Watson Funeral Home, 2010), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -116,18 +134,18 @@
       "fact_id": 24438,
       "person_id": 8248,
       "fact_type": "Burial",
-      "date_string": "27 Aug 2021 (aged 67)",
-      "place_string": "Delmarva",
-      "value_string": "Interred in Delmarva cemetery (Find a Grave #261625394)",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Burial place not stated in her funeral program (services at Harmony United Methodist Church, Millsboro).",
       "citations": [
         {
-          "citation_id": 30379,
+          "citation_id": 37811,
           "fact_id": 24438,
-          "source_id": 2343,
-          "evidence_text": "Gravestone photographic survey and memorial record for Sheila Kathleen Davis (Find a Grave Memorial #261625394).",
-          "source_title": "Record: FindAGrave Memorial 261625394",
-          "source_url": "https://www.findagrave.com/memorial/261625394",
-          "source_dataset": "findagrave"
+          "source_id": 2709,
+          "evidence_text": "Funeral program of Sheila K. Davis (Watson Funeral Home, 2010), supplied by Jequan Davis 2026-11-23: funeral services at Harmony United Methodist Church, Millsboro; the program states no burial place. The former burial entry (27 Aug 2021, Find a Grave memorial 261625394) belongs to a different woman (Sheila Hill Davis) and its citation is detached to the register.",
+          "source_title": "Funeral program of Sheila K. Davis (Watson Funeral Home, 2010), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },

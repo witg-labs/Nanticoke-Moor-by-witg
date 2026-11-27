@@ -8,14 +8,14 @@
     "married_last_name": "Davis",
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
-    "birth_info": "25 Oct 1918",
-    "death_info": "9 Nov 1968 (aged 50)",
-    "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/131722949/delphine-davis (Buried at Valhalla Gardens of Memory and Mausoleum)",
+    "birth_info": "6 Oct 1939 (Millsboro, DE)",
+    "death_info": "20 Aug 2002 (Lewes, DE)",
+    "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/131722949/delphine-davis (Buried at Valhalla Gardens of Memory and Mausoleum)\n[Correction, obituary-dates package 2026-11-27: the Find a Grave memorial 131722949 referenced above (Valhalla Gardens) is a different Delphine Davis, not this woman. Delphine Mae Davis, daughter of George A. Davis and Pearl Mae Thompson as this profile records: born 6 Oct 1939 near Millsboro, died 20 Aug 2002 at Beebe Medical Center, Lewes, per her funeral program, memorial card, and newspaper obituary, supplied by Jequan Davis; the 1918-1968 dates formerly here are superseded under his obituary-override rule.]",
     "dataset_source": "davis_family_gedcom",
-    "birth_date": "25 Oct 1918",
-    "birth_place": null,
-    "death_date": "9 Nov 1968 (aged 50)",
-    "death_place": null
+    "birth_date": "6 Oct 1939",
+    "birth_place": "Millsboro, DE",
+    "death_date": "20 Aug 2002",
+    "death_place": "Lewes, DE"
   },
   "facts": [
     {
@@ -41,15 +41,15 @@
       "fact_id": 7628,
       "person_id": 8182,
       "fact_type": "Birth",
-      "date_string": "25 Oct 1918",
-      "place_string": null,
+      "date_string": "6 Oct 1939",
+      "place_string": "Millsboro, Sussex County, Delaware",
       "value_string": null,
       "citations": [
         {
           "citation_id": 7622,
           "fact_id": 7628,
           "source_id": 622,
-          "evidence_text": null,
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this GEDCOM citation supported the former birth (25 Oct 1918), part of a different woman's date set; her funeral program gives 6 Oct 1939 and controls under Jequan Davis's obituary-override rule (2026-11-23).",
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
@@ -58,10 +58,19 @@
           "citation_id": 30194,
           "fact_id": 7628,
           "source_id": 1270,
-          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Delphine Mae Davis, born 25 Oct 1918.",
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this import citation supported the former birth (25 Oct 1918); her funeral program gives 6 Oct 1939 and controls under the obituary-override rule. Original text: Civil & Vital Birth Registration; Official vital return recording Delphine Mae Davis, born 25 Oct 1918.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37806,
+          "fact_id": 7628,
+          "source_id": 2708,
+          "evidence_text": "Funeral program of Delphine Mae Davis (Watson Funeral Home, Millsboro, 2002), supplied by Jequan Davis 2026-11-23: cover 'Sunrise October 06 1939'; obituary: born near Millsboro, daughter of Pearl M. Thompson Davis and the late George A. Davis (this profile's recorded parents). Her memorial card and newspaper obituary agree: October 6, 1939. Under Jequan Davis's obituary-override rule (2026-11-23) the program's dates replace the archive's 1918-1968 dates, which belong to a different woman (see the detached Find a Grave citation in the register).",
+          "source_title": "Funeral program of Delphine Mae Davis (Watson Funeral Home, 2002), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -69,15 +78,15 @@
       "fact_id": 7629,
       "person_id": 8182,
       "fact_type": "Death",
-      "date_string": "9 Nov 1968 (aged 50)",
-      "place_string": null,
+      "date_string": "20 Aug 2002",
+      "place_string": "Lewes, Sussex County, Delaware",
       "value_string": null,
       "citations": [
         {
           "citation_id": 7623,
           "fact_id": 7629,
           "source_id": 622,
-          "evidence_text": null,
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this GEDCOM citation supported the former death (9 Nov 1968), part of a different woman's date set; her funeral program gives 20 Aug 2002 and controls under the obituary-override rule.",
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
@@ -86,10 +95,19 @@
           "citation_id": 30195,
           "fact_id": 7629,
           "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Delphine Mae Davis, deceased 9 Nov 1968 (aged 50).",
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this import citation supported the former death (9 Nov 1968); her funeral program gives 20 Aug 2002 and controls under the obituary-override rule. Original text: Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Delphine Mae Davis, deceased 9 Nov 1968 (aged 50).",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37807,
+          "fact_id": 7629,
+          "source_id": 2708,
+          "evidence_text": "Funeral program of Delphine Mae Davis (Watson Funeral Home, Millsboro, 2002), supplied by Jequan Davis 2026-11-23: cover 'Sunset August 20, 2002'; obituary: 'died Tuesday, August 20, 2002, in Beebe Medical Center, Lewes, age 62' (the Tuesday checks out). Her memorial card and newspaper obituary agree. Under the obituary-override rule the program's date replaces the archive's.",
+          "source_title": "Funeral program of Delphine Mae Davis (Watson Funeral Home, 2002), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -97,46 +115,18 @@
       "fact_id": 24360,
       "person_id": 8182,
       "fact_type": "Burial",
-      "date_string": "9 Nov 1968 (aged 50)",
-      "place_string": "Delmarva",
-      "value_string": "Interred in Delmarva cemetery (Find a Grave #131722949)",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Burial private; no cemetery is named in her funeral program, memorial card, or newspaper obituary.",
       "citations": [
         {
-          "citation_id": 30196,
+          "citation_id": 37808,
           "fact_id": 24360,
-          "source_id": 2335,
-          "evidence_text": "Gravestone photographic survey and memorial record for Delphine Mae Davis (Find a Grave Memorial #131722949).",
-          "source_title": "Record: FindAGrave Memorial 131722949",
-          "source_url": "https://www.findagrave.com/memorial/131722949",
-          "source_dataset": "findagrave"
-        }
-      ]
-    },
-    {
-      "fact_id": 24361,
-      "person_id": 8182,
-      "fact_type": "Census",
-      "date_string": "1920",
-      "place_string": "Delaware / Delmarva Peninsula",
-      "value_string": "Enumerated in 1920 US Federal Census",
-      "citations": [
-        {
-          "citation_id": 30197,
-          "fact_id": 24361,
-          "source_id": 859,
-          "evidence_text": "1920 United States Federal Census Schedule; Population schedule enumeration record for Delphine Mae Davis in Delmarva.",
-          "source_title": "1920 United States Federal Census",
-          "source_url": "4295769-00352.jpg",
-          "source_dataset": "Delaware Federal Census"
-        },
-        {
-          "citation_id": 30198,
-          "fact_id": 24361,
-          "source_id": 862,
-          "evidence_text": "1950 United States Federal Census Schedule; Population schedule enumeration record for Delphine Mae Davis in Delmarva.",
-          "source_title": "1950 United States Federal Census",
-          "source_url": "43290879-Delaware-072502-0017.jpg",
-          "source_dataset": "Delaware Federal Census"
+          "source_id": 2708,
+          "evidence_text": "Funeral program and memorial card of Delphine Mae Davis (Watson Funeral Home, 2002), supplied by Jequan Davis 2026-11-23: services Saturday, August 24, 2002; interment private. No cemetery is named in her program, card, or newspaper obituary. The former burial entry (9 Nov 1968, Find a Grave memorial 131722949, Valhalla Gardens) belongs to a different woman and its citation is detached to the register.",
+          "source_title": "Funeral program of Delphine Mae Davis (Watson Funeral Home, 2002), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
