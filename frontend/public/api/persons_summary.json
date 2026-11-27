@@ -43665,7 +43665,7 @@
     "primary_photo": "assets/archive_media/people/Davis_Phoebe_Thompson_red_chair.jpg",
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 7
+    "connections_count": 8
   },
   {
     "id": 8147,
@@ -46689,7 +46689,7 @@
     "primary_photo": "assets/archive_media/people/Davis_William_And_Orda_Wedding.jpg",
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 7
+    "connections_count": 8
   },
   {
     "id": 8613,
@@ -68393,6 +68393,24 @@
     "birth_place": "",
     "death_place": "",
     "dataset": "lynncjackson",
+    "has_photo": false,
+    "primary_photo": null,
+    "has_obituary": false,
+    "has_citations": true,
+    "connections_count": 2
+  },
+  {
+    "id": 12018,
+    "name": "Joan Ellen Davis",
+    "surname": "Davis",
+    "birth": "unknown",
+    "death": "unknown",
+    "birth_year": null,
+    "death_year": null,
+    "state": "Maryland",
+    "birth_place": "unknown",
+    "death_place": "unknown",
+    "dataset": "davis_family_gedcom",
     "has_photo": false,
     "primary_photo": null,
     "has_obituary": false,

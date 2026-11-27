@@ -210,6 +210,13 @@
     "description": "Documented cross_dataset_match kinship connection between Nehemiah Hanzer and Nehemiah Harmon"
   },
   {
+    "family_a": "Davis",
+    "family_b": "Thompson",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 11,
+    "description": "Documented spouse kinship connection between George A. Davis and Pearl Mae Thompson"
+  },
+  {
     "family_a": "Johnson",
     "family_b": "Street",
     "tie_type": "Marriage & Kinship Link",
@@ -222,13 +229,6 @@
     "tie_type": "Marriage & Kinship Link",
     "count": 10,
     "description": "Documented spouse kinship connection between Nelson Johnson and Lottie Wright"
-  },
-  {
-    "family_a": "Davis",
-    "family_b": "Thompson",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 10,
-    "description": "Documented spouse kinship connection between George A. Davis and Pearl Mae Thompson"
   },
   {
     "family_a": "Davis",

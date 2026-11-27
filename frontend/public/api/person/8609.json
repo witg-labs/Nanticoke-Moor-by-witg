@@ -228,6 +228,14 @@
       "certainty": "confirmed",
       "rel_id": 11253,
       "rel_name": "Maryland Phoebe Davis"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, 2020; source 2700): Maryland 'was born in Millsboro, Delaware on June 30, 1939 to the late William Wesley Davis and Phoebe (Thompson) Davis,' and her survivors include 'her sister Joan Davis.' Joan Ellen Davis is William Wesley Davis Sr's daughter by the same parentage, confirmed by Jequan Davis's family knowledge (statement source, this package).",
+      "certainty": "confirmed",
+      "rel_id": 12018,
+      "rel_name": "Joan Ellen Davis"
     }
   ],
   "photos": [

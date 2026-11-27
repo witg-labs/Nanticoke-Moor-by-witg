@@ -208,6 +208,14 @@
       "certainty": "confirmed",
       "rel_id": 11253,
       "rel_name": "Maryland Phoebe Davis"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "1950 US Federal Census (source 862): Joan Ellen Davis is enumerated as granddaughter in the household of her grandparents Samuel and Martha Thompson, with her mother Phoebe (Thompson) Davis in the same house. Corroborated by the funeral program of her sister Maryland Phoebe Davis (source 2700), which names Phoebe (Thompson) Davis as Maryland's mother and Joan Davis as Maryland's sister.",
+      "certainty": "confirmed",
+      "rel_id": 12018,
+      "rel_name": "Joan Ellen Davis"
     }
   ],
   "photos": [

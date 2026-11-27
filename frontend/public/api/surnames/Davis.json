@@ -1,6 +1,6 @@
 {
   "surname": "Davis",
-  "individual_count": 151,
+  "individual_count": 152,
   "photo_count": 365,
   "category_counts": {
     "documents": 266,
@@ -5619,6 +5619,18 @@
       "birth_info": "21 Oct 1899",
       "death_info": "2 Jan 1986 (aged 86)",
       "notes": "Ingested from DavisReginaldL&JeanMorris.htm | Verified via FindAGrave: https://www.findagrave.com/memorial/47268238/jean-davis (Buried at Chapel Lawn Memorial Gardens)",
+      "photo_count": 0
+    },
+    {
+      "person_id": 12018,
+      "name": "Joan Ellen Davis",
+      "first_name": "Joan",
+      "middle_name": "Ellen",
+      "maiden_name": "Davis",
+      "married_last_name": null,
+      "birth_info": "unknown",
+      "death_info": "unknown",
+      "notes": "[Created by joan-davis-profile package 2026-11-27.] Living; no dates are displayed for living people. Daughter of William Wesley Davis Sr and Phoebe Thompson Davis of Millsboro, Delaware. Mother of Sandra Davis, Jane Davis, and Toney Floyd, named as her children in her sister Maryland Phoebe Davis's funeral program (Watson Funeral Home, 2020), which records that Maryland helped raise them. Enumerated in the 1950 census as Joan Ellen Davis, granddaughter, in the Millsboro household of her grandparents Samuel and Martha Thompson, with her mother Phoebe Davis in the same house.",
       "photo_count": 0
     },
     {
