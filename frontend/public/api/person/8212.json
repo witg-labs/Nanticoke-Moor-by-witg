@@ -8,14 +8,14 @@
     "married_last_name": "Thompson",
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
-    "birth_info": "28 Oct 1925 Virginia, USA",
-    "death_info": "24 August 2001 Millsboro, Sussex, Delaware, USA",
-    "notes": "",
+    "birth_info": "28 Oct 1928 (Temperanceville, VA)",
+    "death_info": "21 Aug 2001 (Millsboro, DE)",
+    "notes": "[Correction, obituary-dates package 2026-11-27: birth corrected to 28 Oct 1928, Temperanceville, Virginia, and death to 21 Aug 2001, Millsboro, per her funeral program (Watson Funeral Home, 2001), supplied by Jequan Davis; the former 1925 birth year and 24 Aug 2001 death date are superseded under his obituary-override rule. The program spells her name Annabelle.]",
     "dataset_source": "davis_family_gedcom",
-    "birth_date": "28 Oct 1925 Virginia, USA",
-    "birth_place": null,
-    "death_date": "24 August 2001 Millsboro, Sussex, Delaware, USA",
-    "death_place": null
+    "birth_date": "28 Oct 1928",
+    "birth_place": "Temperanceville, VA",
+    "death_date": "21 Aug 2001",
+    "death_place": "Millsboro, DE"
   },
   "facts": [
     {
@@ -41,15 +41,15 @@
       "fact_id": 7710,
       "person_id": 8212,
       "fact_type": "Birth",
-      "date_string": "28 Oct 1925 Virginia, USA",
-      "place_string": null,
+      "date_string": "28 Oct 1928",
+      "place_string": "Temperanceville, Accomack County, Virginia",
       "value_string": null,
       "citations": [
         {
           "citation_id": 7704,
           "fact_id": 7710,
           "source_id": 622,
-          "evidence_text": null,
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this GEDCOM citation supported the former birth (28 Oct 1925, Virginia); her funeral program gives 28 Oct 1928, Temperanceville, Virginia, and controls under Jequan Davis's obituary-override rule (2026-11-23).",
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
@@ -58,10 +58,19 @@
           "citation_id": 30340,
           "fact_id": 7710,
           "source_id": 1270,
-          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Annabell Thompson, born 28 Oct 1925 Virginia, USA.",
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this import citation supported the former birth year 1925; her funeral program gives 28 Oct 1928 and controls under the obituary-override rule. Original text: Civil & Vital Birth Registration; Official vital return recording Annabell Thompson, born 28 Oct 1925 Virginia, USA.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37799,
+          "fact_id": 7710,
+          "source_id": 2704,
+          "evidence_text": "Funeral program of Annabelle Thompson (Watson Funeral Home, Millsboro, 2001), supplied by Jequan Davis 2026-11-23: cover and back page give her birth as October 28, 1928, and the obituary page states she was born in Temperanceville, Virginia on October 28, 1928, daughter of Chaney and Carrie Joynes; stated age 72 fits 1928. Under Jequan Davis's obituary-override rule (2026-11-23) the program's dates replace the archive's.",
+          "source_title": "Funeral program of Annabelle Thompson (Watson Funeral Home, 2001), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -69,15 +78,15 @@
       "fact_id": 7711,
       "person_id": 8212,
       "fact_type": "Death",
-      "date_string": "24 August 2001 Millsboro, Sussex, Delaware, USA",
-      "place_string": null,
+      "date_string": "21 Aug 2001",
+      "place_string": "Millsboro, Sussex County, Delaware",
       "value_string": null,
       "citations": [
         {
           "citation_id": 7705,
           "fact_id": 7711,
           "source_id": 622,
-          "evidence_text": null,
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this GEDCOM citation supported the former death date (24 Aug 2001); her funeral program gives 21 Aug 2001 on three pages and controls under the obituary-override rule.",
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
@@ -86,10 +95,19 @@
           "citation_id": 30341,
           "fact_id": 7711,
           "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Annabell Thompson, deceased 24 August 2001 Millsboro, Sussex, Delaware, USA.",
+          "evidence_text": "SUPERSEDED (obituary-dates package, 2026-11-27): this import citation supported the former death date (24 Aug 2001); her funeral program gives 21 Aug 2001 and controls under the obituary-override rule. Original text: Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Annabell Thompson, deceased 24 August 2001 Millsboro, Sussex, Delaware, USA.",
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37800,
+          "fact_id": 7711,
+          "source_id": 2704,
+          "evidence_text": "Funeral program of Annabelle Thompson (Watson Funeral Home, Millsboro, 2001), supplied by Jequan Davis 2026-11-23: cover ('Sunset August 21, 2001'), obituary page ('departed this life on Tuesday, August 21, 2001'; the Tuesday checks out), and back page (date of death August 21, 2001; funeral Saturday, August 25, 2001) all give August 21, 2001, not the archive's August 24. Under the obituary-override rule the program's date replaces the archive's.",
+          "source_title": "Funeral program of Annabelle Thompson (Watson Funeral Home, 2001), supplied by Jequan Davis",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },

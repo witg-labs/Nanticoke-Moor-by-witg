@@ -1,0 +1,110 @@
+[
+  {
+    "kind": "fact",
+    "person_id": 8157,
+    "fact": {
+      "fact_id": 7589,
+      "person_id": 8157,
+      "fact_type": "Birth",
+      "date_string": "1912",
+      "place_string": null,
+      "value_string": null,
+      "place_id": null
+    },
+    "citations": [
+      {
+        "citation_id": 7583,
+        "fact_id": 7589,
+        "source_id": 622,
+        "evidence_text": null
+      },
+      {
+        "citation_id": 30121,
+        "fact_id": 7589,
+        "source_id": 1270,
+        "evidence_text": "Civil & Vital Birth Registration; Official vital return recording George A. Davis, born 1909."
+      }
+    ],
+    "reason": "Birth year 1912 pairs with the December 1923 death fact on this profile: together they describe a child George Davis (b. abt 1912, d. Dec 1923 aged 10-11), not George A. Davis the husband of Pearl Mae Thompson, whose censuses run 1910-1950 and whose funeral was in September 1986. Detached with its pair under the prevention rule by the obituary-dates package, 2026-11-27."
+  },
+  {
+    "kind": "fact",
+    "person_id": 8157,
+    "fact": {
+      "fact_id": 7590,
+      "person_id": 8157,
+      "fact_type": "Death",
+      "date_string": "Dec 1923 (aged 10\u201311)",
+      "place_string": null,
+      "value_string": null,
+      "place_id": null
+    },
+    "citations": [
+      {
+        "citation_id": 7584,
+        "fact_id": 7590,
+        "source_id": 622,
+        "evidence_text": null
+      },
+      {
+        "citation_id": 30122,
+        "fact_id": 7590,
+        "source_id": 1270,
+        "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording George A. Davis, deceased 1986 (aged 76\u201377)."
+      }
+    ],
+    "reason": "Death 'Dec 1923 (aged 10-11)' pairs with the 1912 birth fact on this profile: a child George Davis, not George A. Davis (d. Sep 1986, funeral service card, Watson Funeral Home). Detached with its pair under the prevention rule by the obituary-dates package, 2026-11-27."
+  },
+  {
+    "kind": "citation",
+    "person_id": 8182,
+    "detached_from_fact_id": 24360,
+    "citation": {
+      "citation_id": 30196,
+      "fact_id": 24360,
+      "source_id": 2335,
+      "evidence_text": "Gravestone photographic survey and memorial record for Delphine Mae Davis (Find a Grave Memorial #131722949)."
+    },
+    "reason": "Find a Grave memorial 131722949 (Valhalla Gardens of Memory) is a different Delphine Davis (1918-1968), not Delphine Mae Davis of Millsboro (1939-2002), daughter of George A. Davis and Pearl Mae Thompson. Detached under the prevention rule by the obituary-dates package, 2026-11-27."
+  },
+  {
+    "kind": "fact",
+    "person_id": 8182,
+    "fact": {
+      "fact_id": 24361,
+      "person_id": 8182,
+      "fact_type": "Census",
+      "date_string": "1920",
+      "place_string": "Delaware / Delmarva Peninsula",
+      "value_string": "Enumerated in 1920 US Federal Census",
+      "place_id": null
+    },
+    "citations": [
+      {
+        "citation_id": 30197,
+        "fact_id": 24361,
+        "source_id": 859,
+        "evidence_text": "1920 United States Federal Census Schedule; Population schedule enumeration record for Delphine Mae Davis in Delmarva."
+      },
+      {
+        "citation_id": 30198,
+        "fact_id": 24361,
+        "source_id": 862,
+        "evidence_text": "1950 United States Federal Census Schedule; Population schedule enumeration record for Delphine Mae Davis in Delmarva."
+      }
+    ],
+    "reason": "A woman born 6 Oct 1939 cannot appear in the 1920 census; the fact's generic import citations quote no household matching her life. Detached whole under the prevention rule by the obituary-dates package, 2026-11-27."
+  },
+  {
+    "kind": "citation",
+    "person_id": 8248,
+    "detached_from_fact_id": 24438,
+    "citation": {
+      "citation_id": 30379,
+      "fact_id": 24438,
+      "source_id": 2343,
+      "evidence_text": "Gravestone photographic survey and memorial record for Sheila Kathleen Davis (Find a Grave Memorial #261625394)."
+    },
+    "reason": "Find a Grave memorial 261625394 is Sheila Hill Davis (1953-2021), a different woman, not Sheila Kathleen Davis of Millsboro (1939-2010), daughter of Harry Edward Davis and Ethel Gwendolyn Clark. Detached under the prevention rule by the obituary-dates package, 2026-11-27."
+  }
+]
