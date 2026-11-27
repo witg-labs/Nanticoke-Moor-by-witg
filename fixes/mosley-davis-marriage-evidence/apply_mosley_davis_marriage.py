@@ -26,14 +26,23 @@ Applies the 2026-11-26 FamilySearch evidence find to the archive:
      record. Cite that record on Maurice's Marriage fact (24752)
      and fill its date, place, and value. The Myrtle-Frank spouse
      link is NOT touched; it is a separate question.
-  5. Append an unresolved-conflict flag to Hersel Davis's notes:
-     the 1947 certificate states his birth as June 3, 1913 (read
-     by Orbit from the enlarged certificate image; an earlier
-     search-pass transcription read the day as June 8, which the
-     image does not support), and his age as 34, which agree with
-     each other; his funeral program gives June 3, 1915. The
-     month and day agree; only the year is in conflict. Flagged
-     for Jequan Davis's ruling only; no date is changed.
+  5. Apply Jequan Davis's birth-year ruling for Hersel Davis
+     (ruled 2026-11-27, folded into this package by amendment the
+     same day; the package originally only flagged the conflict).
+     The ruling: Hersel's birth is June 3, 1913, per his 1947
+     Delaware marriage certificate (File No. 4339), which states
+     his birth as June 3, 1913 (read by Orbit from the enlarged
+     certificate image; an earlier search-pass transcription read
+     the day as June 8, which the image does not support) and his
+     age as 34, which agree with each other. The funeral
+     program's June 3, 1915 is superseded and stays visible as
+     superseded. The package sets persons.birth_info from
+     "3 Jun 1915" to "3 Jun 1913" (any other current value stops
+     the run), adds a Birth fact for the man himself cited to the
+     certificate, and appends the ruling to his notes. His
+     duplicated infant Birth/Death facts (1921/1922) are a
+     separate conflation item and are NOT touched, and no death
+     field changes.
   6. Register both certificate images as document rows in
      unified_photo_catalog (plus photo_catalog title rows) and
      link them: the 1947 certificate to both spouses' profiles,
@@ -376,19 +385,55 @@ def main():
                     mo["father_link_evidence"])
             print("Maurice-Hersel father link created.")
 
-        # --- Hersel birth conflict flag (notes append, no date change) ---
-        h = DATA["hersel_conflict_flag"]
+        # --- Hersel birth-year ruling (Jequan Davis, 2026-11-27) ---
+        hr = DATA["hersel_birth_ruling"]
+        binfo_c = pick_col(pc, "birth_info")
+        row = cur.execute(
+            f"SELECT {binfo_c} FROM {persons_t} WHERE {pid_c}=?",
+            (hr["person_id"],)).fetchone()
+        current_binfo = row[0] if row else None
+        if current_binfo == hr["new_birth_info"]:
+            print("Hersel birth_info already ruled "
+                  f"({hr['new_birth_info']}); skipped.")
+        elif current_binfo == hr["expected_old_birth_info"]:
+            cur.execute(
+                f"UPDATE {persons_t} SET {binfo_c}=? WHERE {pid_c}=?",
+                (hr["new_birth_info"], hr["person_id"]))
+            print(f"Hersel birth_info ruled: {current_binfo} -> "
+                  f"{hr['new_birth_info']}.")
+        else:
+            surprise("Hersel birth_info is neither the expected "
+                     "superseded value nor the ruled value:",
+                     current_binfo)
+        already = cur.execute(
+            f"SELECT f.{fid_c} FROM {facts_t} f JOIN {cites_t} c ON "
+            f"c.{cite_fid}=f.{fid_c} WHERE f.{fpid_c}=? AND "
+            f"f.{ftype_c}='Birth' AND c.{cite_sid}=?",
+            (hr["person_id"], s1)).fetchone()
+        if already:
+            print("Hersel ruled Birth fact already present:",
+                  already[0])
+        else:
+            bf = hr["fact"]
+            cur.execute(
+                f"INSERT INTO {facts_t} ({fpid_c}, {ftype_c}, "
+                f"{fdate_c}, {fplace_c}, {fval_c}) VALUES (?,?,?,?,?)",
+                (hr["person_id"], "Birth", bf["date_string"],
+                 bf["place_string"], bf["value_string"]))
+            birth_fact_id = cur.lastrowid
+            cite(birth_fact_id, s1, bf["evidence"])
+            print("Hersel ruled Birth fact created:", birth_fact_id)
         row = cur.execute(
             f"SELECT {notes_c} FROM {persons_t} WHERE {pid_c}=?",
-            (h["person_id"],)).fetchone()
+            (hr["person_id"],)).fetchone()
         notes = row[0] or ""
-        if h["marker"] in notes:
-            print("Hersel conflict flag already present; skipped.")
+        if hr["note_marker"] in notes:
+            print("Hersel ruling note already present; skipped.")
         else:
             cur.execute(
                 f"UPDATE {persons_t} SET {notes_c}=? WHERE {pid_c}=?",
-                (notes + h["append"], h["person_id"]))
-            print("Hersel conflict flag appended to his notes.")
+                (notes + hr["note_append"], hr["person_id"]))
+            print("Hersel ruling note appended to his notes.")
 
         # --- photo/document rows + links ---
         phc = cols(cur, photos_t)
@@ -490,6 +535,18 @@ def main():
             ("Maurice no longer linked to Frank Lear Wilson",
              not rel_exists(mo["person_id"], mo["wrong_father_id"],
                             ("child_of", "parent_of"))),
+            ("Hersel birth_info ruled to 1913",
+             cur.execute(
+                 f"SELECT {pick_col(pc, 'birth_info')} FROM "
+                 f"{persons_t} WHERE {pid_c}=?",
+                 (hr["person_id"],)).fetchone()[0] ==
+             hr["new_birth_info"]),
+            ("Hersel ruled Birth fact cited to the certificate",
+             bool(cur.execute(
+                 f"SELECT 1 FROM {facts_t} f JOIN {cites_t} c ON "
+                 f"c.{cite_fid}=f.{fid_c} WHERE f.{fpid_c}=? AND "
+                 f"f.{ftype_c}='Birth' AND c.{cite_sid}=?",
+                 (hr["person_id"], s1)).fetchone())),
         ]
         for doc in DATA["documents"]:
             prow = cur.execute(
