@@ -204,14 +204,6 @@
       "role": "parent",
       "evidence_text": "Confirmed in 1950 US Federal Census as Granddaughter of household head (Sussex, Delaware, USA)",
       "certainty": "census_confirmed",
-      "rel_id": 8169,
-      "rel_name": "Samuel Thompson"
-    },
-    {
-      "relationship_type": "child_of",
-      "role": "parent",
-      "evidence_text": "Confirmed in 1950 US Federal Census as Granddaughter of household head (Sussex, Delaware, USA)",
-      "certainty": "census_confirmed",
       "rel_id": 8147,
       "rel_name": "Martha E Thompson"
     },
@@ -341,8 +333,85 @@
     "name": "Maryland Phoebe Davis",
     "children": [
       {
-        "id": 8169,
-        "name": "Samuel Thompson",
+        "id": 8147,
+        "name": "Martha E Thompson",
+        "children": [
+          {
+            "id": 9519,
+            "name": "Harry Jackson",
+            "children": [
+              {
+                "id": 9149,
+                "name": "Mary A. Jackson",
+                "children": [
+                  {
+                    "id": 8921,
+                    "name": "Eliza Jane Morris",
+                    "children": [
+                      {
+                        "id": 9958,
+                        "name": "Emma Jane Johnson",
+                        "children": []
+                      },
+                      {
+                        "id": 10539,
+                        "name": "Samuel Roland Johnson",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 9520,
+                "name": "Charles Jackson",
+                "children": [
+                  {
+                    "id": 9564,
+                    "name": "Robert Jackson",
+                    "children": [
+                      {
+                        "id": 10725,
+                        "name": "Samuel Jackson",
+                        "children": []
+                      },
+                      {
+                        "id": 11663,
+                        "name": "Agnes Jackson",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 6480,
+                    "name": "Mary Jackson",
+                    "children": [
+                      {
+                        "id": 9519,
+                        "name": "Harry Jackson",
+                        "children": []
+                      },
+                      {
+                        "id": 490,
+                        "name": "Elizabeth Jackson",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 490,
+            "name": "Elizabeth Jackson",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 8146,
+        "name": "Phoebe Thompson",
         "children": [
           {
             "id": 9097,
@@ -431,83 +500,6 @@
                 "children": []
               }
             ]
-          }
-        ]
-      },
-      {
-        "id": 8147,
-        "name": "Martha E Thompson",
-        "children": [
-          {
-            "id": 9519,
-            "name": "Harry Jackson",
-            "children": [
-              {
-                "id": 9149,
-                "name": "Mary A. Jackson",
-                "children": [
-                  {
-                    "id": 8921,
-                    "name": "Eliza Jane Morris",
-                    "children": [
-                      {
-                        "id": 9958,
-                        "name": "Emma Jane Johnson",
-                        "children": []
-                      },
-                      {
-                        "id": 10539,
-                        "name": "Samuel Roland Johnson",
-                        "children": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": 9520,
-                "name": "Charles Jackson",
-                "children": [
-                  {
-                    "id": 9564,
-                    "name": "Robert Jackson",
-                    "children": [
-                      {
-                        "id": 10725,
-                        "name": "Samuel Jackson",
-                        "children": []
-                      },
-                      {
-                        "id": 11663,
-                        "name": "Agnes Jackson",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "id": 6480,
-                    "name": "Mary Jackson",
-                    "children": [
-                      {
-                        "id": 9519,
-                        "name": "Harry Jackson",
-                        "children": []
-                      },
-                      {
-                        "id": 490,
-                        "name": "Elizabeth Jackson",
-                        "children": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": 490,
-            "name": "Elizabeth Jackson",
-            "children": []
           }
         ]
       }

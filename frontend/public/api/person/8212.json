@@ -167,7 +167,7 @@
       "evidence_text": "GEDCOM Family @F359@ marriage",
       "certainty": "confirmed",
       "rel_id": 8169,
-      "rel_name": "Samuel Thompson"
+      "rel_name": "Samuel Thompson Jr"
     },
     {
       "relationship_type": "parent_of",
@@ -175,7 +175,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 10098,
-      "rel_name": "Biggie Thompson"
+      "rel_name": "Donnell Thompson (Biggie)"
     },
     {
       "relationship_type": "parent_of",
@@ -183,7 +183,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 10097,
-      "rel_name": "Tinnie Thompson"
+      "rel_name": "Douglas Thompson (Tinnie)"
     },
     {
       "relationship_type": "parent_of",
@@ -199,7 +199,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8351,
-      "rel_name": "David Thompson"
+      "rel_name": "David Lee Thompson"
     },
     {
       "relationship_type": "parent_of",
@@ -215,7 +215,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8264,
-      "rel_name": "Gerld Lee Thompson"
+      "rel_name": "Gerald Lee Thompson"
     },
     {
       "relationship_type": "parent_of",

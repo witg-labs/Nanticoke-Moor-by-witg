@@ -186,7 +186,7 @@
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
       "rel_id": 8169,
-      "rel_name": "Samuel Thompson"
+      "rel_name": "Samuel Thompson Jr"
     },
     {
       "relationship_type": "child_of",
@@ -206,7 +206,7 @@
     "children": [
       {
         "id": 8169,
-        "name": "Samuel Thompson",
+        "name": "Samuel Thompson Jr",
         "children": [
           {
             "id": 9097,

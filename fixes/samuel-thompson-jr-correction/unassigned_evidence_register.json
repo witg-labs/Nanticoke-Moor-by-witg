@@ -1,0 +1,293 @@
+[
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "citation",
+  "note": "Detached 2026-11-27 (Samuel Thompson Jr package, section 5): a 1930 Census citation with generic template evidence text ('enumeration record for Samuel Thompson in Delmarva') quoting no values from this life cannot ride Samuel Jr.'s 1950 Census fact under the prevention rule. It may belong to Samuel Sr.'s 1930 enumeration, unverified. Quoted in full, not deleted.",
+  "person_id": 8169,
+  "fact_id": 16131,
+  "citation": {
+   "citation_id": 30161,
+   "fact_id": 16131,
+   "source_id": 860,
+   "evidence_text": "1930 United States Federal Census Schedule; Population schedule enumeration record for Samuel Thompson in Delmarva."
+  }
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "citation",
+  "note": "Detached 2026-11-27 (Samuel Thompson Jr package, section 6b): source 1270 is a register of births (1861-1930) and cannot evidence a death on 11 Apr 2006; its evidence text was never read from the record. The funeral program is the governing evidence for this death. Quoted in full, not deleted.",
+  "person_id": 8169,
+  "fact_id": 7608,
+  "citation": {
+   "citation_id": 30160,
+   "fact_id": 7608,
+   "source_id": 1270,
+   "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Samuel Thompson, deceased 11 Apr 2006 Lewes."
+  }
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "citation",
+  "note": "Detached 2026-11-27 (Samuel Thompson Jr package, section 6c): source 1270 is a register of births (1861-1930) and cannot evidence a 1959 marriage; no marriage record was read. The funeral program is the governing evidence for this marriage. Quoted in full, not deleted.",
+  "person_id": 8169,
+  "fact_id": 24345,
+  "citation": {
+   "citation_id": 30163,
+   "fact_id": 24345,
+   "source_id": 1270,
+   "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for Samuel Thompson."
+  }
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "fact",
+  "note": "Detached 2026-11-27 (Samuel Thompson Jr package, section 6d): the fact is dated '1929', the year of Samuel's claimed birth; the Social Security application program did not exist until 1936, so a 1929 SS-5 is impossible on its face, and no NUMIDENT record for this man has ever been read. Template-generated artifact. Fact and citation quoted in full, not deleted; if a real NUMIDENT pull ever happens, the fact can be rebuilt from the actual record with its real date.",
+  "person_id": 8169,
+  "fact": {
+   "fact_id": 24344,
+   "person_id": 8169,
+   "fact_type": "Social Security Application",
+   "date_string": "1929",
+   "place_string": "United States",
+   "value_string": "Social Security Account Application (Form SS-5) on file for Samuel Thompson",
+   "place_id": null
+  },
+  "citations": [
+   {
+    "citation_id": 30162,
+    "fact_id": 24344,
+    "source_id": 1281,
+    "evidence_text": "Social Security Administration Numerical Identification (NUMIDENT) Files; Form SS-5 Application for Account Number filed for Samuel Thompson."
+   }
+  ]
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "relationship",
+  "note": "Removed 2026-11-27 (Samuel Thompson Jr package, section 4a): Martha E Thompson is Samuel Jr.'s mother, already correctly linked child_of. This spouse row is a 1950 census-household auto-link generated against the wrong Samuel. Row quoted in full, not lost.",
+  "person_id": 8169,
+  "relationship": {
+   "id": 28847,
+   "person_a_id": 8169,
+   "person_b_id": 8147,
+   "relationship_type": "spouse",
+   "evidence_text": "Confirmed in 1950 US Federal Census household (Sussex, Delaware, USA)",
+   "certainty": "census_confirmed"
+  }
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "relationship",
+  "note": "Removed 2026-11-27 (Samuel Thompson Jr package, section 4b): Primrose Elizabeth Thompson is Samuel Jr.'s sister (daughter of Samuel L. Thompson 9097 and Martha E Thompson 8147), not his child. This parent row is a 1950 census-household auto-link generated against the wrong Samuel. Her own parent links are not touched. Row quoted in full, not lost.",
+  "person_id": 8169,
+  "relationship": {
+   "id": 28848,
+   "person_a_id": 8168,
+   "person_b_id": 8169,
+   "relationship_type": "child_of",
+   "evidence_text": "Confirmed in 1950 US Federal Census as Daughter of household head (Sussex, Delaware, USA)",
+   "certainty": "census_confirmed"
+  }
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "relationship",
+  "note": "Removed 2026-11-27 (Samuel Thompson Jr package, section 4c): Maryland Phoebe Davis is Samuel Jr.'s niece (daughter of William Wesley Davis Sr 8609 and Phoebe Thompson 8146, his sister), not his child. This parent row is a 1950 census-household auto-link generated against the wrong Samuel. The Maryland Davis package removes the reciprocal link from her side and adds her child_of 8609 link; whichever package runs first, this delete is a no-op if the row is already gone. Row quoted in full, not lost.",
+  "person_id": 8169,
+  "relationship": {
+   "id": 28849,
+   "person_a_id": 11253,
+   "person_b_id": 8169,
+   "relationship_type": "child_of",
+   "evidence_text": "Confirmed in 1950 US Federal Census as Granddaughter of household head (Sussex, Delaware, USA)",
+   "certainty": "census_confirmed"
+  }
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "fact_superseded_in_place",
+  "note": "Superseded in place 2026-11-27 (Samuel Thompson Jr package, Addendum 2): profile 8351 is David Lee Thompson (b. 20 May 1955 Lewes, d. 19 Sep 2018 Milford, per his own funeral program). Pre-correction fact and citation rows quoted in full here; the fact itself was updated, not detached.",
+  "person_id": 8351,
+  "fact": {
+   "fact_id": 7813,
+   "person_id": 8351,
+   "fact_type": "Birth",
+   "date_string": "5 May 1946",
+   "place_string": null,
+   "value_string": null,
+   "place_id": null
+  },
+  "citations": [
+   {
+    "citation_id": 7807,
+    "fact_id": 7813,
+    "source_id": 622,
+    "evidence_text": null
+   },
+   {
+    "citation_id": 30532,
+    "fact_id": 7813,
+    "source_id": 1270,
+    "evidence_text": "Civil & Vital Birth Registration; Official vital return recording David Thompson, born 5 May 1946."
+   }
+  ]
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "fact_superseded_in_place",
+  "note": "Superseded in place 2026-11-27 (Samuel Thompson Jr package, Addendum 2): profile 8351 is David Lee Thompson (b. 20 May 1955 Lewes, d. 19 Sep 2018 Milford, per his own funeral program). Pre-correction fact and citation rows quoted in full here; the fact itself was updated, not detached.",
+  "person_id": 8351,
+  "fact": {
+   "fact_id": 7814,
+   "person_id": 8351,
+   "fact_type": "Death",
+   "date_string": "9 Nov 2014 (aged 68)",
+   "place_string": null,
+   "value_string": null,
+   "place_id": null
+  },
+  "citations": [
+   {
+    "citation_id": 7808,
+    "fact_id": 7814,
+    "source_id": 622,
+    "evidence_text": null
+   },
+   {
+    "citation_id": 30533,
+    "fact_id": 7814,
+    "source_id": 1270,
+    "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording David Thompson, deceased 9 Nov 2014 (aged 68)."
+   }
+  ]
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "fact",
+  "note": "Detached 2026-11-27 (Samuel Thompson Jr package, Addendum 2): profile 10097 is Douglas Thompson (Tinnie), living son of Samuel Thompson Jr. A 10 Dec 1925 birth is a wrong-life value (a man born in 1925 cannot be this man's son, and Douglas was living in 2006 and 2018 per the programs). Likely belongs to an earlier Tinnie; same-name candidate for the Accuracy Queue sweep. Quoted in full, not deleted.",
+  "person_id": 10097,
+  "fact": {
+   "fact_id": 9483,
+   "person_id": 10097,
+   "fact_type": "Birth",
+   "date_string": "10 Dec 1925",
+   "place_string": null,
+   "value_string": null,
+   "place_id": null
+  },
+  "citations": [
+   {
+    "citation_id": 9477,
+    "fact_id": 9483,
+    "source_id": 622,
+    "evidence_text": null
+   },
+   {
+    "citation_id": 33386,
+    "fact_id": 9483,
+    "source_id": 1270,
+    "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Tinnie Thompson, born 10 Dec 1925."
+   }
+  ]
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "fact",
+  "note": "Detached 2026-11-27 (Samuel Thompson Jr package, Addendum 2): profile 10097 is Douglas Thompson (Tinnie), named as a living son in Samuel's 2006 program and in David Lee Thompson's 2018 program (Douglas of Bridgeville). The 5 May 1997 death is a wrong-life value. Quoted in full, not deleted.",
+  "person_id": 10097,
+  "fact": {
+   "fact_id": 9484,
+   "person_id": 10097,
+   "fact_type": "Death",
+   "date_string": "5 May 1997 (aged 71)",
+   "place_string": null,
+   "value_string": null,
+   "place_id": null
+  },
+  "citations": [
+   {
+    "citation_id": 9478,
+    "fact_id": 9484,
+    "source_id": 622,
+    "evidence_text": null
+   },
+   {
+    "citation_id": 33387,
+    "fact_id": 9484,
+    "source_id": 1270,
+    "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Tinnie Thompson, deceased 5 May 1997 (aged 71)."
+   }
+  ]
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "fact",
+  "note": "Detached 2026-11-27 (Samuel Thompson Jr package, Addendum 2): profile 10098 is Donnell Thompson (Biggie), living son of Samuel Thompson Jr., named as living in the 2006 and 2018 programs (Donell of Millsboro). A death on 24 Jun 1864 is impossible on its face for this man and is a wrong-life value, likely belonging to an earlier Biggie. Quoted in full, not deleted.",
+  "person_id": 10098,
+  "fact": {
+   "fact_id": 9487,
+   "person_id": 10098,
+   "fact_type": "Death",
+   "date_string": "24 Jun 1864",
+   "place_string": null,
+   "value_string": null,
+   "place_id": null
+  },
+  "citations": [
+   {
+    "citation_id": 9481,
+    "fact_id": 9487,
+    "source_id": 622,
+    "evidence_text": null
+   },
+   {
+    "citation_id": 33394,
+    "fact_id": 9487,
+    "source_id": 1270,
+    "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Biggie Thompson, deceased 24 Jun 1864."
+   }
+  ]
+ },
+ {
+  "registered_at": "20261127-162756",
+  "package": "samuel-thompson-jr",
+  "kind": "fact",
+  "note": "Detached 2026-11-27 (Samuel Thompson Jr package; Jequan's ruling of 2026-11-27 that Shirley Thompson is alive): contradicted by three programs. Samuel Thompson Jr.'s 2006 program names Shirley Thompson (of Rehoboth Beach) among his living daughters; Annabelle Thompson's 2001 program names Shirley Thompson of Millsboro among the living; David Lee Thompson's 2018 program names Shirley Thompson of Salisbury, Maryland as a surviving sister. The 30 May 1992 death cannot stand; fact and citations quoted in full, not deleted.",
+  "person_id": 8265,
+  "fact": {
+   "fact_id": 7758,
+   "person_id": 8265,
+   "fact_type": "Death",
+   "date_string": "30 May 1992",
+   "place_string": null,
+   "value_string": null,
+   "place_id": null
+  },
+  "citations": [
+   {
+    "citation_id": 7752,
+    "fact_id": 7758,
+    "source_id": 622,
+    "evidence_text": null
+   },
+   {
+    "citation_id": 30425,
+    "fact_id": 7758,
+    "source_id": 1270,
+    "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Shirley Thompson, deceased 30 May 1992."
+   }
+  ]
+ }
+]
