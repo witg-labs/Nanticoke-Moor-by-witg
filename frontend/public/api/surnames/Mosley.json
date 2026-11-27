@@ -1,6 +1,6 @@
 {
   "surname": "Mosley",
-  "individual_count": 192,
+  "individual_count": 193,
   "photo_count": 207,
   "category_counts": {
     "documents": 7,
@@ -4252,6 +4252,18 @@
       "photo_count": 2
     },
     {
+      "person_id": 12017,
+      "name": "Maggie Mosley",
+      "first_name": null,
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": null,
+      "birth_info": null,
+      "death_info": null,
+      "notes": "[Created by mosley-davis-marriage package 2026-11-26.] Wife of Harry Mosley of Representative District 8, Sussex County, Delaware. Named as the mother of Myrtle Mosley on Myrtle's 1947 Delaware marriage certificate (File No. 4339), the first primary record to name her. In Harry's census household she appears as Maggie Mosley, age 36 (1920), as Margaret M. Mosley, age 47 (1930), and as Maggie Mosley, age 56 (1940). No other facts are asserted by this package.",
+      "photo_count": 0
+    },
+    {
       "person_id": 757,
       "name": "Mamie Mosley",
       "first_name": "Mamie",
@@ -4381,7 +4393,7 @@
       "birth_info": "abt 1934 Delaware",
       "death_info": "30 June 2010 Millsboro, Sussex County, Delaware, United States of America",
       "notes": "",
-      "photo_count": 2
+      "photo_count": 3
     },
     {
       "person_id": 5427,
@@ -4477,7 +4489,7 @@
       "birth_info": "5 September 1913 Delaware",
       "death_info": "3 Jun 2015 Millsboro, Sussex County, Delaware, USA",
       "notes": "",
-      "photo_count": 3
+      "photo_count": 4
     },
     {
       "person_id": 993,

@@ -770,6 +770,13 @@
     "description": "Documented child_of kinship connection between Delema Street and Edgar Coil Morris Sr"
   },
   {
+    "family_a": "Davis",
+    "family_b": "Mosley",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 3,
+    "description": "Documented spouse kinship connection between Hersel R. Davis and Myrtle Mosley"
+  },
+  {
     "family_a": "Thomas",
     "family_b": "Thompson",
     "tie_type": "Marriage & Kinship Link",
@@ -938,25 +945,11 @@
     "description": "Documented child_of kinship connection between Dorothy Durham Carney and John Henry Mosley"
   },
   {
-    "family_a": "Davis",
-    "family_b": "Mosley",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 2,
-    "description": "Documented spouse kinship connection between Hersel R. Davis and Myrtle Mosley"
-  },
-  {
     "family_a": "Harmon",
     "family_b": "Mosley",
     "tie_type": "Marriage & Kinship Link",
     "count": 2,
     "description": "Documented spouse kinship connection between Maurice Allen Mosley and Ardith P Harmon"
-  },
-  {
-    "family_a": "Mosley",
-    "family_b": "Wilson",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 2,
-    "description": "Documented spouse kinship connection between Myrtle Mosley and Frank Lear Wilson"
   },
   {
     "family_a": "Davis",
@@ -1048,5 +1041,12 @@
     "tie_type": "Marriage & Kinship Link",
     "count": 2,
     "description": "Documented spouse kinship connection between James Songo and Araminta Sisco"
+  },
+  {
+    "family_a": "Hughes",
+    "family_b": "William",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 2,
+    "description": "Documented spouse kinship connection between Beckett William and James Hughes"
   }
 ]

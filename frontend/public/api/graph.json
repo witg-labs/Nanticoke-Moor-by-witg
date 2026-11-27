@@ -12067,14 +12067,6 @@
       "certainty": "confirmed"
     },
     {
-      "from": 8589,
-      "to": 9238,
-      "label": "child_of",
-      "type": "child_of",
-      "evidence": "GEDCOM Family tree linkage",
-      "certainty": "confirmed"
-    },
-    {
       "from": 4472,
       "to": 7504,
       "label": "child_of",
@@ -23664,6 +23656,14 @@
       "label": "parent_of",
       "type": "parent_of",
       "evidence": "Davis Family Tree GEDCOM parent-child record",
+      "certainty": "confirmed"
+    },
+    {
+      "from": 8589,
+      "to": 8158,
+      "label": "child_of",
+      "type": "child_of",
+      "evidence": "Maurice Allen Mosley's own 1952 Delaware marriage certificate (File No. 2382) names his father as Hersel Davis and his mother as Myrtle Davis.",
       "certainty": "confirmed"
     }
   ]

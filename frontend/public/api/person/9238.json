@@ -168,14 +168,6 @@
       "certainty": "confirmed",
       "rel_id": 8223,
       "rel_name": "Myrtle Mosley"
-    },
-    {
-      "relationship_type": "parent_of",
-      "role": "child",
-      "evidence_text": "GEDCOM Family tree linkage",
-      "certainty": "confirmed",
-      "rel_id": 8589,
-      "rel_name": "Maurice Allen Mosley"
     }
   ],
   "photos": [],
