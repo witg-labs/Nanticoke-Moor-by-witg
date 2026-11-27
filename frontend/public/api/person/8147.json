@@ -304,14 +304,6 @@
       "certainty": "confirmed",
       "rel_id": 8183,
       "rel_name": "Jack Frank Thompson"
-    },
-    {
-      "relationship_type": "parent_of",
-      "role": "child",
-      "evidence_text": "Confirmed in 1950 US Federal Census as Granddaughter of household head (Sussex, Delaware, USA)",
-      "certainty": "census_confirmed",
-      "rel_id": 11253,
-      "rel_name": "Maryland Phoebe Davis"
     }
   ],
   "photos": [],

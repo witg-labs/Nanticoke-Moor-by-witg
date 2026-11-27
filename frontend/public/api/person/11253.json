@@ -10,7 +10,7 @@
     "source_page": "Watson Funeral Home Obituary",
     "birth_info": "30 Jun 1939 (Millsboro, DE)",
     "death_info": "26 Jan 2020 (aged 80, Millsboro, DE)",
-    "notes": "Interred at Harmony Cemetery, Millsboro, DE. Daughter of William Wesley Davis & Phoebe Thompson Davis. Sister of William Davis Jr., Stanley Davis, Preston Davis, and Joan Davis.",
+    "notes": "Interred at Harmony Cemetery, Millsboro, DE. Daughter of William Wesley Davis & Phoebe Thompson Davis. Sister of William Davis Jr., Stanley Davis, Preston Davis, and Joan Davis. [Funeral program, Watson Funeral Home, 2020] Per her funeral program: she never had biological children; she helped raise her sister Joan's children Sandra Davis, Jane Davis, and Toney Floyd, all of Millsboro. Survivors at her death: brothers William Davis Jr., Stanley Davis (Millsboro), and Preston Davis (Seaford), and her sister Joan Davis.",
     "dataset_source": "watsonfh",
     "birth_date": "30 Jun 1939",
     "birth_place": "Millsboro, DE",
@@ -125,18 +125,18 @@
       "fact_id": 27650,
       "person_id": 11253,
       "fact_type": "Burial",
-      "date_string": "26 Jan 2020 (aged 80, Millsboro, DE)",
-      "place_string": "Delmarva",
-      "value_string": "Interred in historical Delmarva cemetery",
+      "date_string": "1 Feb 2020",
+      "place_string": "Harmony U.M. Cemetery, Millsboro, Sussex County, Delaware",
+      "value_string": "Interred at Harmony U.M. Cemetery, 28571 Harmony Cemetery Rd, Millsboro, DE 19966, following the February 1, 2020 service at Watson Funeral Home, Millsboro.",
       "citations": [
         {
-          "citation_id": 36820,
+          "citation_id": 37788,
           "fact_id": 27650,
-          "source_id": 1274,
-          "evidence_text": "Delmarva Afro-Indigenous Cemetery Survey & Gravestone Inscription Archive; Memorial entry for Maryland Phoebe Davis.",
-          "source_title": "Delmarva Afro-Indigenous Cemetery Survey & Gravestone Inscription Archive",
-          "source_url": "https://www.findagrave.com/",
-          "source_dataset": "cemetery_survey"
+          "source_id": 2700,
+          "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, service Saturday, February 1, 2020): 'Interment, Harmony U.M. Cemetery, 28571 Harmony Cemetery Rd, Millsboro, DE 19966.' The program's interment line replaces the import boilerplate burial entry, whose cemetery-survey citation is detached to the unassigned-evidence register.",
+          "source_title": "Funeral program of Maryland Phoebe Davis, Watson Funeral Home, Millsboro DE, 2020; photographed and supplied by Jequan Davis 2026-11-20; transcription ~/workspace/genealogy-records/maryland-phoebe-davis/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
         }
       ]
     },
@@ -196,17 +196,104 @@
           "source_dataset": "delaware_vital_records"
         }
       ]
+    },
+    {
+      "fact_id": 28323,
+      "person_id": 11253,
+      "fact_type": "Companion",
+      "date_string": null,
+      "place_string": "Millsboro, Delaware",
+      "value_string": "Charles Henry, her companion of 37 years, predeceased her.",
+      "citations": [
+        {
+          "citation_id": 37789,
+          "fact_id": 28323,
+          "source_id": 2700,
+          "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, 2020), obituary: 'She was also preceded in death by her companion of 37 years Charles Henry.' No marriage is asserted; the generic import Marriage fact on this profile is not evidence of one (see its quality flag).",
+          "source_title": "Funeral program of Maryland Phoebe Davis, Watson Funeral Home, Millsboro DE, 2020; photographed and supplied by Jequan Davis 2026-11-20; transcription ~/workspace/genealogy-records/maryland-phoebe-davis/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
+        }
+      ]
+    },
+    {
+      "fact_id": 28324,
+      "person_id": 11253,
+      "fact_type": "Education",
+      "date_string": null,
+      "place_string": "Millsboro, Delaware",
+      "value_string": "Millsboro #204 School; William C. Jason High School",
+      "citations": [
+        {
+          "citation_id": 37790,
+          "fact_id": 28324,
+          "source_id": 2700,
+          "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, 2020), obituary: 'Maryland received her education at the Millsboro #204 School and William C. Jason High School.'",
+          "source_title": "Funeral program of Maryland Phoebe Davis, Watson Funeral Home, Millsboro DE, 2020; photographed and supplied by Jequan Davis 2026-11-20; transcription ~/workspace/genealogy-records/maryland-phoebe-davis/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
+        }
+      ]
+    },
+    {
+      "fact_id": 28325,
+      "person_id": 11253,
+      "fact_type": "Employment",
+      "date_string": null,
+      "place_string": "Millsboro, Delaware",
+      "value_string": "Townsend Poultry Plant, Millsboro, Delaware, for over 30 years, until released for medical reasons",
+      "citations": [
+        {
+          "citation_id": 37791,
+          "fact_id": 28325,
+          "source_id": 2700,
+          "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, 2020), obituary: 'She was employed at Townsend Poultry Plant in Millsboro, Delaware for over 30 years until she was released for medical reasons.'",
+          "source_title": "Funeral program of Maryland Phoebe Davis, Watson Funeral Home, Millsboro DE, 2020; photographed and supplied by Jequan Davis 2026-11-20; transcription ~/workspace/genealogy-records/maryland-phoebe-davis/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
+        }
+      ]
+    },
+    {
+      "fact_id": 28326,
+      "person_id": 11253,
+      "fact_type": "Nickname",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Aunt Meryl",
+      "citations": [
+        {
+          "citation_id": 37792,
+          "fact_id": 28326,
+          "source_id": 2700,
+          "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, 2020), obituary: 'Aunt Meryl, as she was affectionately called by everyone in the community.'",
+          "source_title": "Funeral program of Maryland Phoebe Davis, Watson Funeral Home, Millsboro DE, 2020; photographed and supplied by Jequan Davis 2026-11-20; transcription ~/workspace/genealogy-records/maryland-phoebe-davis/",
+          "source_url": "",
+          "source_dataset": "funeral_program"
+        }
+      ]
+    },
+    {
+      "fact_id": 28327,
+      "person_id": 11253,
+      "fact_type": "Nickname",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Marilyn (Merle)",
+      "citations": [
+        {
+          "citation_id": 37793,
+          "fact_id": 28327,
+          "source_id": 2701,
+          "evidence_text": "Statement of Jequan Davis, 2026-11-23: Marilyn Davis ('Merle') and Maryland Phoebe Davis ('Aunt Meryl') are the same person; 'Marilyn' is the name form he knew her by. Any future import for a 'Marilyn Davis' of this family belongs on this profile, never a new one.",
+          "source_title": "Statement of Jequan Davis, 2026-11-23 (family knowledge; Maryland Davis name forms)",
+          "source_url": "",
+          "source_dataset": "family_statement"
+        }
+      ]
     }
   ],
   "relationships": [
-    {
-      "relationship_type": "child_of",
-      "role": "parent",
-      "evidence_text": "Confirmed in 1950 US Federal Census as Granddaughter of household head (Sussex, Delaware, USA)",
-      "certainty": "census_confirmed",
-      "rel_id": 8147,
-      "rel_name": "Martha E Thompson"
-    },
     {
       "relationship_type": "child_of",
       "role": "parent",
@@ -214,6 +301,14 @@
       "certainty": "confirmed",
       "rel_id": 8146,
       "rel_name": "Phoebe Thompson"
+    },
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, 2020): 'Maryland was born in Millsboro, Delaware on June 30, 1939 to the late William Wesley Davis and Phoebe (Thompson) Davis.' Corroborated by the 1950 census citation already on her profile, which enumerates her as granddaughter in her grandparents' household with her mother Phoebe in the same house.",
+      "certainty": "confirmed",
+      "rel_id": 8609,
+      "rel_name": "William Wesley Davis Sr"
     }
   ],
   "photos": [
@@ -269,6 +364,60 @@
       "subtype": "historical_portrait",
       "contains_face": 1,
       "face_context": "primary_subject",
+      "routing_target": "photos"
+    },
+    {
+      "person_id": 11253,
+      "photo_id": 3705,
+      "category": "people",
+      "title_or_caption": "Maryland Phoebe Davis funeral program cover (Watson Funeral Home, February 1, 2020), with her photographs",
+      "subject_names": "Maryland Phoebe Davis",
+      "married_surname": "Davis",
+      "approximate_year": "2020",
+      "local_image_path": "assets/archive_media/people/Davis_Maryland_Phoebe_funeral_program_cover.jpg",
+      "source_url": null,
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "contains_face": 1,
+      "face_context": "embedded_photo",
+      "routing_target": "photos"
+    },
+    {
+      "person_id": 11253,
+      "photo_id": 3706,
+      "category": "people",
+      "title_or_caption": "Maryland Phoebe Davis funeral program, order of service and obituary (Watson Funeral Home, February 1, 2020)",
+      "subject_names": "Maryland Phoebe Davis",
+      "married_surname": "Davis",
+      "approximate_year": "2020",
+      "local_image_path": "assets/archive_media/people/Davis_Maryland_Phoebe_funeral_program_obituary.jpg",
+      "source_url": null,
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "contains_face": 1,
+      "face_context": "embedded_photo",
+      "routing_target": "photos"
+    },
+    {
+      "person_id": 11253,
+      "photo_id": 3707,
+      "category": "people",
+      "title_or_caption": "Maryland Phoebe Davis funeral program back page, pallbearers and poem (Watson Funeral Home, February 1, 2020)",
+      "subject_names": "Maryland Phoebe Davis",
+      "married_surname": "Davis",
+      "approximate_year": "2020",
+      "local_image_path": "assets/archive_media/people/Davis_Maryland_Phoebe_funeral_program_back.jpg",
+      "source_url": null,
+      "dataset_source": "images",
+      "document_type": "funeral_program",
+      "asset_type": "photograph",
+      "subtype": "historical_portrait",
+      "contains_face": 1,
+      "face_context": "embedded_photo",
       "routing_target": "photos"
     },
     {
@@ -332,83 +481,6 @@
     "id": 11253,
     "name": "Maryland Phoebe Davis",
     "children": [
-      {
-        "id": 8147,
-        "name": "Martha E Thompson",
-        "children": [
-          {
-            "id": 9519,
-            "name": "Harry Jackson",
-            "children": [
-              {
-                "id": 9149,
-                "name": "Mary A. Jackson",
-                "children": [
-                  {
-                    "id": 8921,
-                    "name": "Eliza Jane Morris",
-                    "children": [
-                      {
-                        "id": 9958,
-                        "name": "Emma Jane Johnson",
-                        "children": []
-                      },
-                      {
-                        "id": 10539,
-                        "name": "Samuel Roland Johnson",
-                        "children": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": 9520,
-                "name": "Charles Jackson",
-                "children": [
-                  {
-                    "id": 9564,
-                    "name": "Robert Jackson",
-                    "children": [
-                      {
-                        "id": 10725,
-                        "name": "Samuel Jackson",
-                        "children": []
-                      },
-                      {
-                        "id": 11663,
-                        "name": "Agnes Jackson",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "id": 6480,
-                    "name": "Mary Jackson",
-                    "children": [
-                      {
-                        "id": 9519,
-                        "name": "Harry Jackson",
-                        "children": []
-                      },
-                      {
-                        "id": 490,
-                        "name": "Elizabeth Jackson",
-                        "children": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": 490,
-            "name": "Elizabeth Jackson",
-            "children": []
-          }
-        ]
-      },
       {
         "id": 8146,
         "name": "Phoebe Thompson",
@@ -498,6 +570,132 @@
                 "id": 490,
                 "name": "Elizabeth Jackson",
                 "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8609,
+        "name": "William Wesley Davis Sr",
+        "children": [
+          {
+            "id": 11247,
+            "name": "Hester A. Morris Davis",
+            "children": [
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 11247,
+            "name": "Hester A. Morris Davis",
+            "children": [
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 8571,
+                "name": "Francis E. Frank Morris",
+                "children": [
+                  {
+                    "id": 8617,
+                    "name": "Negro Morris Thomas",
+                    "children": []
+                  },
+                  {
+                    "id": 8910,
+                    "name": "Leticia Morris",
+                    "children": [
+                      {
+                        "id": 8616,
+                        "name": "Stephen Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8684,
+                        "name": "Priscilla Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
