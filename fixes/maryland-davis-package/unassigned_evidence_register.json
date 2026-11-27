@@ -1,0 +1,31 @@
+[
+ {
+  "registered_at": "20261127-172700",
+  "package": "maryland-davis",
+  "kind": "citation",
+  "note": "Citation detached by the Maryland Davis package, 2026-11-27: the cemetery-survey citation supported only the import boilerplate value 'Interred in historical Delmarva cemetery' on the Burial fact. The funeral program names the actual cemetery (Harmony U.M. Cemetery, Millsboro); the boilerplate claim is superseded, not deleted, and is preserved here.",
+  "person_id": 11253,
+  "fact_id": 27650,
+  "citation": {
+   "citation_id": 36820,
+   "fact_id": 27650,
+   "source_id": 1274,
+   "evidence_text": "Delmarva Afro-Indigenous Cemetery Survey & Gravestone Inscription Archive; Memorial entry for Maryland Phoebe Davis."
+  }
+ },
+ {
+  "registered_at": "20261127-172700",
+  "package": "maryland-davis",
+  "kind": "relationship",
+  "note": "Relationship removed by the Maryland Davis package, 2026-11-27: the child_of link from Maryland Phoebe Davis (11253) to Martha E Thompson (8147) is a census-household auto-link. Martha is her grandmother, not her mother; the 1950 census enumerates Maryland as granddaughter in Samuel and Martha's household, with her mother Phoebe in the same house. The row is preserved here in full.",
+  "person_id": 11253,
+  "relationship": {
+   "id": 28850,
+   "person_a_id": 11253,
+   "person_b_id": 8147,
+   "relationship_type": "child_of",
+   "evidence_text": "Confirmed in 1950 US Federal Census as Granddaughter of household head (Sussex, Delaware, USA)",
+   "certainty": "census_confirmed"
+  }
+ }
+]

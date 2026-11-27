@@ -220,6 +220,14 @@
       "certainty": "confirmed",
       "rel_id": 12006,
       "rel_name": "Morris Davis"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "Funeral program of Maryland Phoebe Davis (Watson Funeral Home, 2020): 'Maryland was born in Millsboro, Delaware on June 30, 1939 to the late William Wesley Davis and Phoebe (Thompson) Davis.' Corroborated by the 1950 census citation already on her profile, which enumerates her as granddaughter in her grandparents' household with her mother Phoebe in the same house.",
+      "certainty": "confirmed",
+      "rel_id": 11253,
+      "rel_name": "Maryland Phoebe Davis"
     }
   ],
   "photos": [
