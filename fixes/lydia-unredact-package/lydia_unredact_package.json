@@ -1,0 +1,33 @@
+{
+  "expected_pre_state": {
+    "persons": 3801,
+    "sources": 2689
+  },
+  "flags": [
+    {
+      "applied_at": "2026-11-27",
+      "fact_id": 25218,
+      "flag": "generic_unverified",
+      "note": "Generic import census fact dated 1790 (boilerplate 'Enumerated in 1790 US Federal Census'); no household matching her life is quoted. Flagged by the lydia-unredact package, 2026-11-27; fact left in place unchanged."
+    },
+    {
+      "applied_at": "2026-11-27",
+      "fact_id": 25219,
+      "flag": "generic_unverified",
+      "note": "Generic import marriage fact (boilerplate); no spouse or date is documented on this profile. Flagged by the lydia-unredact package, 2026-11-27; fact left in place unchanged."
+    }
+  ],
+  "notes_edit": {
+    "new_phrase": "a thriving reality",
+    "old_phrase": "a living reality",
+    "reason": "Her biographical notes say the Nanticoke community 'remains a living reality', and the exporter's is_probably_living() check trips on the word 'living', so this woman (d. 26 Dec 1856) is exported as a living person: birth 'Private', facts and notes withheld. The one-word swap removes the false positive without changing the sentence's meaning. The script aborts if any other 'living' instance remains after the swap."
+  },
+  "package": "lydia-unredact",
+  "person": {
+    "expected_birth_info": "abt 1790",
+    "expected_death_info": "26 Dec 1856 Delaware, USA",
+    "name": "Lydia E Norwood",
+    "person_id": 9334
+  },
+  "run_date": "2026-11-27"
+}
