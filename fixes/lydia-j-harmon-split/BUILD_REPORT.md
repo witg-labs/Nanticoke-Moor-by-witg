@@ -72,3 +72,9 @@ export, with relationships in the DB's vocabulary (reciprocal
 all 9 gates green and writes the register (2 detached child_of
 rows, the held couple); second run is a true no-op; a
 renamed-profile mock aborts untouched. Harness: 15/15 PASS.
+
+## Amendment (2026-11-27, after the first live run aborted)
+
+The first live run aborted cleanly at the pre-state gate: "reciprocal spouse row (10514 -> 9928) count 0 != 1". The live DB stores the Simon Harmon marriage as a SINGLE forward 'spouse' row (9928 -> 10514, row id 855); no reciprocal row exists for this couple, unlike profile 439's pair. The run's diagnostic also showed a stored reciprocal 'parent_of' row (31492, 9931 -> 9928) for Raymond Harmon; Hattie Miller has none. The database was hash-verified unchanged after the abort.
+
+Amended by Orbit: the spec records the audited rows (spouse rows_expected 1; reciprocal_parent_of_row_id_expected 31492 for 9931, null for 8860). The script now gates on spouse rows touching 9928 in either direction == 1 and on each parent_of reciprocal's presence, re-points the single spouse row, and detaches Raymond's parent_of reciprocal with its child_of row into the register (recorded as reciprocal_row). Final gates: exactly one spouse row touches the new profile; zero relationship rows touch 9928 except cross_dataset_match. Harness rebuilt to mirror the live rows (mock parent_of row carries the real id 31492): 16/16 PASS.

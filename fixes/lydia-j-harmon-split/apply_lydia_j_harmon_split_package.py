@@ -8,13 +8,18 @@ a new profile, "Lydia J. Harmon", flagged unproven
 (evidence_level copied at runtime from split-created profile
 12007), taking facts 9912, 9913, 9914 and the generic marriage
 fact 25647, plus the spouse link to Simon Harmon (10514). The
-spouse link is stored in the live DB as type 'spouse' in
-reciprocal rows (9928 -> 10514 and 10514 -> 9928); both rows are
-re-pointed to the new profile. The child_of links to Raymond
-Harmon (9931) and Hattie Miller (8860), parents born 1902 and
-1905 who fit neither woman, are detached to the package's
-unassigned-evidence register, held as a couple; nothing is
-deleted outright.
+spouse link is stored in the live DB as a SINGLE forward
+'spouse' row (9928 -> 10514, row id 855, verified live
+2026-11-27); no reciprocal row exists for this
+couple, unlike profile 439's pair. That one row is re-pointed
+to the new profile. The child_of links to Raymond Harmon (9931)
+and Hattie Miller (8860), parents born 1902 and 1905 who fit
+neither woman, are detached to the package's unassigned-
+evidence register, held as a couple; the stored reciprocal
+'parent_of' row for Raymond (9931 -> 9928, row id 31492) is
+detached and recorded with its child_of row (Hattie has no
+reciprocal row). Nothing is deleted outright: every detached
+row is recorded in the register.
 
 Schema-discovering, backup-first, single transaction, idempotent,
 stop-on-surprise. Gates only on what the package changes.
@@ -106,14 +111,30 @@ def main():
             abort(f"9928 outgoing relationships "
                   f"{sorted(rels_out)} != expected "
                   f"{sorted(expected_rels)}")
-        recip = cur.execute(
+        spouse_rows = cur.execute(
             "SELECT COUNT(*) FROM relationships WHERE "
-            "person_a_id = ? AND person_b_id = ? AND "
-            "relationship_type = 'spouse'",
-            (spouse_b, pid)).fetchone()[0]
-        if recip != 1:
-            abort(f"reciprocal spouse row ({spouse_b} -> {pid}) "
-                  f"count {recip} != 1")
+            "relationship_type = 'spouse' AND ((person_a_id = ? "
+            "AND person_b_id = ?) OR (person_a_id = ? AND "
+            "person_b_id = ?))",
+            (pid, spouse_b, spouse_b, pid)).fetchone()[0]
+        rows_expected = SPEC["relationships_move_spouse"][
+            "rows_expected"]
+        if spouse_rows != rows_expected:
+            abort(f"spouse rows touching {pid} count "
+                  f"{spouse_rows} != expected {rows_expected}")
+        for d in detach_specs:
+            recip = cur.execute(
+                "SELECT COUNT(*) FROM relationships WHERE "
+                "person_a_id = ? AND person_b_id = ? AND "
+                "relationship_type = 'parent_of'",
+                (d["person_b_id"], pid)).fetchone()[0]
+            expected_recip = (
+                1 if d.get("reciprocal_parent_of_row_id_expected")
+                is not None else 0)
+            if recip != expected_recip:
+                abort(f"reciprocal parent_of row "
+                      f"({d['person_b_id']} -> {pid}) count "
+                      f"{recip} != expected {expected_recip}")
 
     register = {
         "package": SPEC["package"],
@@ -180,16 +201,9 @@ def main():
             if cur.rowcount != 1:
                 abort("outgoing spouse row to "
                       f"{spouse_b} was not on {pid} to move")
-            cur.execute(
-                "UPDATE relationships SET person_b_id = ? WHERE "
-                "person_a_id = ? AND person_b_id = ? AND "
-                "relationship_type = 'spouse'",
-                (new_id, spouse_b, pid))
-            if cur.rowcount != 1:
-                abort("reciprocal spouse row from "
-                      f"{spouse_b} was not pointing at {pid}")
             print(f"Spouse link to {spouse_b} moved to {new_id} "
-                  f"(both reciprocal 'spouse' rows re-pointed).")
+                  f"(the single stored 'spouse' row re-pointed; "
+                  f"no reciprocal row exists for this couple).")
 
             for d in detach_specs:
                 found = rows_where(cur, "relationships",
@@ -203,10 +217,34 @@ def main():
                           f"{d['person_b_id']}, "
                           f"{d['relationship_type']}) found "
                           f"{len(match)} rows, expected 1")
-                register["detached_relationships"].append(match[0])
+                entry = dict(match[0])
+                recip_rows = [r for r in rows_where(
+                    cur, "relationships", "person_a_id",
+                    d["person_b_id"])
+                    if r["relationship_type"] == "parent_of"
+                    and r["person_b_id"] == pid]
+                expected_recip_id = d.get(
+                    "reciprocal_parent_of_row_id_expected")
+                if expected_recip_id is None:
+                    if recip_rows:
+                        abort("unexpected reciprocal parent_of "
+                              f"row for {d['person_b_id']}")
+                    entry["reciprocal_row"] = None
+                else:
+                    if len(recip_rows) != 1 or \
+                            recip_rows[0]["id"] != expected_recip_id:
+                        abort("reciprocal parent_of row for "
+                              f"{d['person_b_id']} not found as "
+                              f"expected (row {expected_recip_id})")
+                    entry["reciprocal_row"] = recip_rows[0]
+                register["detached_relationships"].append(entry)
                 cur.execute(
                     "DELETE FROM relationships WHERE id = ?",
                     (match[0]["id"],))
+                if entry["reciprocal_row"] is not None:
+                    cur.execute(
+                        "DELETE FROM relationships WHERE id = ?",
+                        (entry["reciprocal_row"]["id"],))
             print(f"Detached {len(register['detached_relationships'])} "
                   f"relationships to the register (held couple).")
 
@@ -244,16 +282,22 @@ def main():
               for r in rows_where(cur, "relationships",
                                   "person_a_id", new_id)}
              == {("spouse", spouse_b)})
-        gate("reciprocal spouse row (10514 -> new profile) exists",
+        gate("exactly one spouse row touches the new profile "
+             "(new -> 10514)",
              cur.execute(
                  "SELECT COUNT(*) FROM relationships WHERE "
-                 "person_a_id = ? AND person_b_id = ? AND "
-                 "relationship_type = 'spouse'",
-                 (spouse_b, new_id)).fetchone()[0] == 1)
-        gate("zero relationship rows leave 9928",
+                 "relationship_type = 'spouse' AND "
+                 "((person_a_id = ? AND person_b_id = ?) OR "
+                 "(person_a_id = ? AND person_b_id = ?))",
+                 (new_id, spouse_b, spouse_b,
+                  new_id)).fetchone()[0] == 1)
+        gate("zero relationship rows touch 9928 except "
+             "cross_dataset_match",
              cur.execute(
                  "SELECT COUNT(*) FROM relationships WHERE "
-                 "person_a_id = ?", (pid,)).fetchone()[0] == 0)
+                 "(person_a_id = ? OR person_b_id = ?) AND "
+                 "relationship_type != 'cross_dataset_match'",
+                 (pid, pid)).fetchone()[0] == 0)
         gate("9928 notes carry the split marker",
              p["note_marker"] in (cur.execute(
                  "SELECT notes FROM persons WHERE person_id = ?",
