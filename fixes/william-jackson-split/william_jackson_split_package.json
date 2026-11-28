@@ -321,7 +321,25 @@
       },
       {
         "person_b_id": 11882,
-        "relationship_type": "spouse_of"
+        "relationship_type": "spouse"
+      },
+      {
+        "person_b_id": 368,
+        "relationship_type": "cross_dataset_match"
+      }
+    ],
+    "relationships_final": [
+      {
+        "person_b_id": 10725,
+        "relationship_type": "child_of"
+      },
+      {
+        "person_b_id": 11663,
+        "relationship_type": "child_of"
+      },
+      {
+        "person_b_id": 368,
+        "relationship_type": "cross_dataset_match"
       }
     ]
   },
@@ -334,7 +352,8 @@
     {
       "disposition": "register",
       "person_b_id": 11882,
-      "relationship_type": "spouse_of"
+      "reciprocal": true,
+      "relationship_type": "spouse"
     }
   ],
   "run_date": "2026-11-27",

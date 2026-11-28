@@ -23,7 +23,7 @@ Agnes Jackson. This package:
 * Detaches all pre-1931 same-name material from 439 (27 facts:
   the two 1893 Ruth Both marriage facts and every Document
   Mention and Racial Classification fact, spanning 1746-1989),
-  the spouse_of link to Ruth Both (11882), and every photo row
+  the spouse link to Ruth Both (11882, stored as reciprocal 'spouse' rows), and every photo row
   on 439 (the ruling packet found all of them are other
   subjects). Nothing is deleted from the record: detached
   material is written, with its citations, to
@@ -404,6 +404,27 @@ def main():
                           "relationship_type", "evidence_text",
                           "certainty")}
                 entry["disposition"] = rspec["disposition"]
+                if rspec.get("reciprocal"):
+                    recip = cur.execute(
+                        "SELECT id, person_a_id, person_b_id, "
+                        "relationship_type, evidence_text, certainty "
+                        "FROM relationships WHERE person_a_id = ? "
+                        "AND person_b_id = ? AND "
+                        "relationship_type = ?",
+                        (rspec["person_b_id"], pid,
+                         rspec["relationship_type"])).fetchone()
+                    if recip:
+                        rcols = ["id", "person_a_id", "person_b_id",
+                                 "relationship_type", "evidence_text",
+                                 "certainty"]
+                        entry["reciprocal_row"] = dict(
+                            zip(rcols, recip))
+                        cur.execute(
+                            "DELETE FROM relationships WHERE id = ?",
+                            (recip[0],))
+                        print(f"439 reciprocal relationship removed: "
+                              f"({rspec['person_b_id']} -> {pid}, "
+                              f"{rspec['relationship_type']})")
                 if rspec["disposition"] == "register":
                     register["detached_relationships"].append(entry)
                 else:
@@ -478,11 +499,19 @@ def main():
              (lambda r: r and r["date_string"] == bc["date_string"]
               and r["place_string"] == bc["place_string"])(
                  row_dict(cur, "facts", "fact_id", 10130)))
-        gate("439 relationships = child_of 10725 + child_of 11663",
+        gate("439 relationships = child_of 10725 + child_of 11663 "
+             "+ cross_dataset_match 368 (retained)",
              {(r["relationship_type"], r["person_b_id"])
               for r in rows_where(cur, "relationships",
                                   "person_a_id", pid)}
-             == {("child_of", 10725), ("child_of", 11663)})
+             == {(e["relationship_type"], e["person_b_id"])
+                 for e in p439["relationships_final"]})
+        gate("no spouse rows touch 439 in either direction",
+             cur.execute(
+                 "SELECT COUNT(*) FROM relationships WHERE "
+                 "(person_a_id = ? OR person_b_id = ?) AND "
+                 "relationship_type = 'spouse'",
+                 (pid, pid)).fetchone()[0] == 0)
         gate("new profile relationships = child_of 10725 + 9964",
              {(r["relationship_type"], r["person_b_id"])
               for r in rows_where(cur, "relationships",

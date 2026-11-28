@@ -86,3 +86,24 @@ Samuel Jackson (10725), and as mother to children of both
 centuries. 439's census-evidenced mother link points at it and
 stays as ruled; 11663's own untangling is a separate candidate
 for the conflation queue, next to profile 3588.
+
+## Amendment (2026-11-27, after the first live run aborted cleanly)
+
+The first live run stopped at the relationships pre-state gate:
+the export had hidden two things about the live DB. (1) The
+spouse link is stored as type 'spouse' in reciprocal rows
+(439 -> 11882 and 11882 -> 439), not the export's 'spouse_of'.
+(2) Profile 439 also carries cross_dataset_match rows (439 ->
+368 outgoing; 7978 and 487 incoming), the cross-dataset
+identity links between the source archives; the exporter does
+not render them as relationships. The script aborted before any
+change and the agent hash-verified the database unchanged.
+Amendment: the spec now expects the DB vocabulary and the match
+row (which the package deliberately leaves in place; the ruling
+does not reach cross-dataset match links), the spouse removal
+deletes and registers both reciprocal rows, and a new gate
+requires zero spouse rows touching 439 in either direction.
+The agent's diagnostic also settled the photo count: exactly 1
+person_photos row on 439 (photo 1865). Harness re-proven at
+23/23 with the mock mirroring the real relationship rows; gates
+are now 18.
