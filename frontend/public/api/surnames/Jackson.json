@@ -1,6 +1,6 @@
 {
   "surname": "Jackson",
-  "individual_count": 118,
+  "individual_count": 119,
   "photo_count": 101,
   "category_counts": {
     "documents": 5,
@@ -1754,8 +1754,20 @@
       "married_last_name": "Jackson",
       "birth_info": "30 Aug 1937",
       "death_info": "16 Apr 1938 (aged 7 months)",
-      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/288073524/geraldine-jackson",
+      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/288073524/geraldine-jackson\n\n[Correction, geraldine-jackson-split package 2026-11-27: per Jequan Davis's conflation ruling of 2026-11-22, the adult Geraldine Jackson (b. 8 Aug 1925, d. 22 Jul 1985) was split off to her own profile, taking facts 6881, 6882, 6883 and the marriage fact 25718. This profile keeps the infant Geraldine Jackson (b. 30 Aug 1937, d. 16 Apr 1938, aged 7 months), her parents Blaine Jackson and Gladys Mae Jackson, and her burial (Find a Grave #288073524). The two vital-record citations that quoted her 1937 birth and 1938 death were reattached to her facts from the adult's facts. The Social Security Application fact 25717, dated 1937, is held UNASSIGNED on this profile per the ruling: it fits neither woman and is evidence for neither. The pedigree-diagram photo 1340 stays here; it carries no dates and distinguishes neither woman.]",
       "photo_count": 1
+    },
+    {
+      "person_id": 12024,
+      "name": "Geraldine Jackson (1925-1985)",
+      "first_name": "Geraldine",
+      "middle_name": null,
+      "maiden_name": null,
+      "married_last_name": null,
+      "birth_info": "8 Aug 1925",
+      "death_info": "22 Jul 1985 (aged 59)",
+      "notes": "[Created by split package 2026-11-27 from profile 9968.] Geraldine Jackson, b. 8 Aug 1925, d. 22 Jul 1985 (aged 59). Split off profile 9968 (the infant Geraldine Jackson, 1937-1938) under Jequan Davis's conflation ruling of 2026-11-22. Her dates rest on the Mitsawokett SterrettParisFamily.htm page (source 573), a secondary source; the marriage fact 25718 moved with her, as only an adult could have married. The vital-record citations that quoted the infant's 1937 birth and 1938 death were reattached to the infant's facts, where they belong. The parents on 9968 (Blaine Jackson and Gladys Mae Jackson) were NOT assigned to her: the ruling leaves them with the infant, though a 1925 birth is chronologically possible (her mother would have been 15). The name carries the years as a qualifier because 'Geraldine Jackson' is the infant's profile name. Research is queued as item 4 of the split research register. Flagged unproven.",
+      "photo_count": 0
     },
     {
       "person_id": 6132,

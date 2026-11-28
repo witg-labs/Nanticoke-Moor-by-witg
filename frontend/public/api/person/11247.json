@@ -348,6 +348,14 @@
       "certainty": "confirmed",
       "rel_id": 12006,
       "rel_name": "Morris Davis"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "1900 US Federal Census, Indian River Hundred: John H Davis, Son, age 11; Hester A Davis (Wife, age 22) is the wife of the head, Maurice (Morris) Davis, and mother of the household's profiled children.",
+      "certainty": "census_confirmed",
+      "rel_id": 12022,
+      "rel_name": "John H Davis (Son of Maurice)"
     }
   ],
   "photos": [

@@ -1,0 +1,107 @@
+{
+  "person": {
+    "person_id": 12024,
+    "name": "Geraldine Jackson (1925-1985)",
+    "first_name": "Geraldine",
+    "middle_name": null,
+    "maiden_name": null,
+    "married_last_name": null,
+    "evidence_level": 1,
+    "source_page": "Davis Family Tree.ged",
+    "birth_info": "8 Aug 1925",
+    "death_info": "22 Jul 1985 (aged 59)",
+    "notes": "[Created by split package 2026-11-27 from profile 9968.] Geraldine Jackson, b. 8 Aug 1925, d. 22 Jul 1985 (aged 59). Split off profile 9968 (the infant Geraldine Jackson, 1937-1938) under Jequan Davis's conflation ruling of 2026-11-22. Her dates rest on the Mitsawokett SterrettParisFamily.htm page (source 573), a secondary source; the marriage fact 25718 moved with her, as only an adult could have married. The vital-record citations that quoted the infant's 1937 birth and 1938 death were reattached to the infant's facts, where they belong. The parents on 9968 (Blaine Jackson and Gladys Mae Jackson) were NOT assigned to her: the ruling leaves them with the infant, though a 1925 birth is chronologically possible (her mother would have been 15). The name carries the years as a qualifier because 'Geraldine Jackson' is the infant's profile name. Research is queued as item 4 of the split research register. Flagged unproven.",
+    "dataset_source": "davis_family_gedcom",
+    "birth_date": "8 Aug 1925",
+    "birth_place": null,
+    "death_date": "22 Jul 1985 (aged 59)",
+    "death_place": null
+  },
+  "facts": [
+    {
+      "fact_id": 6881,
+      "person_id": 12024,
+      "fact_type": "Name",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Geraldine Jackson.",
+      "citations": [
+        {
+          "citation_id": 6875,
+          "fact_id": 6881,
+          "source_id": 573,
+          "evidence_text": null,
+          "source_title": "Record: SterrettParisFamily.htm",
+          "source_url": "SterrettParisFamily.htm",
+          "source_dataset": "mitsawokett_delaware"
+        }
+      ]
+    },
+    {
+      "fact_id": 6882,
+      "person_id": 12024,
+      "fact_type": "Birth",
+      "date_string": "8 Aug 1925",
+      "place_string": null,
+      "value_string": null,
+      "citations": [
+        {
+          "citation_id": 6876,
+          "fact_id": 6882,
+          "source_id": 573,
+          "evidence_text": null,
+          "source_title": "Record: SterrettParisFamily.htm",
+          "source_url": "SterrettParisFamily.htm",
+          "source_dataset": "mitsawokett_delaware"
+        }
+      ]
+    },
+    {
+      "fact_id": 6883,
+      "person_id": 12024,
+      "fact_type": "Death",
+      "date_string": "22 Jul 1985 (aged 59)",
+      "place_string": null,
+      "value_string": null,
+      "citations": [
+        {
+          "citation_id": 6877,
+          "fact_id": 6883,
+          "source_id": 573,
+          "evidence_text": null,
+          "source_title": "Record: SterrettParisFamily.htm",
+          "source_url": "SterrettParisFamily.htm",
+          "source_dataset": "mitsawokett_delaware"
+        }
+      ]
+    },
+    {
+      "fact_id": 25718,
+      "person_id": 12024,
+      "fact_type": "Marriage",
+      "date_string": null,
+      "place_string": "Delaware",
+      "value_string": "Marriage record documented for Geraldine Jackson",
+      "citations": [
+        {
+          "citation_id": 33156,
+          "fact_id": 25718,
+          "source_id": 1270,
+          "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for Geraldine Jackson.",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
+        }
+      ]
+    }
+  ],
+  "relationships": [],
+  "photos": [],
+  "obituaries": [],
+  "audit_flags": [],
+  "ancestry": {
+    "id": 12024,
+    "name": "Geraldine Jackson (1925-1985)",
+    "children": []
+  }
+}
