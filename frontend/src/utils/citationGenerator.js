@@ -7,8 +7,8 @@
  * Also generates standard GEDCOM 5.5.1 individual lineage excerpts.
  */
 
-const REPOSITORY_NAME = "Lynn C. Jackson & Mitsawokett Delmarva Afro-Indigenous Archive";
-const REPOSITORY_URL = typeof window !== 'undefined' ? window.location.origin : "https://nanticoke-moor-by-witg-y5rj.vercel.app";
+const REPOSITORY_NAME = "Written In The Genome Family Archive";
+const REPOSITORY_URL = typeof window !== 'undefined' ? window.location.origin : "https://familyarchive.writteninthegenome.blog";
 
 function formatDate(date) {
   return date.toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' });
@@ -30,8 +30,8 @@ export function generateEvidenceExplainedCitation(item, type = 'person') {
 
     return {
       referenceNote: `${REPOSITORY_NAME}, digital evidence database and genealogical proof repository (${REPOSITORY_URL} : accessed ${accessDate}), individual profile and evidence model for ${name}${vitalStr}, ID #${pid}; original records preserved from "${sourcePage}".`,
-      subsequentNote: `Jackson and Mitsawokett Family Archive, individual profile for ${name} (ID #${pid}).`,
-      sourceListEntry: `Jackson, Lynn C., and Mitsawokett Preservation Project. Delmarva Afro-Indigenous Remnant Community Preservation Database. Online repository, proof arguments, and photographic survey. ${REPOSITORY_URL} : ${year}.`
+      subsequentNote: `Written In The Genome Family Archive, individual profile for ${name} (ID #${pid}).`,
+      sourceListEntry: `Davis, Jequan, compiler. Written In The Genome Family Archive. Online database of individual profiles, evidence, and photographs. ${REPOSITORY_URL} : ${year}.`
     };
   }
 
@@ -41,8 +41,8 @@ export function generateEvidenceExplainedCitation(item, type = 'person') {
     const cem = item.cemetery_location ? `, burial in ${item.cemetery_location}` : '';
     return {
       referenceNote: `"${decName} Obituary"${dDate}${cem}, preserved in ${REPOSITORY_NAME}, Obituary Vault (${REPOSITORY_URL} : accessed ${accessDate}).`,
-      subsequentNote: `Jackson and Mitsawokett Archive, obituary for ${decName}.`,
-      sourceListEntry: `Jackson, Lynn C., and Mitsawokett Preservation Project. Obituary and Memorial Vault. ${REPOSITORY_URL} : ${year}.`
+      subsequentNote: `Written In The Genome Family Archive, obituary for ${decName}.`,
+      sourceListEntry: `Davis, Jequan, compiler. Written In The Genome Family Archive. Obituary and Memorial Vault. ${REPOSITORY_URL} : ${year}.`
     };
   }
 
@@ -50,8 +50,8 @@ export function generateEvidenceExplainedCitation(item, type = 'person') {
     const title = item.title || item.normalized_filename || item.filename || "Historical Document";
     return {
       referenceNote: `"${title}", historical primary record, preserved in ${REPOSITORY_NAME} (${REPOSITORY_URL} : accessed ${accessDate}).`,
-      subsequentNote: `Jackson and Mitsawokett Archive, record "${title}".`,
-      sourceListEntry: `Jackson, Lynn C., and Mitsawokett Preservation Project. Delmarva Primary Record Transcriptions and Deeds. ${REPOSITORY_URL} : ${year}.`
+      subsequentNote: `Written In The Genome Family Archive, record "${title}".`,
+      sourceListEntry: `Davis, Jequan, compiler. Written In The Genome Family Archive. Primary record transcriptions and documents. ${REPOSITORY_URL} : ${year}.`
     };
   }
 
@@ -98,8 +98,8 @@ export function generateBibTeX(item, _type = 'person') {
   const name = item.person?.name || item.name || item.deceased_name || item.title || 'Record';
 
   return `@misc{delmarva_${id},
-  author = {{Lynn C. Jackson and Mitsawokett Preservation Project}},
-  title = {${name} - Delmarva Afro-Indigenous Community Archive},
+  author = {{Jequan Davis}},
+  title = {${name} - Written In The Genome Family Archive},
   year = {${year}},
   url = {${REPOSITORY_URL}},
   note = {Accessed: ${formatDate(new Date())}}
@@ -117,9 +117,9 @@ export function generateGedcomExcerpt(profile) {
 
   let lines = [
     '0 HEAD',
-    '1 SOUR LYNNCJACKSON_ARCHIVE',
+    '1 SOUR WITG_FAMILY_ARCHIVE',
     '2 VERS 2.0',
-    '2 NAME Lynn C. Jackson & Mitsawokett Delmarva Afro-Indigenous Archive',
+    '2 NAME Written In The Genome Family Archive',
     '1 GEDC',
     '2 VERS 5.5.1',
     '2 FORM LINEAGE-LINKED',
@@ -189,7 +189,7 @@ export function generateGedcomExcerpt(profile) {
   // Source Record
   lines.push('0 @S_ARCHIVE@ SOUR');
   lines.push(`1 TITL ${REPOSITORY_NAME}`);
-  lines.push(`1 AUTH Lynn C. Jackson & Mitsawokett Preservation Project`);
+  lines.push(`1 AUTH Jequan Davis`);
   lines.push(`1 REPO @REPO1@`);
   lines.push(`0 @REPO1@ REPO`);
   lines.push(`1 NAME ${REPOSITORY_NAME}`);
