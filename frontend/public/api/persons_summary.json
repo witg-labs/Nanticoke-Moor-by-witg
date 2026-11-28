@@ -68434,5 +68434,23 @@
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 2
+  },
+  {
+    "id": 12020,
+    "name": "John E. Miller",
+    "surname": "Miller",
+    "birth": "Mar 1873 Delaware",
+    "death": "24 Feb 1950 Lewes",
+    "birth_year": 1873,
+    "death_year": 1950,
+    "state": "Delaware",
+    "birth_place": "Mar 1873 Delaware",
+    "death_place": "24 Feb 1950 Lewes",
+    "dataset": "davis_family_gedcom",
+    "has_photo": false,
+    "primary_photo": null,
+    "has_obituary": false,
+    "has_citations": true,
+    "connections_count": 0
   }
 ]
