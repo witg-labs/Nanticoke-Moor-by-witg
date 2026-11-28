@@ -51131,8 +51131,8 @@
     "birth_place": "9 February 1928 Stockley, Sussex County, Delaware, United States of America",
     "death_place": "12 July 1930 Georgetown, Sussex County, Delaware, United States of America",
     "dataset": "davis_family_gedcom",
-    "has_photo": true,
-    "primary_photo": "assets/archive_media/people/Thompson_John_And_Sarah.jpg",
+    "has_photo": false,
+    "primary_photo": null,
     "has_obituary": false,
     "has_citations": true,
     "connections_count": 2
