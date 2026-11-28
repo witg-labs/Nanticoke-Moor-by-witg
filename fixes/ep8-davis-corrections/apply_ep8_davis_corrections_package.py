@@ -41,8 +41,12 @@ husband Harry Edward Davis (8159), from the Episode 8 research of
   import artifact (she was born in 1918 and the portrait shows an
   older woman; the same value on her husband's portrait 617 is
   his birth year). Wherever a photo catalog table carries a year
-  for 611 it is set to 'unknown' with no dates mentioned. Photo
-  617 is snapshotted and gated unchanged.
+  for 611 it is set to 'unknown'; each table is gated on its own
+  audited (approximate_year, dates_mentioned) pair:
+  unified_photo_catalog carries '["1916"]' -> '[]', while
+  photo_catalog carries NULL dates_mentioned, which stays NULL
+  (amendment 2026-11-28, see SPEC.md). Photo 617 is snapshotted
+  and gated unchanged.
 
 Safety: schema-discovering for the photo tables; backup written
 first; single transaction; hard gates abort (rollback) on any
@@ -52,10 +56,11 @@ succeeds, and only when this run detached rows.
 
 Preflight step (see SPEC.md): run audit_ep8.py against the live
 database first; it prints the live child_of row id for the detach.
-Fill that id into "expected_relationship_id" in the spec JSON to
-arm the id gate before running this script on the live database.
-Shipped as null (unarmed) so the simulation harness can prove both
-paths; an unarmed run prints a warning.
+"expected_relationship_id" in the spec JSON is armed at 28818,
+the row id the 2026-11-28 live audit reported (amendment
+2026-11-28, see SPEC.md). An unarmed (null) run still detaches
+on the evidence/certainty match but prints a warning; the
+harness re-arms the id to its own mock row.
 
 Usage: python3 apply_ep8_davis_corrections_package.py <path-to-db>
 """
@@ -274,10 +279,10 @@ def main():
                 na["person_id"])["notes"] or "")
                 for na in SPEC["notes_appends"])
             and all(r["approximate_year"]
-                    == pfix["post"]["approximate_year"]
+                    == pfix["per_table"][t]["post"]["approximate_year"]
                     and r["dates_mentioned"]
-                    == pfix["post"]["dates_mentioned"]
-                    for _, r in photo_tables))
+                    == pfix["per_table"][t]["post"]["dates_mentioned"]
+                    for t, r in photo_tables))
 
         persons_now = cur.execute(
             "SELECT COUNT(*) FROM persons").fetchone()[0]
@@ -494,21 +499,28 @@ def main():
 
         # ---------- photo fix ----------------------------------------------
         for tname, row611 in photo_tables:
+            texp = pfix["per_table"][tname]
             cur_vals = (row611["approximate_year"],
                         row611["dates_mentioned"])
-            pre_vals = (pfix["pre"]["approximate_year"],
-                        pfix["pre"]["dates_mentioned"])
-            post_vals = (pfix["post"]["approximate_year"],
-                         pfix["post"]["dates_mentioned"])
-            if cur_vals == pre_vals:
-                cur.execute(
-                    f"UPDATE {tname} SET approximate_year = ?, "
-                    f"dates_mentioned = ? WHERE photo_id = ?",
-                    (*post_vals, pfix["photo_id"]))
+            pre_vals = (texp["pre"]["approximate_year"],
+                        texp["pre"]["dates_mentioned"])
+            post_vals = (texp["post"]["approximate_year"],
+                         texp["post"]["dates_mentioned"])
+            if cur_vals == post_vals:
+                print(f"{tname}: photo 611 already corrected.")
+            elif cur_vals == pre_vals:
+                if post_vals[1] is not None:
+                    cur.execute(
+                        f"UPDATE {tname} SET approximate_year = ?, "
+                        f"dates_mentioned = ? WHERE photo_id = ?",
+                        (*post_vals, pfix["photo_id"]))
+                else:
+                    cur.execute(
+                        f"UPDATE {tname} SET approximate_year = ? "
+                        f"WHERE photo_id = ?",
+                        (post_vals[0], pfix["photo_id"]))
                 print(f"{tname}: photo 611 year "
                       f"{pre_vals[0]!r} -> {post_vals[0]!r}.")
-            elif cur_vals == post_vals:
-                print(f"{tname}: photo 611 already corrected.")
             else:
                 fail(f"{tname}: photo 611 year values {cur_vals!r} "
                      f"are neither the audited pre-state nor the "
@@ -569,11 +581,12 @@ def main():
                      cur, "persons", "person_id",
                      na["person_id"])["notes"] or ""))
         for tname, _ in photo_tables:
+            tpost = pfix["per_table"][tname]["post"]
             gate(f"{tname}: photo 611 in post-state",
                  (lambda r: r["approximate_year"]
-                  == pfix["post"]["approximate_year"]
+                  == tpost["approximate_year"]
                   and r["dates_mentioned"]
-                  == pfix["post"]["dates_mentioned"])(
+                  == tpost["dates_mentioned"])(
                      row_dict(cur, tname, "photo_id",
                               pfix["photo_id"])))
             if tname in photo617_before:

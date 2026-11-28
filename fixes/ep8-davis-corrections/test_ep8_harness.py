@@ -9,7 +9,7 @@ normalized_filename, original_filename, local_image_path,
 sha256_hash), and runs the apply script against it as a
 subprocess, exactly as the live run will run.
 
-11 tests:
+12 tests:
  1. clean run with a reciprocal parent_of row present
  2. idempotent re-run (full DB dump equality, register unchanged)
  3. abort on a wrong armed expected_relationship_id
@@ -22,6 +22,15 @@ subprocess, exactly as the live run will run.
 10. the 24333 folding guard: the new 1920 Census fact stays
     distinct and 8159 reaches 9 facts
 11. audit_ep8.py smoke test against the mock
+12. abort when photo_catalog 611 carries an unexpected
+    dates_mentioned (per-table gate, amendment 2026-11-28)
+
+The mock mirrors the live photo rows: unified_photo_catalog 611
+is ('1916', '["1916"]') and photo_catalog 611 is ('1916', NULL);
+the clean run must leave them ('unknown', '[]') and
+('unknown', NULL) respectively. The shipped spec JSON is armed
+at the live detach id (28818); fresh_pkg re-arms it to the
+mock's DETACH_ID, exactly as the PC armed it from the audit.
 
 Usage: python3 test_ep8_harness.py
 Exit code 0 only when every test passes.
@@ -266,14 +275,21 @@ def build_mock(db_path, *, with_reciprocal=True,
             "title_or_caption, approximate_year, dates_mentioned) "
             "VALUES (?, ?, ?, ?)", (photo_id, fname, year, dates))
 
-    y611 = SPEC["photo_fix"]["pre"]["approximate_year"]
-    d611 = SPEC["photo_fix"]["pre"]["dates_mentioned"]
+    upc_pre = SPEC["photo_fix"]["per_table"][
+        "unified_photo_catalog"]["pre"]
+    pc_pre = SPEC["photo_fix"]["per_table"]["photo_catalog"]["pre"]
     upc(617, 8159, "Davis_Harry_E.jpg", "1916", "[\"1916\"]")
     pc(617, "Davis_Harry_E.jpg", "1916", "[\"1916\"]")
-    if photo_mode in ("both", "unified_only"):
-        upc(611, 8192, "Davis_Ethel_Gwendolyn.jpg", y611, d611)
+    if photo_mode in ("both", "unified_only", "bad_pc_dates"):
+        upc(611, 8192, "Davis_Ethel_Gwendolyn.jpg",
+            upc_pre["approximate_year"],
+            upc_pre["dates_mentioned"])
     if photo_mode == "both":
-        pc(611, "Davis_Ethel_Gwendolyn.jpg", y611, d611)
+        pc(611, "Davis_Ethel_Gwendolyn.jpg",
+           pc_pre["approximate_year"], pc_pre["dates_mentioned"])
+    if photo_mode == "bad_pc_dates":
+        pc(611, "Davis_Ethel_Gwendolyn.jpg",
+           pc_pre["approximate_year"], "[\"1920\"]")
     if photo_mode == "bad_year":
         upc(611, 8192, "Davis_Ethel_Gwendolyn.jpg", "1920",
             "[\"1920\"]")
@@ -290,12 +306,15 @@ def fresh_pkg(tmp, spec_mutator=None):
     pkg.mkdir(parents=True)
     for name in (APPLY, AUDIT, SPEC_FILE, REGISTER_FILE):
         shutil.copy2(HERE / name, pkg / name)
+    p = pkg / SPEC_FILE
+    data = json.loads(p.read_text(encoding="utf-8"))
+    # The shipped spec is armed at the live detach id (28818);
+    # re-arm to the mock's row, as the PC armed it from the audit.
+    data["detach"]["expected_relationship_id"] = DETACH_ID
     if spec_mutator:
-        p = pkg / SPEC_FILE
-        data = json.loads(p.read_text(encoding="utf-8"))
         spec_mutator(data)
-        p.write_text(json.dumps(data, indent=2, sort_keys=True),
-                     encoding="utf-8")
+    p.write_text(json.dumps(data, indent=2, sort_keys=True),
+                 encoding="utf-8")
     return pkg
 
 
@@ -407,8 +426,10 @@ def test1_clean_with_reciprocal(tmp):
         row = query(db, f"SELECT approximate_year, "
                         f"dates_mentioned FROM {table} "
                         f"WHERE photo_id = 611")[0]
+        tpost = SPEC["photo_fix"]["per_table"][table]["post"]
         check(t, f"{table}: photo 611 corrected",
-              tuple(row) == ("unknown", "[]"))
+              tuple(row) == (tpost["approximate_year"],
+                             tpost["dates_mentioned"]))
     check(t, "photo 617 unchanged (unified)",
           query(db, "SELECT * FROM unified_photo_catalog "
                     "WHERE photo_id = 617") == pre617u)
@@ -496,8 +517,19 @@ def test7_both_photo_tables(tmp):
         row = query(db, f"SELECT approximate_year, "
                         f"dates_mentioned FROM {table} "
                         f"WHERE photo_id = 611")[0]
+        tpost = SPEC["photo_fix"]["per_table"][table]["post"]
         check(t, f"{table}: photo 611 corrected",
-              tuple(row) == ("unknown", "[]"))
+              tuple(row) == (tpost["approximate_year"],
+                             tpost["dates_mentioned"]))
+    check(t, "unified ends ('unknown', '[]'), photo_catalog "
+             "ends ('unknown', NULL)",
+          query(db, "SELECT approximate_year, dates_mentioned "
+                    "FROM unified_photo_catalog "
+                    "WHERE photo_id = 611")[0] == ("unknown", "[]")
+          and query(db, "SELECT approximate_year, "
+                          "dates_mentioned FROM photo_catalog "
+                          "WHERE photo_id = 611")[0]
+          == ("unknown", None))
 
 
 def test8_photo_neither(tmp):
@@ -566,6 +598,17 @@ def test11_audit_smoke(tmp):
           and "social_security_administration" in r.stdout)
 
 
+def test12_bad_pc_dates(tmp):
+    t = "12 abort on photo_catalog 611 dates '[\"1920\"]'"
+    pkg, db = scenario(tmp, photo_mode="bad_pc_dates")
+    before = dump(db)
+    r = run_script(pkg, APPLY, db)
+    check(t, "exit 3", r.returncode == 3, r.stdout + r.stderr)
+    check(t, "stop-on-surprise names photo_catalog",
+          "photo_catalog: photo 611 year values" in r.stdout)
+    check(t, "DB unchanged", dump(db) == before)
+
+
 def main():
     root = Path(tempfile.mkdtemp(prefix="ep8-harness-"))
     print(f"Harness workspace: {root}")
@@ -580,16 +623,17 @@ def main():
     test9_value_variant(root / "t9")
     test10_folding_guard(root / "t10")
     test11_audit_smoke(root / "t11")
+    test12_bad_pc_dates(root / "t12")
     failed = [r for r in RESULTS if not r[2]]
     print()
     print(f"{len(RESULTS) - len(failed)}/{len(RESULTS)} checks "
-          f"passed across 11 tests.")
+          f"passed across 12 tests.")
     if failed:
         print("FAILURES:")
         for test, label, _ in failed:
             print(f"  {test}: {label}")
         return 1
-    print("ALL 11 TESTS PASSED.")
+    print("ALL 12 TESTS PASSED.")
     return 0
 
 

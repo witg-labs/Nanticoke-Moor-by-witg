@@ -166,3 +166,47 @@ changes nothing, and leaves the register file as it stands.
 4. **Verify.** Re-run the audit; confirm the post-state counts
    and read-backs, then run the project export and integrity
    check as usual. Add `BUILD_REPORT.md` with the run record.
+
+## Amendment 2026-11-28 (photo 611 per-table pre-state)
+
+The first live run (2026-11-28) aborted at the photo 611 step
+and rolled back cleanly; the database was left untouched
+(sha256 unchanged) and everything before that step had
+computed correctly. Cause: the package gated photo 611's
+(approximate_year, dates_mentioned) in both catalog tables
+against a single pre pair ('1916', '["1916"]'). The live rows
+differ by table: unified_photo_catalog 611 is
+('1916', '["1916"]'), but photo_catalog 611 is ('1916', NULL).
+The NULL matched neither the pre pair nor the post pair, so
+the stop-on-surprise gate fired, as designed.
+
+The package now carries per-table expectations in the spec
+JSON (`photo_fix.per_table`): unified_photo_catalog pre
+('1916', '["1916"]') -> post ('unknown', '[]'); photo_catalog
+pre ('1916', NULL) -> post ('unknown', NULL). The apply script
+gates and updates each table against its own pair, and updates
+dates_mentioned only when that table's post value is not null,
+so photo_catalog's NULL stays NULL. Photo 617 remains gated
+unchanged, and a photo found in neither table still aborts.
+
+The same audit armed the detach id gate:
+`"expected_relationship_id"` in the spec JSON is now 28818,
+the child_of row id (8192 -> 3591) the 2026-11-28 live audit
+reported, so the manual arming step is already done.
+
+Resume procedure (replaces steps 1-3 above for the re-run):
+
+1. **Discard the local arming edit.** On the PC the spec JSON
+   carries the hand-armed 28818 from the first attempt:
+   `git checkout -- fixes/ep8-davis-corrections/ep8_davis_corrections_package.json`,
+   then pull the amended branch. The shipped JSON now carries
+   28818 itself.
+2. **Apply directly.** No re-audit is needed: the rollback
+   left the database untouched, so the 2026-11-28 audit values
+   still hold. Run
+   `python3 apply_ep8_davis_corrections_package.py <path-to-db>`
+   and expect every gate PASS, `COMMITTED.`, and the
+   register-written line.
+3. **Verify and ship** per step 4 above (re-audit, export,
+   commit, push), then proceed to Package 2
+   (fix/john-clark-3591-untangle).
