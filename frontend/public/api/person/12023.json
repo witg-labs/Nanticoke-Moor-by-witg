@@ -1,0 +1,116 @@
+{
+  "person": {
+    "person_id": 12023,
+    "name": "Lydia J. Harmon",
+    "first_name": "Lydia",
+    "middle_name": "J",
+    "maiden_name": null,
+    "married_last_name": null,
+    "evidence_level": 1,
+    "source_page": "Davis Family Tree.ged",
+    "birth_info": "30 Jul 1848",
+    "death_info": "28 Oct 1927 (aged 79)",
+    "notes": "[Created by split package 2026-11-27 from profile 9928.] Lydia J. Harmon, b. 30 Jul 1848, d. 28 Oct 1927 (aged 79), wife of Simon Harmon (b. abt 1835). Split off profile 9928 (Lydia J Harmon, 1776-1851) under Jequan Davis's conflation ruling of 2026-11-22. Her birth and death rest on the Davis Family Tree GEDCOM alone; the Simon Harmon marriage (relationship and the generic marriage fact 25647) moved with her, as a husband born abt 1835 fits a wife born 1848 and cannot fit the 1776-1851 woman. The parentage formerly on 9928 (Raymond Harmon, b. abt 1902, and Hattie Miller, b. 1905) fits neither woman and was detached to the package's unassigned-evidence register, held as a couple. Research is queued as item 3 of the split research register. Flagged unproven.",
+    "dataset_source": "davis_family_gedcom",
+    "birth_date": "30 Jul 1848",
+    "birth_place": null,
+    "death_date": "28 Oct 1927 (aged 79)",
+    "death_place": null
+  },
+  "facts": [
+    {
+      "fact_id": 9912,
+      "person_id": 12023,
+      "fact_type": "Name",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Lydia J. Harmon",
+      "citations": [
+        {
+          "citation_id": 9906,
+          "fact_id": 9912,
+          "source_id": 622,
+          "evidence_text": null,
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
+          "source_url": "Davis Family Tree.ged",
+          "source_dataset": "davis_family_gedcom"
+        }
+      ]
+    },
+    {
+      "fact_id": 9913,
+      "person_id": 12023,
+      "fact_type": "Birth",
+      "date_string": "30 Jul 1848",
+      "place_string": null,
+      "value_string": null,
+      "citations": [
+        {
+          "citation_id": 9907,
+          "fact_id": 9913,
+          "source_id": 622,
+          "evidence_text": null,
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
+          "source_url": "Davis Family Tree.ged",
+          "source_dataset": "davis_family_gedcom"
+        }
+      ]
+    },
+    {
+      "fact_id": 9914,
+      "person_id": 12023,
+      "fact_type": "Death",
+      "date_string": "28 Oct 1927 (aged 79)",
+      "place_string": null,
+      "value_string": null,
+      "citations": [
+        {
+          "citation_id": 9908,
+          "fact_id": 9914,
+          "source_id": 622,
+          "evidence_text": null,
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
+          "source_url": "Davis Family Tree.ged",
+          "source_dataset": "davis_family_gedcom"
+        }
+      ]
+    },
+    {
+      "fact_id": 25647,
+      "person_id": 12023,
+      "fact_type": "Marriage",
+      "date_string": null,
+      "place_string": "Delaware",
+      "value_string": "Marriage record documented for Lydia J Harmon",
+      "citations": [
+        {
+          "citation_id": 32985,
+          "fact_id": 25647,
+          "source_id": 1270,
+          "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for Lydia J Harmon.",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_type": "spouse_of",
+      "role": "spouse",
+      "evidence_text": "GEDCOM Family @F65@ marriage",
+      "certainty": "confirmed",
+      "rel_id": 10514,
+      "rel_name": "Simon Harmon"
+    }
+  ],
+  "photos": [],
+  "obituaries": [],
+  "audit_flags": [],
+  "ancestry": {
+    "id": 12023,
+    "name": "Lydia J. Harmon",
+    "children": []
+  }
+}

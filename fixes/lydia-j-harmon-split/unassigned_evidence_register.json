@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-27",
+  "detached_from_person_id": 9928,
+  "detached_relationships": [
+    {
+      "certainty": "confirmed",
+      "evidence_text": "GEDCOM Family tree linkage",
+      "id": 2428,
+      "person_a_id": 9928,
+      "person_b_id": 9931,
+      "reciprocal_row": {
+        "certainty": "confirmed",
+        "evidence_text": "Davis Family Tree GEDCOM parent-child record",
+        "id": 31492,
+        "person_a_id": 9931,
+        "person_b_id": 9928,
+        "relationship_type": "parent_of"
+      },
+      "relationship_type": "child_of"
+    },
+    {
+      "certainty": "confirmed",
+      "evidence_text": "GEDCOM Family tree linkage",
+      "id": 2429,
+      "person_a_id": 9928,
+      "person_b_id": 8860,
+      "reciprocal_row": null,
+      "relationship_type": "child_of"
+    }
+  ],
+  "note": "Parentage held as a couple: Raymond Harmon (9931) and Hattie Miller (8860), recorded as parents of Lydia on profile 9928, fit neither the 1776-1851 woman who keeps 9928 nor the 1848-1927 woman split off to her own profile. Detached under the 2026-11-22 ruling, not deleted; may belong to a Lydia not yet in the archive.",
+  "package": "lydia-j-harmon-split"
+}

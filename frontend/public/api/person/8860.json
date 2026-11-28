@@ -238,14 +238,6 @@
       "role": "child",
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
-      "rel_id": 9928,
-      "rel_name": "Lydia J Harmon"
-    },
-    {
-      "relationship_type": "parent_of",
-      "role": "child",
-      "evidence_text": "GEDCOM Family tree linkage",
-      "certainty": "confirmed",
       "rel_id": 9929,
       "rel_name": "Ella J Harmon"
     },
