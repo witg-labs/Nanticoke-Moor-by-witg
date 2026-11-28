@@ -8,13 +8,13 @@
     "married_last_name": "Morris",
     "evidence_level": 3,
     "source_page": "Davis Family Tree.ged",
-    "birth_info": "5 Mar 1937 Delaware, USA",
-    "death_info": "1971 Residence",
-    "notes": "",
+    "birth_info": "27 Sep 1939",
+    "death_info": "26 Apr 1983 (aged 43)",
+    "notes": "[Correction, alberta-morris-correction package 2026-11-27: per Jequan Davis's conflation ruling of 2026-11-22, this profile is one woman. Birth 27 Sep 1939 and death 26 Apr 1983 (aged 43) adopted. The GEDCOM birth of 5 Mar 1937 (fact 7798) is flagged superseded and stays visible. The GEDCOM entry '1971 Residence' was a residence note mis-typed as a death; fact 7799 is retyped as a Residence in 1971. Two vital-record citations that quoted the GEDCOM dates were moved onto the GEDCOM facts they describe.]",
     "dataset_source": "davis_family_gedcom",
-    "birth_date": "5 Mar 1937 Delaware, USA",
+    "birth_date": "27 Sep 1939",
     "birth_place": null,
-    "death_date": "1971 Residence",
+    "death_date": "26 Apr 1983 (aged 43)",
     "death_place": null
   },
   "facts": [
@@ -53,15 +53,6 @@
           "source_title": "Record: SterrettParisFamily.htm",
           "source_url": "SterrettParisFamily.htm",
           "source_dataset": "mitsawokett_delaware"
-        },
-        {
-          "citation_id": 30505,
-          "fact_id": 6876,
-          "source_id": 1270,
-          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Alberta Morris, born 5 Mar 1937 Delaware, USA.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
-          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
-          "source_dataset": "delaware_vital_records"
         }
       ]
     },
@@ -81,15 +72,6 @@
           "source_title": "Record: SterrettParisFamily.htm",
           "source_url": "SterrettParisFamily.htm",
           "source_dataset": "mitsawokett_delaware"
-        },
-        {
-          "citation_id": 30506,
-          "fact_id": 6877,
-          "source_id": 1270,
-          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Alberta Morris, deceased 1971 Residence.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
-          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
-          "source_dataset": "delaware_vital_records"
         }
       ]
     },
@@ -128,14 +110,23 @@
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 30505,
+          "fact_id": 7798,
+          "source_id": 1270,
+          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording Alberta Morris, born 5 Mar 1937 Delaware, USA.",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
         }
       ]
     },
     {
       "fact_id": 7799,
       "person_id": 8345,
-      "fact_type": "Death",
-      "date_string": "1971 Residence",
+      "fact_type": "Residence",
+      "date_string": "1971",
       "place_string": null,
       "value_string": null,
       "citations": [
@@ -147,6 +138,15 @@
           "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
           "source_url": "Davis Family Tree.ged",
           "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 30506,
+          "fact_id": 7799,
+          "source_id": 1270,
+          "evidence_text": "Bureau of Vital Statistics, Certificate and Return of Death; Official vital registration recording Alberta Morris, deceased 1971 Residence.",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
         }
       ]
     },
@@ -171,7 +171,7 @@
           "citation_id": 30508,
           "fact_id": 24506,
           "source_id": 862,
-          "evidence_text": "1950 United States Federal Census Schedule; Population schedule enumeration record for Alberta Morris in Delmarva.",
+          "evidence_text": "1950 United States Federal Census Schedule; Population schedule enumeration record for Alberta Morris in Delmarva. [Marked SUPERSEDED by alberta-morris-correction package 2026-11-27: 1950 census citation text sits on the 1940 census fact 24506 and no 1950 census fact exists on this profile (William Jackson 439 precedent, citation 17371).]",
           "source_title": "1950 United States Federal Census",
           "source_url": "43290879-Delaware-072502-0017.jpg",
           "source_dataset": "Delaware Federal Census"
