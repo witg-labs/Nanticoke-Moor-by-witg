@@ -89,3 +89,7 @@ The gate now tests for the removed note line itself ("Verified
 via FindAGrave"), which is what the spec orders removed; the
 memorial number's appearance inside the split note is the spec's
 own text and stays.
+
+## Live run (2026-11-27)
+
+Ran on the live database in the five-package batch: all 17 gates passed, committed, re-exported (3,805 persons, 38 redacted, integrity PASSED), export pushed as 4dfb301b57e7ea5e4f6cafbad2b418f87afb371e. New profiles 12021 (John H Davis) and 12022 (John H Davis (Son of Maurice)). This note was appended by Orbit to retrigger PR checks.
