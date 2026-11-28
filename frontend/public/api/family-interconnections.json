@@ -189,13 +189,6 @@
     "description": "Documented child_of kinship connection between Josephine Harmon and Eliza Jane Morris"
   },
   {
-    "family_a": "Both",
-    "family_b": "Jackson",
-    "tie_type": "Marriage & Kinship Link",
-    "count": 12,
-    "description": "Documented spouse kinship connection between Nora Jackson and Ruth Both"
-  },
-  {
     "family_a": "Elizabeth",
     "family_b": "Wright",
     "tie_type": "Marriage & Kinship Link",
@@ -264,6 +257,13 @@
     "tie_type": "Marriage & Kinship Link",
     "count": 10,
     "description": "Documented spouse kinship connection between Hopewell Umphrey Carter and Burt Schroeder"
+  },
+  {
+    "family_a": "Both",
+    "family_b": "Jackson",
+    "tie_type": "Marriage & Kinship Link",
+    "count": 10,
+    "description": "Documented spouse kinship connection between Nora Jackson and Ruth Both"
   },
   {
     "family_a": "Hughes",

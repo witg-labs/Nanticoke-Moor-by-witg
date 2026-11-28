@@ -174,14 +174,6 @@
       "role": "child",
       "evidence_text": "GEDCOM Family tree linkage",
       "certainty": "confirmed",
-      "rel_id": 439,
-      "rel_name": "William Jackson"
-    },
-    {
-      "relationship_type": "parent_of",
-      "role": "child",
-      "evidence_text": "GEDCOM Family tree linkage",
-      "certainty": "confirmed",
       "rel_id": 9965,
       "rel_name": "Betty Bernice Jackson"
     },
@@ -232,6 +224,14 @@
       "certainty": "confirmed",
       "rel_id": 9963,
       "rel_name": "Arabella B. Wright"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "GEDCOM Family tree linkage",
+      "certainty": "confirmed",
+      "rel_id": 12019,
+      "rel_name": "William Edward Jackson Sr"
     }
   ],
   "photos": [],

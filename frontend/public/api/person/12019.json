@@ -1,0 +1,382 @@
+{
+  "person": {
+    "person_id": 12019,
+    "name": "William Edward Jackson Sr",
+    "first_name": "William",
+    "middle_name": "Edward",
+    "maiden_name": null,
+    "married_last_name": null,
+    "evidence_level": 1,
+    "source_page": "Davis Family Tree.ged",
+    "birth_info": "Oct 1930 (Millsboro, DE)",
+    "death_info": "15 Jul 2003 (Millsboro, DE)",
+    "notes": "[Created by split package 2026-11-27 from profile 439.] William Edward Jackson Sr, called Billy. UNPROVEN profile: split from the conflated William Jackson profile 439 under Jequan Davis's ruling of 2026-11-22, with identity, dates, and family as researched on 2026-11-22 (split research register, item 1). Born Oct 1930 near Millsboro (SSDI-derived listings give 7 Oct 1930; the Mitsawokett family-history pages give 9 Oct 1930; the two-day discrepancy is unresolved, so the birth is carried at month precision). Died 15 Jul 2003 at Millsboro; buried 19 Jul 2003 in Harmony Cemetery, Millsboro. Son of Samuel Jackson and Agnes Beatrice Wright. Married Allece Dorene Clark, daughter of Walter Linford Clark and Arzelia Ellen Morris (no profile for her yet, so no spouse link). His children, named here until their own profiles exist: William E. Jackson Jr., Kevin W. Jackson, and Horace K. Jackson Sr.",
+    "dataset_source": "davis_family_gedcom",
+    "suffix": "Sr",
+    "birth_date": "Oct 1930",
+    "birth_place": "Millsboro, DE",
+    "death_date": "15 Jul 2003",
+    "death_place": "Millsboro, DE"
+  },
+  "facts": [
+    {
+      "fact_id": 10129,
+      "person_id": 12019,
+      "fact_type": "Name",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "William E Jackson",
+      "citations": [
+        {
+          "citation_id": 10123,
+          "fact_id": 10129,
+          "source_id": 622,
+          "evidence_text": null,
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
+          "source_url": "Davis Family Tree.ged",
+          "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 37817,
+          "fact_id": 10129,
+          "source_id": 2711,
+          "evidence_text": "Watson Funeral Home obituary of Betty Bernice (Jackson) Hall: names her parents as Samuel and Agnes Wright Jackson and lists her brother William Jackson among those who predeceased her, consistent with this man's parentage and his 2003 death.",
+          "source_title": "Obituary of Betty Bernice (Jackson) Hall, Watson Funeral Home: names her parents as Samuel and Agnes Wright Jackson and her brother William Jackson among those who predeceased her",
+          "source_url": "",
+          "source_dataset": "funeral_home_obituary"
+        }
+      ]
+    },
+    {
+      "fact_id": 10130,
+      "person_id": 12019,
+      "fact_type": "Birth",
+      "date_string": "Oct 1930",
+      "place_string": "Millsboro, Sussex County, Delaware",
+      "value_string": null,
+      "citations": [
+        {
+          "citation_id": 10124,
+          "fact_id": 10130,
+          "source_id": 622,
+          "evidence_text": null,
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
+          "source_url": "Davis Family Tree.ged",
+          "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 37723,
+          "fact_id": 10130,
+          "source_id": 71,
+          "evidence_text": "...Springs Presbyterian Church in Sussex County where we find that: Jno Jackson , a \"mulatto\", baptised his son William Jackson at St. Georges Chapel on June 15, 1746 and also recorded the birth of his daughter Patience Jackson , born on 25... [Marked SUPERSEDED by william-jackson-split package 2026-11-27: evidence text quotes a 1746 baptism of a different William Jackson; cross-attachment from profile 439's conflation]",
+          "source_title": "Record: jackson.htm",
+          "source_url": "jackson.htm",
+          "source_dataset": "lynncjackson"
+        },
+        {
+          "citation_id": 37724,
+          "fact_id": 10130,
+          "source_id": 1270,
+          "evidence_text": "Civil & Vital Birth Registration; Official vital return recording William Jackson, born 1931. [Marked SUPERSEDED by william-jackson-split package 2026-11-27: vital-registration boilerplate for the William Jackson born 1931 who died in 1971 (profile 439); cross-attached to this man's Birth fact during the conflation]",
+          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
+          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
+          "source_dataset": "delaware_vital_records"
+        },
+        {
+          "citation_id": 37813,
+          "fact_id": 10130,
+          "source_id": 2710,
+          "evidence_text": "SSDI-derived listings: William E Jackson, b. 7 Oct 1930, d. 15 Jul 2003, last residence Millsboro, Delaware (ZIP 19966). Supports an October 1930 birth; the Mitsawokett pages give 9 Oct 1930, so the birth is carried at month precision.",
+          "source_title": "U.S. Social Security Death Index: William E Jackson (1930-2003), Millsboro, Delaware (SSDI-derived listings: b. 7 Oct 1930, d. 15 Jul 2003, last residence ZIP 19966)",
+          "source_url": "",
+          "source_dataset": "social_security_administration"
+        },
+        {
+          "citation_id": 37814,
+          "fact_id": 10130,
+          "source_id": 2712,
+          "evidence_text": "Mitsawokett family-history pages: William Edward Jackson Sr (Billy), b. 9 Oct 1930, son of Samuel Benton Jackson Sr and Agnes Beatrice Wright.",
+          "source_title": "Mitsawokett family-history pages: William Edward Jackson Sr (Billy), son of Samuel Benton Jackson Sr and Agnes Beatrice Wright, husband of Allece Dorene Clark (secondary source)",
+          "source_url": "",
+          "source_dataset": "mitsawokett_primary"
+        },
+        {
+          "citation_id": 37815,
+          "fact_id": 10130,
+          "source_id": 2713,
+          "evidence_text": "Split research register item 1 (2026-11-22): the 2003 Millsboro cluster is a real, coherent man, William Edward Jackson Sr; this profile was created under Jequan Davis's conflation ruling of 2026-11-22.",
+          "source_title": "Statement of Jequan Davis, 2026-11-22 and 2026-11-27, William Jackson conflation ruling and split research register",
+          "source_url": "",
+          "source_dataset": "family_statement"
+        }
+      ]
+    },
+    {
+      "fact_id": 10131,
+      "person_id": 12019,
+      "fact_type": "Death",
+      "date_string": "15 July 2003 Millsboro, Sussex County, Delaware, United States of America",
+      "place_string": null,
+      "value_string": null,
+      "citations": [
+        {
+          "citation_id": 10125,
+          "fact_id": 10131,
+          "source_id": 622,
+          "evidence_text": null,
+          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
+          "source_url": "Davis Family Tree.ged",
+          "source_dataset": "davis_family_gedcom"
+        },
+        {
+          "citation_id": 37816,
+          "fact_id": 10131,
+          "source_id": 2710,
+          "evidence_text": "SSDI-derived listings: William E Jackson, d. 15 Jul 2003, last residence Millsboro, Delaware (ZIP 19966).",
+          "source_title": "U.S. Social Security Death Index: William E Jackson (1930-2003), Millsboro, Delaware (SSDI-derived listings: b. 7 Oct 1930, d. 15 Jul 2003, last residence ZIP 19966)",
+          "source_url": "",
+          "source_dataset": "social_security_administration"
+        }
+      ]
+    },
+    {
+      "fact_id": 28332,
+      "person_id": 12019,
+      "fact_type": "Burial",
+      "date_string": "19 Jul 2003",
+      "place_string": "Harmony Cemetery, Millsboro, Delaware",
+      "value_string": "Buried 19 Jul 2003, Harmony Cemetery, Millsboro (Mitsawokett family-history pages).",
+      "citations": [
+        {
+          "citation_id": 37818,
+          "fact_id": 28332,
+          "source_id": 2712,
+          "evidence_text": "Mitsawokett family-history pages: William Edward Jackson Sr buried 19 Jul 2003, Harmony Cemetery, Millsboro.",
+          "source_title": "Mitsawokett family-history pages: William Edward Jackson Sr (Billy), son of Samuel Benton Jackson Sr and Agnes Beatrice Wright, husband of Allece Dorene Clark (secondary source)",
+          "source_url": "",
+          "source_dataset": "mitsawokett_primary"
+        }
+      ]
+    },
+    {
+      "fact_id": 28333,
+      "person_id": 12019,
+      "fact_type": "Marriage",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Married Allece Dorene Clark, daughter of Walter Linford Clark and Arzelia Ellen Morris (Mitsawokett family-history pages). No marriage date on file; no profile for Allece yet, so no spouse link.",
+      "citations": [
+        {
+          "citation_id": 37819,
+          "fact_id": 28333,
+          "source_id": 2712,
+          "evidence_text": "Mitsawokett family-history pages: William Edward Jackson Sr married Allece Dorene Clark, daughter of Walter Linford Clark and Arzelia Ellen Morris.",
+          "source_title": "Mitsawokett family-history pages: William Edward Jackson Sr (Billy), son of Samuel Benton Jackson Sr and Agnes Beatrice Wright, husband of Allece Dorene Clark (secondary source)",
+          "source_url": "",
+          "source_dataset": "mitsawokett_primary"
+        }
+      ]
+    },
+    {
+      "fact_id": 28334,
+      "person_id": 12019,
+      "fact_type": "Nickname",
+      "date_string": null,
+      "place_string": null,
+      "value_string": "Billy",
+      "citations": [
+        {
+          "citation_id": 37820,
+          "fact_id": 28334,
+          "source_id": 2712,
+          "evidence_text": "Mitsawokett family-history pages: William Edward Jackson Sr was known as Billy.",
+          "source_title": "Mitsawokett family-history pages: William Edward Jackson Sr (Billy), son of Samuel Benton Jackson Sr and Agnes Beatrice Wright, husband of Allece Dorene Clark (secondary source)",
+          "source_url": "",
+          "source_dataset": "mitsawokett_primary"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "1940 US Federal Census household of Samuel Jackson names son William E Jackson, age 9; split research register (2026-11-22) identifies this man as the son of Samuel Benton Jackson Sr.",
+      "certainty": "census_and_research",
+      "rel_id": 10725,
+      "rel_name": "Samuel Jackson"
+    },
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "GEDCOM Family tree linkage",
+      "certainty": "confirmed",
+      "rel_id": 9964,
+      "rel_name": "Agnes Beatrice Wright"
+    }
+  ],
+  "photos": [],
+  "obituaries": [],
+  "audit_flags": [],
+  "ancestry": {
+    "id": 12019,
+    "name": "William Edward Jackson Sr",
+    "children": [
+      {
+        "id": 10725,
+        "name": "Samuel Jackson",
+        "children": []
+      },
+      {
+        "id": 9964,
+        "name": "Agnes Beatrice Wright",
+        "children": [
+          {
+            "id": 9963,
+            "name": "Arabella B. Wright",
+            "children": [
+              {
+                "id": 9936,
+                "name": "Sarah Adeline Hanzer",
+                "children": [
+                  {
+                    "id": 9096,
+                    "name": "John C Hanzer",
+                    "children": [
+                      {
+                        "id": 9969,
+                        "name": "Jacob Hanzer Jr",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 9940,
+                    "name": "Sophia J. Hanzer",
+                    "children": [
+                      {
+                        "id": 10122,
+                        "name": "John R. Harmon",
+                        "children": []
+                      },
+                      {
+                        "id": 10123,
+                        "name": "Lavinia Lovinia Sammons",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 9936,
+                "name": "Sarah Adeline Hanzer",
+                "children": [
+                  {
+                    "id": 9096,
+                    "name": "John C Hanzer",
+                    "children": [
+                      {
+                        "id": 9969,
+                        "name": "Jacob Hanzer Jr",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 9940,
+                    "name": "Sophia J. Hanzer",
+                    "children": [
+                      {
+                        "id": 10122,
+                        "name": "John R. Harmon",
+                        "children": []
+                      },
+                      {
+                        "id": 10123,
+                        "name": "Lavinia Lovinia Sammons",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 9963,
+            "name": "Arabella B. Wright",
+            "children": [
+              {
+                "id": 9936,
+                "name": "Sarah Adeline Hanzer",
+                "children": [
+                  {
+                    "id": 9096,
+                    "name": "John C Hanzer",
+                    "children": [
+                      {
+                        "id": 9969,
+                        "name": "Jacob Hanzer Jr",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 9940,
+                    "name": "Sophia J. Hanzer",
+                    "children": [
+                      {
+                        "id": 10122,
+                        "name": "John R. Harmon",
+                        "children": []
+                      },
+                      {
+                        "id": 10123,
+                        "name": "Lavinia Lovinia Sammons",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 9936,
+                "name": "Sarah Adeline Hanzer",
+                "children": [
+                  {
+                    "id": 9096,
+                    "name": "John C Hanzer",
+                    "children": [
+                      {
+                        "id": 9969,
+                        "name": "Jacob Hanzer Jr",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 9940,
+                    "name": "Sophia J. Hanzer",
+                    "children": [
+                      {
+                        "id": 10122,
+                        "name": "John R. Harmon",
+                        "children": []
+                      },
+                      {
+                        "id": 10123,
+                        "name": "Lavinia Lovinia Sammons",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

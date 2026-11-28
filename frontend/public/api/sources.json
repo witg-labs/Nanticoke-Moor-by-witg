@@ -16132,5 +16132,29 @@
     "title": "Funeral program of Sheila K. Davis (Watson Funeral Home, 2010), supplied by Jequan Davis",
     "url": "",
     "dataset": "funeral_program"
+  },
+  {
+    "source_id": 2710,
+    "title": "U.S. Social Security Death Index: William E Jackson (1930-2003), Millsboro, Delaware (SSDI-derived listings: b. 7 Oct 1930, d. 15 Jul 2003, last residence ZIP 19966)",
+    "url": "",
+    "dataset": "social_security_administration"
+  },
+  {
+    "source_id": 2711,
+    "title": "Obituary of Betty Bernice (Jackson) Hall, Watson Funeral Home: names her parents as Samuel and Agnes Wright Jackson and her brother William Jackson among those who predeceased her",
+    "url": "",
+    "dataset": "funeral_home_obituary"
+  },
+  {
+    "source_id": 2712,
+    "title": "Mitsawokett family-history pages: William Edward Jackson Sr (Billy), son of Samuel Benton Jackson Sr and Agnes Beatrice Wright, husband of Allece Dorene Clark (secondary source)",
+    "url": "",
+    "dataset": "mitsawokett_primary"
+  },
+  {
+    "source_id": 2713,
+    "title": "Statement of Jequan Davis, 2026-11-22 and 2026-11-27, William Jackson conflation ruling and split research register",
+    "url": "",
+    "dataset": "family_statement"
   }
 ]

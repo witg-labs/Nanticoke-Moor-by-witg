@@ -344,6 +344,14 @@
       "certainty": "census_confirmed",
       "rel_id": 9564,
       "rel_name": "Robert Jackson"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "1940 US Federal Census household of Samuel Jackson names son William E Jackson, age 9; split research register (2026-11-22) identifies this man as the son of Samuel Benton Jackson Sr.",
+      "certainty": "census_and_research",
+      "rel_id": 12019,
+      "rel_name": "William Edward Jackson Sr"
     }
   ],
   "photos": [],
