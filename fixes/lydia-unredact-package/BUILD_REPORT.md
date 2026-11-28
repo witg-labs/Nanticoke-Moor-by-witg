@@ -33,7 +33,7 @@ before the current package series.
   treatment as the obituary-dates batch, so her profile is clean
   when it appears.
 - Nothing else: no facts, fields, sources, or relationships
-  change. Persons 3,801 and sources 2,690 unchanged.
+  change. Persons 3,801 and sources 2,689 unchanged.
 
 Expected export after the run: living-redacted count 39 -> 38;
 person/9334.json shows birth_info "abt 1790", her five facts
@@ -43,7 +43,7 @@ the obituary-dates conflict append.
 
 ## Simulation proof (2026-11-27, local harness, not shipped)
 
-Mock carried 3,801 persons, 2,690 sources, and Lydia's exact
+Mock carried 3,801 persons, 2,689 sources, and Lydia's exact
 post-obituary-dates shape (five facts 8704/8705/8706/25218/25219;
 notes seeded with the trigger phrase twice plus "lived"
 instances and the conflict append). Harness 13/13 PASS: fresh run
@@ -51,3 +51,5 @@ commits with all 9 in-script gates green and the rest of the
 notes byte-identical; second run is a true no-op; a mock with an
 additional unrelated "living" instance ("living descendants")
 aborts with exit 3 and leaves the notes untouched, as designed.
+
+Correction (2026-11-27, after the first live run aborted cleanly on the pre-state gate): the expected sources count was written as 2,690, derived from the highest source IDs created that day; the audited figure is 2,689 (2,683 before the obituary-dates package plus its six new sources; the 1850 census source already existed). The script aborted before any change, exactly as designed; the database was verified unchanged by hash. Spec corrected and re-pushed.
