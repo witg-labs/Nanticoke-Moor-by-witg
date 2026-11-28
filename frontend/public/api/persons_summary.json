@@ -3269,11 +3269,11 @@
     "birth_place": "1931",
     "death_place": "10 Dec 1971 (aged 39\u201340)",
     "dataset": "lynncjackson",
-    "has_photo": true,
-    "primary_photo": "assets/archive_media/people/Murray_William_And_Sister_Lena_Harmon_Jackson_2.jpg",
+    "has_photo": false,
+    "primary_photo": null,
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 5
+    "connections_count": 2
   },
   {
     "id": 443,
@@ -58317,7 +58317,7 @@
     "primary_photo": null,
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 17
+    "connections_count": 18
   },
   {
     "id": 10727,
@@ -66021,7 +66021,7 @@
     "primary_photo": null,
     "has_obituary": false,
     "has_citations": true,
-    "connections_count": 28
+    "connections_count": 26
   },
   {
     "id": 11883,
@@ -68410,6 +68410,24 @@
     "state": "Maryland",
     "birth_place": "unknown",
     "death_place": "unknown",
+    "dataset": "davis_family_gedcom",
+    "has_photo": false,
+    "primary_photo": null,
+    "has_obituary": false,
+    "has_citations": true,
+    "connections_count": 2
+  },
+  {
+    "id": 12019,
+    "name": "William Edward Jackson Sr",
+    "surname": "Jackson",
+    "birth": "Oct 1930 (Millsboro, DE)",
+    "death": "15 Jul 2003 (Millsboro, DE)",
+    "birth_year": 1930,
+    "death_year": 2003,
+    "state": "Delaware",
+    "birth_place": "Oct 1930 (Millsboro, DE)",
+    "death_place": "15 Jul 2003 (Millsboro, DE)",
     "dataset": "davis_family_gedcom",
     "has_photo": false,
     "primary_photo": null,

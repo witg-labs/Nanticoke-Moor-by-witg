@@ -1,6 +1,6 @@
 {
   "surname": "Jackson",
-  "individual_count": 117,
+  "individual_count": 118,
   "photo_count": 101,
   "category_counts": {
     "documents": 5,
@@ -2706,6 +2706,18 @@
       "photo_count": 0
     },
     {
+      "person_id": 12019,
+      "name": "William Edward Jackson Sr",
+      "first_name": "William",
+      "middle_name": "Edward",
+      "maiden_name": null,
+      "married_last_name": null,
+      "birth_info": "Oct 1930 (Millsboro, DE)",
+      "death_info": "15 Jul 2003 (Millsboro, DE)",
+      "notes": "[Created by split package 2026-11-27 from profile 439.] William Edward Jackson Sr, called Billy. UNPROVEN profile: split from the conflated William Jackson profile 439 under Jequan Davis's ruling of 2026-11-22, with identity, dates, and family as researched on 2026-11-22 (split research register, item 1). Born Oct 1930 near Millsboro (SSDI-derived listings give 7 Oct 1930; the Mitsawokett family-history pages give 9 Oct 1930; the two-day discrepancy is unresolved, so the birth is carried at month precision). Died 15 Jul 2003 at Millsboro; buried 19 Jul 2003 in Harmony Cemetery, Millsboro. Son of Samuel Jackson and Agnes Beatrice Wright. Married Allece Dorene Clark, daughter of Walter Linford Clark and Arzelia Ellen Morris (no profile for her yet, so no spouse link). His children, named here until their own profiles exist: William E. Jackson Jr., Kevin W. Jackson, and Horace K. Jackson Sr.",
+      "photo_count": 0
+    },
+    {
       "person_id": 439,
       "name": "William Jackson",
       "first_name": "William",
@@ -2714,8 +2726,8 @@
       "married_last_name": "Jackson",
       "birth_info": "1931",
       "death_info": "10 Dec 1971 (aged 39\u201340)",
-      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/20455435/william-jackson",
-      "photo_count": 1
+      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/20455435/william-jackson\n[Correction, william-jackson-split package 2026-11-27: this profile is William Jackson (b. 1931, d. 10 Dec 1971), son of Samuel and Agnes Jackson, per Jequan Davis's conflation ruling of 2026-11-22. The GEDCOM-only cluster for a second man, William Edward Jackson Sr (b. Oct 1930, d. 15 Jul 2003, Millsboro), was moved to its own profile. All pre-1931 same-name material formerly attached here (records spanning 1746-1989, including the 1893 marriage to Ruth Both) was detached to the package's unassigned-evidence register with its citations intact; none of it described this man's life.]",
+      "photo_count": 0
     },
     {
       "person_id": 9570,

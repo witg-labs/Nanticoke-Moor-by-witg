@@ -151,14 +151,6 @@
     {
       "relationship_type": "spouse_of",
       "role": "spouse",
-      "evidence_text": "Documented Marriage: William Jackson married Ruth Both (married Ruth both are buried at the Jackson/Perkins Cemetary   Mattie Jackson   Nora Jackson (April 5, 1893 -Nov)",
-      "certainty": "confirmed",
-      "rel_id": 439,
-      "rel_name": "William Jackson"
-    },
-    {
-      "relationship_type": "spouse_of",
-      "role": "spouse",
       "evidence_text": "Documented Marriage: William Ruth married Ruth Both (married Ruth both are buried at the Jackson/Perkins Cemetary   Mattie Jackson   Nora Jackson (April 5, 1893 -Nov)",
       "certainty": "confirmed",
       "rel_id": 2225,

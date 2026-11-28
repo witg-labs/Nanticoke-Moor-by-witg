@@ -1,0 +1,392 @@
+{
+  "detach_facts": [
+    {
+      "date_string": "April 5, 1893",
+      "fact_id": 11755,
+      "fact_type": "Marriage"
+    },
+    {
+      "date_string": "April 5, 1893",
+      "fact_id": 12470,
+      "fact_type": "Marriage"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12532,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12536,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12658,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12677,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12710,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12749,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12773,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12777,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12884,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 12886,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 13031,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 13047,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 13564,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 13571,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 13795,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 13813,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 13815,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 15206,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": null,
+      "fact_id": 15246,
+      "fact_type": "Document Mention"
+    },
+    {
+      "date_string": "1850",
+      "fact_id": 15667,
+      "fact_type": "Racial Classification"
+    },
+    {
+      "date_string": "1850",
+      "fact_id": 15669,
+      "fact_type": "Racial Classification"
+    },
+    {
+      "date_string": "1860",
+      "fact_id": 15769,
+      "fact_type": "Racial Classification"
+    },
+    {
+      "date_string": "1860",
+      "fact_id": 15771,
+      "fact_type": "Racial Classification"
+    },
+    {
+      "date_string": "1840",
+      "fact_id": 15939,
+      "fact_type": "Racial Classification"
+    },
+    {
+      "date_string": "1840",
+      "fact_id": 15941,
+      "fact_type": "Racial Classification"
+    }
+  ],
+  "expected_post_state": {
+    "persons": 3802,
+    "sources": 2693
+  },
+  "expected_pre_state": {
+    "persons": 3801,
+    "sources": 2689
+  },
+  "move_facts": [
+    {
+      "date_string": null,
+      "fact_id": 10129,
+      "fact_type": "Name"
+    },
+    {
+      "date_string": "abt 1931 Delaware",
+      "fact_id": 10130,
+      "fact_type": "Birth"
+    },
+    {
+      "date_string": "15 July 2003 Millsboro, Sussex County, Delaware, United States of America",
+      "fact_id": 10131,
+      "fact_type": "Death"
+    }
+  ],
+  "new_profile": {
+    "birth_correction": {
+      "date_string": "Oct 1930",
+      "fact_id": 10130,
+      "place_string": "Millsboro, Sussex County, Delaware"
+    },
+    "birth_info": "Oct 1930 (Millsboro, DE)",
+    "dataset_source": "davis_family_gedcom",
+    "death_info": "15 Jul 2003 (Millsboro, DE)",
+    "evidence_level_from_person": 12007,
+    "extra_citations": [
+      {
+        "fact_id": 10130,
+        "source_keys": [
+          "ssdi",
+          "mitsawokett",
+          "statement"
+        ]
+      },
+      {
+        "fact_id": 10131,
+        "source_keys": [
+          "ssdi"
+        ]
+      },
+      {
+        "fact_id": 10129,
+        "source_keys": [
+          "hall_obit"
+        ]
+      }
+    ],
+    "first_name": "William",
+    "middle_name": "Edward",
+    "name": "William Edward Jackson Sr",
+    "new_facts": [
+      {
+        "cite_source_keys": [
+          "mitsawokett"
+        ],
+        "date_string": "19 Jul 2003",
+        "fact_type": "Burial",
+        "place_string": "Harmony Cemetery, Millsboro, Delaware",
+        "value_string": "Buried 19 Jul 2003, Harmony Cemetery, Millsboro (Mitsawokett family-history pages)."
+      },
+      {
+        "cite_source_keys": [
+          "mitsawokett"
+        ],
+        "date_string": null,
+        "fact_type": "Marriage",
+        "place_string": null,
+        "value_string": "Married Allece Dorene Clark, daughter of Walter Linford Clark and Arzelia Ellen Morris (Mitsawokett family-history pages). No marriage date on file; no profile for Allece yet, so no spouse link."
+      },
+      {
+        "cite_source_keys": [
+          "mitsawokett"
+        ],
+        "date_string": null,
+        "fact_type": "Nickname",
+        "place_string": null,
+        "value_string": "Billy"
+      }
+    ],
+    "notes": "[Created by split package 2026-11-27 from profile 439.] William Edward Jackson Sr, called Billy. UNPROVEN profile: split from the conflated William Jackson profile 439 under Jequan Davis's ruling of 2026-11-22, with identity, dates, and family as researched on 2026-11-22 (split research register, item 1). Born Oct 1930 near Millsboro (SSDI-derived listings give 7 Oct 1930; the Mitsawokett family-history pages give 9 Oct 1930; the two-day discrepancy is unresolved, so the birth is carried at month precision). Died 15 Jul 2003 at Millsboro; buried 19 Jul 2003 in Harmony Cemetery, Millsboro. Son of Samuel Jackson and Agnes Beatrice Wright. Married Allece Dorene Clark, daughter of Walter Linford Clark and Arzelia Ellen Morris (no profile for her yet, so no spouse link). His children, named here until their own profiles exist: William E. Jackson Jr., Kevin W. Jackson, and Horace K. Jackson Sr.",
+    "parents": [
+      {
+        "expected_name": "Samuel Jackson",
+        "person_b_id": 10725
+      },
+      {
+        "expected_name": "Agnes Beatrice Wright",
+        "person_b_id": 9964
+      }
+    ],
+    "source_page": "Davis Family Tree.ged",
+    "suffix": "Sr"
+  },
+  "new_sources": [
+    {
+      "dataset_from_source": 1281,
+      "key": "ssdi",
+      "title": "U.S. Social Security Death Index: William E Jackson (1930-2003), Millsboro, Delaware (SSDI-derived listings: b. 7 Oct 1930, d. 15 Jul 2003, last residence ZIP 19966)",
+      "url": ""
+    },
+    {
+      "dataset": "funeral_home_obituary",
+      "key": "hall_obit",
+      "title": "Obituary of Betty Bernice (Jackson) Hall, Watson Funeral Home: names her parents as Samuel and Agnes Wright Jackson and her brother William Jackson among those who predeceased her",
+      "url": ""
+    },
+    {
+      "dataset_from_source": 682,
+      "key": "mitsawokett",
+      "title": "Mitsawokett family-history pages: William Edward Jackson Sr (Billy), son of Samuel Benton Jackson Sr and Agnes Beatrice Wright, husband of Allece Dorene Clark (secondary source)",
+      "url": ""
+    },
+    {
+      "dataset_from_source": 2702,
+      "key": "statement",
+      "title": "Statement of Jequan Davis, 2026-11-22 and 2026-11-27, William Jackson conflation ruling and split research register",
+      "url": ""
+    }
+  ],
+  "package": "william-jackson-split",
+  "person_439": {
+    "expected_birth_info": "1931",
+    "expected_death_info": "10 Dec 1971 (aged 39\u201340)",
+    "facts_total": 36,
+    "keep_facts": [
+      {
+        "date_string": null,
+        "fact_id": 718,
+        "fact_type": "Name"
+      },
+      {
+        "date_string": "1931",
+        "fact_id": 719,
+        "fact_type": "Birth"
+      },
+      {
+        "date_string": "10 Dec 1971 (aged 39\u201340)",
+        "fact_id": 720,
+        "fact_type": "Death"
+      },
+      {
+        "date_string": "1940",
+        "fact_id": 16088,
+        "fact_type": "Census"
+      },
+      {
+        "date_string": "10 Dec 1971 (aged 39\u201340)",
+        "fact_id": 16712,
+        "fact_type": "Burial"
+      },
+      {
+        "date_string": "1931",
+        "fact_id": 16713,
+        "fact_type": "Social Security Application"
+      }
+    ],
+    "name": "William Jackson",
+    "notes_append": "[Correction, william-jackson-split package 2026-11-27: this profile is William Jackson (b. 1931, d. 10 Dec 1971), son of Samuel and Agnes Jackson, per Jequan Davis's conflation ruling of 2026-11-22. The GEDCOM-only cluster for a second man, William Edward Jackson Sr (b. Oct 1930, d. 15 Jul 2003, Millsboro), was moved to its own profile. All pre-1931 same-name material formerly attached here (records spanning 1746-1989, including the 1893 marriage to Ruth Both) was detached to the package's unassigned-evidence register with its citations intact; none of it described this man's life.]",
+    "notes_marker": "[Correction, william-jackson-split package 2026-11-27:",
+    "person_id": 439,
+    "relationships_expected": [
+      {
+        "person_b_id": 10725,
+        "relationship_type": "child_of"
+      },
+      {
+        "person_b_id": 9964,
+        "relationship_type": "child_of"
+      },
+      {
+        "person_b_id": 11663,
+        "relationship_type": "child_of"
+      },
+      {
+        "person_b_id": 11882,
+        "relationship_type": "spouse"
+      },
+      {
+        "person_b_id": 368,
+        "relationship_type": "cross_dataset_match"
+      }
+    ],
+    "relationships_final": [
+      {
+        "person_b_id": 10725,
+        "relationship_type": "child_of"
+      },
+      {
+        "person_b_id": 11663,
+        "relationship_type": "child_of"
+      },
+      {
+        "person_b_id": 368,
+        "relationship_type": "cross_dataset_match"
+      }
+    ]
+  },
+  "relationships_remove_from_439": [
+    {
+      "disposition": "moved_to_new_profile",
+      "person_b_id": 9964,
+      "relationship_type": "child_of"
+    },
+    {
+      "disposition": "register",
+      "person_b_id": 11882,
+      "reciprocal": true,
+      "relationship_type": "spouse"
+    }
+  ],
+  "run_date": "2026-11-27",
+  "supersede_citations": [
+    {
+      "citation_id": 718,
+      "fact_id": 718,
+      "reason": "evidence text quotes a 1746 baptism of a different William Jackson (jackson.htm narrative); cross-attachment from the conflated import"
+    },
+    {
+      "citation_id": 719,
+      "fact_id": 719,
+      "reason": "evidence text quotes a 1746 baptism of a different William Jackson; this Birth fact rests on citation 17368 (vital registration, born 1931)"
+    },
+    {
+      "citation_id": 720,
+      "fact_id": 720,
+      "reason": "evidence text quotes a 1746 baptism of a different William Jackson; this Death fact rests on citation 17369 (death registration, 10 Dec 1971)"
+    },
+    {
+      "citation_id": 17371,
+      "fact_id": 16088,
+      "reason": "1950 census boilerplate attached to the 1940 census fact during import; does not quote the 1940 Samuel Jackson household"
+    },
+    {
+      "citation_id": 37723,
+      "fact_id": 10130,
+      "reason": "evidence text quotes a 1746 baptism of a different William Jackson; cross-attachment from profile 439's conflation"
+    },
+    {
+      "citation_id": 37724,
+      "fact_id": 10130,
+      "reason": "vital-registration boilerplate for the William Jackson born 1931 who died in 1971 (profile 439); cross-attached to this man's Birth fact during the conflation"
+    }
+  ]
+}
