@@ -212,6 +212,14 @@
       "certainty": "confirmed",
       "rel_id": 2646,
       "rel_name": "Hershel Davis"
+    },
+    {
+      "relationship_type": "parent_of",
+      "role": "child",
+      "evidence_text": "1900 US Federal Census, Indian River Hundred: John H Davis, Son, age 11, in the household of Maurice Davis (Head). The head is Morris Davis (12006), husband of Hester A. Morris Davis; the household's other children (Bertha M, Stephen F, Charley M) are profiled as their children.",
+      "certainty": "census_confirmed",
+      "rel_id": 12022,
+      "rel_name": "John H Davis (Son of Maurice)"
     }
   ],
   "photos": [],

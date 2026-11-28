@@ -240,7 +240,7 @@
       "approximate_year": "",
       "document_type": "group_photo",
       "transcription": null,
-      "person_id": 9561,
+      "person_id": null,
       "person_name": "John S Thompson"
     },
     {
@@ -999,8 +999,8 @@
       "married_last_name": "Thompson",
       "birth_info": "9 February 1928 Stockley, Sussex County, Delaware, United States of America",
       "death_info": "12 July 1930 Georgetown, Sussex County, Delaware, United States of America",
-      "notes": "",
-      "photo_count": 2
+      "notes": "[Correction, john-s-thompson-cleanup package 2026-11-27: per Jequan Davis's conflation ruling of 2026-11-22, this profile is one child (b. 9 Feb 1928 Stockley, d. 12 Jul 1930 Georgetown); the 'abt 1927' birth fact is a precision variant of the same birth, and its vital-record citation quotes the 1928 date. The undated marriage fact 25365, impossible for a child who died aged 2, was detached to the package's unassigned-evidence register. The two Mitsawokett group photos (2366 'Thompson John & Sarah', 2368 'Thompson John Family'), which show an adult John Thompson and do not fit this child, were detached to the unidentified-photo pool.]",
+      "photo_count": 0
     },
     {
       "person_id": 10302,

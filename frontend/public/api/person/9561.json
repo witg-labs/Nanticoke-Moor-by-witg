@@ -10,7 +10,7 @@
     "source_page": "Davis Family Tree.ged",
     "birth_info": "9 February 1928 Stockley, Sussex County, Delaware, United States of America",
     "death_info": "12 July 1930 Georgetown, Sussex County, Delaware, United States of America",
-    "notes": "",
+    "notes": "[Correction, john-s-thompson-cleanup package 2026-11-27: per Jequan Davis's conflation ruling of 2026-11-22, this profile is one child (b. 9 Feb 1928 Stockley, d. 12 Jul 1930 Georgetown); the 'abt 1927' birth fact is a precision variant of the same birth, and its vital-record citation quotes the 1928 date. The undated marriage fact 25365, impossible for a child who died aged 2, was detached to the package's unassigned-evidence register. The two Mitsawokett group photos (2366 'Thompson John & Sarah', 2368 'Thompson John Family'), which show an adult John Thompson and do not fit this child, were detached to the unidentified-photo pool.]",
     "dataset_source": "davis_family_gedcom",
     "birth_date": "9 February 1928 Stockley, Sussex County, Delaware, United States of America",
     "birth_place": null,
@@ -177,25 +177,6 @@
           "source_dataset": "Delaware Federal Census"
         }
       ]
-    },
-    {
-      "fact_id": 25365,
-      "person_id": 9561,
-      "fact_type": "Marriage",
-      "date_string": null,
-      "place_string": "Delaware",
-      "value_string": "Marriage record documented for John S Thompson",
-      "citations": [
-        {
-          "citation_id": 32398,
-          "fact_id": 25365,
-          "source_id": 1270,
-          "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for John S Thompson.",
-          "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
-          "source_url": "https://archives.delaware.gov/delaware-vital-records/",
-          "source_dataset": "delaware_vital_records"
-        }
-      ]
     }
   ],
   "relationships": [
@@ -216,44 +197,7 @@
       "rel_name": "Martha E Thompson"
     }
   ],
-  "photos": [
-    {
-      "person_id": 9561,
-      "photo_id": 2366,
-      "category": "people",
-      "title_or_caption": "Thompson_John_And_Sarah.jpg",
-      "subject_names": "Thompson John & Sarah",
-      "married_surname": "Thompson",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/people/Thompson_John_And_Sarah.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "group_photo",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 1,
-      "face_context": "primary_subject",
-      "routing_target": "photos"
-    },
-    {
-      "person_id": 9561,
-      "photo_id": 2368,
-      "category": "people",
-      "title_or_caption": "Thompson_John_Family.jpg",
-      "subject_names": "Thompson John Family",
-      "married_surname": "Thompson",
-      "approximate_year": "",
-      "local_image_path": "assets/archive_media/people/Thompson_John_Family.jpg",
-      "source_url": "",
-      "dataset_source": "mitsawokett",
-      "document_type": "family_tree",
-      "asset_type": "photograph",
-      "subtype": "group_portrait",
-      "contains_face": 0,
-      "face_context": "none",
-      "routing_target": "photos"
-    }
-  ],
+  "photos": [],
   "obituaries": [],
   "audit_flags": [
     {

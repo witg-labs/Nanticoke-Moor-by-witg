@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-27",
+  "detached_facts": [
+    {
+      "citations": [
+        {
+          "citation_id": 32398,
+          "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for John S Thompson.",
+          "fact_id": 25365,
+          "source_id": 1270
+        }
+      ],
+      "date_string": null,
+      "fact_id": 25365,
+      "fact_type": "Marriage",
+      "person_id": 9561,
+      "place_id": null,
+      "place_string": "Delaware",
+      "value_string": "Marriage record documented for John S Thompson"
+    }
+  ],
+  "detached_from_person_id": 9561,
+  "detached_photos": [
+    {
+      "person_photos_rows": [
+        {
+          "confidence_score": 1.0,
+          "id": 205592,
+          "is_primary": 1,
+          "person_id": 9561,
+          "photo_id": 2366
+        }
+      ],
+      "photo_catalog_row": {
+        "approximate_year": "",
+        "asset_type": "photograph",
+        "canonical_photo_id": 2366,
+        "category": "people",
+        "confidence_score": 1.0,
+        "contains_face": 1,
+        "created_at": "2026-09-02 22:11:52",
+        "dataset_source": "mitsawokett",
+        "dates_mentioned": "[]",
+        "dedup_type": "canonical",
+        "document_type": "group_photo",
+        "duplicate_cluster_id": "cluster_ea893264303b",
+        "face_context": "primary_subject",
+        "file_size_bytes": 30695,
+        "flag_for_human_review": 0,
+        "given_names": "John And Sarah",
+        "is_primary_copy": 1,
+        "local_image_path": "assets/archive_media/people/Thompson_John_And_Sarah.jpg",
+        "mime_type": "image/jpeg",
+        "normalized_filename": "Thompson_John_And_Sarah.jpg",
+        "original_filename": "mitsawokett_ThompsonJohn&Sarah.jpg",
+        "photo_id": 2366,
+        "primary_person_id": 9561,
+        "primary_person_name": "John S Thompson",
+        "routing_target": "photos",
+        "sha256_hash": "ea893264303bfe106f5254fc16b48f59e151e17bf9e6ccb6d96b60ed7ccd2a1a",
+        "source_url": "",
+        "subject_names": "Thompson John & Sarah",
+        "subtype": "group_portrait",
+        "surname": "Thompson",
+        "transcription": null
+      },
+      "photo_id": 2366
+    },
+    {
+      "person_photos_rows": [
+        {
+          "confidence_score": 1.0,
+          "id": 205973,
+          "is_primary": 0,
+          "person_id": 9561,
+          "photo_id": 2368
+        }
+      ],
+      "photo_catalog_row": {
+        "approximate_year": "",
+        "asset_type": "photograph",
+        "canonical_photo_id": 2368,
+        "category": "people",
+        "confidence_score": 1.0,
+        "contains_face": 0,
+        "created_at": "2026-09-02 22:11:52",
+        "dataset_source": "mitsawokett",
+        "dates_mentioned": "[]",
+        "dedup_type": "canonical",
+        "document_type": "family_tree",
+        "duplicate_cluster_id": null,
+        "face_context": "none",
+        "file_size_bytes": 66613,
+        "flag_for_human_review": 0,
+        "given_names": "John Family",
+        "is_primary_copy": 1,
+        "local_image_path": "assets/archive_media/people/Thompson_John_Family.jpg",
+        "mime_type": "image/jpeg",
+        "normalized_filename": "Thompson_John_Family.jpg",
+        "original_filename": "mitsawokett_ThompsonJohnFamily.jpg",
+        "photo_id": 2368,
+        "primary_person_id": 8679,
+        "primary_person_name": "John W Thompson",
+        "routing_target": "photos",
+        "sha256_hash": "f7e57a339d8414e2b40c644e20ba747c3146bb5d148849cb83117c8e44559343",
+        "source_url": "",
+        "subject_names": "Thompson John Family",
+        "subtype": "group_portrait",
+        "surname": "Thompson",
+        "transcription": null
+      },
+      "photo_id": 2368
+    }
+  ],
+  "package": "john-s-thompson-cleanup"
+}
