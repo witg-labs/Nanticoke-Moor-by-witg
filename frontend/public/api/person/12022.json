@@ -1,0 +1,232 @@
+{
+  "person": {
+    "person_id": 12022,
+    "name": "John H Davis (Son of Maurice)",
+    "first_name": "John",
+    "middle_name": "H",
+    "maiden_name": null,
+    "married_last_name": null,
+    "evidence_level": 1,
+    "source_page": "Davis Family Tree.ged",
+    "birth_info": "abt 1889",
+    "death_info": "unknown",
+    "notes": "[Created by split package 2026-11-27 from profile 8890.] John H Davis, b. abt 1889, son of Morris Davis (12006) and Hester A. Morris Davis (11247). Split off profile 8890 under Jequan Davis's conflation ruling of 2026-11-22 (three-way split). The 1900 census (Indian River Hundred) enumerates him as Son, age 11, in the household of Maurice Davis (Head, age 43) and Hester A Davis (Wife, age 22), with siblings Bertha M, Stephen F, and Charley M, who are profiled as children of Morris Davis and Hester A. Morris Davis; the census head's name 'Maurice' is the same man as Morris Davis (12006), Hester's husband. The two census-document photos formerly on 8890 (the 1900 household and a WWI-era household) belong to this man and moved with him. Flagged unproven beyond the census fact.",
+    "dataset_source": "davis_family_gedcom",
+    "birth_date": "abt 1889",
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null
+  },
+  "facts": [
+    {
+      "fact_id": 15997,
+      "person_id": 12022,
+      "fact_type": "Census",
+      "date_string": "1900",
+      "place_string": "Indian River Hundred, Sussex County, Delaware",
+      "value_string": "1900 US Federal Census: Son, age 11. Household: Maurice Davis (Head, age 43), Hester A Davis (Wife, age 22), Bertha M Davis (Daughter, age 7), Stephen F Davis (Son, age 5), Charley M Davis (Son, age 2), John H Davis (Son, age 11), Leroy Davis (Nephew, age 4)",
+      "citations": [
+        {
+          "citation_id": 14807,
+          "fact_id": 15997,
+          "source_id": 857,
+          "evidence_text": "1900 United States Federal Census, Delaware, Indian River, Sussex, Delaware. Dwelling record #33808674",
+          "source_title": "1900 United States Federal Census",
+          "source_url": "4119668_00216.jpg",
+          "source_dataset": "Delaware Federal Census"
+        },
+        {
+          "citation_id": 31528,
+          "fact_id": 15997,
+          "source_id": 1275,
+          "evidence_text": "1790 United States Federal Census Schedule; Population schedule enumeration record for John H Davis in Delmarva. [Marked SUPERSEDED by john-h-davis-split package 2026-11-27: 1790 census citation text sits on the 1900 census fact. Generic boilerplate naming no age or household; date-only agreement is not a match (prevention rule).]",
+          "source_title": "1790 United States Federal Census (Delaware & Eastern Shore Schedules)",
+          "source_url": "https://www.census.gov/history/www/through_the_decades/overview/1790_overview.html",
+          "source_dataset": "Delaware Federal Census"
+        },
+        {
+          "citation_id": 31529,
+          "fact_id": 15997,
+          "source_id": 1280,
+          "evidence_text": "1840 United States Federal Census Schedule; Population schedule enumeration record for John H Davis in Delmarva. [Marked SUPERSEDED by john-h-davis-split package 2026-11-27: 1840 census citation text sits on the 1900 census fact. Generic boilerplate naming no age or household; date-only agreement is not a match (prevention rule).]",
+          "source_title": "1840 United States Federal Census (Delaware & Eastern Shore Schedules)",
+          "source_url": "https://www.census.gov/history/www/through_the_decades/overview/1840_overview.html",
+          "source_dataset": "Delaware Federal Census"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "1900 US Federal Census, Indian River Hundred: John H Davis, Son, age 11, in the household of Maurice Davis (Head). The head is Morris Davis (12006), husband of Hester A. Morris Davis; the household's other children (Bertha M, Stephen F, Charley M) are profiled as their children.",
+      "certainty": "census_confirmed",
+      "rel_id": 12006,
+      "rel_name": "Morris Davis"
+    },
+    {
+      "relationship_type": "child_of",
+      "role": "parent",
+      "evidence_text": "1900 US Federal Census, Indian River Hundred: John H Davis, Son, age 11; Hester A Davis (Wife, age 22) is the wife of the head, Maurice (Morris) Davis, and mother of the household's profiled children.",
+      "certainty": "census_confirmed",
+      "rel_id": 11247,
+      "rel_name": "Hester A. Morris Davis"
+    }
+  ],
+  "photos": [
+    {
+      "person_id": 12022,
+      "photo_id": 3462,
+      "category": "documents",
+      "title_or_caption": "1900 Federal Census - John H Davis Household",
+      "subject_names": "1900 Federal Census - John H Davis Household",
+      "married_surname": "Davis",
+      "approximate_year": "1900",
+      "local_image_path": "assets/archive_media/documents/1900_John_H_Davis_33808677.json",
+      "source_url": "https://www.ancestry.com/discoveryui-content/view/33808677:7602",
+      "dataset_source": "Ancestry.com Delaware Census Records",
+      "document_type": "census_record",
+      "asset_type": "document",
+      "subtype": "historical_document",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "documents"
+    },
+    {
+      "person_id": 12022,
+      "photo_id": 3482,
+      "category": "documents",
+      "title_or_caption": "WWI Federal Census - John H Davis Household",
+      "subject_names": "WWI Federal Census - John H Davis Household",
+      "married_surname": "Davis",
+      "approximate_year": "WWI",
+      "local_image_path": "assets/archive_media/documents/005270435_07098.jpg",
+      "source_url": "https://www.ancestry.com/discoveryui-content/view/25381305:6482",
+      "dataset_source": "Ancestry.com Delaware Census Records",
+      "document_type": "draft_registration_card",
+      "asset_type": "document",
+      "subtype": "historical_document",
+      "contains_face": 0,
+      "face_context": "none",
+      "routing_target": "documents"
+    }
+  ],
+  "obituaries": [],
+  "audit_flags": [],
+  "ancestry": {
+    "id": 12022,
+    "name": "John H Davis (Son of Maurice)",
+    "children": [
+      {
+        "id": 12006,
+        "name": "Morris Davis",
+        "children": []
+      },
+      {
+        "id": 11247,
+        "name": "Hester A. Morris Davis",
+        "children": [
+          {
+            "id": 8571,
+            "name": "Francis E. Frank Morris",
+            "children": [
+              {
+                "id": 8617,
+                "name": "Negro Morris Thomas",
+                "children": []
+              },
+              {
+                "id": 8910,
+                "name": "Leticia Morris",
+                "children": [
+                  {
+                    "id": 8616,
+                    "name": "Stephen Wright",
+                    "children": [
+                      {
+                        "id": 8687,
+                        "name": "Benjamin Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8687,
+                        "name": "Benjamin Wright",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 8684,
+                    "name": "Priscilla Miller",
+                    "children": [
+                      {
+                        "id": 9188,
+                        "name": "Ebenezer Miller",
+                        "children": []
+                      },
+                      {
+                        "id": 9188,
+                        "name": "Ebenezer Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 8571,
+            "name": "Francis E. Frank Morris",
+            "children": [
+              {
+                "id": 8617,
+                "name": "Negro Morris Thomas",
+                "children": []
+              },
+              {
+                "id": 8910,
+                "name": "Leticia Morris",
+                "children": [
+                  {
+                    "id": 8616,
+                    "name": "Stephen Wright",
+                    "children": [
+                      {
+                        "id": 8687,
+                        "name": "Benjamin Wright",
+                        "children": []
+                      },
+                      {
+                        "id": 8687,
+                        "name": "Benjamin Wright",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 8684,
+                    "name": "Priscilla Miller",
+                    "children": [
+                      {
+                        "id": 9188,
+                        "name": "Ebenezer Miller",
+                        "children": []
+                      },
+                      {
+                        "id": 9188,
+                        "name": "Ebenezer Miller",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

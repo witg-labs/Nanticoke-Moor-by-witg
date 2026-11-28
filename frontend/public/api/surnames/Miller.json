@@ -1,6 +1,6 @@
 {
   "surname": "Miller",
-  "individual_count": 47,
+  "individual_count": 48,
   "photo_count": 63,
   "category_counts": {
     "documents": 13,
@@ -1105,7 +1105,19 @@
       "married_last_name": "Miller",
       "birth_info": "1856",
       "death_info": "4 Jun 1927 (aged 70\u201371)",
-      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/107225416/john-miller",
+      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/107225416/john-miller\n\n[Correction, john-e-miller-split package 2026-11-27: per Jequan Davis's conflation ruling of 2026-11-22, the GEDCOM-only life b. Mar 1873 Delaware, d. 24 Feb 1950 Lewes was split off to its own unproven profile, 'John E. Miller'. Four same-name items that fit neither man (two probate document mentions, a 1770 tax-list mention, and an 1850 racial classification, age 4, implying b. abt 1846) were detached to the package's unassigned-evidence register with citations intact. The two GEDCOM-linked children on this profile, William Alonzo Miller Sr (8858) and Hattie Miller (8860), stay here: no evidence on the profile ties them to one man over the other.]",
+      "photo_count": 0
+    },
+    {
+      "person_id": 12020,
+      "name": "John E. Miller",
+      "first_name": "John",
+      "middle_name": "E",
+      "maiden_name": null,
+      "married_last_name": null,
+      "birth_info": "Mar 1873 Delaware",
+      "death_info": "24 Feb 1950 Lewes",
+      "notes": "[Created by split package 2026-11-27 from profile 8857.] John E. Miller of Lewes, b. Mar 1873 Delaware, d. 24 Feb 1950 Lewes, split off profile 8857 (John E Miller, 1856-1927) under Jequan Davis's conflation ruling of 2026-11-22. This profile rests on the Davis Family Tree GEDCOM alone (facts 9082, 9083, 9084, each cited only to the GEDCOM). No census, vital record, draft card, or burial has been found for this man yet; research is queued as item 2 of the split research register. Flagged unproven.",
       "photo_count": 0
     },
     {
