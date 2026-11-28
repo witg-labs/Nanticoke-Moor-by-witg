@@ -405,9 +405,9 @@ export default function AppLayout() {
           isOpen={isCitationOpen}
           onClose={() => setIsCitationOpen(false)}
           item={{
-            name: "Lynn C. Jackson & Mitsawokett Family Preservation Archive",
+            name: "Written In The Genome Family Archive",
             person_id: "DELMARVA-ARCHIVE-MAIN",
-            source_page: "Delmarva Afro-Indigenous Digital Repository"
+            source_page: "Archive home and index pages"
           }}
           type="person"
         />
