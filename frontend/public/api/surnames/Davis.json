@@ -1,6 +1,6 @@
 {
   "surname": "Davis",
-  "individual_count": 152,
+  "individual_count": 154,
   "photo_count": 365,
   "category_counts": {
     "documents": 266,
@@ -111,7 +111,7 @@
       "approximate_year": "WWI",
       "document_type": "draft_registration_card",
       "transcription": "## WWI United States Federal Census - John H Davis Household\n**Jurisdiction**: Sussex County, Delaware\n**Archival Citation**: Registration State: Pennsylvania; Registration County: Philadelphia\n\n### Individual Classification\n- **Primary Name**: John H Davis\n- **Age in WWI**: N/A\n- **Birthplace**: Delaware\n- **Racial Designation**: `African (Black)`\n- **Marital Status**: Married\n- **Relation to Head of House**: N/A\n\n---\n*Source: Ancestry.com Delaware Federal Census Archive & NARA Microfilm Scans.*",
-      "person_id": 8890,
+      "person_id": 12022,
       "person_name": "John H Davis"
     },
     {
@@ -2906,7 +2906,7 @@
       "approximate_year": "1900",
       "document_type": "census_record",
       "transcription": "## 1900 United States Federal Census - John H Davis Household\n**Jurisdiction**: Indian River, Sussex, Delaware\n**Archival Citation**: Year: 1900; Census Place: Indian River, Sussex, Delaware; Roll: 157; Page: 20; Enumeration District: 0095\n\n### Individual Classification\n- **Primary Name**: John H Davis\n- **Age in 1900**: 11\n- **Birthplace**: Delaware, USA\n- **Racial Designation**: `Black`\n- **Marital Status**: Single\n- **Relation to Head of House**: Son\n- **Father's Name**: Maurice Davis\n- **Mother's Name**: Hester A Davis\n- **Occupation**: Farm Laborer\n\n### Household Members\n| Name | Age | Relationship |\n| :--- | :--- | :--- |\n| Household Members (Name) | Age | Relationship |\n| Maurice Davis | 43 | Head |\n| Hester A Davis | 22 | Wife |\n| Bertha M Davis | 7 | Daughter |\n| Stephen F Davis | 5 | Son |\n| Charley M Davis | 2 | Son |\n| John H Davis | 11 | Son |\n| Leroy Davis | 4 | Nephew |\n\n---\n*Source: Ancestry.com Delaware Federal Census Archive & NARA Microfilm Scans.*",
-      "person_id": 8890,
+      "person_id": 12022,
       "person_name": "John H Davis"
     },
     {
@@ -5634,16 +5634,40 @@
       "photo_count": 0
     },
     {
-      "person_id": 8890,
+      "person_id": 12021,
       "name": "John H Davis",
+      "first_name": "John",
+      "middle_name": "H",
+      "maiden_name": null,
+      "married_last_name": null,
+      "birth_info": "1738",
+      "death_info": "1840 (aged 101-102)",
+      "notes": "[Created by split package 2026-11-27 from profile 8890.] John H Davis, b. 1738, d. 1840 (aged 101-102), buried at Holy Trinity Churchyard (Find a Grave #137944370). Split off profile 8890 under Jequan Davis's conflation ruling of 2026-11-22 (three-way split). His birth and death rest on the Davis Family Tree GEDCOM; the burial is the one non-GEDCOM support. The vital-record citations that quote his 1738 birth and 1840 death were reattached to his facts from the 1819 man's facts, where they had been cross-attached. Research is queued as item 5 of the split research register. Flagged unproven.\n\nVerified via FindAGrave: https://www.findagrave.com/memorial/137944370/john-davis (Buried at Holy Trinity Churchyard)",
+      "photo_count": 0
+    },
+    {
+      "person_id": 12022,
+      "name": "John H Davis (Son of Maurice)",
+      "first_name": "John",
+      "middle_name": "H",
+      "maiden_name": null,
+      "married_last_name": null,
+      "birth_info": "abt 1889",
+      "death_info": "unknown",
+      "notes": "[Created by split package 2026-11-27 from profile 8890.] John H Davis, b. abt 1889, son of Morris Davis (12006) and Hester A. Morris Davis (11247). Split off profile 8890 under Jequan Davis's conflation ruling of 2026-11-22 (three-way split). The 1900 census (Indian River Hundred) enumerates him as Son, age 11, in the household of Maurice Davis (Head, age 43) and Hester A Davis (Wife, age 22), with siblings Bertha M, Stephen F, and Charley M, who are profiled as children of Morris Davis and Hester A. Morris Davis; the census head's name 'Maurice' is the same man as Morris Davis (12006), Hester's husband. The two census-document photos formerly on 8890 (the 1900 household and a WWI-era household) belong to this man and moved with him. Flagged unproven beyond the census fact.",
+      "photo_count": 2
+    },
+    {
+      "person_id": 8890,
+      "name": "John H. Davis",
       "first_name": "John",
       "middle_name": "H",
       "maiden_name": "",
       "married_last_name": "Davis",
-      "birth_info": "1738",
-      "death_info": "1840 (aged 101\u2013102)",
-      "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/137944370/john-davis (Buried at Holy Trinity Churchyard)",
-      "photo_count": 2
+      "birth_info": "3 Jan 1819",
+      "death_info": "19 Sep 1886 (aged 67)",
+      "notes": "[Correction, john-h-davis-split package 2026-11-27: per Jequan Davis's conflation ruling of 2026-11-22, this profile was split three ways. This profile keeps John H. Davis (b. 3 Jan 1819, d. 19 Sep 1886). The 1738-1840 man (Holy Trinity burial, Find a Grave #137944370) became his own profile, 'John H Davis', taking facts 8381, 8382, 8383, 24990 and the two vital-record citations that quote his dates. The abt 1889 son of Morris Davis became 'John H Davis (Son of Maurice)', taking the 1900 census fact and the two census-document photos. The undated generic marriage fact 24991, assignable to none of the three men with confidence, was detached to the package's unassigned-evidence register. This profile was renamed from 'John H Davis' to 'John H. Davis', the name form its own kept Name fact (8263) records, so the 1738 man's profile could take the un-punctuated form his Name fact (8381) records. The child_of link to Joseph Henry Davis (8613) stays here; it carries no dates and was not assigned to either new profile.]",
+      "photo_count": 0
     },
     {
       "person_id": 8546,

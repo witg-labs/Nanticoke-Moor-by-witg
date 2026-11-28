@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-27",
+  "detached_facts": [
+    {
+      "citations": [
+        {
+          "citation_id": 31530,
+          "evidence_text": "Delaware County Marriage Records, Bonds and Licenses; Marriage record on file for John H Davis.",
+          "fact_id": 24991,
+          "source_id": 1270
+        }
+      ],
+      "date_string": null,
+      "fact_id": 24991,
+      "fact_type": "Marriage",
+      "person_id": 8890,
+      "place_id": null,
+      "place_string": "Delaware",
+      "value_string": "Marriage record documented for John H Davis"
+    }
+  ],
+  "detached_from_person_id": 8890,
+  "package": "john-h-davis-split"
+}
