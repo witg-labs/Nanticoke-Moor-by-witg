@@ -10,7 +10,7 @@
     "source_page": "Davis Family Tree.ged",
     "birth_info": "1856",
     "death_info": "4 Jun 1927 (aged 70\u201371)",
-    "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/107225416/john-miller",
+    "notes": " | Verified via FindAGrave: https://www.findagrave.com/memorial/107225416/john-miller\n\n[Correction, john-e-miller-split package 2026-11-27: per Jequan Davis's conflation ruling of 2026-11-22, the GEDCOM-only life b. Mar 1873 Delaware, d. 24 Feb 1950 Lewes was split off to its own unproven profile, 'John E. Miller'. Four same-name items that fit neither man (two probate document mentions, a 1770 tax-list mention, and an 1850 racial classification, age 4, implying b. abt 1846) were detached to the package's unassigned-evidence register with citations intact. The two GEDCOM-linked children on this profile, William Alonzo Miller Sr (8858) and Hattie Miller (8860), stay here: no evidence on the profile ties them to one man over the other.]",
     "dataset_source": "davis_family_gedcom",
     "birth_date": "1856",
     "birth_place": null,
@@ -94,63 +94,6 @@
       ]
     },
     {
-      "fact_id": 9082,
-      "person_id": 8857,
-      "fact_type": "Name",
-      "date_string": null,
-      "place_string": null,
-      "value_string": "John E. Miller",
-      "citations": [
-        {
-          "citation_id": 9076,
-          "fact_id": 9082,
-          "source_id": 622,
-          "evidence_text": null,
-          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
-          "source_url": "Davis Family Tree.ged",
-          "source_dataset": "davis_family_gedcom"
-        }
-      ]
-    },
-    {
-      "fact_id": 9083,
-      "person_id": 8857,
-      "fact_type": "Birth",
-      "date_string": "Mar 1873 Delaware",
-      "place_string": null,
-      "value_string": null,
-      "citations": [
-        {
-          "citation_id": 9077,
-          "fact_id": 9083,
-          "source_id": 622,
-          "evidence_text": null,
-          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
-          "source_url": "Davis Family Tree.ged",
-          "source_dataset": "davis_family_gedcom"
-        }
-      ]
-    },
-    {
-      "fact_id": 9084,
-      "person_id": 8857,
-      "fact_type": "Death",
-      "date_string": "24 Feb 1950 Lewes",
-      "place_string": null,
-      "value_string": null,
-      "citations": [
-        {
-          "citation_id": 9078,
-          "fact_id": 9084,
-          "source_id": 622,
-          "evidence_text": null,
-          "source_title": "Davis Family Tree (GEDCOM), compiled by Jequan Davis, 2026",
-          "source_url": "Davis Family Tree.ged",
-          "source_dataset": "davis_family_gedcom"
-        }
-      ]
-    },
-    {
       "fact_id": 12375,
       "person_id": 8857,
       "fact_type": "Marriage",
@@ -175,82 +118,6 @@
           "source_title": "Delaware Public Archives: Delaware Vital Statistics - Certificates and Registers of Birth (1861\u20131930)",
           "source_url": "https://archives.delaware.gov/delaware-vital-records/",
           "source_dataset": "delaware_vital_records"
-        }
-      ]
-    },
-    {
-      "fact_id": 14635,
-      "person_id": 8857,
-      "fact_type": "Document Mention",
-      "date_string": null,
-      "place_string": "Delmarva Peninsula",
-      "value_string": "Documented in primary record: Probate-Concilor",
-      "citations": [
-        {
-          "citation_id": 13437,
-          "fact_id": 14635,
-          "source_id": 781,
-          "evidence_text": "...Hews 31 1 Saddle & Bridle Luke Coverdale 62 2 Chairs Elizabeth Conselar 12 1/2 3 Ditto John McClary 15 1 Chest John Miller 42 1 Desk Elizabeth Conselar 1 01 1 pine Table George Durham 31 1 Pot with fat in it Luke Coverdale 77 1 Bottle John...",
-          "source_title": "Preserved Document: Probate-Concilor",
-          "source_url": "probt-c4.htm",
-          "source_dataset": "mitsawokett_primary"
-        }
-      ]
-    },
-    {
-      "fact_id": 14673,
-      "person_id": 8857,
-      "fact_type": "Document Mention",
-      "date_string": null,
-      "place_string": "Delmarva Peninsula",
-      "value_string": "Documented in primary record: Probate-Concilor",
-      "citations": [
-        {
-          "citation_id": 13475,
-          "fact_id": 14673,
-          "source_id": 786,
-          "evidence_text": "...Keith 1 Lot Jugs & Box 8 Benjamin Durham 2 half Barrels 7 John Durham 2 Barrels & contents 50 Ditto 2 Hogs in pen 6 00 John Miller potatoes in patch 1 75 John Durham 1 Shock of oats 1 00 Ditto Truck Patch 1 00 Ditto Boat & ware 2 05 Enoch Spruance 1...",
-          "source_title": "Preserved Document: Probate-Concilor",
-          "source_url": "probt-c9.htm",
-          "source_dataset": "mitsawokett_primary"
-        }
-      ]
-    },
-    {
-      "fact_id": 15175,
-      "person_id": 8857,
-      "fact_type": "Document Mention",
-      "date_string": null,
-      "place_string": "Delmarva Peninsula",
-      "value_string": "Documented in primary record: taxlist1.htm",
-      "citations": [
-        {
-          "citation_id": 13977,
-          "fact_id": 15175,
-          "source_id": 835,
-          "evidence_text": "...6 Ephraim Sisco 6 William Songo 6 John Sisco 10 Charles Sisco 12 William Sisco 12 Dover Hundred 0069 Isaac Durham John Miller 12 John Miller Negro 12 Nehemiah Hanser 10 Jno? Miller Negro 12 William Saunders 12 Duck Creek 1770 073 William...",
-          "source_title": "Preserved Document: taxlist1.htm",
-          "source_url": "taxlist1.htm",
-          "source_dataset": "mitsawokett_primary"
-        }
-      ]
-    },
-    {
-      "fact_id": 15675,
-      "person_id": 8857,
-      "fact_type": "Racial Classification",
-      "date_string": "1850",
-      "place_string": "Kent County, Delaware",
-      "value_string": "Enumerated as 'M' (Mulatto), age 4",
-      "citations": [
-        {
-          "citation_id": 14477,
-          "fact_id": 15675,
-          "source_id": 15,
-          "evidence_text": "1850 Census: Miller, John \u2014 M | John | 4 | M | M | TRUSTY",
-          "source_title": "Record: census18.htm",
-          "source_url": "census18.htm",
-          "source_dataset": "lynncjackson"
         }
       ]
     },
@@ -294,7 +161,7 @@
           "citation_id": 31469,
           "fact_id": 24964,
           "source_id": 859,
-          "evidence_text": "1920 United States Federal Census Schedule; Population schedule enumeration record for John E Miller in Delmarva.",
+          "evidence_text": "1920 United States Federal Census Schedule; Population schedule enumeration record for John E Miller in Delmarva. [Marked SUPERSEDED by john-e-miller-split package 2026-11-27: 1920 census citation text sits on the 1860 census fact 24964. A 1920 enumeration is possible for either man on the former profile and no 1920 census fact exists on either profile (439 and 8345 packages' precedent).]",
           "source_title": "1920 United States Federal Census",
           "source_url": "4295769-00352.jpg",
           "source_dataset": "Delaware Federal Census"
